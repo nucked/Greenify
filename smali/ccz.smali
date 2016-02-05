@@ -577,6 +577,8 @@
     .line 254
     :cond_0
     :goto_0
+    const/4 v0, 0x1
+
     return v0
 
     .line 226

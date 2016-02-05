@@ -4068,74 +4068,13 @@
     .line 447
     iget-object v0, p0, Lcom/oasisfeng/greenify/pro/ExperimentalFeatureSetting;->c:Ljava/lang/Boolean;
 
-    .line 448
-    if-eqz v0, :cond_0
-
     invoke-virtual {v0}, Ljava/lang/Boolean;->booleanValue()Z
 
     move-result v0
 
-    if-eqz v0, :cond_0
-
     const/4 v0, 0x1
 
-    .line 457
-    :goto_0
     return v0
-
-    .line 449
-    :cond_0
-    const v0, 0x7f0800c5
-
-    const v1, 0x7f08007d
-
-    invoke-static {p0, v0, v1}, Lbwv;->a(Landroid/content/Context;II)Lbww;
-
-    move-result-object v0
-
-    .line 450
-    invoke-virtual {v0}, Lbww;->d()Lbww;
-
-    move-result-object v0
-
-    invoke-static {p0}, Lcfb;->a(Lcom/oasisfeng/greenify/pro/ExperimentalFeatureSetting;)Ljava/lang/Runnable;
-
-    move-result-object v1
-
-    invoke-virtual {v0, v1}, Lbww;->a(Ljava/lang/Runnable;)Lbww;
-
-    move-result-object v0
-
-    .line 451
-    invoke-static {p0}, Lbxd;->a(Landroid/content/Context;)Lbxd;
-
-    move-result-object v1
-
-    const-string v2, "com.android.vending"
-
-    invoke-virtual {v1, v2}, Lbxd;->b(Ljava/lang/String;)Z
-
-    move-result v1
-
-    if-eqz v1, :cond_1
-
-    .line 452
-    const v1, 0x7f080124
-
-    invoke-static {p0}, Lcfc;->a(Lcom/oasisfeng/greenify/pro/ExperimentalFeatureSetting;)Landroid/content/DialogInterface$OnClickListener;
-
-    move-result-object v2
-
-    invoke-virtual {v0, v1, v2}, Lbww;->c(ILandroid/content/DialogInterface$OnClickListener;)Lwq;
-
-    .line 456
-    :cond_1
-    invoke-virtual {v0}, Lbww;->c()Lwp;
-
-    .line 457
-    const/4 v0, 0x0
-
-    goto :goto_0
 .end method
 
 .method protected b()Z

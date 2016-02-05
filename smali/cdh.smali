@@ -50,7 +50,7 @@
 
     .line 282
     :goto_0
-    iget v0, p1, Landroid/os/Message;->what:I
+    const/4 v0, 0x1
 
     packed-switch v0, :pswitch_data_0
 
@@ -179,8 +179,6 @@
     goto :goto_0
 
     .line 282
-    nop
-
     :pswitch_data_0
     .packed-switch -0x1
         :pswitch_2
