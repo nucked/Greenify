@@ -1,0 +1,298 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_home_description">التنقل إلى الشاشة الرئيسية</string>
+    <string name="abc_action_bar_home_description_format">%1$s، %2$s</string>
+    <string name="abc_action_bar_home_subtitle_description_format">%1$s، %2$s، %3$s</string>
+    <string name="abc_action_bar_up_description">التنقل إلى أعلى</string>
+    <string name="abc_action_menu_overflow_description">خيارات إضافية</string>
+    <string name="abc_action_mode_done">تم</string>
+    <string name="abc_activity_chooser_view_see_all">عرض الكل</string>
+    <string name="abc_activitychooserview_choose_application">اختيار تطبيق</string>
+    <string name="abc_capital_off">إيقاف</string>
+    <string name="abc_capital_on">تشغيل</string>
+    <string name="abc_search_hint">بحث…</string>
+    <string name="abc_searchview_description_clear">محو طلب البحث</string>
+    <string name="abc_searchview_description_query">طلب البحث</string>
+    <string name="abc_searchview_description_search">بحث</string>
+    <string name="abc_searchview_description_submit">إرسال طلب البحث</string>
+    <string name="abc_searchview_description_voice">البحث الصوتي</string>
+    <string name="abc_shareactionprovider_share_with">مشاركة مع</string>
+    <string name="abc_shareactionprovider_share_with_application">‏مشاركة مع %s</string>
+    <string name="abc_toolbar_collapse_description">تصغير</string>
+    <string name="common_google_play_services_api_unavailable_text">‏يتطلب %1$s خدمة أو أكثر من خدمات Google Play والتي لا تتوفر حاليًا. يُرجى الاتصال بمطوّر البرامج للحصول على المساعدة.</string>
+    <string name="common_google_play_services_enable_button">‏تمكين خدمات Google Play</string>
+    <string name="common_google_play_services_enable_text">‏لن يعمل %1$s ما لم يتم تمكين خدمات Google Play.</string>
+    <string name="common_google_play_services_enable_title">‏تمكين خدمات Google Play</string>
+    <string name="common_google_play_services_install_button">‏الحصول على خدمات Google Play</string>
+    <string name="common_google_play_services_install_text_phone">‏لن يتم تشغيل %1$s بدون خدمات Google Play، والتي لا تتوفر على هاتفك.</string>
+    <string name="common_google_play_services_install_text_tablet">‏لن يتم تشغيل %1$s بدون خدمات Google Play، والتي لا تتوفر على جهازك اللوحي.</string>
+    <string name="common_google_play_services_install_title">‏الحصول على خدمات Google Play</string>
+    <string name="common_google_play_services_invalid_account_text">الحساب الذي تم تحديده غير موجود على الجهاز. الرجاء اختيار حساب آخر.</string>
+    <string name="common_google_play_services_invalid_account_title">حساب غير صالح</string>
+    <string name="common_google_play_services_network_error_text">‏يتطلب الاتصال بخدمات Google Play وجود اتصال بيانات.</string>
+    <string name="common_google_play_services_network_error_title">حدث خطأ في الشبكة</string>
+    <string name="common_google_play_services_notification_ticker">‏حدث خطأ في خدمات Google Play</string>
+    <string name="common_google_play_services_restricted_profile_text">لا تتوفر إمكانية الوصول إلى الحسابات من ملف شخصي مقيَّد.</string>
+    <string name="common_google_play_services_restricted_profile_title">ملف شخصي مقيَّد</string>
+    <string name="common_google_play_services_sign_in_failed_text">حدث خطأ أثناء تسجيل الدخول إلى الحساب المحدد. الرجاء اختيار حساب مختلف.</string>
+    <string name="common_google_play_services_sign_in_failed_title">أخفق تسجيل الدخول</string>
+    <string name="common_google_play_services_unknown_issue">‏تواجه %1$s مشكلة في خدمات Google Play. إذا ظلت المشكلة قائمة، فيُرجى الاتصال بمطوِّر البرامج للحصول على مساعدة.</string>
+    <string name="common_google_play_services_unsupported_text">‏يعتمد %1$s على خدمات Google Play والتي لا تتوافق مع جهازك. يمكنك الاتصال بجهة التصنيع للحصول على مساعدة.</string>
+    <string name="common_google_play_services_unsupported_title">‏خدمات Google Play</string>
+    <string name="common_google_play_services_update_button">تحديث</string>
+    <string name="common_google_play_services_update_text">‏لن يتم تشغيل %1$s ما لم يتم تحديث خدمات Google Play.</string>
+    <string name="common_google_play_services_update_title">‏تحديث خدمات Google Play</string>
+    <string name="common_google_play_services_updating_text">‏لن يتم تشغيل %1$s بدون خدمات Google Play، والتي يتم تحديثها حاليًا.</string>
+    <string name="common_google_play_services_updating_title">‏يتم الآن تحديث خدمات Google Play.</string>
+    <string name="common_google_play_services_wear_update_text">‏يجب توفر إصدار جديد من خدمات Google Play. سيتم تحديثها تلقائيًا قريبًا.</string>
+    <string name="common_open_on_phone">فتح على الهاتف</string>
+    <string name="common_signin_button_text">تسجل الدخول</string>
+    <string name="common_signin_button_text_long">‏تسجيل الدخول عبر Google</string>
+    <string name="status_bar_notification_info_overflow">+999</string>
+    <string name="about_donation_summary">أحصل على الحزمة المدفوعة للميزات الإضافية.</string>
+    <string name="about_donation_summary_donated">يمكن تفعيل خصائص تجريبية إضافية من القائمة الرئيسية</string>
+    <string name="about_donation_title">تبرع</string>
+    <string name="about_donation_title_donated">شكرًا للتبرّع</string>
+    <string name="about_licenses_title">التراخيص</string>
+    <string name="about_raise_your_voice_program_detail">"البرنامج سيرفع صوت مجتمع اندرويد ليسمعه مطورين البرامج التى تجمدها,حتى يتم تفضيل تجربة المستخدم لجهازة فى تطوير البرامج الجديدة
+
+حتى ترفع صوتك,البرنامج سيقوم بجمع بيانات تلك البرامج من غير معلوماتك الشخصية, و يمكنك ايقاف الخدمة فى اى وقت"</string>
+    <string name="about_raise_your_voice_program_summary">!صوتك يستطيع أن يصنع فرقًا</string>
+    <string name="about_raise_your_voice_program_title">خدمة اسمعنا صوتك</string>
+    <string name="about_translation_credit">Hossam Abubakr</string>
+    <string name="about_translation_title">الترجمة</string>
+    <string name="about_uninstall">أخرج من هالجهز.</string>
+    <string name="about_version_summary">تقييم البرنامج.</string>
+    <string name="about_version_title">النسخة الحالية</string>
+    <string name="accessibility_service_description">"خدمة الوصول هي مطلوبة لبعض من مميزات خاص داخل اخضرار.
+
+ممكن ستحذرلك عن إمكانات لخطر خصوصي معيني, ولكن هذا تحذ ير طبيعي بمعلومات عن أ ي خدمة وصول. نعد نحن لا جمع معلوماتك شخصية داخل هالخدمة الوصول ابداً.
+
+بعض من الأجهزة \"\" عندهم مشكلة مع صوت الحديث بشكل عشوائي. لو عم بتخبر هالقضية أخول الحل في \"إعدادات\" هنا."</string>
+    <string name="analysis_detail_alarm_with_wakeup">%1$d تشغيل (%2$d إيقاظ)</string>
+    <string name="app_analyzer_name">محلل البرامج</string>
+    <string name="app_analyzer_subtitle">تم اختيار %1$d برامج</string>
+    <string name="app_shortcut_hibernate">جمد الآن</string>
+    <string name="app_shortcut_hibernate_lock">تجميد+قفل الشاشة</string>
+    <string name="app_shortcut_nothing">ولأ شيء</string>
+    <string name="app_shortcut_wakeup">إيقاظ</string>
+    <string name="app_state_always_ignored">تجاهل الحالة دائما للتجميد</string>
+    <string name="app_state_hibernation_failed">%1$s فشل في السبات</string>
+    <string name="app_state_provider_in_use">المزود مستخدم من قبل %1$s</string>
+    <string name="app_state_service_in_use">الخدمة مستخدمة من قبل %1$s</string>
+    <string name="app_state_unsaveable">حالة البرنامج لا يمكن استرجاعة</string>
+    <string name="app_state_woken_by_activity">"%1$s
+واجهة المستخدم فتحت قبل"</string>
+    <string name="app_state_woken_by_app">%1$s مضت منذ إيقاظه من قبل %2$s</string>
+    <string name="app_state_woken_by_authenticator">%1$s منذ اخر مصادقة</string>
+    <string name="app_state_woken_by_backup">%1$s مضت منذ إتمام النسخ الإحتياطي</string>
+    <string name="app_state_woken_by_broadcast">%1$s مضت منذ إشعارها بوضوح</string>
+    <string name="app_state_woken_by_content_provider">%1$s مضت منذ التزويد بالمحتوى</string>
+    <string name="app_state_woken_by_push_msg">%1$s مضت منذ إستقبال الرسائل السحابية</string>
+    <string name="app_state_woken_by_search">%1$s مضت منذ أن تم البحث عن المحتوى</string>
+    <string name="app_state_woken_by_service">%1$s مضت منذ أن بدأت الخدمة</string>
+    <string name="app_state_woken_by_sync">%1$s منذ اخر مزامنة</string>
+    <string name="app_state_woken_by_widget">%1$s منذ تحديث الويدجت</string>
+    <string name="app_state_woken_directly">%1$s مضت منذ إيقاظه مباشرة من قبل %2$s</string>
+    <string name="app_title_service_disabled">اخضرار: لا يوجد سبات تلقائي</string>
+    <string name="app_waker_google">خدمات جوجل</string>
+    <string name="app_waker_system">نظام أندرويد</string>
+    <string name="app_waker_unknown">مجهول المصدر</string>
+    <string name="device_admin_for_automation">جرينفى الاوتوماتيكي</string>
+    <string name="device_admin_for_automation_description">السماح لجرينفي إيقاف تشغيل الشاشة بعد التجميد التلقائي</string>
+    <string name="device_admin_warning_when_disabling">في حالة تعطيل، لن يتمكن جرينفي من تمكينه في وضع التجميدعند إيقاف تشغيل الشاشة.</string>
+    <string name="dialog_app_picker_guide_button">اذهب إلى اللانچر</string>
+    <string name="dialog_app_picker_guide_message">سيتم أخذك لللانچر الآن, قم بفتح البرنامج ثم قم باختيار البرنامج من مركز الإشعارات</string>
+    <string name="dialog_app_picker_guide_title">كيفية اختيار البرامج</string>
+    <string name="dialog_button_cancel">إلغاء</string>
+    <string name="dialog_button_continue">استمر</string>
+    <string name="dialog_button_insist">قم بالإصرار</string>
+    <string name="dialog_button_later_by_oneself">سأفعلها لاحقًا</string>
+    <string name="dialog_button_learn_more">تعلم المزيد</string>
+    <string name="dialog_button_opt_in">تقيد</string>
+    <string name="dialog_button_opt_out">تحرر</string>
+    <string name="dialog_confirmation_unsafe_to_hibernate">التطبيق الذي في هذه الحالة يكون عادةً غير آمن للتجميد. التجميد الإجباري قد يسبب إعاقة وظيفة التطبيق أو حتى ضياع بياناته.</string>
+    <string name="dialog_cutoff_message">"منع مصدر الإيقاظ قد يوقف وظائف التطبيق أو التطبيقات التابعة.
+
+إذا حدث أمرٌ سيء, الرجاء إعادة ضبط المنع.
+
+تحت التأثير: [%s]"</string>
+    <string name="dialog_cutoff_title">تحذير</string>
+    <string name="dialog_degreenified_message">كل البرامج التى يتم فك تجميدها. ستظل مجمدة , و كل خدامتها التى تعمل فى الخلفية ستظل معطلة,حتى تقوم بفتح البرنامج مجددا</string>
+    <string name="dialog_degreenified_title">تنبيه</string>
+    <string name="dialog_donation_corrupted_message">الحزمة المدفوعة معطوبة. إعادة تثبيتها من Google Play؟</string>
+    <string name="dialog_greenify_confirmation_message">هل ترغب حقاً بتجميد %1$s</string>
+    <string name="dialog_greenifying_system_apps">تجميد تطبيقات النظام تعتبر حاليًا ميزة تجريبية متاحة فقط مع الحزمة المدفوعة.</string>
+    <string name="dialog_incompatible_rom_title">ROM غير متوافق</string>
+    <string name="dialog_ingreenfiable_message_for_system_app">عذرا, ليس من الامن إطفاء برامج النظام بوجه عام</string>
+    <string name="dialog_ingreenfiable_title">%1$s لا يمكن تجميدة</string>
+    <string name="dialog_labs_incompatible_rom_message">فشل تشغيل هذه الخاصية. قد تكون غير متوافقة مع نظامك</string>
+    <string name="dialog_labs_operation_failure_message">فشلت العملية</string>
+    <string name="dialog_labs_state_set_failure_message">فشل تعيين حالة الخاصية</string>
+    <string name="dialog_message_donation_package_exclusive">"تتوفر هذه الميزة حاليا فقط في الحزمة المدفوعة
+
+اشترى الحزمة المدفوعة الان لكى تفتح جميع المميزات التجريبية"</string>
+    <string name="dialog_option_always_ignore_state">دائمًا تخطى حالة تشغيله</string>
+    <string name="dialog_root_operation_failure_message">فشل تنفيذ هذه العملية. الرجاء التأكد أن صلاحية الروت تم منحها.</string>
+    <string name="dialog_thank4donation_message">"شكرًا لتبرعك لدعم التطوير.
+
+تستطيع الآن تنشيط الميزات التجريبية الإضافية من القائمة الرئيسية."</string>
+    <string name="dialog_thank4donation_title">شكرًا</string>
+    <string name="dialog_title_confirmation">التأكيد</string>
+    <string name="dialog_title_error">خطأ</string>
+    <string name="dialog_verification_error_message">لم نتمكن من التحقق من التبرع، الرجاء التأكد من جودة الشبكة و حاول مرة أخرى</string>
+    <string name="dialog_verification_fatal_error">لا يمكن التحقق من التبرع، الرجاء الإبلاغ عن هذا الخطأ.</string>
+    <string name="dialog_version_mismatch_message">يرجى تحديث التطبيق إلى آخر نسخة.</string>
+    <string name="dialog_version_mismatch_title">عدم تطابق في الإصدار</string>
+    <string name="dialog_warning_for_greenifying_launcher">أنت تحاول تجميد اللانچر الافتراضي, من غير المفضل تجميد البرامج التى تستخدم بكثرة</string>
+    <string name="dialog_warning_title">تحذير</string>
+    <string name="dialog_xposed_module_inactive_message">"لم يتم تفعييل وحدة إكسبوزد من البرنامج، يجب عليك أولا أن تقوم بتفعيل إكسبوزد من المثبت لتعمل الخاصية بشكل صحيح
+(Xposed)"</string>
+    <string name="event_capture_video">عند التقاط فيديو</string>
+    <string name="event_connectivity_changes">عندما يتم تغير اتصال الشبكة</string>
+    <string name="event_media_connect">المساحة التخزينية الخارجية متصلة</string>
+    <string name="event_media_eject">المساحة التخزينية الخارجية غير متصلة</string>
+    <string name="event_media_scan">تم فحص المساحة التخزينية</string>
+    <string name="event_postfix_volatile">(قد يختلف مع الحالة)</string>
+    <string name="event_power_connected">عند توصيل الطاقة</string>
+    <string name="event_power_disconnected">عند فصل الطاقة</string>
+    <string name="event_take_photo">عند التقاط صورة</string>
+    <string name="event_unlock_keyguard">عندما يتم فتح قفل الشاشة</string>
+    <string name="event_update_apps">يتم تحديث برنامج</string>
+    <string name="guide_btn_activate_module">فعل النمط, أعد التشغيل</string>
+    <string name="guide_btn_install_xposed_installer">تثبيت Xposed Installer</string>
+    <string name="guide_btn_setup_xposed_framework">إعداد Xposed framework</string>
+    <string name="guide_link_why_xposed">لماذا تحتاج Xposed framework؟</string>
+    <string name="guide_sub_title">دليل التثبيت</string>
+    <string name="guide_title">الميزات التجريبية</string>
+    <string name="menu_about">عن البرنامج</string>
+    <string name="menu_action_accept">موافق</string>
+    <string name="menu_action_cutoff">قطع سبب الإيقاظ</string>
+    <string name="menu_action_cutoff_condensed">قطع</string>
+    <string name="menu_action_greenify">معالج گرينيفاي</string>
+    <string name="menu_action_greenify_condensed">يجمد...</string>
+    <string name="menu_action_hibernate">ضع فى وضع التجميد الان</string>
+    <string name="menu_action_hibernate_condensed">جمد</string>
+    <string name="menu_action_hide">إخفاء</string>
+    <string name="menu_action_pick">قم باختيار برنامج للتجميد</string>
+    <string name="menu_action_pick_condensed">قم باختيار برنامج</string>
+    <string name="menu_action_reattach">إعادة أسباب إيقاظه</string>
+    <string name="menu_action_reattach_condensed">إعادة</string>
+    <string name="menu_action_reconsider_state">إعادة النظر في حالته</string>
+    <string name="menu_action_refresh">حدث القائمة</string>
+    <string name="menu_action_run">شَغل</string>
+    <string name="menu_action_ungreenify">ألغِ تجميد البرامج المحددة</string>
+    <string name="menu_action_ungreenify_condensed">ألغِ التجميد</string>
+    <string name="menu_action_unhide_all">إظهار الكل</string>
+    <string name="menu_create_shortcut">انشاء اختصار للاسبات</string>
+    <string name="menu_disable_service">خدمة التجميد التلقائى غير مفعلة</string>
+    <string name="menu_enable_service">فعل التجميد-التلقائى</string>
+    <string name="menu_reset_gesture">إعادة تعيين \"pull-up\" gesture</string>
+    <string name="no_app_picked">لم يتم اختيار أي برنامج</string>
+    <string name="notification_app_picker_text">قم بفتح برنامجك ,ثم اضغط هنا لاختياره</string>
+    <string name="notification_app_picker_ticker">"أولًا قم بفتح برنامجك
+ثم قم بالذهاب الى إشعار اختيار البرامج فى مركز الإشعارات"</string>
+    <string name="notification_app_picker_title">اختيار البرامج من أجل گرينيفاي</string>
+    <string name="notification_listener_title">الحافظ على الاشعارات</string>
+    <string name="notification_text_workaround_talking">لو عم بتخبر حديث صوت عشوائي</string>
+    <string name="notification_timer_coalesced_subtext">تحسن تلقائي بواسطة جرينفي</string>
+    <string name="notification_timer_coalesced_title">تضامن المؤقت الدوري</string>
+    <string name="notification_title_workaround_talking">الحل البديل للحديث الموضوع</string>
+    <string name="placeholder_show_all">اعرض المزيد من البرامج</string>
+    <string name="prefs_cat_donation_only_features">حزمة هبة مطلوبة.</string>
+    <string name="prefs_cat_experimental_features">مميزات تجريبية</string>
+    <string name="prefs_cat_xposed_donation_features">يتطلب اكسبوسد و الحزمة المدفوعة</string>
+    <string name="prefs_cat_xposed_only_features">يتطلب برنامج اكسبوسد</string>
+    <string name="prefs_labs_automated_hibernation_title">التجمدي التلقائي (+4.1)</string>
+    <string name="prefs_labs_block_notification_abuse_summary">بعض التطبيقات تستغل عدم إستقرار الأندرويد (قبل 4.3) لتنال الأولية الغير عادلة لإبقاء الذاكرة في حالة \"الذاكرة منخفضة\". هذه التطبيقات ستفشل في أن تكون معرفة كـ \"مدركة\" في Greenify ولن تتجمد.</string>
+    <string name="prefs_labs_block_notification_abuse_title">منع التعسف لحالة البرنامج</string>
+    <string name="prefs_labs_boost_mode_summary">أداء وتوافق أفضل, مناسب إذا كنت ترى فشل التجميد أو أخطاء في الروت.</string>
+    <string name="prefs_labs_boost_mode_title">طور التعزيز</string>
+    <string name="prefs_labs_gcm_push_summary">"السماح لـ رسائل قوقل السحابية بإيقاظ التطبيقات المجمدة, إلا إن كانت إشعاراتها معطلة في النظام (الإعدادات - التطبيقات).
+الرجاء دائمًا تفعيل \"إبقاء الإشعارات\" لتجنب ضياع الإشعارات بعد إعادة التجميد."</string>
+    <string name="prefs_labs_gcm_push_title">تفعيل الإشعارات الإجبارية من جوجل السحاب للتراسل للتطبيقات النائمة</string>
+    <string name="prefs_labs_reveal_hidden_sync_title">كشف المزامنة المخفية</string>
+    <string name="prefs_labs_root_mode_summary_boost">العمل في \"وضعالبوست\" (انظر أدناه) وهو وضع الموصى بها.</string>
+    <string name="prefs_labs_system_apps_limited_title">تجميد تطبيقات النظام ( محدود )</string>
+    <string name="prefs_labs_system_apps_summary">عدم إستثناء تطبيقات النظام من التجميد, تجعل أكثرها قابلة للتجميد.</string>
+    <string name="prefs_labs_system_apps_title">تجميد تطبيقات النظام</string>
+    <string name="prefs_labs_telephony_wakeup_summary">السماح للأحداث الهاتفية (كـ الإتصال والرسائل القصيرة) بإيقاظ التطبيقات المجمدة, بهذا تعمل تطبيقات الإتصال أو الرسائل القصيرة المجمدة كالمعتاد.</string>
+    <string name="prefs_labs_telephony_wakeup_title">الإيقاظ الهاتفي</string>
+    <string name="prefs_labs_timer_coalescing_summary">تتجمع الدوري جهاز ضبط وقت الاستيقاظ وحدة المعالجة المركزية لجميع تطبيقات (ليس فقط تطبيقات مصممة ل 4.4 +)، للحد من النفايات البطارية في أعقاب-شكا المشتتة من وحدة المعالجة المركزية. (يتطلب 4.4 +)</string>
+    <string name="prefs_labs_timer_coalescing_title">وقت الاستيقاظ (+4.4)</string>
+    <string name="prefs_labs_wakeup_tracker_summary">تعقب من التطبيق الذي يوقظ تطبيقاتك المجمدة, وإختياريًا إمنع مصدر الإيقاظ لتجنب الإيقاظات الخارجية.</string>
+    <string name="prefs_labs_wakeup_tracker_title">تعقب ومنع الإيقاظ</string>
+    <string name="prefs_labs_working_mode_title">طريقة العمل</string>
+    <string name="progress_be_hibernating">يتم التجميد...</string>
+    <string name="section_alarm">(العمل المجدول(منذ التشغيل الاخير</string>
+    <string name="section_alarm_tips">"تلك البرامج قامت بجدولة نفسها لتعمل فى الخفاء, و لذلك قد تقوم باستهلاك بطاريتك و إبطاء جهازك
+
+احذر من تلك البرامج التى تستخدم موارد جهازك"</string>
+    <string name="section_all_apps">المزيد</string>
+    <string name="section_hibernated">جُمدت</string>
+    <string name="section_pending">فى الانتظار</string>
+    <string name="section_pending_auto">سوف يتم التجميد في عضون داقائق بعد قفل الشاشة</string>
+    <string name="section_pending_tip_nonroot">هذه التطبيقات تم إيقاظها وأصبحت خاملة الآن, أنت تحتاج إلى إرجاعها يدويًا للتجميد.</string>
+    <string name="section_postponed">لن يتم التجميد التلقائي</string>
+    <string name="section_postponed_tip">البرنامج لن يضع تلك البرامج فى وضع التجميد للاسباب الموضحة اعلاه,الى فى حال اختفاء تلك الاسباب</string>
+    <string name="section_receiver">...قد تقوم بإبطاء الجهاز عندما</string>
+    <string name="section_receiver_tip">"تلك البرامج قد تقوم بإبطاء الجهاز عند احداث معينة, بدون اختيارك
+كلما كثرت البرامج هنا,كلما زاد البطىء عند تلك الاحداث"</string>
+    <string name="section_service">يعمل في الخلفية</string>
+    <string name="section_service_tip">"البرامج التى تعمل فى الخلفية ستستخدم كمية محددة من الذاكرة, و من الممكن ان تقوم بتبطىء جهازك بدرجة كبيرة
+قم بجعل تلك القائمه اصغر مايمكن"</string>
+    <string name="service_cleaner">المنظف</string>
+    <string name="showcase_accessibility_setting">تفعيل التجميد التلقائي</string>
+    <string name="showcase_manual_hibernation_automation">هذه العملية اليدوية يمكن أن تتم بإستخدام خدمة \"إمكانية الوصول\" المقدمة مع Greenify.</string>
+    <string name="showcase_manual_hibernation_desc">بسبب التقييد في نظام أندرويد, التجميد التلقائي لا يستطيع العمل في وضع \"بدون روت\". الرجاء الضغط على زر \"إيقاف إجباري\" بعد قليل لإنهاء التجميد.</string>
+    <string name="showcase_manual_hibernation_title">اسبات يدوي</string>
+    <string name="toast_accessibility_setting">تمكين أو تعطيل خدمة الوصول من جرينفي هنا</string>
+    <string name="toast_action_undo">التراجع عن</string>
+    <string name="toast_already_greenified">%1$s مجمد بالفعل.</string>
+    <string name="toast_app_no_launcher_entry">هذا التطبيق ليس له مدخل تفعيل</string>
+    <string name="toast_apps_hibernated">تم إسبات %1$s</string>
+    <string name="toast_apps_hidden">تطبيقات مخفية</string>
+    <string name="toast_auto_hibernation_failure_tip">"الرجاء التأكد أن صلاحية الروت تم إعطاؤها لـ Greenify. (بعض أدوات إدارة الروت تتطلب إعادة إعطاء الصلاحية في كل تحديث للتطبيق)
+
+إذا بقيت ترى \"فشل التجميد\", الرجاء تجربة أداة أخرى لإدارة الروت أو \"وضع التعزيز\" في الميزات التجريبية."</string>
+    <string name="toast_cannot_switch_to_launcher">لا يمكن التحويل لواجهة الهاتف الخاصة بك, من فضلك اضغط زر القائمة يدويا</string>
+    <string name="toast_failed_to_greenify">فشِل في تجميد \"%1$s\".</string>
+    <string name="toast_gcm_tip">"ر.ق.س(رسائل قوقل السحابية) مدمجة داخل هذا التطبيق, وقد تكون مستخدمة للإشعارات الفورية. لن تعمل أكثر إذا جمدت.
+
+هناك ميزة تجريبية في الحزمة المدفوعة تفعل ر.ق.س. الفورية للتطبيقات المجمدة."</string>
+    <string name="toast_gesture_reset">تتم إعادة تعيين السلوك الافتراضي للفتة تبعده عن زر الصفحة الرئيسية.</string>
+    <string name="toast_hibernation_failure">فشل وضع \"%1$s\" في التجميد.</string>
+    <string name="toast_need_reboot">غير متوفر حتى إعادة تشغيل</string>
+    <string name="toast_none_hibernated">لا يوجد برامج تحتاج للتجميد</string>
+    <string name="toast_opted_in">شكرًا لانضمامك!</string>
+    <string name="toast_opted_out">لقد تحررت من الخدمة, لن يتم تجميع بيانات سرية منذ اللحظة</string>
+    <string name="toast_service_disabled">"خدمة التجميد التلقائى غير مفعلة
+البرامج المجمدة لن تجمد تلقائيا من الان"</string>
+    <string name="toast_service_enabled">خدمة التجميد التلقائى مفعلة</string>
+    <string name="toast_shortcut_created">تم انشاء اختصار على الواجهة الرئيسية للوصول السريع لوضع الاسبات.</string>
+    <string name="toast_tasker_wakeup_unavail_in_nonroot">آسف, متوفر في أسلوب \"root\" فقط.</string>
+    <string name="wizard_step_enjoy">استمتع</string>
+    <string name="wizard_step_enjoy_desc">اداء سلس للغاية, كان لديك هاتف جديد كليا</string>
+    <string name="wizard_step_forget">انسَ</string>
+    <string name="wizard_step_forget_desc">.عن عملية التنظيف, جرينيفاى يفعلها تلقائيا من اجلك</string>
+    <string name="wizard_step_greenify">گرينيفاي</string>
+    <string name="wizard_step_greenify_desc">البرامج التى تستهلك البطارية, تستخدم الذاكرة و تعمل فى الخفاء</string>
+    <string name="dialog_button_no">لا</string>
+    <string name="dialog_button_yes">نعم</string>
+    <string name="dialog_labs_not_owner_message">فقط المستخدم الرئيسي (المالك) مسموح له بالتحكم بالميزات التجريبية.</string>
+    <string name="dialog_message_xposed_need_update">اصدار الـ Xposed framework لايدعم اصدار الاندرويد 4.4+ , الرجاء تحديث Xposed framework.</string>
+    <string name="dialog_need_amazon_message">الرجاء تثبيت متجر Amazon اولا.</string>
+    <string name="dialog_need_amazon_title">بحاجة الى متجر Amazon</string>
+    <string name="dialog_need_reinstall_message">"قبل القيام بالشراء, تحتاج إلى إعادة تثبيت Greenify من متجر تطبيقات الأمازون.
+
+لإبقاء إعداداتك, الرجاء إختيار \"لا\" إذا طلب منك إلغاء التثبيت."</string>
+    <string name="dialog_need_reinstall_title">بحاجة الى إعادة التثبيت</string>
+    <string name="dialog_non_root_incompatible_rom_message">نأسف, Greenify لايعمل على هذا ال ROM اذا كان الجهاز لايوجد عليه Root.</string>
+    <string name="dialog_warning_for_too_frequent_sync">هذا التطبيق يتزامن تلقائيًا بتكرار شديد (كل %1$d دقيقة / دقائق), هكذا سيتم إيقاظه أحيانًا كثيرة. هل تريد تعطيل مزامنته التلقائية؟</string>
+    <string name="app_state_persistent">متواصل</string>
+    <string name="section_pending_tip">هذه البرامج فى وضع الخمول, و سيتم تجميدها فى وقت قليل بعد اغلاق شاشة الهاتف</string>
+    <string name="app_state_perceptible">يمكن ادراكة</string>
+    <string name="app_state_process_in_use">المعالج مستخدم بنسبة %1$s</string>
+    <string name="app_state_visible">ظاهر</string>
+    <string name="menu_experimental_features">مميزات تجريبية...</string>
+</resources>

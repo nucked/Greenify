@@ -1,0 +1,298 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_home_description">"Navega a la pàgina d'inici"</string>
+    <string name="abc_action_bar_home_description_format">%1$s, %2$s</string>
+    <string name="abc_action_bar_home_subtitle_description_format">%1$s, %2$s, %3$s</string>
+    <string name="abc_action_bar_up_description">Navega cap a dalt</string>
+    <string name="abc_action_menu_overflow_description">Més opcions</string>
+    <string name="abc_action_mode_done">Fet</string>
+    <string name="abc_activity_chooser_view_see_all">"Mostra'ls tots"</string>
+    <string name="abc_activitychooserview_choose_application">Selecciona una aplicació</string>
+    <string name="abc_capital_off">DESACTIVAT</string>
+    <string name="abc_capital_on">ACTIVAT</string>
+    <string name="abc_search_hint">Cerca...</string>
+    <string name="abc_searchview_description_clear">Esborra la consulta</string>
+    <string name="abc_searchview_description_query">Consulta de cerca</string>
+    <string name="abc_searchview_description_search">Cerca</string>
+    <string name="abc_searchview_description_submit">Envia la consulta</string>
+    <string name="abc_searchview_description_voice">Cerca per veu</string>
+    <string name="abc_shareactionprovider_share_with">Comparteix amb</string>
+    <string name="abc_shareactionprovider_share_with_application">Comparteix amb %s</string>
+    <string name="abc_toolbar_collapse_description">Replega</string>
+    <string name="common_google_play_services_api_unavailable_text">%1$s necessita almenys un servei de Google Play que actualment no està disponible. Contacta amb el desenvolupador per obtenir ajuda.</string>
+    <string name="common_google_play_services_enable_button">Activa els serveis de Google Play</string>
+    <string name="common_google_play_services_enable_text">%1$s no funcionarà si no actives els serveis de Google Play.</string>
+    <string name="common_google_play_services_enable_title">Activa els serveis de Google Play</string>
+    <string name="common_google_play_services_install_button">Obtén els serveis de Google Play</string>
+    <string name="common_google_play_services_install_text_phone">"%1$s no s'executarà si el telèfon no té instal·lats els serveis de Google Play."</string>
+    <string name="common_google_play_services_install_text_tablet">"%1$s no s'executarà si la tauleta no té instal·lats els serveis de Google Play."</string>
+    <string name="common_google_play_services_install_title">Obtén els serveis de Google Play</string>
+    <string name="common_google_play_services_invalid_account_text">El compte especificat no existeix en aquest dispositiu. Tria un altre compte.</string>
+    <string name="common_google_play_services_invalid_account_title">Compte no vàlid</string>
+    <string name="common_google_play_services_network_error_text">Cal una connexió de dades per connectar amb els serveis de Google Play.</string>
+    <string name="common_google_play_services_network_error_title">Error de xarxa</string>
+    <string name="common_google_play_services_notification_ticker">Error dels serveis de Google Play</string>
+    <string name="common_google_play_services_restricted_profile_text">"No es pot accedir als comptes d'un perfil restringit."</string>
+    <string name="common_google_play_services_restricted_profile_title">Perfil restringit</string>
+    <string name="common_google_play_services_sign_in_failed_text">"S'ha produït un error en iniciar la sessió al compte especificat. Tria'n un altre."</string>
+    <string name="common_google_play_services_sign_in_failed_title">"Error d'inici de sessió"</string>
+    <string name="common_google_play_services_unknown_issue">%1$s té problemes amb els serveis de Google Play. Si el problema continua, contacta amb el desenvolupador per obtenir ajuda.</string>
+    <string name="common_google_play_services_unsupported_text">%1$s depèn dels serveis de Google Play, que no són compatibles amb el teu dispositiu. Contacta amb el fabricant per obtenir ajuda.</string>
+    <string name="common_google_play_services_unsupported_title">Serveis de Google Play</string>
+    <string name="common_google_play_services_update_button">Actualitza</string>
+    <string name="common_google_play_services_update_text">"%1$s no s'executarà si no actualitzes els serveis de Google Play."</string>
+    <string name="common_google_play_services_update_title">Actualitza els serveis de Google Play</string>
+    <string name="common_google_play_services_updating_text">"%1$s no s'executarà sense els serveis de Google Play, que s'estan actualitzant en aquest moment."</string>
+    <string name="common_google_play_services_updating_title">Actualitzant els serveis de Google Play</string>
+    <string name="common_google_play_services_wear_update_text">"Cal una nova versió dels serveis de Google Play. S'actualitzaran automàticament aviat."</string>
+    <string name="common_open_on_phone">Obre al telèfon</string>
+    <string name="common_signin_button_text">Inicia sessió</string>
+    <string name="common_signin_button_text_long">Inicia la sessió amb Google</string>
+    <string name="status_bar_notification_info_overflow">+999</string>
+    <string name="about_donation_summary">Aconseguiu el paquet de donació per a característiques addicionals</string>
+    <string name="about_donation_summary_donated">Es pot activar característiques experimentals addicionals al menú principal.</string>
+    <string name="about_donation_title">Donar</string>
+    <string name="about_donation_title_donated">Gràcies per la donació</string>
+    <string name="about_licenses_title">Llicències</string>
+    <string name="about_raise_your_voice_program_detail">"Greenify farà que la veu de la comunitat sigui escoltada pels desenvolupadors de les teves apps greenificades, per un millor desenvolupament en cada dispositiu.
+
+Per fer servir la teva veu, Greenify recopila dades anònimes. Pots optar per no fer-ho en qualsevol moment."</string>
+    <string name="about_raise_your_voice_program_summary">La teva veu pot fer la diferencia!</string>
+    <string name="about_raise_your_voice_program_title">programa \"Fes-te escoltar!\"</string>
+    <string name="about_translation_credit">Daniel Besoli - Carlos Duque Guasch - Ferran Rius</string>
+    <string name="about_translation_title">Traducció</string>
+    <string name="about_uninstall">Desinstal-lar</string>
+    <string name="about_version_summary">"Puntua l'aplicació"</string>
+    <string name="about_version_title">Versió</string>
+    <string name="accessibility_service_description">"Algunes característiques especials del Greenify requereixen aquest servei d'accessibilitat.
+
+És possible que se us avisi d'un possible risc de privacitat, és només un avís informatiu normal per a qualsevol servei d'accessibilitat. Prometem que MAI DE LA VIDA recollirem informació personal amb aquest servei d'accessibilitat.
+
+Alguns dispositius Samsung tenen problemes de síntesi de veu si s'habilita algun dispositiu d'accessibilitat. Si teniu aquest problema habiliteu la solució a la \"Configuració\" aquí."</string>
+    <string name="analysis_detail_alarm_with_wakeup">%1$d execucions (inclòs %2$d wakeups)</string>
+    <string name="app_analyzer_name">Analitzador de App</string>
+    <string name="app_analyzer_subtitle">%1$d app(s) seleccionades</string>
+    <string name="app_shortcut_hibernate">Hibernar ara</string>
+    <string name="app_shortcut_hibernate_lock">Hiberna i bloqueja la pantalla</string>
+    <string name="app_shortcut_nothing">Res</string>
+    <string name="app_shortcut_wakeup">Despertar</string>
+    <string name="app_state_always_ignored">"L'estat s'ignora sempre per a la hibernació"</string>
+    <string name="app_state_hibernation_failed">La hibernació ha fallat fa %1$s</string>
+    <string name="app_state_provider_in_use">%1$s està utilitzant el proveïdor</string>
+    <string name="app_state_service_in_use">%1$s està utilitzant el servei</string>
+    <string name="app_state_unsaveable">Estat irrecuperable</string>
+    <string name="app_state_woken_by_activity">fa %1$s UI obert</string>
+    <string name="app_state_woken_by_app">fa %1$s despertat per %2$s</string>
+    <string name="app_state_woken_by_authenticator">fa %1$s hem autenticat</string>
+    <string name="app_state_woken_by_backup">copia feta fa %1$s</string>
+    <string name="app_state_woken_by_broadcast">notificat fa %1$s</string>
+    <string name="app_state_woken_by_content_provider">contingut de fa %1$s</string>
+    <string name="app_state_woken_by_push_msg">"S'ha rebut un missatge de tramesa automàtica fa %1$s"</string>
+    <string name="app_state_woken_by_search">cerca feta fa %1$s</string>
+    <string name="app_state_woken_by_service">servei arrancat fa %1$s</string>
+    <string name="app_state_woken_by_sync">fa %1$s hem sincronitzat</string>
+    <string name="app_state_woken_by_widget">fa %1$s hem actualitzat el widget</string>
+    <string name="app_state_woken_directly">Fa %1$s despertat directament per %2$s</string>
+    <string name="app_title_service_disabled">Greenify (No Auto-hibernació)</string>
+    <string name="app_waker_google">Serveis de Google</string>
+    <string name="app_waker_system">Sistema Android</string>
+    <string name="app_waker_unknown">font desconeguda</string>
+    <string name="device_admin_for_automation">Automatitzador del Greenify</string>
+    <string name="device_admin_for_automation_description">Permet que el Greenify apagui la pantalla immediatament després de la hibernació automàtica en estat de repòs.</string>
+    <string name="device_admin_warning_when_disabling">"Si s'inhabilita, el Greenify no podrà automatitzar la hibernació amb la pantalla apagada."</string>
+    <string name="dialog_app_picker_guide_button">Anar al llançador</string>
+    <string name="dialog_app_picker_guide_message">Ara serà re dirigit al llançador. Obri la aplicació, llavors faci clic a la notificació per seleccionar-la.</string>
+    <string name="dialog_app_picker_guide_title">Com seleccionar aplicació</string>
+    <string name="dialog_button_cancel">Cancela</string>
+    <string name="dialog_button_continue">continuar</string>
+    <string name="dialog_button_insist">Insistir</string>
+    <string name="dialog_button_later_by_oneself">Ho faré més tard</string>
+    <string name="dialog_button_learn_more">Més informació</string>
+    <string name="dialog_button_opt_in">Permetre</string>
+    <string name="dialog_button_opt_out">No permetre</string>
+    <string name="dialog_confirmation_unsafe_to_hibernate">Normalment no és segur hibernar una aplicació en aquest estat. Si es força la hibernació pot causar interrupció del funcionament o fins i tot pèrdua de dades.</string>
+    <string name="dialog_cutoff_message">"Si bloquegeu el camí de despertar podeu malmetre la funcionalitat de l'aplicació o de les aplicacions que en depenguin.
+
+Si passa quelcom dolent, desfeu el bloqueig.
+
+Afecta: [%s]"</string>
+    <string name="dialog_cutoff_title">Avís</string>
+    <string name="dialog_degreenified_message">"Tot i que greenify l'ha alliberat, aquesta app roman en hibernació (tota la seva funcionalitat no anirà) fins que la torneu a executar."</string>
+    <string name="dialog_degreenified_title">Atenció</string>
+    <string name="dialog_donation_corrupted_message">"El paquet de donació està malmès. S'ha de tornar a instal·lar des del Google Play?"</string>
+    <string name="dialog_greenify_confirmation_message">Segur que voleu greenificar %1$s</string>
+    <string name="dialog_greenifying_system_apps">Greenificar aplicacions de sistema actualment és una característica experimentat que només està disponible al paquet de donació.</string>
+    <string name="dialog_incompatible_rom_title">ROM no compatible</string>
+    <string name="dialog_ingreenfiable_message_for_system_app">"No és segur greenificar en general l'aplicació del sistema, ho sento."</string>
+    <string name="dialog_ingreenfiable_title">\"%1$s\" no es pot aplicar Greenify</string>
+    <string name="dialog_labs_incompatible_rom_message">"Ha fallat l'activació de la característica. Potser és incompatible amb la ROM."</string>
+    <string name="dialog_labs_operation_failure_message">"L'operació ha fallat."</string>
+    <string name="dialog_labs_state_set_failure_message">"Ha fallat l'establiment de l'estat de la característica!"</string>
+    <string name="dialog_message_donation_package_exclusive">"Aquesta característica actualment només està disponible al paquet de donació.
+
+Adquiriu el paquet de donació ara per desbloquejar totes les característiques experimentals."</string>
+    <string name="dialog_option_always_ignore_state">"Ignora sempre l'estat d'execució"</string>
+    <string name="dialog_root_operation_failure_message">"No s'ha pogut fer l'operació. Assegureu-vos que s'ha donat privilegis d'usuari primari."</string>
+    <string name="dialog_thank4donation_message">"Gràcies per la donació per ajudar al desenvolupament.
+
+Ara podeu activar característiques experimentals addicionals des del menú principal."</string>
+    <string name="dialog_thank4donation_title">Gràcies</string>
+    <string name="dialog_title_confirmation">Confirmació</string>
+    <string name="dialog_title_error">Error</string>
+    <string name="dialog_verification_error_message">"No es pot verificar la donació. Comproveu l'estat de la xarxa i torneu-ho a intentar."</string>
+    <string name="dialog_verification_fatal_error">"No es pot verificar la donació, aviseu d'aquest error"</string>
+    <string name="dialog_version_mismatch_message">"Actualitzeu l'aplicació a la darrera versió."</string>
+    <string name="dialog_version_mismatch_title">La versió no coincideix</string>
+    <string name="dialog_warning_for_greenifying_launcher">"Està intentant greenificar la aplicació del launcher per defecte. No es recomana fer-ho amb aplicacions d'us freqüent."</string>
+    <string name="dialog_warning_title">Avís</string>
+    <string name="dialog_xposed_module_inactive_message">"El mòdul d'Xposed del Greenify encara no està activat. Primer l'heu d'activar a l'instal·lador de l'Xposed per tal que aquestes característiques funcionin."</string>
+    <string name="event_capture_video">video capturat</string>
+    <string name="event_connectivity_changes">canvis a la conectivitat de la xarxa</string>
+    <string name="event_media_connect">"s'ha connectat l'emmagatzematge extraïble"</string>
+    <string name="event_media_eject">"s'ha extret l'emmagatzematge extraïble"</string>
+    <string name="event_media_scan">"s'ha escanejat l'emmagatzematge"</string>
+    <string name="event_postfix_volatile">(pot variar amb el estat)</string>
+    <string name="event_power_connected">En càrrega</string>
+    <string name="event_power_disconnected">No se està carregant</string>
+    <string name="event_take_photo">"s'ha pres una fotografia"</string>
+    <string name="event_unlock_keyguard">el bloqueig de tecles està desbloquejat</string>
+    <string name="event_update_apps">"La app s'ha actualitzat"</string>
+    <string name="guide_btn_activate_module">Activar el mòdul, tornar a arrencar</string>
+    <string name="guide_btn_install_xposed_installer">"Instal·la l'Instal·lador Xposed"</string>
+    <string name="guide_btn_setup_xposed_framework">"Configuració de l'Xposed framework"</string>
+    <string name="guide_link_why_xposed">Perquè cal el marc Xposed?</string>
+    <string name="guide_sub_title">Guia de configuració</string>
+    <string name="guide_title">Característiques experimentals</string>
+    <string name="menu_about">"sobre l'aplicació"</string>
+    <string name="menu_action_accept">Aceptar</string>
+    <string name="menu_action_cutoff">Bloqueja el camí de despertar</string>
+    <string name="menu_action_cutoff_condensed">Bloqueja</string>
+    <string name="menu_action_greenify">Asistent</string>
+    <string name="menu_action_greenify_condensed">Greenifica...</string>
+    <string name="menu_action_hibernate">Hibernar ara</string>
+    <string name="menu_action_hibernate_condensed">Hibernar</string>
+    <string name="menu_action_hide">Oculta</string>
+    <string name="menu_action_pick">Seleccioni una app per greenificar</string>
+    <string name="menu_action_pick_condensed">Seleccioneu una app</string>
+    <string name="menu_action_reattach">Desfés el bloqueig dels seus camins de despertar</string>
+    <string name="menu_action_reattach_condensed">Desfés el bloqueig</string>
+    <string name="menu_action_reconsider_state">"Torna a considerar l'estat"</string>
+    <string name="menu_action_refresh">Refrescar</string>
+    <string name="menu_action_run">Executa</string>
+    <string name="menu_action_ungreenify">Degreenifica la app seleccionada</string>
+    <string name="menu_action_ungreenify_condensed">Degreenifica</string>
+    <string name="menu_action_unhide_all">Mostra-ho tot</string>
+    <string name="menu_create_shortcut">Crea una drecera a la hibernació</string>
+    <string name="menu_disable_service">Apagar la auto-hibernació</string>
+    <string name="menu_enable_service">Encendre la auto-hibernació</string>
+    <string name="menu_reset_gesture">Reajustar gest \"pull-up\"</string>
+    <string name="no_app_picked">Cap selecció</string>
+    <string name="notification_app_picker_text">Iniciï la aplicació, desprès seleccioni-la aquí.</string>
+    <string name="notification_app_picker_ticker">"Primer iniciï la aplicació.
+Llavors faci clic a la notificació del SELECTOR d'APPS."</string>
+    <string name="notification_app_picker_title">"SELECTOR D'APLICACIONS per Greenify"</string>
+    <string name="notification_listener_title">"Conservador d'avisos"</string>
+    <string name="notification_text_workaround_talking">Si us trobeu que la veu es posa a parlar aleatòriament</string>
+    <string name="notification_timer_coalesced_subtext">Optimitzat automàticament pel Greenify</string>
+    <string name="notification_timer_coalesced_title">Temporitzador periòdic fusionat</string>
+    <string name="notification_title_workaround_talking">Solució per al problema amb la veu</string>
+    <string name="placeholder_show_all">mostrar més apps</string>
+    <string name="prefs_cat_donation_only_features">Requereix el paquet de donació</string>
+    <string name="prefs_cat_experimental_features">Característiques experimentals</string>
+    <string name="prefs_cat_xposed_donation_features">"Requereix l'Xposed i el paquet de donació"</string>
+    <string name="prefs_cat_xposed_only_features">"Requereix l'Xposed Framework"</string>
+    <string name="prefs_labs_automated_hibernation_title">Hibernació automatizada (4.1)+</string>
+    <string name="prefs_labs_block_notification_abuse_summary">"Algunes aplicacions s'aprofiten d'una vulnerabilitat d'Android (abans del 4.3) per aconseguir una prioritat injustificada i mantenir-se en memòria en una situació de poca memòria. Aquestes aplicacions es reconeixeran equivocadament com a \"Perceptibles\" al Greenify i no s'hibernaran."</string>
+    <string name="prefs_labs_block_notification_abuse_title">"Bloqueja l'abús d'estat d'aplicacions."</string>
+    <string name="prefs_labs_boost_mode_summary">"Millor rendiment i compatibilitat, especialment si teniu fallades d'hibernació o problemes d'usuari primari."</string>
+    <string name="prefs_labs_boost_mode_title">Mode potenciat</string>
+    <string name="prefs_labs_gcm_push_summary">Permet que els missatges de tramesa automàtica GCM despertin aplicacions hibernades, de manera que podeu greenificar aplicacions impulsades per GCM sense perdre els avisos de tramesa automàtica.</string>
+    <string name="prefs_labs_gcm_push_title">Tramesa automàtica del GCM per a aplicacions greenificades</string>
+    <string name="prefs_labs_reveal_hidden_sync_title">Mostra sincronitzacions ocultes</string>
+    <string name="prefs_labs_root_mode_summary_boost">"S'està treballant en «Mode potenciat» (vegeu a sota) que és el mode recomanat."</string>
+    <string name="prefs_labs_system_apps_limited_title">"Greenificació d'apps del sistema (limitat)"</string>
+    <string name="prefs_labs_system_apps_summary">Treu la immunitat a la hibernació de les aplicacions del sistema, fes que la majoria es puguin greenificar,</string>
+    <string name="prefs_labs_system_apps_title">"Greenificació d'aplicacions del sistema"</string>
+    <string name="prefs_labs_telephony_wakeup_summary">Permet que els esdeveniments de telefonia (com trucades, SMS) despertin les aplicacions hibernades, de manera que les aplicacions greenificades que detecten trucades o SMS funcionin com cal.</string>
+    <string name="prefs_labs_telephony_wakeup_title">Desperta per telefonia</string>
+    <string name="prefs_labs_timer_coalescing_summary">Ajunta el temporitzador de despertat periòdic de la CPU per a totes les aplicacions (no només les aplicacions dissenyades per a 4.4+), per reduir el malbaratament de bateria per despertats dispersius de la CPU. Només disponible en Android 4.4+.</string>
+    <string name="prefs_labs_timer_coalescing_title">Desperta la coalescència del temporitzador (4.4+)</string>
+    <string name="prefs_labs_wakeup_tracker_summary">"Detecta quina aplicació ha despertat explícitament les aplicacions greenificades i, opcionalment, bloqueja'n el camí de despertar per evitar que hi torni."</string>
+    <string name="prefs_labs_wakeup_tracker_title">Detecció i bloqueig de despertat</string>
+    <string name="prefs_labs_working_mode_title">Mode de treball</string>
+    <string name="progress_be_hibernating">Hibernant...</string>
+    <string name="section_alarm">"Execució programada (des de l'últim inici)"</string>
+    <string name="section_alarm_tips">"Aquestes apps es configuren per corre en silenci, això pot ral·lentitzar el sistema i gastar bateria.
+
+Ves amb comte amb aquests serveis que desperten el telèfon freqüentment."</string>
+    <string name="section_all_apps">Més</string>
+    <string name="section_hibernated">Hibernat</string>
+    <string name="section_pending">Pendent</string>
+    <string name="section_pending_auto">"S'hibernarà en minuts després que s'apagui la pantalla"</string>
+    <string name="section_pending_tip_nonroot">"Aquestes aplicacions s'han despertat i ara estan inactives, cal que les torneu a posar manualment en hibernació"</string>
+    <string name="section_postponed">Sense Hibernació Automàtica</string>
+    <string name="section_postponed_tip">"Greenify no hibernarà aquestes aplicacions degut a les raons mostrades, a menys que canviïn d'estat més endavant."</string>
+    <string name="section_receiver">Pot alentir el dispositiu quan ...</string>
+    <string name="section_receiver_tip">"Aquestes aplicacions poden alentir el dispositiu quan ocorren certs esdeveniments, en grau arbitrari.
+
+Més aplicacions aquí, menys sensible als esdeveniments."</string>
+    <string name="section_service">Corrent en segon pla</string>
+    <string name="section_service_tip">"Las aplicacions corrent en segon pla fan servir memòria, i poden alentir el sistema en diferents graus.
+
+Mantingui aquesta llista el mes curta possible."</string>
+    <string name="service_cleaner">Hibernació automàtica</string>
+    <string name="showcase_accessibility_setting">Permetre automatització</string>
+    <string name="showcase_manual_hibernation_automation">"Aquest procés manual pot ser automatitzat mitjançant un servei d'accessibilitat amb Greenify"</string>
+    <string name="showcase_manual_hibernation_desc">"Per restriccions del sistema Android, cal fer clic manualment al botó \"Força l'aturada\" per acabar la hibernació quan no es treballa en mode d'usuari primari ."</string>
+    <string name="showcase_manual_hibernation_title">Hibernació manual</string>
+    <string name="toast_accessibility_setting">"Habiliteu o inhabiliteu el servei d'accessibilitat del Greenify aquí"</string>
+    <string name="toast_action_undo">DESFÉS</string>
+    <string name="toast_already_greenified">\"%1$s\" ja està greenificada.</string>
+    <string name="toast_app_no_launcher_entry">Aquesta app no té entrada al llançador</string>
+    <string name="toast_apps_hibernated">%1$s hibernada.</string>
+    <string name="toast_apps_hidden">Apps ocultes</string>
+    <string name="toast_auto_hibernation_failure_tip">"Assegureu-vos que es donen permisos d'usuari primari a Greenify. (algunes eines de gestió d'usuari primari necessiten explícitament que es tornin a donar els permisos a cada actualització de l'aplicació)
+
+Si encara falla la hibernació, proveu amb una altra eina de gestió d'usuari primari o el \"Mode potenciat\" a les característiques experimentals."</string>
+    <string name="toast_cannot_switch_to_launcher">No puc passar al llançador, si us plau premi el botó Home.</string>
+    <string name="toast_failed_to_greenify">Ha fallat la greenificació de \"%1$s\".</string>
+    <string name="toast_gcm_tip">"GCM (missatgeria al núvol de Google) està està integrada a l'aplicació i es pot utilitzar per a avisos de tramesa automàtica. Deixarà de funcionar si es greenifica.
+
+Una característica experimental al paquet de donació habilita les trameses automàtiques GCM per a les aplicacions greenificades."</string>
+    <string name="toast_gesture_reset">El comportament per omissió al gest pull-up al botó inici es restableix</string>
+    <string name="toast_hibernation_failure">Error en posar \"%1$s\" en hibernació.</string>
+    <string name="toast_need_reboot">No disponible fins al proper reinici</string>
+    <string name="toast_none_hibernated">Cap app necessita hibernar.</string>
+    <string name="toast_opted_in">Gràcies per la teva participació!</string>
+    <string name="toast_opted_out">No ho has autoritzat. No es recopilen estadístiques anònimes.</string>
+    <string name="toast_service_disabled">"L'auto-hibernació està apagada.
+Las apps greenificades no hibernen automàticament."</string>
+    <string name="toast_service_enabled">Auto-hibernació activa.</string>
+    <string name="toast_shortcut_created">"S'ha creat una drecera al llançador per a la hibernació en un clic."</string>
+    <string name="toast_tasker_wakeup_unavail_in_nonroot">"Només està disponible en mode d'usuari primari"</string>
+    <string name="wizard_step_enjoy">Disfruta</string>
+    <string name="wizard_step_enjoy_desc">sensació de fluïdesa com en el primer dia.</string>
+    <string name="wizard_step_forget">Oblida</string>
+    <string name="wizard_step_forget_desc">el manteniment de la casa, deixa a Greenify fer-ho per tu en silenci.</string>
+    <string name="wizard_step_greenify">Greenify</string>
+    <string name="wizard_step_greenify_desc">consumidors de bateria, acaparadors de memòria i aplicacions ocultes en execució.</string>
+    <string name="app_state_wakeup_paths_cutoff">Bloqueja els camins de despertar</string>
+    <string name="app_waker_root">root</string>
+    <string name="app_waker_shell">consola</string>
+    <string name="dialog_full_cutoff_message">"Si bloquegeu tots els camins per despertar es pot malmetre la funcionalitat de l'app o de les que en depenen.
+
+Si passa quelcom dolent, desfeu el bloqueig."</string>
+    <string name="prefs_labs_automated_hibernation_summary">"Per al mode restringit, automatizar la hibernació minuts després d'apagar la pantalla. S'encendrà la pantalla, es durà a terme la hibernació i tornarà a apagar-la. (Requereix Android 4.1+, Acessibilitat, Administrador del dispositiu i key-guard insegura)"</string>
+    <string name="prefs_labs_reveal_hidden_sync_summary">Mostra les tasques de sincronització ocultes a \"Configuració - Comptes\", amb el prefix \"*\".</string>
+    <string name="prefs_labs_root_mode_summary_off">Treballant en mode restringit (sense usuari primari). Si el dispositiu té usuari primari habiliteu aquesta opció per tenir tota la potència del Greenify.</string>
+    <string name="prefs_labs_root_mode_summary_on">"S'està treballant en mode d'usuari primari. Si el dispositiu NO té usuari primari inhabiliteu aquesta opció per assegurar que funcioni correctament."</string>
+    <string name="prefs_labs_system_apps_limited_summary">"Treu la immunitat a la hibernació d'algunes apps del sistema i fa que es puguin greenificar. Per limitacions tècniques, les apps del sistema hibernades pot ser que no estiguin tan aturades com que no són del sistema i algunes altres apps del sistema encara només es poden greenificar amb la versió basada amb l'Xposed d'aquesta característica, més avall."</string>
+    <string name="service_wakeup_monitor">Monitor de despertars</string>
+    <string name="toast_app_ingreenifiable">«%1$s» no es pot greenificar</string>
+    <string name="toast_apps_not_hibernating">"No s'està hibernant: %1$s"</string>
+    <string name="toast_auto_hibernation_oos">"S'ha aturat el servei d'hibernació automàtica. Si es mostra sovint aquest missatge és possible que el servei en segon pla estigui bloquejat per eines de tercers o per la configuració del sistema (ex. el Mode Stamina en dispositius Sony, el gestor AutoStart a MIUI), comproveu el paràmetres corresponents i poseu el Greenify a la llista blanca si és possible."</string>
+    <string name="toast_auto_hibernation_restarting">"S'està reiniciant la hibernació automàtica... (segurament per memòria baixa)"</string>
+    <string name="app_state_critical">Crític</string>
+    <string name="app_state_working">"S'està treballant"</string>
+    <string name="section_pending_charging">"Ignora la hibernació si s'està carregant"</string>
+</resources>

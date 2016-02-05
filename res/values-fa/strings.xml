@@ -1,0 +1,320 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_home_description">پیمایش به صفحه اصلی</string>
+    <string name="abc_action_bar_home_description_format">‏%1$s‏، %2$s</string>
+    <string name="abc_action_bar_home_subtitle_description_format">‏%1$s‏، %2$s‏، %3$s</string>
+    <string name="abc_action_bar_up_description">پیمایش به بالا</string>
+    <string name="abc_action_menu_overflow_description">گزینه‌های بیشتر</string>
+    <string name="abc_action_mode_done">تمام</string>
+    <string name="abc_activity_chooser_view_see_all">مشاهده همه</string>
+    <string name="abc_activitychooserview_choose_application">انتخاب برنامه</string>
+    <string name="abc_capital_off">خاموش</string>
+    <string name="abc_capital_on">روشن</string>
+    <string name="abc_search_hint">جستجو…</string>
+    <string name="abc_searchview_description_clear">پاک کردن عبارت جستجو</string>
+    <string name="abc_searchview_description_query">عبارت جستجو</string>
+    <string name="abc_searchview_description_search">جستجو</string>
+    <string name="abc_searchview_description_submit">ارسال عبارت جستجو</string>
+    <string name="abc_searchview_description_voice">جستجوی شفاهی</string>
+    <string name="abc_shareactionprovider_share_with">اشتراک‌گذاری با</string>
+    <string name="abc_shareactionprovider_share_with_application">‏اشتراک‌گذاری با %s</string>
+    <string name="abc_toolbar_collapse_description">کوچک کردن</string>
+    <string name="common_google_play_services_api_unavailable_text">‏%1$s به یک یا چند سرویس Google Play نیاز دارد که درحال حاضر در دسترس نیستند. لطفاً برای دریافت کمک با برنامه‌نویس تماس بگیرید.</string>
+    <string name="common_google_play_services_enable_button">‏‫فعال کردن سرویس‌های Google Play</string>
+    <string name="common_google_play_services_enable_text">‏تا وقتی سرویس‌های Google Play را فعال نکنید، %1$s کار نمی‌کند.</string>
+    <string name="common_google_play_services_enable_title">‏‫فعال کردن سرویس‌های Google Play</string>
+    <string name="common_google_play_services_install_button">‏دریافت سرویس‌های Google Play</string>
+    <string name="common_google_play_services_install_text_phone">‏%1$s بدون سرویس‌های Google Play که در تلفن شما وجود ندارد، اجرا نمی‌شود.</string>
+    <string name="common_google_play_services_install_text_tablet">‏%1$s بدون سرویس‌های Google Play که در رایانه لوحی شما وجود ندارد، اجرا نمی‌شود.</string>
+    <string name="common_google_play_services_install_title">‏دریافت سرویس‌های Google Play</string>
+    <string name="common_google_play_services_invalid_account_text">حسابی که تعیین کردید در این دستگاه وجود ندارد. لطفاً حساب دیگری را انتخاب کنید.</string>
+    <string name="common_google_play_services_invalid_account_title">حساب نامعتبر است</string>
+    <string name="common_google_play_services_network_error_text">‏برای اتصال به سرویس‌های Google Play اتصال داده‌ لازم است.</string>
+    <string name="common_google_play_services_network_error_title">خطای شبکه</string>
+    <string name="common_google_play_services_notification_ticker">‏خطا در سرویس Google Play</string>
+    <string name="common_google_play_services_restricted_profile_text">دسترسی به حساب‌ها از یک نمایه محدودشده پشتیبانی ‌نمی‌شود.</string>
+    <string name="common_google_play_services_restricted_profile_title">نمایه محدودشده</string>
+    <string name="common_google_play_services_sign_in_failed_text">هنگام وارد شدن به سیستم حساب مشخص‌شده خطایی روی داد. لطفاً یک حساب دیگر انتخاب کنید.</string>
+    <string name="common_google_play_services_sign_in_failed_title">وارد سیستم نشد</string>
+    <string name="common_google_play_services_unknown_issue">‏%1$s در ارتباط با سرویس‌های Google Play با مشکل روبروست. اگر مشکل ادامه داشت، لطفاً برای دریافت کمک با برنامه‌نویس تماس بگیرید.</string>
+    <string name="common_google_play_services_unsupported_text">‏%1$s بر سرویس‌های Google Play متکی است که توسط دستگاهتان پشتیبانی نمی‌شود. برای دریافت کمک با سازنده تماس بگیرید.</string>
+    <string name="common_google_play_services_unsupported_title">‏سرویس‌های Google Play</string>
+    <string name="common_google_play_services_update_button">به‌روزرسانی</string>
+    <string name="common_google_play_services_update_text">‏تا وقتی سرویس‌های Google Play را به‌روزرسانی نکنید، %1$s اجرا نمی‌شود.</string>
+    <string name="common_google_play_services_update_title">‏‫به‌روزرسانی سرویس‌های Google Play</string>
+    <string name="common_google_play_services_updating_text">‏%1$s بدون سرویس‌های Google Play که درحال حاضر درحال به‌روزرسانی هستند، کار نمی‌کند.</string>
+    <string name="common_google_play_services_updating_title">‏سرویس‌‌های Google Play درحال به‌روزرسانی</string>
+    <string name="common_google_play_services_wear_update_text">‏نسخه جدید سرویس‌های Google Play نیاز است. به‌زودی به‌طور خودکار به‌روزرسانی می‌شود.</string>
+    <string name="common_open_on_phone">باز کردن در تلفن</string>
+    <string name="common_signin_button_text">ورود به سیستم</string>
+    <string name="common_signin_button_text_long">‏ورود به سیستم با Google‎</string>
+    <string name="status_bar_notification_info_overflow">۹۹۹+</string>
+    <string name="about_donation_summary">دریافت بسته حمایت مالی برای امکانات جانبی</string>
+    <string name="about_donation_summary_donated">امکانات اضافی آزمایشی می توانند از منوی اصلی فعال شوند.</string>
+    <string name="about_donation_title">حمایت مالی</string>
+    <string name="about_donation_title_donated">از حمایت شما ممنونیم</string>
+    <string name="about_licenses_title">مجوزها</string>
+    <string name="about_raise_your_voice_program_detail">"گرینیفای صدای مردم را برای شناختن بهتر تجربه دستگاه ها در ساختن برنامه ها به گوش سازنده های برنامه های گرینیفای شده می رساند.
+
+برای رساندن صدای شما، گرینیفای داده های بی نام و نشان بدون اطلاعات شخصی از شما جمع آوری می کند. شما میتوانید هروقت که خواستید انصراف دهید."</string>
+    <string name="about_raise_your_voice_program_summary">صدای شما میتواند یک تحول ایجاد کند!</string>
+    <string name="about_raise_your_voice_program_title">برنامه \"صداتو بالا ببر!\"</string>
+    <string name="about_translation_credit">Mahdi Mohammadi</string>
+    <string name="about_translation_title">ترجمه</string>
+    <string name="about_uninstall">حذف</string>
+    <string name="about_version_summary">به این برنامه امتیاز بدهید.</string>
+    <string name="about_version_title">نسخه</string>
+    <string name="accessibility_service_description">"این سرویس accessibility برای بعضی ویژگی‌های گرینیفای لازم است.
+
+به شما ممکن است اخطار امنیت اطلاعات خصوصی داده شود، آن فقط یک اخطار ساده است برای تمام سرویس های accessibility. ما به شما قول می‌دهیم که هیچ گاه در این سرویس accessibility اطلاعات شخصی را جمع آوری نکنیم.
+
+در برخی دستگاه‌های سامسونگ اگر هر سرویس accessibility فعال شود مشکل حرف زدن صدا پیدا می کنند. اگر شما هم این مشکل را دارید، راه حل آن در تنظیمات است."</string>
+    <string name="analysis_detail_alarm_with_wakeup">%1$d اجرا (شامل %2$d بیدارسازی)</string>
+    <string name="app_analyzer_name">بررسی کننده برنامه</string>
+    <string name="app_analyzer_subtitle">%1$d برنامه گزیده شد</string>
+    <string name="app_shortcut_hibernate">حالا به خواب زمستانی ببر</string>
+    <string name="app_shortcut_hibernate_lock">خواب زمستانی + قفل صفحه</string>
+    <string name="app_shortcut_nothing">هیچ‌چیز</string>
+    <string name="app_shortcut_wakeup">بیدار کن</string>
+    <string name="app_state_always_ignored">حالت همیشه برای به خواب زمستانی بردن چشم پوشی می شود</string>
+    <string name="app_state_hibernation_failed">%1$s پیش در به خواب رفتن مشکل پیش آمد</string>
+    <string name="app_state_provider_in_use">ارائه دهنده توسط %1$s اشغال است</string>
+    <string name="app_state_service_in_use">سرویس توسط %1$s اشغال است</string>
+    <string name="app_state_unsaveable">حالت غیر قابل بازیابی</string>
+    <string name="app_state_woken_by_activity">%1$s پیش رابط کاربری باز شد</string>
+    <string name="app_state_woken_by_app">%1$s پیش توسط %2$s بیدار شد</string>
+    <string name="app_state_woken_by_authenticator">%1$s پیش تصدیق شد</string>
+    <string name="app_state_woken_by_backup">%1$s پیش بکاپ اجرا شد</string>
+    <string name="app_state_woken_by_broadcast">%1$s پیش واضح آگاه شد</string>
+    <string name="app_state_woken_by_content_provider">%1$s پیش محتوا ارائه شد</string>
+    <string name="app_state_woken_by_push_msg">%1$s پیش فشار دریافت شد</string>
+    <string name="app_state_woken_by_search">%1$s پیش محتوا جستجو شد</string>
+    <string name="app_state_woken_by_service">%1$s پیش سرویس شروع شد</string>
+    <string name="app_state_woken_by_sync">%1$s پیش همگام سازی شد</string>
+    <string name="app_state_woken_by_widget">%1$s پیش ویجت بروزرسانی شد</string>
+    <string name="app_state_woken_directly">%1$s پیش مستقیما توسط %2$s بیدار شد</string>
+    <string name="app_title_service_disabled">Greenify(بدون خواب زمستانی خودکار)</string>
+    <string name="app_waker_google">سرویس های گوگل</string>
+    <string name="app_waker_system">سیستم اندروید</string>
+    <string name="app_waker_unknown">منبع ناشناخته</string>
+    <string name="device_admin_for_automation">خودکارساز گرینیفای</string>
+    <string name="device_admin_for_automation_description">به گرینیفای اجازه دهید تا صفحه را سریعا پس از خواب زمستانی خودکار خاموش کند.</string>
+    <string name="device_admin_warning_when_disabling">اگر غیر فعال شود،‌گرینیفای هنگامی که صفحه خاموش است قادر به هایبرنیت کردن خودکار نخواهد بود.</string>
+    <string name="dialog_app_picker_guide_button">برو به لانچر</string>
+    <string name="dialog_app_picker_guide_message">شما حال به لانچر برده می شوید. برنامه را باز کرده، سپس روی ناتیفیکیشن انتخابگر کلیک کنید تا برنامه را انتخاب کنید.</string>
+    <string name="dialog_app_picker_guide_title">چگونه برنامه انتخاب کنم</string>
+    <string name="dialog_button_cancel">لغو</string>
+    <string name="dialog_button_continue">ادامه</string>
+    <string name="dialog_button_insist">پافشاری</string>
+    <string name="dialog_button_later_by_oneself">بعدا انجام میدهم</string>
+    <string name="dialog_button_learn_more">بیشر یاد بگیر</string>
+    <string name="dialog_button_opt_in">Opt-in</string>
+    <string name="dialog_button_opt_out">Opt-out</string>
+    <string name="dialog_confirmation_unsafe_to_hibernate">برنامه های درون این بخش برای به خواب رفتن امن نیستند. هایبرنیت کردن به زور ممکن است موجب از بین بردن کارایی یا حتی پاک شدن اطلاعات شود.</string>
+    <string name="dialog_cutoff_message">"بستن مسیر بیدارسازی ممکن است امکانات آن برنامه یا برنامه های مربوط را خراب کند.
+
+اگر اتفاق بدی افتاد، لطفا مسیر را دوباره وصل کنید.
+
+تحت تاثیر: [%s]"</string>
+    <string name="dialog_cutoff_title">اخطار</string>
+    <string name="dialog_degreenified_message">باوجود اینکه آنرا از گرینیفای خارج کردید،‌برنامه تا زمانی که آنرا با مستقیم اجرا کردن بیدار نکنید،بازهم در خواب زمستانی خواهد ماند(و تمام امکانات پس زمینه‌ی آن کار نخواهد کرد)</string>
+    <string name="dialog_degreenified_title">توجه</string>
+    <string name="dialog_donation_corrupted_message">بسته حمایت مالی خراب است، دوباره از گوگل پلی نصب شود؟</string>
+    <string name="dialog_greenify_confirmation_message">آیا واقعا میخواهید گرینیفای %1$s شود؟</string>
+    <string name="dialog_greenifying_system_apps">گرینیفای کردن برنامه های سیستم در حال حاظر یک امکان آزمایشی است که فقط با بسته ی حمایت مالی امکان پذیر است.</string>
+    <string name="dialog_incompatible_rom_title">رام ناسازگار</string>
+    <string name="dialog_ingreenfiable_message_for_system_app">متاسفم، گرینیفای کردن برنامه های سیستم کار درستی نیست.</string>
+    <string name="dialog_ingreenfiable_title">غیرقابل گرینیفای کردن %1$s</string>
+    <string name="dialog_labs_incompatible_rom_message">مشکل در فعال سازی این امکان. ممکن است با رام شما همخوانی نداشته باشد.</string>
+    <string name="dialog_labs_operation_failure_message">کار به مشکل برخورد</string>
+    <string name="dialog_labs_state_set_failure_message">مشکل در ست کردن حالت امکان!</string>
+    <string name="dialog_message_donation_package_exclusive">"این قابلیت فعلا فقط در بسته ی حمایت مالی امکان پذیر است.
+
+بسته حمایت مالی را الان بخرید تا همه‌ی امکانات آزمایشی باز شوند."</string>
+    <string name="dialog_option_always_ignore_state">همیشه حالت اجرای آنرا نادیده بگیر</string>
+    <string name="dialog_root_operation_failure_message">مشکلی در اجرای این کار پیش آمد، لطفا مطمئن شوید که دسترسی روت داده شده.</string>
+    <string name="dialog_thank4donation_message">"از حمایت مالی شما برای پشتیبانی توسعه سپاسگزاریم.
+
+شما حال میتوانید امکانات اضافی آزمایشی را از منوی اصلی فعال کنید."</string>
+    <string name="dialog_thank4donation_title">سپاس</string>
+    <string name="dialog_title_confirmation">تاییدیه</string>
+    <string name="dialog_title_error">ارور</string>
+    <string name="dialog_verification_error_message">مشکل در تایید بسته حمایت مالی. لطفا ارتباط به شبکه را چک کنید.</string>
+    <string name="dialog_verification_fatal_error">مشکل در تایید حمایت مالی،‌ لطفا این ارور را گزارش دهید.</string>
+    <string name="dialog_version_mismatch_message">لطفا برنامه را به تازه ترین نسخه بروزرسانی کنید.</string>
+    <string name="dialog_version_mismatch_title">نسخه هماهنگ نیست.</string>
+    <string name="dialog_warning_for_greenifying_launcher">شما سعی دارید لانچر پیشفرض خودرا گرینیفای کنید،‌ گرینیفای کردن برنامه های متداول توصیه نمی شود.</string>
+    <string name="dialog_warning_title">اخطار</string>
+    <string name="dialog_xposed_module_inactive_message">ماژول گرینیفای برای Xposed هنوز فعال نشده. برای اینکه از این امکانات بهره گیرید باید نخست آنرا از Xposed Installer فعال کنید.</string>
+    <string name="event_capture_video">ویدیو گرفته شد</string>
+    <string name="event_connectivity_changes">اتصال به شبکه تغییر کند</string>
+    <string name="event_media_connect">حافظه جداشدنی وصل شد</string>
+    <string name="event_media_eject">حافظه جداشدنی خارج شد</string>
+    <string name="event_media_scan">حافظه اسکن شد</string>
+    <string name="event_postfix_volatile">(ممکن است با حالت تغییر کند)</string>
+    <string name="event_power_connected">برق وصل شود</string>
+    <string name="event_power_disconnected">برق قطع شود</string>
+    <string name="event_take_photo">عکس گرفته شد</string>
+    <string name="event_unlock_keyguard">محافظه کلیدها باز شود</string>
+    <string name="event_update_apps">برنامه بروزرسانی شد</string>
+    <string name="guide_btn_activate_module">فعال سازی ماژول، ریبوت</string>
+    <string name="guide_btn_install_xposed_installer">نصب Xposed Installer</string>
+    <string name="guide_btn_setup_xposed_framework">ستاپ فریم‌ورک Xposed</string>
+    <string name="guide_link_why_xposed">برای چه به فریم‌ورک Xposed نیاز دارم؟</string>
+    <string name="guide_sub_title">فریم‌ورک قدرتمند مُد</string>
+    <string name="guide_title">راهنمای ستاپ Xposed</string>
+    <string name="menu_about">درباره</string>
+    <string name="menu_action_accept">قبول</string>
+    <string name="menu_action_cutoff">مسیر بیدار شدن را ببر</string>
+    <string name="menu_action_cutoff_condensed">بریدن</string>
+    <string name="menu_action_greenify">جادوی گرینیفای</string>
+    <string name="menu_action_greenify_condensed">گرینیفای...</string>
+    <string name="menu_action_hibernate">همین الان به خواب زمستانی ببر</string>
+    <string name="menu_action_hibernate_condensed">به خواب زمستانی ببر</string>
+    <string name="menu_action_hide">پنهان کن</string>
+    <string name="menu_action_pick">انتخاب برنامه برای گرینیفای</string>
+    <string name="menu_action_pick_condensed">انتخاب برنامه</string>
+    <string name="menu_action_reattach">مسیرهای بیدار شدنش را دوباره وصل کن</string>
+    <string name="menu_action_reattach_condensed">دوباره وصل کن</string>
+    <string name="menu_action_reconsider_state">درباره حالت آن تجدیدنظر کن</string>
+    <string name="menu_action_refresh">بازگذاری دوباره</string>
+    <string name="menu_action_run">اجرا کن</string>
+    <string name="menu_action_ungreenify">نرم افزار انتخاب شده را از گرینیفای در بیاور.</string>
+    <string name="menu_action_ungreenify_condensed">از گرینیفای در بیاور.</string>
+    <string name="menu_action_unhide_all">نشان دادن همه</string>
+    <string name="menu_create_shortcut">ساخت شورتکات خواب زمستانی</string>
+    <string name="menu_disable_service">غیرفعال سازی خواب زمستانی خودکار</string>
+    <string name="menu_enable_service">فعال سازی خواب زمستانی خودکار</string>
+    <string name="menu_reset_gesture">ریست کردن گسچر \"بالاکشیدن\"</string>
+    <string name="no_app_picked">هیچ برنامه ای گزیده نشده</string>
+    <string name="notification_app_picker_text">برنامه‌تان را باز کرده، سپس اینجا را بزنید تا آنرا انتخاب کنید.</string>
+    <string name="notification_app_picker_ticker">"نخست برنامه‌تان را اجرا کنید.
+سپس این آگاه ساز انتخابگر برنامه را بزنید."</string>
+    <string name="notification_app_picker_title">انتخابگر برنامه برای گرینیفای</string>
+    <string name="notification_listener_title">نگه‌دارنده ناتیفیکیشن‌ها</string>
+    <string name="notification_text_workaround_talking">اگر شما به صورت رندوم صدای حرف زدن را تجربه می کنید</string>
+    <string name="notification_timer_coalesced_subtext">تنظیم شده بطور خودکار توسط گرینیفای</string>
+    <string name="notification_timer_coalesced_title">تایمر دوره ای آمیخته شد</string>
+    <string name="notification_title_workaround_talking">راه حل برای مشکل حرف زدن</string>
+    <string name="placeholder_show_all">نمایش برنامه های بیشتر</string>
+    <string name="prefs_cat_donation_only_features">نیازمند بسته حمایت مالی</string>
+    <string name="prefs_cat_experimental_features">قابلیت های آزمایشی</string>
+    <string name="prefs_cat_xposed_donation_features">نیازمند بسته حمایت مالی و Xposed</string>
+    <string name="prefs_cat_xposed_only_features">نیازمند فریم‌ورک Xposed</string>
+    <string name="prefs_labs_automated_hibernation_title">خواب زمستانی خودکار (4.1+)</string>
+    <string name="prefs_labs_block_notification_abuse_summary">بعضی برنامه ها از آسیب‌پذیری‌های اندروید (پیش از 4.3) سوء استفاده می کنند تا از اولویت ناعادلانه ای بهره مند شوند و حتی در مواقعی که حافظه رَم کم است در آن بمانند. آن برنامه ها به اشتباه در گرینیفای به عنوان \"قابل درک\" شناخته می شوند و به خواب زمستانی نمیروند.</string>
+    <string name="prefs_labs_block_notification_abuse_title">جلوگیری از سوء استفاده‌ وضعیت برنامه</string>
+    <string name="prefs_labs_boost_mode_summary">اجازه به پیام های شبکه برای فعال شدن از حالت خاموشی مجدد</string>
+    <string name="prefs_labs_boost_mode_title">حالت boost</string>
+    <string name="prefs_labs_gcm_push_summary">"به پیام GCM push اجازه دهید تا برنامه های هایبرنیت شده را بیدار کند، مگر آنکه نوتیفیکیشن های آنها توسط سیستم غیرفعال شده باشد
+لطفا همچنین \"نگه داشتن آگاه‌سازها\" را فعال کنید تا آگاه‌سازها را پس از دوباره به خواب زمستانی فرستادن از دست ندهید."</string>
+    <string name="prefs_labs_gcm_push_title">حالت GCM push برای برنامه های گرینیفای شده</string>
+    <string name="prefs_labs_reveal_hidden_sync_title">آشکار کردن همگام‌سازی پنهان</string>
+    <string name="prefs_labs_root_mode_summary_boost">کار کردن در حالت \"Boost\" (پایین را بخوانید) که حالت توصیه شده است.</string>
+    <string name="prefs_labs_system_apps_limited_title">گرینیفای کردن برنامه های سیستم (محدود)</string>
+    <string name="prefs_labs_system_apps_summary">محروم کردن برنامه های سیستم از مصونیت برای Hibernate شدن، بیشتر آنهارا قابل گرینیفای شدن بساز.</string>
+    <string name="prefs_labs_system_apps_title">گرینیفای کردن برنامه های سیستم</string>
+    <string name="prefs_labs_telephony_wakeup_summary">به رویدادهای تلفنی مانند زنگ، اس ام اس اجازه بده برنامه های هایبرنت شده را بیدار کنند تا برنامه های گیرینیفای شده مربوط به اس ام اس یا زنگ درست کار کنند.</string>
+    <string name="prefs_labs_telephony_wakeup_title">بیدار کردن تلفن</string>
+    <string name="prefs_labs_timer_coalescing_summary">یکی کردن تایمر دوره ای CPU برای همه برنامه ها (نه فقط برنامه های مخصوص 4.4+)، برای کاهش اتلاف باتری در بیدار شدن های متفرق کننده ی سی پی یو (نیازمند اندروید 4.4+)</string>
+    <string name="prefs_labs_timer_coalescing_title">یکی شدن تایمر بیدار شدن (4.4+)</string>
+    <string name="prefs_labs_wakeup_tracker_summary">ردیابی می کند که چه برنامه ای برنامه های گرینیفای شده را بیدار کرده، و سپس بطور اختیاری مسیر بیدار کردن آن را میبرد تا از هرگونه بیدار شدن بعدی جلوگیری کند.</string>
+    <string name="prefs_labs_wakeup_tracker_title">ردیاب بیدار شدن و بریدن مسیر</string>
+    <string name="prefs_labs_working_mode_title">حالت کار</string>
+    <string name="progress_be_hibernating">در حال بردن به خواب زمستانی...</string>
+    <string name="section_alarm">فهرست برنامه های در حال اجرا(از زمان آخرین راه اندازی)</string>
+    <string name="section_alarm_tips">"این برنامه ها برنامه ریزی شده اند برای اجرای پنهانی،یعنی ممکن است دستگاه را کند کنند و مصرف باتری را بالا ببرند.
+
+حواستان به آنهایی که دستگاه شما را زود به زود بیدار میکند باشد."</string>
+    <string name="section_all_apps">بیشتر</string>
+    <string name="section_hibernated">به خواب زمستانی فرو رفت</string>
+    <string name="section_pending">در انتظار خواب زمستانی دستی</string>
+    <string name="section_pending_auto">پس از چند دقیقه پس از خاموش شدن صفحه هایبرنیت می‌کند.</string>
+    <string name="section_pending_tip_nonroot">این برنامه های فعال شدند و برای غیرفعال شدن باید به صورت دستی آنها را به خواب زمستانی برگردانید.</string>
+    <string name="section_postponed">بطور خودکار به خواب نمیرود</string>
+    <string name="section_postponed_tip">گرینیفای به صورت اتوماتیک این برنامه ها را غیرفعال(خواب زمستانی)نمی کند که ناشی از دلایل ذکر شده می باشد،مگر اینکه شرایط بعدا تغییر کند.</string>
+    <string name="section_receiver">ممکن است دستگاه را کند کنند وقتی...</string>
+    <string name="section_receiver_tip">"این برنامه ها ممکن است دستگاه را هنگام اتفاق بعضی رویدادها کند کنند،در حد دلخواه.
+
+برنامه های بیشتر در این قسمت،سرعت کمتر"</string>
+    <string name="section_service">در حال اجرا در پس زمینه</string>
+    <string name="section_service_tip">"برنامه های در حال اجرا در پس زمینه مقدار مشخصی از حافظه را اشغال میکنند و ممکن است دستگاه را در حد دلخواه کند کنند.
+
+این لیست را تا حد ممکن کوتاه نگه دارید."</string>
+    <string name="service_cleaner">خواباندن خودکار</string>
+    <string name="showcase_accessibility_setting">فعال سازی عملکرد خودکار</string>
+    <string name="showcase_manual_hibernation_automation">این کار دستی میتواند با یک سرویس accessibility ارائه شده همراه گرینیفای خودکار انجام شود.</string>
+    <string name="showcase_manual_hibernation_desc">بنا بر محدودیت های سیستم اندروید، خواب زمستانی باید به این روش صورت گیرد. لطفا دکمه \"Force stop\" بالا را بزنید تا به خواب زمستانی برود.</string>
+    <string name="showcase_manual_hibernation_title">خواب زمستانی دستی</string>
+    <string name="toast_accessibility_setting">سرویس accessibility گرینیفای را از اینجا فعال یا غیرفعال کنید.</string>
+    <string name="toast_action_undo">برگردان</string>
+    <string name="toast_already_greenified">\"%1$s\" از قبل گرینیفای شده بود.</string>
+    <string name="toast_app_no_launcher_entry">این برنامه ورودی لانچر ندارد.</string>
+    <string name="toast_apps_hibernated">%1$s به خواب زمستانی رفت.</string>
+    <string name="toast_apps_hidden">برنامه های پنهان</string>
+    <string name="toast_auto_hibernation_failure_tip">"لطفا مطمئن شوید که دسترسی روت برای برنامه گرینفای فراهم شده ( برخی از ابزار مدیریت روت نیازمند تایید دوباره جهت دستیابی روت پس از هر آپدیت برنامه هستند.)
+
+اگر هنوز هم شما با عدم عملکرد هایبرنیت مواجه هستید لطفا ابزار دیگری برای مدیریت روت یا از Boost mode در قسمت قابلیت های آزمایشی استفاده نمایید"</string>
+    <string name="toast_cannot_switch_to_launcher">مشکل در رفتن به لانچر شما، لطفا خودتان کلید خانه را بزنید.</string>
+    <string name="toast_failed_to_greenify">مشکل در گرینیفای کردن %1$s.</string>
+    <string name="toast_gcm_tip">"جی سی ام یا سیستم ابری پیام ها با این نرم افزار یکپارچه شده ، و ممکن است برای اطلاع رسانی های شبکه ای مورد کاربرد باشد. اگر توسط گرینفای ویرایش شود ممکن است به درستی عمل نکند 
+
+یک قابلیت آزمایشی برای فعال کردن این قابلیت در اپ ها در نسخه حمایت مالی این نرم افزار گنجانده شده."</string>
+    <string name="toast_gesture_reset">رفتار پیشفرض گسچر بالاکشیدن روی دکمه خانه ریست کردن است.</string>
+    <string name="toast_hibernation_failure">مشکل در فرستادن %1$s به خواب زمستانی</string>
+    <string name="toast_need_reboot">تا ریبوت بعدی امکان پذیر نیست.</string>
+    <string name="toast_none_hibernated">هیچ برنامه ای نیاز به خواب زمستانی رفتن ندارد.</string>
+    <string name="toast_opted_in">از شما برای شراکت سپاسگزاریم!</string>
+    <string name="toast_opted_out">دیگر هیچ اطلاعات بی نامی از شما جمع نخواهد شد.</string>
+    <string name="toast_service_disabled">"خواب زمستانی خودکار غیرفعال است.
+برنامه های گرینیفای شده دیگر خود به خود به خواب زمستانی نخواهند رفت."</string>
+    <string name="toast_service_enabled">خواب زمستانی خودکار فعال است.</string>
+    <string name="toast_shortcut_created">یک شورتکات روی لانچر شما جهت خواب زمستانی با یک کلیک ایجاد شد.</string>
+    <string name="toast_tasker_wakeup_unavail_in_nonroot">متاسفانه این قابلیت فقط در حالت روت ممکن است.</string>
+    <string name="wizard_step_enjoy">لذت ببرید</string>
+    <string name="wizard_step_enjoy_desc">تجربه ی روان و بادوام مانند روز اول.</string>
+    <string name="wizard_step_forget">از یاد ببر (فقط روت)</string>
+    <string name="wizard_step_forget_desc">درباره تمیز کردن خانه، بگذارید گرینیفای آن را برای شما بی سر و صدا انجام دهد.</string>
+    <string name="wizard_step_greenify">گرینیفای</string>
+    <string name="wizard_step_greenify_desc">برنامه های انگل باتری، پر کننده حافظه و مخفی کار</string>
+    <string name="app_state_wakeup_paths_cutoff">راه های بیدار شدن قطع شد</string>
+    <string name="app_waker_root">روت</string>
+    <string name="app_waker_shell">پوسته</string>
+    <string name="dialog_full_cutoff_message">"بستن همه‌ی راه‌های بیدار شدن شاید کارکرد این برنامه یا برنامه های مربوط را مختل کند.
+
+اگر اتفاق بدی افتاد لطفا راه را دوباره وصل کنید."</string>
+    <string name="event_wifi_scan">وایفای اسکن شده</string>
+    <string name="prefs_labs_automated_hibernation_summary">برای حالت بدون روت، میزان دقیقه های خواب زمستانی رفتن پس از خاموش شدن صفحه خودکار تنظیم کن. این کار صفحه را روشن می کند، خواب زمستانی را انجام می دهد و صفحه را دوباره خاموش می کند. (نیازمند اندروید 4.1+، Acessibility، Device Admin و key-guard ناامن)</string>
+    <string name="prefs_labs_reveal_hidden_sync_summary">آشکار‌سازی همگام‌سازی‌های پنهانی حسابها در \"Settings - Accounts\" با پسوند \"*\".</string>
+    <string name="prefs_labs_root_mode_summary_off">در حال کارکردن در حالت بدون روت. اگر دستگاه شما روت شده است، لطفا این گزینه را برای حداکثر توان گرینیفای فعال کنید.</string>
+    <string name="prefs_labs_root_mode_summary_on">کار کردن در حالت روت، اگر دستگاه شما روت نشده لطفا این گزینه را جهت کارکرد درست غیرفعال کنید.</string>
+    <string name="prefs_labs_system_apps_limited_summary">از مصونیت برخی برنامه های سیستم در برابر خواب زمستانی جلوگیری کن، و آنها را قابل گرینیفای کردن بکن. بنابر محدودیت‌های فنی، برنامه های خواب سیستم ممکن است به اندازه ی برنامه های غیر سیستم بی صدا نباشند، و برخی برنامه های دیگر سیستم هم هنوز میتوانند با نسخه برپایه ی Xposed این ویژگی گرینیفای شوند.</string>
+    <string name="service_wakeup_monitor">صفحه را بیدار کن</string>
+    <string name="toast_app_ingreenifiable">ببخشید، %1$s قابل گرینیفای شدن نیست.</string>
+    <string name="toast_apps_not_hibernating">نمی خوابد: %1$s</string>
+    <string name="toast_auto_hibernation_oos">سرویس هایبرنیت خودکار متوقف شده، اگر این پیام زیاد نشان داده میشود، سرویس پس زمینه ممکن است توسط تنظیمات سیستم یا ابزارهای دیگه قفل شده باشد. (مانند حالت Stamina در گوشی های سونی و AutoStart Manager در MIUI) لطفا در صورت امکان تنظیمات مربوط را کنترل کرده و گرینیفای را در لیست سفید اضافه کنید.</string>
+    <string name="toast_auto_hibernation_restarting">سرویس هایبرنیت خودکار در حال شروع دوباره است... (به دلیل مقدار کم حافظه خالی)</string>
+    <string name="toast_no_auto_hibernation_for_secure_keyguard">متاسفانه هایبرنیت خودکار اگر Secure key-guard فعال باشد نمیتواند کار کند. شما می توانید به جای آن از شورتکات \"خواب زمستانی و قفل صفحه\" استفاده کنید.</string>
+    <string name="toast_no_auto_hibernation_for_secure_keyguard_with_navbar">متاسفانه خواباندن خودکار در صورتی که Secure key-guard تنظیم شده کار نخواهد کرد. Soft-key حرکت ٬کشیدن به سمت بالا٬ روی ٬خانه٬ برای شورتکات ٬هایبرنیت و قفل صفحه٬ توصیه می شود.</string>
+    <string name="app_state_critical">بحرانی</string>
+    <string name="app_state_working">درحال کار</string>
+    <string name="dialog_button_activate">فعال کن</string>
+    <string name="dialog_google_sign_in">به اکانت گوگل خود وارد شوید تا بسته‌ی حمایت مالی را فعال کنید.</string>
+    <string name="dialog_non_root_auto_hibernation_incompatible_rom_message">متاسفانه هایبرنیت خودکار دستگاه (یا رام) شما را هنوز پشتیبانی نمی‌کند.</string>
+    <string name="dialog_verifying_donation_package">درحال تایید بسته حمایت مالی شما...</string>
+    <string name="service_accessibility">گرینیفای - هایبرنیت خودکار</string>
+    <string name="service_accessibility_description">خواب زمستانی برنامه را خودکار کن (برای دستگاه بدون روت). غیرفعال کردن این سرویس هایبرنیت کردن خودکار را منحل خواهد کرد.</string>
+    <string name="state_disabled">غیرفعال</string>
+    <string name="state_enabled">فعال</string>
+    <string name="menu_settings">تنظیمات</string>
+    <string name="prefs_cat_about">درباره</string>
+    <string name="prefs_labs_automated_hibernation_summary_incompatible">متاسفانه هنوز با این رام سازگار نیست.</string>
+    <string name="prefs_learn_more">بیشتر یادبگیرید (آنلاین)</string>
+    <string name="toast_action_guide">راهنمایی</string>
+    <string name="toast_action_troubleshoot">یافتن مشکلات</string>
+    <string name="toast_assist_app_setting_guide">در \"Assist app\" لطفا گرینیفای را انتخاب کنید.</string>
+    <string name="toast_donation_package_not_found">متاسفانه بسته حمایت مالی در اکانت گوگل شما یافت نشد.</string>
+    <string name="toast_need_accessibility_service">سرویس Accessibility گرینیفای باید فعال شده باشد تا هایبرنیت خودکار شود.</string>
+    <string name="toast_need_device_admin">Device-admin گرینیفای باید فعال شده باشد تا هایبرنیت خودکار هنگام خاموش شدن صفحه صورت گیرد.</string>
+    <string name="section_pending_charging">هنگام شارژ خواب زمستانی نادیده گرفته شد</string>
+</resources>

@@ -1,0 +1,350 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_home_description">Перейти на главный экран</string>
+    <string name="abc_action_bar_home_description_format">%1$s, %2$s</string>
+    <string name="abc_action_bar_home_subtitle_description_format">%1$s, %2$s, %3$s</string>
+    <string name="abc_action_bar_up_description">Перейти вверх</string>
+    <string name="abc_action_menu_overflow_description">Другие параметры</string>
+    <string name="abc_action_mode_done">Готово</string>
+    <string name="abc_activity_chooser_view_see_all">Показать все</string>
+    <string name="abc_activitychooserview_choose_application">Выбрать приложение</string>
+    <string name="abc_capital_off">ОТКЛ.</string>
+    <string name="abc_capital_on">ВКЛ.</string>
+    <string name="abc_search_hint">Поиск</string>
+    <string name="abc_searchview_description_clear">Удалить запрос</string>
+    <string name="abc_searchview_description_query">Поисковый запрос</string>
+    <string name="abc_searchview_description_search">Поиск</string>
+    <string name="abc_searchview_description_submit">Отправить запрос</string>
+    <string name="abc_searchview_description_voice">Голосовой поиск</string>
+    <string name="abc_shareactionprovider_share_with">Открыть доступ</string>
+    <string name="abc_shareactionprovider_share_with_application">Открыть доступ пользователю %s</string>
+    <string name="abc_toolbar_collapse_description">Свернуть</string>
+    <string name="common_google_play_services_api_unavailable_text">Сервисы Google Play, необходимые для работы с приложением \"%1$s\", сейчас недоступны. Обратитесь за помощью к разработчику.</string>
+    <string name="common_google_play_services_enable_button">Включить</string>
+    <string name="common_google_play_services_enable_text">Для работы приложения \"%1$s\" требуется включить сервисы Google Play.</string>
+    <string name="common_google_play_services_enable_title">Включите сервисы Google Play</string>
+    <string name="common_google_play_services_install_button">Установить</string>
+    <string name="common_google_play_services_install_text_phone">Для работы приложения \"%1$s\" требуется установить сервисы Google Play.</string>
+    <string name="common_google_play_services_install_text_tablet">Для работы приложения \"%1$s\" требуется установить сервисы Google Play.</string>
+    <string name="common_google_play_services_install_title">Установите сервисы Google Play</string>
+    <string name="common_google_play_services_invalid_account_text">Этого аккаунта нет на устройстве. Выберите другой.</string>
+    <string name="common_google_play_services_invalid_account_title">Недействительный аккаунт</string>
+    <string name="common_google_play_services_network_error_text">Для работы с Google Play требуется подключение к сети передачи данных.</string>
+    <string name="common_google_play_services_network_error_title">Ошибка сети</string>
+    <string name="common_google_play_services_notification_ticker">Ошибка сервисов Google Play</string>
+    <string name="common_google_play_services_restricted_profile_text">У вашего профиля нет доступа к аккаунтам.</string>
+    <string name="common_google_play_services_restricted_profile_title">Профиль с ограниченным доступом</string>
+    <string name="common_google_play_services_sign_in_failed_text">При входе в указанный аккаунт произошла ошибка. Выберите другой.</string>
+    <string name="common_google_play_services_sign_in_failed_title">Ошибка входа</string>
+    <string name="common_google_play_services_unknown_issue">Приложению \"%1$s\" не удается подключиться к сервисам Google Play. Если проблема не исчезнет, обратитесь к разработчику.</string>
+    <string name="common_google_play_services_unsupported_text">Сервисы Google Play, необходимые для работы приложения \"%1$s\", не поддерживаются на вашем устройстве. Обратитесь к производителю.</string>
+    <string name="common_google_play_services_unsupported_title">Сервисы Google Play</string>
+    <string name="common_google_play_services_update_button">Обновить</string>
+    <string name="common_google_play_services_update_text">Для работы приложения \"%1$s\" требуется обновить сервисы Google Play.</string>
+    <string name="common_google_play_services_update_title">Обновите сервисы Google Play</string>
+    <string name="common_google_play_services_updating_text">Сервисы Google Play, необходимые для работы приложения \"%1$s\", в настоящий момент обновляются.</string>
+    <string name="common_google_play_services_updating_title">Обновление сервисов Google Play…</string>
+    <string name="common_google_play_services_wear_update_text">Версия сервисов Google Play устарела. Они автоматически обновятся в ближайшее время.</string>
+    <string name="common_open_on_phone">Открыть на телефоне</string>
+    <string name="common_signin_button_text">Войти</string>
+    <string name="common_signin_button_text_long">Войти через аккаунт Google</string>
+    <string name="status_bar_notification_info_overflow">>999</string>
+    <string name="about_donation_summary">Приобретите платную версию для использования дополнительных функций</string>
+    <string name="about_donation_summary_donated">Дополнительные экспериментальные функции могут быть включены в главном меню.</string>
+    <string name="about_donation_title">Пожертвовать</string>
+    <string name="about_donation_title_donated">Спасибо за пожертвование</string>
+    <string name="about_licenses_title">Лицензии</string>
+    <string name="about_raise_your_voice_program_detail">"Greenify® запустило эту программу, чтобы дать знать о сообществе разработчикам гринифицируемых приложений и улучшить понимание использования устройств при разработке приложений.
+
+Для этого Greenify® собирает анонимные данные без частной информации. Вы можете отключить сбор данных в любое время."</string>
+    <string name="about_raise_your_voice_program_summary">Ваш голос может помочь!</string>
+    <string name="about_raise_your_voice_program_title">Программа \"Raise Your Voice!\"</string>
+    <string name="about_translation_credit">Зотов Александр (Zotmen), Хлебов Михаил (ntvampire), Степанов Максим (TechNick.Max), Черногаев Дмитрий (gaich).</string>
+    <string name="about_translation_title">Перевод</string>
+    <string name="about_uninstall">Удалить</string>
+    <string name="about_version_summary">Оцените это приложение.</string>
+    <string name="about_version_title">Версия</string>
+    <string name="accessibility_service_description">"Сервис \"Специальные возможности\" требуется для некоторых специальных функций в Greenify®.
+
+Вы можете быть предупреждены о потенциальной опасности, связанной с конфиденциальностью, это обычное информационное сообщение для сервиса \"Специальные возможности\". Мы обещаем НИКОГДА не собирать Вашу личную информацию.
+
+Некоторые устройства Samsung имеют проблему с функцией Voice Talk (голосовое управление телефоном), если включен сервис \"Специальные возможности\". Устранить эту проблему можно в \"Настройках\" здесь."</string>
+    <string name="analysis_detail_alarm_with_wakeup">%1$d запусков (включая %2$d пробуждений)</string>
+    <string name="app_analyzer_name">Анализ приложений</string>
+    <string name="app_analyzer_subtitle">%1$d прил. выбрано</string>
+    <string name="app_shortcut_hibernate">Усыпить</string>
+    <string name="app_shortcut_hibernate_lock">Гибернация + экр.блокировки</string>
+    <string name="app_shortcut_nothing">Ничего</string>
+    <string name="app_shortcut_wakeup">Разбудить</string>
+    <string name="app_state_always_ignored">Состояние всегда игнорируется для гибернации</string>
+    <string name="app_state_hibernation_failed">%1$s назад не удалось усыпить</string>
+    <string name="app_state_provider_in_use">Провайдер используется %1$s</string>
+    <string name="app_state_service_in_use">Служба используется %1$s</string>
+    <string name="app_state_unsaveable">Невосстановленные</string>
+    <string name="app_state_woken_by_activity">%1$s назад открыт интерфейс пользователя</string>
+    <string name="app_state_woken_by_app">%1$s назад просыпалось на %2$s</string>
+    <string name="app_state_woken_by_authenticator">%1$s назад авторизовалось</string>
+    <string name="app_state_woken_by_backup">%1$s назад был сделан бэкап</string>
+    <string name="app_state_woken_by_broadcast">%1$s назад явно уведомлено</string>
+    <string name="app_state_woken_by_content_provider">%1$s назад был предоставлен контент</string>
+    <string name="app_state_woken_by_push_msg">%1$s назад получено Push-уведомление</string>
+    <string name="app_state_woken_by_search">%1$s назад был поиск контента</string>
+    <string name="app_state_woken_by_service">%1$s назад запущен сервис</string>
+    <string name="app_state_woken_by_sync">%1$s назад синхронизировалось</string>
+    <string name="app_state_woken_by_widget">%1$s назад обновился виджет</string>
+    <string name="app_state_woken_directly">%1$s назад разбужены непосредственно %2$s</string>
+    <string name="app_title_service_disabled">Greenify (автогибернация отключена)</string>
+    <string name="app_waker_google">Сервисы Google</string>
+    <string name="app_waker_system">Система Android</string>
+    <string name="app_waker_unknown">неизвестный источник</string>
+    <string name="device_admin_for_automation">Автоматизатор Greenify</string>
+    <string name="device_admin_for_automation_description">Разрешение Greenify немедленно отключать экран после автоматизированной гибернации.</string>
+    <string name="device_admin_warning_when_disabling">Если отключено, Greenify не сможет автоматизировать гибернацию при выключенном экране.</string>
+    <string name="dialog_app_picker_guide_button">Перейти в лончер</string>
+    <string name="dialog_app_picker_guide_message">Теперь перейдите в лончер. Откройте приложение, затем нажмите на уведомлении, чтобы выбрать это приложение.</string>
+    <string name="dialog_app_picker_guide_title">Как выбрать приложение</string>
+    <string name="dialog_button_cancel">Отмена</string>
+    <string name="dialog_button_continue">Продолжить</string>
+    <string name="dialog_button_insist">Настоять</string>
+    <string name="dialog_button_later_by_oneself">Я сделаю это позже</string>
+    <string name="dialog_button_learn_more">Узнать больше</string>
+    <string name="dialog_button_opt_in">Включить передачу статистики</string>
+    <string name="dialog_button_opt_out">Отключить передачу статистики</string>
+    <string name="dialog_confirmation_unsafe_to_hibernate">Приложение в этом состоянии усыплять небезопасно. Принудительное усыпление может вызвать проблемы с работоспособностью или даже потерю данных.</string>
+    <string name="dialog_cutoff_message">"Отсекание пути пробуждения может нарушить функциональность этой программы или зависящих от нее приложений.
+
+Если что-то идёт не так, отмените отсекание.
+
+Затронуты: [%s]"</string>
+    <string name="dialog_cutoff_title">Предупреждение</string>
+    <string name="dialog_degreenified_message">Несмотря на то, что приложение разгринифицировано, оно все еще остается в режиме сна (вся его фоновая функциональность не работает), пока Вы не разбудите его непосредственным запуском.</string>
+    <string name="dialog_degreenified_title">Внимание</string>
+    <string name="dialog_donation_corrupted_message">Платная версия повреждена. Переустановить ее из Google Play?</string>
+    <string name="dialog_greenify_confirmation_message">Вы действительно хотите гринифицировать %1$s</string>
+    <string name="dialog_greenifying_system_apps">Усыпление системных приложений - это экспериментальная функция и доступна только в платной версии.</string>
+    <string name="dialog_incompatible_rom_title">Несовместимая прошивка</string>
+    <string name="dialog_ingreenfiable_message_for_system_app">Извините, гринифицировать системные приложения в целом небезопасно.</string>
+    <string name="dialog_ingreenfiable_title">Невозможно усыпить %1$s</string>
+    <string name="dialog_labs_incompatible_rom_message">Не удалось активировать эту функцию. Возможно, она несовместима с Вашей прошивкой.</string>
+    <string name="dialog_labs_operation_failure_message">Операция не выполнена.</string>
+    <string name="dialog_labs_state_set_failure_message">Не удалось установить значение функции!</string>
+    <string name="dialog_message_donation_package_exclusive">"Эта функция в настоящее время доступна только в платной версии Greenify.
+
+Приобретите платную версию сейчас, чтобы разблокировать все экспериментальные возможности."</string>
+    <string name="dialog_option_always_ignore_state">Всегда игнорировать рабочее состояние</string>
+    <string name="dialog_root_operation_failure_message">Не удалось выполнить эту операцию. Пожалуйста, убедитесь что рут-права предоставлены.</string>
+    <string name="dialog_thank4donation_message">"Спасибо за Ваше пожертвование для поддержки разработки!
+
+Теперь Вы можете активировать экспериментальные функции в главном меню."</string>
+    <string name="dialog_thank4donation_title">Спасибо</string>
+    <string name="dialog_title_confirmation">Подтверждение</string>
+    <string name="dialog_title_error">Ошибка</string>
+    <string name="dialog_verification_error_message">Не удалось подтвердить оплату. Пожалуйста, проверьте Ваше подключение к интернету и попробуйте ещё раз.</string>
+    <string name="dialog_verification_fatal_error">Невозможно проверить пожертвование, пожалуйста, сообщите об этой ошибке.</string>
+    <string name="dialog_version_mismatch_message">Пожалуйста, обновите это приложение до последней версии.</string>
+    <string name="dialog_version_mismatch_title">Несовпадение версий</string>
+    <string name="dialog_warning_for_greenifying_launcher">Вами произведена попытка гринификации лончера по умолчанию. Не рекомендуется гринифицировать часто используемые приложения.</string>
+    <string name="dialog_warning_title">Предупреждение</string>
+    <string name="dialog_xposed_module_inactive_message">Модуль Greenify® в Xposed еще не активирован. Вы должны активировать его в Xposed Installer, чтобы использовать эти функции.</string>
+    <string name="event_capture_video">снято видео</string>
+    <string name="event_connectivity_changes">сетевые подключения изменены</string>
+    <string name="event_media_connect">подключен внешний накопитель</string>
+    <string name="event_media_eject">извлечён внешний накопитель</string>
+    <string name="event_media_scan">сканирование хранилища</string>
+    <string name="event_postfix_volatile">(может меняться в зависимости от состояния)</string>
+    <string name="event_power_connected">питание включено</string>
+    <string name="event_power_disconnected">питание отключено</string>
+    <string name="event_take_photo">выполнена фотография</string>
+    <string name="event_unlock_keyguard">клавиатура разблокирована</string>
+    <string name="event_update_apps">приложение обновлено</string>
+    <string name="guide_btn_activate_module">Активация модуля, перезагрузка</string>
+    <string name="guide_btn_install_xposed_installer">Установка Xposed Installer</string>
+    <string name="guide_btn_setup_xposed_framework">Настройка Xposed Framework</string>
+    <string name="guide_link_why_xposed">Зачем нужен Xposed Framework?</string>
+    <string name="guide_sub_title">Мощный фреймворк для изменений</string>
+    <string name="guide_title">Руководство по установке Xposed</string>
+    <string name="menu_about">О приложении</string>
+    <string name="menu_action_accept">Принять</string>
+    <string name="menu_action_cutoff">Отсечь путь пробуждения</string>
+    <string name="menu_action_cutoff_condensed">Отсечь</string>
+    <string name="menu_action_greenify">Мастер настроек Greenify®</string>
+    <string name="menu_action_greenify_condensed">Greenify...</string>
+    <string name="menu_action_hibernate">Усыпить сейчас</string>
+    <string name="menu_action_hibernate_condensed">Спящие</string>
+    <string name="menu_action_hide">Скрыть</string>
+    <string name="menu_action_pick">Выберите приложение для гринификации</string>
+    <string name="menu_action_pick_condensed">Выберите приложение</string>
+    <string name="menu_action_reattach">Вернуть пути пробуждения</string>
+    <string name="menu_action_reattach_condensed">Отменить отсекание</string>
+    <string name="menu_action_reconsider_state">Пересмотреть это состояние</string>
+    <string name="menu_action_refresh">Обновить</string>
+    <string name="menu_action_run">Запуск</string>
+    <string name="menu_action_ungreenify">Разгринифицировать выбранное приложение</string>
+    <string name="menu_action_ungreenify_condensed">Разгринифицировать</string>
+    <string name="menu_action_unhide_all">Показать все</string>
+    <string name="menu_create_shortcut">Создать ярлык гибернации</string>
+    <string name="menu_disable_service">Отключить автогибернацию</string>
+    <string name="menu_enable_service">Включить автогибернацию</string>
+    <string name="menu_reset_gesture">Сброс вытягивания</string>
+    <string name="no_app_picked">Прил. не выбрано</string>
+    <string name="notification_app_picker_text">Запустите приложение, затем нажмите здесь, чтобы его выбрать.</string>
+    <string name="notification_app_picker_ticker">"Сначала запустите Ваше приложение.
+Затем нажмите на это уведомление для выбора приложения."</string>
+    <string name="notification_app_picker_title">Выбрать приложение для гринификации</string>
+    <string name="notification_listener_title">Сохранение уведомлений</string>
+    <string name="notification_text_workaround_talking">При возникновении проблемы с произвольными голосовыми сообщениями</string>
+    <string name="notification_timer_coalesced_subtext">Автоматически оптимизируется Greenify®</string>
+    <string name="notification_timer_coalesced_title">Периодические таймеры объединены</string>
+    <string name="notification_title_workaround_talking">Обработка голосовых проблем</string>
+    <string name="placeholder_show_all">Показать другие приложения</string>
+    <string name="prefs_cat_donation_only_features">Требуется платная версия</string>
+    <string name="prefs_cat_experimental_features">Экспериментальные функции</string>
+    <string name="prefs_cat_xposed_donation_features">Требуется Xposed ® и платная версия</string>
+    <string name="prefs_cat_xposed_only_features">Требуется Xposed Framework</string>
+    <string name="prefs_labs_automated_hibernation_title">Автоматиз. гибернация (4.1+)</string>
+    <string name="prefs_labs_block_notification_abuse_summary">Некоторые приложения используют уязвимость Android (до 4.3), чтобы назначить себе ложный приоритет и оставаться в памяти при ее нехватке. Эти приложения распознаются как \"Скрытые\" в Greenify® и не усыпляются.</string>
+    <string name="prefs_labs_block_notification_abuse_title">Разблокировка приоритета</string>
+    <string name="prefs_labs_boost_mode_summary">Больше производительность и лучше совместимость, особенно, если не работает гибернация или проблемы с рут-доступом.</string>
+    <string name="prefs_labs_boost_mode_title">Режим ускорения</string>
+    <string name="prefs_labs_gcm_push_summary">"Разрешение GCM push-уведомлениям будить спящие приложения, кроме случаев, когда их уведомления отключены в системе (Настройки - Приложения).
+Пожалуйста, включите также опцию \"Удержание уведомлений\", чтобы избежать потери уведомлений после повторной гибернации."</string>
+    <string name="prefs_labs_gcm_push_title">GCM уведомления</string>
+    <string name="prefs_labs_reveal_hidden_sync_title">Отображение синхронизаций</string>
+    <string name="prefs_labs_root_mode_summary_boost">Работа в \"Режиме ускорения\" (см. ниже), являющимся рекомендуемым режимом.</string>
+    <string name="prefs_labs_system_apps_limited_title">Гринификация системных (огранич.)</string>
+    <string name="prefs_labs_system_apps_summary">Лишение системных приложений иммунитета к гибернации, которое позволит гринифицировать большинство из них.</string>
+    <string name="prefs_labs_system_apps_title">Гринификация системных</string>
+    <string name="prefs_labs_telephony_wakeup_summary">Разрешение событиям телефонии (вызовы, СМС) будить усыплённые приложения для обеспечения нормальной работы гринифицированных приложений для вызовов или СМС.</string>
+    <string name="prefs_labs_telephony_wakeup_title">Пробуждение телефонии</string>
+    <string name="prefs_labs_timer_coalescing_summary">Объединение периодических пробуждений таймера процессора для всех приложений (не только приложений, разработанных для 4.4), для уменьшения расхода батареи, распределяющегося на несколько разных пробуждений. (Необходим Андроид 4.4+)</string>
+    <string name="prefs_labs_timer_coalescing_title">Объединение таймера (4.4+)</string>
+    <string name="prefs_labs_wakeup_tracker_summary">Отслеживание программ, которые будят гринифицированные приложения, и, при необходимости, отсечение пути пробуждений, чтобы исключить их в дальнейшем.</string>
+    <string name="prefs_labs_wakeup_tracker_title">Отслеживание пробуждений</string>
+    <string name="prefs_labs_working_mode_title">Рабочий режим</string>
+    <string name="progress_be_hibernating">Усыпление...</string>
+    <string name="section_alarm">Запланированный запуск (с момента последней загрузки)</string>
+    <string name="section_alarm_tips">"Эти приложения запускаются самостоятельно , что может замедлить работу устройства и повысить расход батареи.
+
+Остерегайтесь подобных приложений, часто пробуждающих Ваше устройство."</string>
+    <string name="section_all_apps">Другие</string>
+    <string name="section_hibernated">Спящие</string>
+    <string name="section_pending">Ожидание гибернации вручную</string>
+    <string name="section_pending_auto">Будут усыплены после откл. экрана</string>
+    <string name="section_pending_tip_nonroot">Эти приложения пробуждены и сейчас бездействуют, Вам нужно их усыпить вручную.</string>
+    <string name="section_postponed">Не усыплено автоматически</string>
+    <string name="section_postponed_tip">Greenify® не может автоматически усыпить эти приложения, пока их состояние не изменится.</string>
+    <string name="section_receiver">Могут замедлять устройство при…</string>
+    <string name="section_receiver_tip">"Эти приложения могут замедлять работу устройства, когда происходят определенные события.
+
+Чем больше приложений в этом списке, тем медленнее работа устройства!"</string>
+    <string name="section_service">Работают в фоновом режиме</string>
+    <string name="section_service_tip">"Приложениям, работающим в фоновом режиме, требуется определенный объем памяти, что может существенно замедлить работу устройства.
+
+Включайте в данный список как можно меньше приложений."</string>
+    <string name="service_cleaner">Автогибернация</string>
+    <string name="showcase_accessibility_setting">Включение автоматизации</string>
+    <string name="showcase_manual_hibernation_automation">Этот процесс можно автоматизировать с помощью сервиса \"Специальные возможности\" с Greenify</string>
+    <string name="showcase_manual_hibernation_desc">В режиме без рута, гибернация должна выполняться с использованием этого способа из-за ограничений системы Андроид. Пожалуйста, нажмите \"Остановить принудительно\", чтобы завершить гибернацию.</string>
+    <string name="showcase_manual_hibernation_title">Ручная гибернация</string>
+    <string name="toast_accessibility_setting">Включение или отключение службы Greenify в специальных возможностях</string>
+    <string name="toast_action_undo">ОТМЕНА</string>
+    <string name="toast_already_greenified">\"%1$s\" уже гринифицировано.</string>
+    <string name="toast_app_no_launcher_entry">Это приложение не имеет запись запуска.</string>
+    <string name="toast_apps_hibernated">%1$s в спящем режиме.</string>
+    <string name="toast_apps_hidden">Приложения скрыты</string>
+    <string name="toast_auto_hibernation_failure_tip">"Пожалуйста, убедитесь, что Greenify® предоставлены права суперпользователя. (некоторые приложения, управляющие рут-доступом, требуют повторного предоставления прав при обновлении приложения).
+
+Если Вам все ещё не удается использовать гибернацию, пожалуйста, попробуйте другое приложение для управления рут-доступом или \"Режим Ускорения\" в экспериментальных функциях."</string>
+    <string name="toast_cannot_switch_to_launcher">Не удалось переключиться в лончер, пожалуйста, нажмите кнопку Домой.</string>
+    <string name="toast_failed_to_greenify">Не удалось гринифицировать \"%1$s\".</string>
+    <string name="toast_gcm_tip">"GCM (Google Cloud Messaging) - интегрирован в этом приложении и может быть использован для получения push-уведомлений. Он не будет работать, если гринифицирован.
+
+Экспериментальная функция в платной версии включает GCM push-уведомления для гринифицированных приложений."</string>
+    <string name="toast_gesture_reset">Восстановлено поведение по умолчанию жеста вытягивания от кнопки Домой.</string>
+    <string name="toast_hibernation_failure">\"%1$s\" не удалось усыпить.</string>
+    <string name="toast_need_reboot">Недоступно до следующей перезагрузки</string>
+    <string name="toast_none_hibernated">Нет программ нуждающихся в усыплении.</string>
+    <string name="toast_opted_in">Спасибо за Ваше участие!</string>
+    <string name="toast_opted_out">Вы отказались. Анонимная статистика собираться не будет.</string>
+    <string name="toast_service_disabled">"Автогибернация отключена.
+Гринифицированные приложения больше не усыпляются автоматически."</string>
+    <string name="toast_service_enabled">Автогибернация включена.</string>
+    <string name="toast_shortcut_created">В Вашем лончере создаётся ярлык для гибернации одним нажатием.</string>
+    <string name="toast_tasker_wakeup_unavail_in_nonroot">Извините, это доступно только в рут-режиме</string>
+    <string name="wizard_step_enjoy">Наслаждайтесь</string>
+    <string name="wizard_step_enjoy_desc">ровной и длительной работой устройства, как в первый день использования.</string>
+    <string name="wizard_step_forget">Забудьте (только РУТ)</string>
+    <string name="wizard_step_forget_desc">о наведении порядка, пусть Greenify® сделает это за Вас.</string>
+    <string name="wizard_step_greenify">Усыпите с Greenify®</string>
+    <string name="wizard_step_greenify_desc">расход батареи, потребление памяти и скрытые фоновые приложения.</string>
+    <string name="app_state_wakeup_paths_cutoff">Отсечение путей пробуждений</string>
+    <string name="app_waker_root">рут</string>
+    <string name="app_waker_shell">оболочка</string>
+    <string name="dialog_full_cutoff_message">"Отсечение всех путей пробуждений может нарушить функциональность этой программы или зависящих от неё приложений.
+
+Если что-то пойдёт не так, пожалуйста, отмените отсечение."</string>
+    <string name="event_wifi_scan">Wi-Fi сканируется</string>
+    <string name="prefs_labs_automated_hibernation_summary">В режиме без рута гибернация автоматизируется через несколько минут после отключения экрана. Включается подсветка, выполняется гибернация, и экран отключается. (Необходим Андроид 4.1+, спец. возможности, администратор устройства и отсутствие защиты экрана блокировки)</string>
+    <string name="prefs_labs_deep_hibernation_summary">"Принудительная агрессивная политика по отношению к усыплённым приложениям, препятствующая пробуждению их другими приложениями.
+ВНИМАНИЕ: возможно нарушение взаимосвязи гибернированных приложений!"</string>
+    <string name="prefs_labs_deep_hibernation_title">Глубокая гибернация (альфа)</string>
+    <string name="prefs_labs_no_remove_notifications_limited_summary">Не удалять уведомления при гибернации приложения (только при выключенном экране), чтобы Вы смогли просмотреть их позже. Значок первоначального уведомления в строке состояния не может быть сохранён, в связи с ограничениями приоритета. В Xposed-версии ниже такие ограничения отсутствуют.</string>
+    <string name="prefs_labs_no_remove_notifications_limited_title">Не удалять уведомления (огранич.)</string>
+    <string name="prefs_labs_no_remove_notifications_summary">Не удалять уведомления при гибернации приложения, чтобы Вы смогли просмотреть их позже.</string>
+    <string name="prefs_labs_no_remove_notifications_title">Не удалять уведомления</string>
+    <string name="prefs_labs_reveal_hidden_sync_summary">Отображение скрытых задач синхронизации аккаунта в меню Настройки - Учётные записи, с префиксом *.</string>
+    <string name="prefs_labs_root_mode_summary_off">Работа в режиме без рута. Если Ваше устройство имеет рут-доступ, пожалуйста, включите данную опцию для запуска полного потенциала Greenify.</string>
+    <string name="prefs_labs_root_mode_summary_on">Работа в рут-режиме. Если Ваше устройство НЕ имеет рут-доступа, пожалуйста, отключите данную опцию для обеспечения корректной функциональности.</string>
+    <string name="prefs_labs_system_apps_limited_summary">Некоторые системные приложения лишаются иммунитета, и их гибернация может быть выполнена. Из-за технических ограничений, гибернированные системные приложения могут быть усыплены в меньшей степени, чем несистемные. Вместе с тем, другие системные могут быть гринифицированы только с помощью функции ниже в версии на основе Xposed.</string>
+    <string name="service_wakeup_monitor">Монитор пробуждений</string>
+    <string name="toast_app_ingreenifiable">Извините, \"%1$s\" не гринифицируемо.</string>
+    <string name="toast_apps_not_hibernating">Не гринифицируется: %1$s</string>
+    <string name="toast_auto_hibernation_oos">Служба автогибернации остановлена. Если это сообщение часто отображается, возможно, что фоновая служба блокируется сторонним ПО или системными настройками (напр., режим Stamina на устройствах Sony, менеджер автозапуска на MIUI), пожалуйста, проверьте необходимые настройки и добавьте Greenify в исключения, если это возможно.</string>
+    <string name="toast_auto_hibernation_restarting">Служба автогибернации перезапускается... (возможно, по причине нехватки памяти)</string>
+    <string name="toast_no_auto_hibernation_for_secure_keyguard">Извините, автогибернация не может работать при включенной защите экрана блокировки. В качестве альтернативы, можете использовать ярлык \"Гибернация + экр.блокировки\".</string>
+    <string name="toast_no_auto_hibernation_for_secure_keyguard_with_navbar">Извините, автоматизированная гибернация не может работать при включенной защите экрана блокировки. Для ярлыка \"Гибернация+экр. блокировки\" рекомендуется использовать жест вытягивания вверх от кнопки Домой.</string>
+    <string name="app_state_critical">Критическое</string>
+    <string name="app_state_working">Работает</string>
+    <string name="dialog_button_activate">Активировать</string>
+    <string name="dialog_google_sign_in">Войдите в Ваш аккаунт Google для активации пакета пожертвования.</string>
+    <string name="dialog_non_root_auto_hibernation_incompatible_rom_message">К сожалению, автогибернация в режиме без рута ещё не поддерживается Вашим устройством (или прошивкой).</string>
+    <string name="dialog_verifying_donation_package">Проверка пакета пожертвования...</string>
+    <string name="service_accessibility">Greenify - автоматизированная гибернация</string>
+    <string name="service_accessibility_description">Автоматизация гибернации приложений (на устройствах без рута). Отключение этой службы отключит автогибернацию.</string>
+    <string name="state_disabled">Отключено</string>
+    <string name="state_enabled">Включено</string>
+    <string name="toast_action_setting">Настройка</string>
+    <string name="toast_draw_on_top_revoked">Разрешение \"перетащить поверх других приложений\" не предоставлено, пожалуйста, предоставьте его Greenify в разрешениях для приложений или в настройках устройства.</string>
+    <string name="toast_usage_stats_permission">Необходимо разрешение для обнаружения и запрета гибернации приложений переднего плана</string>
+    <string name="menu_settings">Настройки</string>
+    <string name="prefs_cat_about">О программе</string>
+    <string name="prefs_labs_automated_hibernation_summary_incompatible">К сожалению, пока несовместимо с этой прошивкой.</string>
+    <string name="prefs_labs_doze_title">Агрессивный Doze (экспериментальная функция)</string>
+    <string name="prefs_labs_navbar_gesture_title">Действие на удержание нажатия на панели навигации</string>
+    <string name="prefs_learn_more">Подробнее (онлайн)</string>
+    <string name="prefs_shallow_hibernation_description">"Неглубокая гибернация - совершенно новый механизм гибернации, созданный специально для Андроид 6.0+ с улучшенной совместимостью и эффективностью.
+
+При неглубокой гибернации приложения не будут завершаться, при этом сохраняется контекст взаимодействия для более эффективного переключения задач, в то время как все фоновые процессы во время гибернации строго ограничены.
+
+Приложения в режиме неглубокой гибернации периодически пробуждаются на короткое время в течение нескольких часов с немедленным включением ВЫСОКОГО приоритета GCM пуш-сообщений (если приоритет GCM предусмотрен автором приложения). Также они пробуждаются во время зарядки.
+
+Если активирована неглубокая гибернация, она заменяет классический механизм гибернации в Greenify.
+
+Данная функция НЕ рекомендуется для устройств с низким объёмом памяти."</string>
+    <string name="prefs_shallow_hibernation_title">Неглубокая гибернация (экспериментальная функция)</string>
+    <string name="prefs_xposed_features_summary">Для работы тербуется Xposed framework</string>
+    <string name="prefs_xposed_features_title">Функции на основе Xposed</string>
+    <string name="toast_action_guide">Инструкция</string>
+    <string name="toast_action_troubleshoot">Неисправности</string>
+    <string name="toast_assist_app_setting_guide">Пожалуйста, выберите Greenify во \"вспомогательных приложениях\".</string>
+    <string name="toast_donation_package_not_found">К сожалению, пакет пожертвований не найден для Вашего аккаунта Google.</string>
+    <string name="toast_need_accessibility_service">Для автоматизированной гибернации необходимо включить Greenify в службе специальных возможностей.</string>
+    <string name="toast_need_device_admin">Для работы автоматизированной гибернации после отключения экрана необходимо активировать для Greenify администратора устройства.</string>
+    <string name="toast_need_overlay">Для работы автоматизированной гибернации после отключения экрана необходимо разрешение \"перетащить поверх других приложений\".</string>
+    <string name="prefs_labs_doze_description">"Введите время режима doze в минутах (вместо обычных часов) для активации после отключения экрана, если устройство не заряжается, с целью улучшения экономичности.
+
+Режим doze - новый режим экономии, введенный в Андроид 6.0. В данном режиме фоновая активность всех приложений (кроме включенных в белый список) строго ограничена, до следующего действия пользователя или зарядки. Устройство периодически (за несколько часов) кратковременно выходит из режима doze."</string>
+    <string name="prefs_labs_navbar_gesture_summary">"Удерживайте нажатие на центральной кнопке нижней панели навигации для гибернации приложений и блокировки экрана, или просто для блокировки экрана.
+Имейте в виду, данная функция может быть несовместима с умной блокировкой или разблокировкой по отпечатку пальца."</string>
+    <string name="section_pending_charging">Гибернация игнорируется во время зарядки</string>
+</resources>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="prefs_labs_working_mode_options">
+        <item>&lt;b>روت نشده&lt;/b>"
+"&lt;small>اگر دستگاه شما روت نشده&lt;/small></item>
+        <item>&lt;b>روت&lt;/b>"
+"&lt;small>اگر دستگاه شما روت شده&lt;/small></item>
+        <item>&lt;b>Boost&lt;/b>"
+"&lt;small>بهترین کارکرد و سازگاری (نیازمند Xposed)&lt;/small></item>
+    </string-array>
+</resources>

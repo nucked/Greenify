@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="prefs_labs_working_mode_options">
+        <item>&lt;b>Sense usuari primari&lt;/b>"
+"&lt;small>Si el dispositiu no té usuari primari&lt;/small></item>
+        <item>&lt;b>Usuari primari&lt;/b>"
+"&lt;small>Si el dispositiu té usuari primari&lt;/small></item>
+        <item>&lt;b>Potenciat&lt;/b>"
+"&lt;small>"Millor rendiment i compatibilitat (cal l'Xposed)"&lt;/small></item>
+    </string-array>
+</resources>

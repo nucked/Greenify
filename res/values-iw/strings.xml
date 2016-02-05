@@ -1,0 +1,300 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_home_description">נווט לדף הבית</string>
+    <string name="abc_action_bar_home_description_format">‏%1$s‏, %2$s</string>
+    <string name="abc_action_bar_home_subtitle_description_format">‏%1$s‏, %2$s‏, %3$s</string>
+    <string name="abc_action_bar_up_description">נווט למעלה</string>
+    <string name="abc_action_menu_overflow_description">עוד אפשרויות</string>
+    <string name="abc_action_mode_done">בוצע</string>
+    <string name="abc_activity_chooser_view_see_all">ראה הכל</string>
+    <string name="abc_activitychooserview_choose_application">בחר אפליקציה</string>
+    <string name="abc_capital_off">כבוי</string>
+    <string name="abc_capital_on">פועל</string>
+    <string name="abc_search_hint">חפש…</string>
+    <string name="abc_searchview_description_clear">מחק שאילתה</string>
+    <string name="abc_searchview_description_query">שאילתת חיפוש</string>
+    <string name="abc_searchview_description_search">חפש</string>
+    <string name="abc_searchview_description_submit">שלח שאילתה</string>
+    <string name="abc_searchview_description_voice">חיפוש קולי</string>
+    <string name="abc_shareactionprovider_share_with">שתף עם</string>
+    <string name="abc_shareactionprovider_share_with_application">‏שתף עם %s</string>
+    <string name="abc_toolbar_collapse_description">כווץ</string>
+    <string name="common_google_play_services_api_unavailable_text">‏ל-%1$s נדרש שירות אחד או מספר שירותים של Google Play, שאינם זמינים כעת. צור קשר עם המפתח לקבלת סיוע.</string>
+    <string name="common_google_play_services_enable_button">‏הפעל את שירותי Google Play</string>
+    <string name="common_google_play_services_enable_text">‏האפליקציה %1$s לא תפעל אם לא תפעיל את שירותי Google Play.</string>
+    <string name="common_google_play_services_enable_title">‏הפעל את שירותי Google Play</string>
+    <string name="common_google_play_services_install_button">‏קבל את שירותי Google Play</string>
+    <string name="common_google_play_services_install_text_phone">‏האפליקציה %1$s לא תפעל ללא שירותי Google Play, שאינם מותקנים בטלפון שלך.</string>
+    <string name="common_google_play_services_install_text_tablet">‏האפליקציה %1$s לא תפעל ללא שירותי Google Play, שאינם מותקנים בטאבלט שלך.</string>
+    <string name="common_google_play_services_install_title">‏קבל את שירותי Google Play</string>
+    <string name="common_google_play_services_invalid_account_text">החשבון שצוין לא קיים במכשיר זה. בחר חשבון אחר.</string>
+    <string name="common_google_play_services_invalid_account_title">חשבון לא חוקי</string>
+    <string name="common_google_play_services_network_error_text">‏דרוש חיבור נתונים כדי להתחבר לשירותי Google Play.</string>
+    <string name="common_google_play_services_network_error_title">שגיאת רשת</string>
+    <string name="common_google_play_services_notification_ticker">‏שגיאה בשירותי Google Play</string>
+    <string name="common_google_play_services_restricted_profile_text">הגישה לחשבונות מפרופיל מוגבל אינה נתמכת.</string>
+    <string name="common_google_play_services_restricted_profile_title">פרופיל מוגבל</string>
+    <string name="common_google_play_services_sign_in_failed_text">אירעה שגיאה בעת הכניסה אל החשבון שצוין. בחר חשבון אחר.</string>
+    <string name="common_google_play_services_sign_in_failed_title">הכניסה נכשלה</string>
+    <string name="common_google_play_services_unknown_issue">‏%1$s נתקלה בבעיה עם שירותי Google Play. אם הבעיה נמשכת, צור קשר עם המפתחים לקבלת סיוע.</string>
+    <string name="common_google_play_services_unsupported_text">‏האפליקציה %1$s תלויה בשירותי Google Play, שאינם נתמכים במכשיר שלך. צור קשר עם היצרן לקבלת סיוע.</string>
+    <string name="common_google_play_services_unsupported_title">‏שירותי Google Play</string>
+    <string name="common_google_play_services_update_button">עדכן</string>
+    <string name="common_google_play_services_update_text">‏האפליקציה %1$s לא תפעל אם לא תעדכן את שירותי Google Play.</string>
+    <string name="common_google_play_services_update_title">‏עדכון שירותי Google Play</string>
+    <string name="common_google_play_services_updating_text">‏האפליקציה %1$s לא תפעל ללא שירותי Google Play, שמתעדכנים כרגע.</string>
+    <string name="common_google_play_services_updating_title">‏שירותי Google Play מתעדכנים</string>
+    <string name="common_google_play_services_wear_update_text">‏דרושה גרסה חדשה של שירותי Google Play. הגרסה תתעדכן בעצמה תוך זמן קצר.</string>
+    <string name="common_open_on_phone">פתח בטלפון</string>
+    <string name="common_signin_button_text">היכנס</string>
+    <string name="common_signin_button_text_long">‏היכנס באמצעות Google</string>
+    <string name="status_bar_notification_info_overflow">‎999+‎</string>
+    <string name="about_donation_summary">קבל את חבילת התרומה בשביל תכונות נוספות</string>
+    <string name="about_donation_summary_donated">תכונות ניסיוניות נוספות יכולות להיות מופעלות מהתפריט הראשי.</string>
+    <string name="about_donation_title">תרום</string>
+    <string name="about_donation_title_donated">תודה על התרומה</string>
+    <string name="about_licenses_title">רשיונות</string>
+    <string name="about_raise_your_voice_program_detail">"Greenify מגבירה את קולה של הקהילה כדי שתישמע על ידי מפתחי האפליקציות שבחרתם לנטר, במטרה לשפר את המודעות לחווית השימוש במכשיר.
+
+כדי להשמיע את קולך, Greenify אוספת נתונים אנונימיים ללא פרטים אישיים. ניתן לבטל זאת בכל עת."</string>
+    <string name="about_raise_your_voice_program_summary">הקול שלך יכול להשפיע!</string>
+    <string name="about_raise_your_voice_program_title">פרוייקט \"השמע את קולך!\"</string>
+    <string name="about_translation_credit">Elad Aloni</string>
+    <string name="about_translation_title">תרגום</string>
+    <string name="about_uninstall">הסר</string>
+    <string name="about_version_summary">דרג את האפליקציה</string>
+    <string name="about_version_title">גרסה</string>
+    <string name="accessibility_service_description">"השירות מפעיל מספר תכונות מפתח ב-Greenify.
+
+ישנה אפשרות שתוזהר בפני סיכוניי פרטיות, זוהי הודעה אינפורמטיבית הקשורה לשירות הנגישות. אנו מבטיחים שלעולם לא נאסוף מידע אישי בהפעלת שירות זה.
+
+במספר מכשירים מתוצרת Samsung ישנה שגיאה ידועה שמרחשת בעקבות הפעלת שירות זה. אם נתקלת בבעיה זו הפעל את מצב ה-\"עקיפה\" במסך ה-\"אפשרויות\"."</string>
+    <string name="analysis_detail_alarm_with_wakeup">%1$d פועלת (כולל %2$d התעוררויות)</string>
+    <string name="app_analyzer_name">ניתוח אפליקציות</string>
+    <string name="app_analyzer_subtitle">נבחרו %1$d אפליקציות</string>
+    <string name="app_shortcut_hibernate">הכנס למצב שינה באופן מיידי</string>
+    <string name="app_shortcut_hibernate_lock">מצב שינה + נעילת מסך</string>
+    <string name="app_shortcut_nothing">כלום</string>
+    <string name="app_shortcut_wakeup">השכמה</string>
+    <string name="app_state_always_ignored">בכניסה למצב שינה, יתעלם Greeify לחלוטין ממצב האפליקציה</string>
+    <string name="app_state_hibernation_failed">כניסה למצב שינה נכשלה לפני %1$s</string>
+    <string name="app_state_provider_in_use">הספק בשימוש ע\"י %1$s</string>
+    <string name="app_state_service_in_use">השירות בשימוש ע\"י %1$s</string>
+    <string name="app_state_unsaveable">מצב לא ידוע</string>
+    <string name="app_state_woken_by_activity">לפני %1$s נפתח הממשק</string>
+    <string name="app_state_woken_by_app">לפני %1$s נקראה לצאת ממצב שינה ע\"י %2$s</string>
+    <string name="app_state_woken_by_authenticator">לפני %1$s בוצע אימות</string>
+    <string name="app_state_woken_by_backup">לפני %1$s בוצע סנכרון</string>
+    <string name="app_state_woken_by_broadcast">לפני %1$s ניתנה התראה מפורשת</string>
+    <string name="app_state_woken_by_content_provider">לפני %1$s סופק תוכן</string>
+    <string name="app_state_woken_by_push_msg">לפני %1$s נתקבלה הודעה בדחיפה</string>
+    <string name="app_state_woken_by_search">לפני %1$s בוצע חיפוש</string>
+    <string name="app_state_woken_by_service">לפני %1$s תהליך החל</string>
+    <string name="app_state_woken_by_sync">לפני %1$s בוצע סנכרון</string>
+    <string name="app_state_woken_by_widget">"לפני %1$s ווידג'ט התעדכן"</string>
+    <string name="app_state_woken_directly">לפני %1$s התעורר המכשיר ע\"י %2$s</string>
+    <string name="app_title_service_disabled">Greenify (ללא מצב שינה אוטומטי)</string>
+    <string name="app_waker_google">שירותי גוגל</string>
+    <string name="app_waker_system">מערכת אנדרואיד</string>
+    <string name="app_waker_unknown">מקור לא ידוע</string>
+    <string name="device_admin_for_automation">אוטומוטור של Greenify</string>
+    <string name="device_admin_for_automation_description">אפשר ל-Greenify לכבות את המסך בצורה אוטומאטית מיד לאחר כניסה למצב שינה.</string>
+    <string name="device_admin_warning_when_disabling">כאשר מבוטל, Greenify לא יוכל להכניס אפליקציות למצב שינה במצב אוטומאטי לאחר שהמסך כבה.</string>
+    <string name="dialog_app_picker_guide_button">חזור למסך הבית</string>
+    <string name="dialog_app_picker_guide_message">מיד תוחזר למסך הבית. הפעל את האפליקציה שברצונך לנטר, ולאחר מכן לחץ על ההודעה שתופיע בוילון ההתראות כדי לבחור אותה.</string>
+    <string name="dialog_app_picker_guide_title">כיצד לבחור אפליקציה?</string>
+    <string name="dialog_button_cancel">בטל</string>
+    <string name="dialog_button_continue">המשך</string>
+    <string name="dialog_button_insist">התעקש</string>
+    <string name="dialog_button_later_by_oneself">אעשה זאת מאוחר יותר</string>
+    <string name="dialog_button_learn_more">למד עוד</string>
+    <string name="dialog_button_opt_in">השתתף</string>
+    <string name="dialog_button_opt_out">עזוב</string>
+    <string name="dialog_confirmation_unsafe_to_hibernate">לרוב לא בטיחותי להרדים אפליקציות אלו. הרדמה מאולצת עשויה לגרום להפרעות ואף לאיבוד מידע.</string>
+    <string name="dialog_cutoff_message">"חותכים את נתיב ההשכמה עשויה לשבור את הפונקציונליות של אפליקציה האו יישומים התלויים
+
+אם משהו רע קורה, בבקשה לצרף את החתך.
+
+מושפע: [%s]"</string>
+    <string name="dialog_cutoff_title">אזהרה</string>
+    <string name="dialog_degreenified_message">למרות שהאפליקציה איננה מנוטרת עוד, היא עדיין נמצאת במצב שינה (כל תהליכי הרקע שלה מושהים) עד שתפעיל אותה באופן ידני.</string>
+    <string name="dialog_degreenified_title">שים לב</string>
+    <string name="dialog_donation_corrupted_message">חבילת התרומה פגומה. להתקין מחדש מחנות הפליי של גוגל?</string>
+    <string name="dialog_greenify_confirmation_message">האם אתה בטוח שאתה רוצה להכניס לרשימת הגריניפיי את %1$s</string>
+    <string name="dialog_greenifying_system_apps">להכניס לרשימת התוכנה גריניפיי אפליקציות מערכת כרגע אפשרית כחלק מהתכונות הניסיוניות של גרסת-התרומה של התוכנה</string>
+    <string name="dialog_incompatible_rom_title">Greenify לא תומך ברום זה</string>
+    <string name="dialog_ingreenfiable_message_for_system_app">מצטערים, לא בטוח לנטר אפליקציות מערכת.</string>
+    <string name="dialog_ingreenfiable_title">\"%1$s\" לא ניתנת לניטור</string>
+    <string name="dialog_labs_incompatible_rom_message">הפעלת תכונה זו נכשלה. יתכן שזה לא תואם לרום שלך.</string>
+    <string name="dialog_labs_operation_failure_message">הפעולה נכשלה.</string>
+    <string name="dialog_labs_state_set_failure_message">נכשל בקביעת תכונת מצב!</string>
+    <string name="dialog_message_donation_package_exclusive">"נכון לעכשיו, אפשרות זו זמינה לתורמים בלבד.
+
+תרום כעת ע\"מ לגשת לכל האפשרויות הניסיוניות."</string>
+    <string name="dialog_option_always_ignore_state">התעלם תמיד ממצב האפליקציה</string>
+    <string name="dialog_root_operation_failure_message">נכשל הניסיון לביצוע הפעולה. נא וודא כי קיימת גישת רוט.</string>
+    <string name="dialog_thank4donation_message">"תודה על התרומה שלך לתמיכה בפיתוח.
+
+עכשיו אתה יכול להפעיל את התכונות ניסיוניות נוספות מתפריט ראשי."</string>
+    <string name="dialog_thank4donation_title">תודה</string>
+    <string name="dialog_title_confirmation">אימות</string>
+    <string name="dialog_title_error">שגיאה</string>
+    <string name="dialog_verification_error_message">אין אפשרות לוודא את התרומה. אנא בדוק את מצב הרשת ונסה שוב מאוחר יותר.</string>
+    <string name="dialog_verification_fatal_error">לא יכול לוודא את התרומה, אנא דווח על הבעיה.</string>
+    <string name="dialog_version_mismatch_message">אנא עדכן את האפליקציה לגירסה העדכנית ביותר.</string>
+    <string name="dialog_version_mismatch_title">אי-התאמה של גירסאות</string>
+    <string name="dialog_warning_for_greenifying_launcher">"אתה מנסה לנטר את אפליקציית הלאנצ'ר שמוגדר כברירת מחדל. לא מומלץ לנטר אפליקציות בהן אתה מרבה להשתמש."</string>
+    <string name="dialog_warning_title">אזהרה</string>
+    <string name="dialog_xposed_module_inactive_message">מודול Xposed של Greenify עדיין לא הופעל. אתה צריך להפעיל אותה ב Xposed installer קודם גדי שתכונות אלו יעבדו.</string>
+    <string name="event_capture_video">סרטון וידאו צולם</string>
+    <string name="event_connectivity_changes">שינוי במצב חיבור לרשת</string>
+    <string name="event_media_connect">מדיה נשלפת חוברה</string>
+    <string name="event_media_eject">מדיה נשלפת נותקה</string>
+    <string name="event_media_scan">אחסון נסרק</string>
+    <string name="event_postfix_volatile">(עשוי להשתנות כתלות במצב)</string>
+    <string name="event_power_connected">חיבור למקור מתח</string>
+    <string name="event_power_disconnected">ניתוק ממקור מתח</string>
+    <string name="event_take_photo">תמונה צולמה</string>
+    <string name="event_unlock_keyguard">פתיחת מסך נעילה</string>
+    <string name="event_update_apps">אפליקציה עודכנה</string>
+    <string name="guide_btn_activate_module">הפעל מודול, והפעלה מחדש</string>
+    <string name="guide_btn_install_xposed_installer">התקן Xposed Installer</string>
+    <string name="guide_btn_setup_xposed_framework">יש להתקין \"Xposed Installer\"</string>
+    <string name="guide_link_why_xposed">למה צריך Xposed framework?</string>
+    <string name="guide_sub_title">מדריך התקנה</string>
+    <string name="guide_title">תכונות ניסיוניות</string>
+    <string name="menu_about">אודות</string>
+    <string name="menu_action_accept">אשר</string>
+    <string name="menu_action_cutoff">בטל את הגורם שמעיר את האפליקציה</string>
+    <string name="menu_action_cutoff_condensed">מפסיק</string>
+    <string name="menu_action_greenify">אשף ההגדרות</string>
+    <string name="menu_action_greenify_condensed">מיירק....</string>
+    <string name="menu_action_hibernate">כפה מצב שינה</string>
+    <string name="menu_action_hibernate_condensed">הכנס למצב שינה</string>
+    <string name="menu_action_hide">הסתר</string>
+    <string name="menu_action_pick">בחר אפליקציה לניטור</string>
+    <string name="menu_action_pick_condensed">בחר אפליקציה</string>
+    <string name="menu_action_reattach">שחזר את הגורם שמעיר את האפליקציה</string>
+    <string name="menu_action_reattach_condensed">מחבר מחדש</string>
+    <string name="menu_action_reconsider_state">חשוב שוב על מצב זה</string>
+    <string name="menu_action_refresh">רענן</string>
+    <string name="menu_action_run">הפעל</string>
+    <string name="menu_action_ungreenify">הפסק ניטור עבור האפליקציות שנבחרו</string>
+    <string name="menu_action_ungreenify_condensed">הפסק ניטור</string>
+    <string name="menu_action_unhide_all">הצג הכל</string>
+    <string name="menu_create_shortcut">צור קיצור דרך למצב שינה</string>
+    <string name="menu_disable_service">בטל מצב שינה אוטומטי</string>
+    <string name="menu_enable_service">אפשר מצב שינה אוטומטי</string>
+    <string name="menu_reset_gesture">אפס את מחוות \"משוך-מעלה\"</string>
+    <string name="no_app_picked">אף אפליקציה לא נבחרה</string>
+    <string name="notification_app_picker_text">הפעל את האפליקציה שתרצה לנטר, ולאחר מכן לחץ כאן כדי לבחור אותה.</string>
+    <string name="notification_app_picker_ticker">"תחילה הפעל את האפליקציה שתרצה לנטר.
+לאחר מכן לחץ על ההודעה של בוחר האפליקציות בוילון ההתראות."</string>
+    <string name="notification_app_picker_title">בוחר האפליקציות לניטור</string>
+    <string name="notification_listener_title">שומר התראות</string>
+    <string name="notification_text_workaround_talking">אם נתקלת בבעיות אקראיות בשמע</string>
+    <string name="notification_timer_coalesced_subtext">ייעל בצורה אוטומאטית את מכשירך באמצעות Greenify</string>
+    <string name="notification_timer_coalesced_title">טיימר למצב מחזורי התמזג</string>
+    <string name="notification_title_workaround_talking">פתרון מעקף לבעיית השמע</string>
+    <string name="placeholder_show_all">הצג אפליקציות נוספות</string>
+    <string name="prefs_cat_donation_only_features">תרום ע\"מ להפעיל אפשרות זו</string>
+    <string name="prefs_cat_experimental_features">תכונות ניסיוניות</string>
+    <string name="prefs_cat_xposed_donation_features">תרום עמ להפעיל אפשרות זו. בנוסף, דרושה מערכת XPOSED</string>
+    <string name="prefs_cat_xposed_only_features">דרושה מערכת XPOSED</string>
+    <string name="prefs_labs_automated_hibernation_title">מצב שינה אוטומאטי (4.1+)</string>
+    <string name="prefs_labs_block_notification_abuse_summary">יישומים מסוימים לנצל את הפגיעות של אנדרואיד (לפני 4.3) כדי לזכות בעדיפות בלתי הוגנת כדי לשמור על זיכרון במצב נמוך זיכרון. יישומים אלה יהיו שווא הוכר כ\" מורגש \"בGreenify ולא במצב שינה.</string>
+    <string name="prefs_labs_block_notification_abuse_title">חסום יישום במצב התעללות</string>
+    <string name="prefs_labs_boost_mode_summary">ביצועים והתאמה טובים יותר, במיוחד אם אתה חווה כשל במצב-שינה או בעיות בגישת הרוט</string>
+    <string name="prefs_labs_boost_mode_title">מצב תאוצה</string>
+    <string name="prefs_labs_gcm_push_summary">מאפשר להודעות דחיפה מGCM להעיר אפליקציות רדומות, כך תוכל להכניס לתרדמת אפליקציות עם GCM מבלי לאבד את ההתראות מהן.</string>
+    <string name="prefs_labs_gcm_push_title">דחיפת GCM עבור יישומים מנוטרים</string>
+    <string name="prefs_labs_reveal_hidden_sync_title">הצג אפליקציות המסתנכרנות בצורה סמויה</string>
+    <string name="prefs_labs_root_mode_summary_boost">פועל במצב \"מואץ\" (ראה מטה) אשר הינו המצב המומלץ.</string>
+    <string name="prefs_labs_system_apps_limited_title">Greenify לאפליקציות מערכת (מוגבל)</string>
+    <string name="prefs_labs_system_apps_summary">תשלול לאפליקציות מערכת להיות חסינות להרדמה, רובן יהפכו לכאלה שיכולות להיכנס למצב רדום.</string>
+    <string name="prefs_labs_system_apps_title">נטר יישומי מערכת</string>
+    <string name="prefs_labs_telephony_wakeup_summary">התר לאירועים טלפוניים כגון SMS ושיחות להעיר אפליקציות במצב רדום- כך אפליקציות רדומות שמשתמשות בכך יעבדו כמו שצריך.</string>
+    <string name="prefs_labs_telephony_wakeup_title">הערות טלפונייה</string>
+    <string name="prefs_labs_timer_coalescing_summary">טריר מעורר באמצעות ה-CPU לכל האפליקציות (לא רק לאלו שעוצבו עבור מערכת Android 4.4+), זאת על מנת למנוע בזבוז סוללה כאשר ה-CPU מתעורר (נדרשת מערכת 4.4+)</string>
+    <string name="prefs_labs_timer_coalescing_title">טריגר מעורר (4.4+)</string>
+    <string name="prefs_labs_wakeup_tracker_summary">עקוב אחר אילו אפליקציות בדיוק מעירות את האפליקציות שבתרדמת, ותוכל למנוע את הגורם שמעיר אותן ולמנוע מהן להתעורר בעתיד.</string>
+    <string name="prefs_labs_wakeup_tracker_title">הפעל את תכונת העוקב וקטע</string>
+    <string name="prefs_labs_working_mode_title">מצב עבודה נוכחי</string>
+    <string name="progress_be_hibernating">מרדים...</string>
+    <string name="section_alarm">הפעלה מתוזמנת (מאז ההפעלה האחרונה)</string>
+    <string name="section_alarm_tips">"האפליקציות הללו תיזמנו עצמן לריצה ברקע, ולכן עלולות להאט את פעולת המכשיר ולרוקן את הסוללה.
+
+הישמר מפני אלו אשר מעירות את המכשיר שלך לעיתים קרובות."</string>
+    <string name="section_all_apps">עוד</string>
+    <string name="section_hibernated">במצב שינה</string>
+    <string name="section_pending">בהמתנה</string>
+    <string name="section_pending_auto">יכנס למצב שנה בתוך דקות מכיבוי המסך</string>
+    <string name="section_pending_tip_nonroot">אפליקציות אלו הופעלו ועברו למצב סרק, עליך להפעיל את מצב השינה הידני על מנת להכניסם לשינה.</string>
+    <string name="section_postponed">מצב שינה אוטומטי לא פעיל</string>
+    <string name="section_postponed_tip">עד אשר ישתנה המצב המתואר, אפליקציות אלו לא יוכנסו למצב שינה באופן אוטומטי בשל הסיבה המפורטת.</string>
+    <string name="section_receiver">עשויות להאט את המכשיר במצבים המתוארים</string>
+    <string name="section_receiver_tip">"אפליקציות אלו עלולות להאט את המכשיר בדרגות משתנות כאשר ארועים מסוימים מתרחשים.
+
+ככל שהרשימה ארוכה יותר, כך תגובת המכשיר תואט במהלך האירוע."</string>
+    <string name="section_service">פועלות ברקע</string>
+    <string name="section_service_tip">"אפליקציות אשר פועלות ברקע עושות שימוש כלשהו במשאבי הזיכרון, ועלולות להאט את המכשיר בדרגות משתנות.
+
+שמור על רשימה זו קצרה ככל האפשר."</string>
+    <string name="service_cleaner">ניקוי</string>
+    <string name="showcase_accessibility_setting">אפשר אוטומטיות</string>
+    <string name="showcase_manual_hibernation_automation">מצב ידני זה יכול להכנס למצב שינה דרך נגישות מערכת Greenify</string>
+    <string name="showcase_manual_hibernation_desc">בשל מגבלה במערכת אנדרואיד, כאשר עובדים במצב ללא רוט, יש ללחוץ באופן ידני על \"כפה עצירה\" כדי לסיים את מצב השינה.</string>
+    <string name="showcase_manual_hibernation_title">מצב שינה ידני</string>
+    <string name="toast_accessibility_setting">הפעל או בטל נגישות שירות Greenify כאן</string>
+    <string name="toast_action_undo">בטל</string>
+    <string name="toast_already_greenified">האפליקציה %1$s כבר מנוטרת.</string>
+    <string name="toast_app_no_launcher_entry">לאפליקציה זו אין קישור למשגר האפליקציות.</string>
+    <string name="toast_apps_hibernated">%1$s הוכנסה למצב שינה.</string>
+    <string name="toast_apps_hidden">אפליקציה מוסתרת</string>
+    <string name="toast_auto_hibernation_failure_tip">"נא וודא כי קיימת לאפליקציה גישת רוט תקינה (ישנם כלי רוט המצריכים מתן רוט חוזר לאחר כל עדכון של האפליקציה)------------
+
+אם עדיין אתה חווה כשלים בהרדמת אפליקציות, נא נסה כלי רוט שונה או השתמש במצב \"מצב תאוצה\" בתכונות הניסיוניות."</string>
+    <string name="toast_cannot_switch_to_launcher">לא ניתן לחזור למסך הבית באופן אוטומטי, אנא לחץ ידנית על כפתור הבית.</string>
+    <string name="toast_failed_to_greenify">נכשל בניטור \"%1$s\".</string>
+    <string name="toast_gcm_tip">"לאפליקציה זו קיים שירות GCM (Google Cloud Messaging) שמשמש להתראות שלא יעבדו באם תכניס לתרדמת אפליקציה זו. 
+
+---------תכונה ניסיונית בחבילת התרומה מאפשרת קבלת התראות גם מאפליקציות רדומות המכילות GCM."</string>
+    <string name="toast_gesture_reset">מצב ברירת המחדל של מחוות גלילה מעלה של מסך הבית הינו הפעלה מחדש.</string>
+    <string name="toast_hibernation_failure">הכנסת האפליקציה \"%1$s\" למצב שינה נכשלה.</string>
+    <string name="toast_need_reboot">השינויים יחולו לאחר הפעלה מחדש</string>
+    <string name="toast_none_hibernated">אין אפליקציות שצריך להכניס למצב שינה.</string>
+    <string name="toast_opted_in">תודה על ההשתתפותך!</string>
+    <string name="toast_opted_out">עזבת. מידע אנונימי לא יאסף.</string>
+    <string name="toast_service_disabled">"מצב שינה אוטומטי מבוטל.
+אפליקציות מנוטרות לא יוכנסו למצב שינה באופן אוטומטי."</string>
+    <string name="toast_service_enabled">מצב שינה אוטומטי מופעל.</string>
+    <string name="toast_shortcut_created">נוצר קיצור דרך במפעיל שלך להכנסה למצב שינה בלחיצה אחת.</string>
+    <string name="toast_tasker_wakeup_unavail_in_nonroot">מתנצלים, פעיל רק במצב root.</string>
+    <string name="wizard_step_enjoy">תהנו</string>
+    <string name="wizard_step_enjoy_desc">חווית תפקוד חלק לאורך זמן, בדיוק כמו ביום הראשון.</string>
+    <string name="wizard_step_forget">שכח</string>
+    <string name="wizard_step_forget_desc">שכח ממטלות תחזוקה, תן ל-Greenify לעשות את העבודה עבורך.</string>
+    <string name="wizard_step_greenify">Greenify</string>
+    <string name="wizard_step_greenify_desc">מנע זליגת סוללה, שימוש מוגזם בזיכרון וחסום אפליקציות שרצות בחשאי.</string>
+    <string name="app_state_wakeup_paths_cutoff">בטל את הגורם שמעיר את האפליקציה</string>
+    <string name="app_waker_root">הרשאת רוט</string>
+    <string name="dialog_full_cutoff_message">חיתוך נתיב ההשכמה עשויה לשבור את הפונקציונליות של אפליקציה או יישומים התלויים בה. אם משהו רע קורה, בבקשה חבר בחזרה את נתיב ההשכמה.</string>
+    <string name="event_wifi_scan">חיפוש וייפי</string>
+    <string name="prefs_labs_automated_hibernation_summary">למצב ללא Root, אפשר לאפליקציה לעבוד במצב אוטומאטי ברגע שהמסך כובה. מצב זה יאיר את המסך, יכניס אפליקציות למצב שינה ואז יכבה. (דרושה מערכת הפעלה Android 4.1+, אפשרויות נגישות, אישור מנהל מכשיר וללא נעילת מכשיר בסיסמא)</string>
+    <string name="prefs_labs_reveal_hidden_sync_summary">הצג שירותי משתמש המסתנכרנים בצורה סמויה תחת \"הגדרות\"-\"חשבונות\" עם משתנה מסוג *</string>
+    <string name="prefs_labs_root_mode_summary_off">גישת רוט נדחתה</string>
+    <string name="prefs_labs_root_mode_summary_on">התקבלה גישת רוט</string>
+    <string name="prefs_labs_system_apps_limited_summary">מספר אפליקציות מערכת שוללות הכנסה למצב שינה. מסיבות טכניות, אפליקציות אלו מתנהגות שונה מאפליקציות רגילות. לאחר התקנת מסגרת Xposed ישנה אפשרות מוגבלת להכניסן למצב שינה.</string>
+    <string name="toast_app_ingreenifiable">מתנצלים, \"%1$s\" לא יכול להכנס למצב שינה.</string>
+    <string name="toast_apps_not_hibernating">לא נכנס למצב שינה : %1$s</string>
+    <string name="toast_auto_hibernation_oos">"שירות מצב שינה אוטומאטי פסק. אם הודעה זו מופיעה לעיתים תכופות, ישנה אפשרות שהשירות נחסם ע\"י אפליקציה כלשהי או שירות מערכת (למשל, מצב 'סיבולת' במכשירי Sony, שירות 'הפעלה אוטומאטי' במכשירי MiUi וכו'). אנא, בדוק זאת מול הרשימה הלבנה של Greenify."</string>
+    <string name="toast_auto_hibernation_restarting">מצב שינה אוטומאטי מופעל מחדש (ככל הנראה בגלל כמות נמוכה של זיכרון נדיף)</string>
+    <string name="toast_no_auto_hibernation_for_secure_keyguard">מתנצלים, מצב שינה אוטומאטי לא יכול לפעול אם קיימת סיסמא למכשירך. אנא, השתמש במצב \"שינה ומסך נעילה\" כדי לעקוף את הבעיה.</string>
+    <string name="toast_no_auto_hibernation_for_secure_keyguard_with_navbar">מתנצלים, מצב שינה אוטומאטי לא יכול לפעול אם קיימת סיסמא למכשירך. השתמש במחוות \"משוך-מעלה\" במסך הבית על מנת לעקוף את הבעיה.</string>
+    <string name="app_state_critical">קריטי</string>
+    <string name="app_state_working">עובד</string>
+    <string name="dialog_button_activate">הפעל</string>
+    <string name="dialog_google_sign_in">התחבר לחשבון גוגל להפעלת חבילת תרומה.</string>
+    <string name="dialog_non_root_auto_hibernation_incompatible_rom_message">מצטערים שינה אוטומטית עדיין לא אפשרית במצב ללא הרשאת רוט במכשיר הנוכחי (או הרום).</string>
+    <string name="dialog_verifying_donation_package">מאמת חבילת תרומה...</string>
+</resources>

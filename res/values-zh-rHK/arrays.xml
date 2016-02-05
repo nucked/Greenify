@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="prefs_labs_working_mode_options">
+        <item>&lt;b>Non-Root&lt;/b>"
+"&lt;small>假如你的裝置未 root&lt;/small></item>
+        <item>&lt;b>Root&lt;/b>"
+"&lt;small>假如你的裝置已經 root&lt;/small></item>
+        <item>&lt;b>高效&lt;/b>"
+"&lt;small>最佳的效能表現與相容性（需要 Xposed 框架）&lt;/small></item>
+    </string-array>
+</resources>

@@ -1,0 +1,312 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_home_description">Prejsť na plochu</string>
+    <string name="abc_action_bar_home_description_format">%1$s, %2$s</string>
+    <string name="abc_action_bar_home_subtitle_description_format">%1$s, %2$s, %3$s</string>
+    <string name="abc_action_bar_up_description">Prejsť hore</string>
+    <string name="abc_action_menu_overflow_description">Ďalšie možnosti</string>
+    <string name="abc_action_mode_done">Hotovo</string>
+    <string name="abc_activity_chooser_view_see_all">Zobraziť všetko</string>
+    <string name="abc_activitychooserview_choose_application">Zvoľte aplikáciu</string>
+    <string name="abc_capital_off">VYP.</string>
+    <string name="abc_capital_on">ZAP.</string>
+    <string name="abc_search_hint">Vyhľadať…</string>
+    <string name="abc_searchview_description_clear">Vymazať dopyt</string>
+    <string name="abc_searchview_description_query">Vyhľadávací dopyt</string>
+    <string name="abc_searchview_description_search">Hľadať</string>
+    <string name="abc_searchview_description_submit">Odoslať dopyt</string>
+    <string name="abc_searchview_description_voice">Hlasové vyhľadávanie</string>
+    <string name="abc_shareactionprovider_share_with">Zdieľať pomocou</string>
+    <string name="abc_shareactionprovider_share_with_application">Zdieľať pomocou %s</string>
+    <string name="abc_toolbar_collapse_description">Zbaliť</string>
+    <string name="common_google_play_services_api_unavailable_text">Aplikácia %1$s vyžaduje minimálne jednu službu Google Play, ktorá v súčasnosti nie je k dispozícii. Kontaktujte príslušného vývojára a požiadajte ho o pomoc.</string>
+    <string name="common_google_play_services_enable_button">Povoliť služby Google Play</string>
+    <string name="common_google_play_services_enable_text">Aplikácia %1$s bude fungovať až po povolení služieb Google Play.</string>
+    <string name="common_google_play_services_enable_title">Povoliť služby Google Play</string>
+    <string name="common_google_play_services_install_button">Inštalovať služby Google Play</string>
+    <string name="common_google_play_services_install_text_phone">Na spustenie aplikácie %1$s sa vyžadujú služby Google Play, ktoré na telefóne nemáte.</string>
+    <string name="common_google_play_services_install_text_tablet">Na spustenie aplikácie %1$s sa vyžadujú služby Google Play, ktoré na tablete nemáte.</string>
+    <string name="common_google_play_services_install_title">Inštalovať služby Google Play</string>
+    <string name="common_google_play_services_invalid_account_text">Zadaný účet v tomto zariadení neexistuje. Vyberte iný účet.</string>
+    <string name="common_google_play_services_invalid_account_title">Neplatný účet</string>
+    <string name="common_google_play_services_network_error_text">Pripojenie k službám Google Play vyžaduje dátové pripojenie.</string>
+    <string name="common_google_play_services_network_error_title">Chyba siete</string>
+    <string name="common_google_play_services_notification_ticker">Chyba služieb Google Play</string>
+    <string name="common_google_play_services_restricted_profile_text">Prístup k účtom z obmedzeného profilu nie je podporovaný.</string>
+    <string name="common_google_play_services_restricted_profile_title">Obmedzený profil</string>
+    <string name="common_google_play_services_sign_in_failed_text">Pri prihlasovaní do určeného účtu sa vyskytla chyba. Zvoľte iný účet.</string>
+    <string name="common_google_play_services_sign_in_failed_title">Prihlásenie zlyhalo</string>
+    <string name="common_google_play_services_unknown_issue">Aplikácia %1$s má problémy so službami Google Play. Ak problém pretrváva, kontaktujte vývojára a požiadajte ho o pomoc.</string>
+    <string name="common_google_play_services_unsupported_text">Aplikácia %1$s potrebuje služby Google Play, ktoré vaše zariadenie nepodporuje. Kontaktujte príslušného výrobcu a požiadajte ho o pomoc.</string>
+    <string name="common_google_play_services_unsupported_title">Služby Google Play</string>
+    <string name="common_google_play_services_update_button">Aktualizovať</string>
+    <string name="common_google_play_services_update_text">Aplikáciu %1$s bude možné spustiť až po aktualizácii služieb Google Play.</string>
+    <string name="common_google_play_services_update_title">Aktualizácia služieb Google Play</string>
+    <string name="common_google_play_services_updating_text">Na spustenie aplikácie %1$s sa vyžadujú služby Google Play, ktoré sa momentálne aktualizujú.</string>
+    <string name="common_google_play_services_updating_title">Služby Google Play sa aktualizujú</string>
+    <string name="common_google_play_services_wear_update_text">Vyžaduje sa nová verzia služieb Google Play. Aktualizujú sa automaticky v najbližšom čase.</string>
+    <string name="common_open_on_phone">Otvoriť v telefóne</string>
+    <string name="common_signin_button_text">Prihlásiť sa</string>
+    <string name="common_signin_button_text_long">Prihlásiť sa do účtu Google</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="about_donation_summary">Získať darcovský balík pre ďalšie funkcie</string>
+    <string name="about_donation_summary_donated">Ďalšie experimentálne funkcie môžete aktivovať v hlavnej ponuke.</string>
+    <string name="about_donation_title">Prispieť</string>
+    <string name="about_donation_title_donated">Ďakujeme za dar</string>
+    <string name="about_licenses_title">Licencie</string>
+    <string name="about_raise_your_voice_program_detail">"Greenify zvyšuje hlas komunity, aby sa o nej dozvedeli vývojári vašich greenifikovaných aplikácií.
+
+Na zvýšenie vášho hlasu, Greenify zhromažďuje anonymné údaje. Kedykoľvek môžete toto zhromažďovanie vypnúť.
+
+"</string>
+    <string name="about_raise_your_voice_program_summary">Váš hlas to môže zmeniť!</string>
+    <string name="about_raise_your_voice_program_title">Program \"Zvýšte váš hlas!\"</string>
+    <string name="about_translation_credit">pyler</string>
+    <string name="about_translation_title">Preklad</string>
+    <string name="about_uninstall">Odinštalovať</string>
+    <string name="about_version_summary">Ohodnotiť túto aplikáciu.</string>
+    <string name="about_version_title">Verzia</string>
+    <string name="accessibility_service_description">"Táto služba uľahčenia prístupu je vyžadovaná pre niektoré špeciálne funkcií v Greenify.
+
+Môžete byť upozornení na potenciálne riziko ochrany osobných údajov, to je len pravidelná informačná výstraha pre akékoľvek služby uľahčenia prístupu. Sľubujeme, že nezberáme žiadne vaše osobné údaje pomocou tejto služby uľahčenia prístupu.
+
+Niektoré Samsung zariadenia majú problém s hovorím hlasu, ak je povolená akákoľvek služba uľahčenia prístupu. Pokiaľ dochádza k tomuto problému, povoľte riešenie v \"Nastaveniach\" tu."</string>
+    <string name="analysis_detail_alarm_with_wakeup">%1$d beží (%2$d prebudení)</string>
+    <string name="app_analyzer_name">Analyzér aplikácií</string>
+    <string name="app_analyzer_subtitle">Počet vybraných aplikácií: %1$d</string>
+    <string name="app_shortcut_hibernate">Hibernovať teraz</string>
+    <string name="app_shortcut_hibernate_lock">Hibernovať + zamknúť obrazovku</string>
+    <string name="app_shortcut_nothing">Nič</string>
+    <string name="app_shortcut_wakeup">Prebudiť</string>
+    <string name="app_state_always_ignored">Stav je vždy ignorovaný pre hibernáciu</string>
+    <string name="app_state_hibernation_failed">Nepodarilo sa hibernovať pred %1$s</string>
+    <string name="app_state_provider_in_use">Poskytovateľa používa %1$s</string>
+    <string name="app_state_service_in_use">Službu používa %1$s</string>
+    <string name="app_state_unsaveable">Neobnoviteľný stav</string>
+    <string name="app_state_woken_by_activity">Rozhranie otvorené pred %1$s</string>
+    <string name="app_state_woken_by_app">Prebudené %2$s pred %1$s</string>
+    <string name="app_state_woken_by_authenticator">Overené pred %1$s</string>
+    <string name="app_state_woken_by_backup">Záloha vykonaná pred %1$s</string>
+    <string name="app_state_woken_by_broadcast">Výslovne oznámené pred %1$s</string>
+    <string name="app_state_woken_by_content_provider">Obsah poskytnutý pred %1$s</string>
+    <string name="app_state_woken_by_push_msg">Push prijatý pred %1$s</string>
+    <string name="app_state_woken_by_search">Obsah hľadaný pred %1$s</string>
+    <string name="app_state_woken_by_service">Služba spustená pred %1$s</string>
+    <string name="app_state_woken_by_sync">Synchronizované pred %1$s</string>
+    <string name="app_state_woken_by_widget">Miniaplikácia aktualizovaná pred %1$s</string>
+    <string name="app_state_woken_directly">Prebudené priamo %2$s pred %1$s</string>
+    <string name="app_title_service_disabled">Greenify (Bez automatickej hibernácie)</string>
+    <string name="app_waker_google">Google služby</string>
+    <string name="app_waker_system">Systém Android</string>
+    <string name="app_waker_unknown">neznámy zdroj</string>
+    <string name="device_admin_for_automation">Greenify Automatizátor</string>
+    <string name="device_admin_for_automation_description">Povoliť Greenify vypnúť obrazovku ihneď po automatickej hibernácii.</string>
+    <string name="device_admin_warning_when_disabling">Ak je zakázané, aplikácia Greenify nebude schopná automatizovať hibernáciu pri vypnutej obrazovke.</string>
+    <string name="dialog_app_picker_guide_button">Prejsť do launchera</string>
+    <string name="dialog_app_picker_guide_message">Teraz budete presmerovaný do launchera. Spustite aplikáciu a potom kliknite na oznámenie, čím vyberiete aplikáciu.</string>
+    <string name="dialog_app_picker_guide_title">Ako vybrať aplikáciu</string>
+    <string name="dialog_button_cancel">Zrušiť</string>
+    <string name="dialog_button_continue">Pokračovať</string>
+    <string name="dialog_button_insist">Trvať</string>
+    <string name="dialog_button_later_by_oneself">Spravím to neskôr</string>
+    <string name="dialog_button_learn_more">Dozvedieť sa viac</string>
+    <string name="dialog_button_opt_in">Prihlásiť sa</string>
+    <string name="dialog_button_opt_out">Odhlásiť sa</string>
+    <string name="dialog_confirmation_unsafe_to_hibernate">Aplikácia v tomto stave nie je zvyčajne bezpečná na hibernovanie. Vynútená hibernácia môže spôsobiť prerušenie funkcií alebo aj stratu dát.</string>
+    <string name="dialog_cutoff_message">"Odstrihnutie ciest prebudení môže narušiť funkčnosť tejto aplikácie alebo závislých aplikácií.
+
+Ak sa stane niečo zlé, prosím pripojte znova odstrihnutie.
+
+Ovplyvnené: [%s]"</string>
+    <string name="dialog_cutoff_title">Varovanie</string>
+    <string name="dialog_degreenified_message">Napriek tomu, že aplikácia je degreenifikovaná, stále zostáva v hibernácii (všetky jej funkcie na pozadí nebudú fungovať), až kým ju neprebudíte tým, že ju spustíte.</string>
+    <string name="dialog_degreenified_title">Pozor</string>
+    <string name="dialog_donation_corrupted_message">Darcovský balík je poškodený. Nainštalovať ho znovu z Obchodu Play?</string>
+    <string name="dialog_greenify_confirmation_message">Chcete greenifikovať %1$s?</string>
+    <string name="dialog_greenifying_system_apps">Greenifikovanie systémových aplikácií je aktuálne experimentálna funkcia dostupná len v darcovskom balíku.</string>
+    <string name="dialog_incompatible_rom_title">Nekompatibilná ROM</string>
+    <string name="dialog_ingreenfiable_message_for_system_app">Prepáčte, ale nie je bezpečné greenifikovať systémové aplikácie.</string>
+    <string name="dialog_ingreenfiable_title">%1$s nemožno greenifikovať</string>
+    <string name="dialog_labs_incompatible_rom_message">Nepodarilo sa aktivovať túto funkciu. Možno nie je kompatibilná s Vašou ROM.</string>
+    <string name="dialog_labs_operation_failure_message">Operácia zlyhala.</string>
+    <string name="dialog_labs_state_set_failure_message">Nepodarilo sa nastaviť stav funkcie!</string>
+    <string name="dialog_message_donation_package_exclusive">"Táto funkcia je v súčasnosti dostupná len v darcovskom balíku.
+
+Zakúpte si teraz darcovský balík pre odomknutie všetkých experimentálnych funkcií."</string>
+    <string name="dialog_option_always_ignore_state">Vždy ignorovať stav spustenia</string>
+    <string name="dialog_root_operation_failure_message">Nepodarilo sa vykonať túto operáciu. Prosím uistite sa, že root prístup je udelený.</string>
+    <string name="dialog_thank4donation_message">"Ďakujeme za Váš dar na podporu rozvoja.
+
+Teraz môžete aktivovať ďalšie experimentálne funkcie z hlavnej ponuky."</string>
+    <string name="dialog_thank4donation_title">Ďakujem</string>
+    <string name="dialog_title_confirmation">Potvrdenie</string>
+    <string name="dialog_title_error">Chyba</string>
+    <string name="dialog_verification_error_message">Nemožno overiť dar. Skontrolujte stav siete a skúste to znova neskôr.</string>
+    <string name="dialog_verification_fatal_error">Nemôžno overiť dar, prosím, oznámte túto chybu.</string>
+    <string name="dialog_version_mismatch_message">Prosím aktualizujte túto aplikáciu na najnovšiu verziu.</string>
+    <string name="dialog_version_mismatch_title">Nezhoda verzií</string>
+    <string name="dialog_warning_for_greenifying_launcher">Pokúšate sa greenifikovať aplikáciu predvoleného launchera. Nie je odporúčané greenifikovať často používané aplikácie.</string>
+    <string name="dialog_warning_title">Varovanie</string>
+    <string name="dialog_xposed_module_inactive_message">Modul Greenify pre Xposed nie je aktivovaný. Musíte ho najskôr aktivovať v Xposed, aby tieto funkcie fungovali.</string>
+    <string name="event_capture_video">video je zachytené</string>
+    <string name="event_connectivity_changes">zmeny pripojenia k sieti</string>
+    <string name="event_media_connect">vymeniteľné úložisko je pripojený</string>
+    <string name="event_media_eject">vymeniteľné úložisko je odpojené</string>
+    <string name="event_media_scan">úložisko je skenované</string>
+    <string name="event_postfix_volatile">(môže sa líšiť podľa stavu)</string>
+    <string name="event_power_connected">napájanie je pripojené</string>
+    <string name="event_power_disconnected">napájanie je odpojené</string>
+    <string name="event_take_photo">fotografia je zhotovená</string>
+    <string name="event_unlock_keyguard">zámok klávesnice je odomknutý</string>
+    <string name="event_update_apps">aplikácia je aktualizovaná</string>
+    <string name="guide_btn_activate_module">Aktivujte modul &amp; Reštartnite</string>
+    <string name="guide_btn_install_xposed_installer">Nainštalujte Xposed Installer</string>
+    <string name="guide_btn_setup_xposed_framework">Nastavte Xposed framework</string>
+    <string name="guide_link_why_xposed">Prečo je potrebný Xposed framework?</string>
+    <string name="guide_sub_title">Inštalačná príručka</string>
+    <string name="guide_title">Experimentálne funkcie</string>
+    <string name="menu_about">O aplikácii</string>
+    <string name="menu_action_accept">Prijať</string>
+    <string name="menu_action_cutoff">Odstrihnúť cestu prebudenia</string>
+    <string name="menu_action_cutoff_condensed">Odstrihnúť</string>
+    <string name="menu_action_greenify">Greenify sprievodca</string>
+    <string name="menu_action_greenify_condensed">Greenifikovanie...</string>
+    <string name="menu_action_hibernate">Hibernovať teraz</string>
+    <string name="menu_action_hibernate_condensed">Hibernovať</string>
+    <string name="menu_action_hide">Skryť</string>
+    <string name="menu_action_pick">Vybrať aplikáciu na greenifikovanie</string>
+    <string name="menu_action_pick_condensed">Vybrať aplikáciu</string>
+    <string name="menu_action_reattach">Pripojiť znovu cesty prebudenia</string>
+    <string name="menu_action_reattach_condensed">Pripojiť znovu</string>
+    <string name="menu_action_reconsider_state">Prehodnotiť stav</string>
+    <string name="menu_action_refresh">Obnoviť</string>
+    <string name="menu_action_run">Spustiť</string>
+    <string name="menu_action_ungreenify">Odgreenifikovať vybranú aplikáciu</string>
+    <string name="menu_action_ungreenify_condensed">Odgreenifikovať</string>
+    <string name="menu_action_unhide_all">Zobraziť všetky</string>
+    <string name="menu_create_shortcut">Vytvoriť odkaz pre hibernáciu</string>
+    <string name="menu_disable_service">Zakázať automatickú hibernáciu</string>
+    <string name="menu_enable_service">Povoliť automatickú hibernáciu</string>
+    <string name="menu_reset_gesture">Obnoviť gesto \"potiahnutia nahor\"</string>
+    <string name="no_app_picked">Nevybraná žiadna aplikácia</string>
+    <string name="notification_app_picker_text">Spustite Vašu aplikáciu, potom kliknite sem pre jej vybratie.</string>
+    <string name="notification_app_picker_ticker">"Najprv sputite Vašu aplikáciu.
+Potom kliknite na toto oznámenie VÝBERU APLIKÁCIE."</string>
+    <string name="notification_app_picker_title">VÝBER APLIKÁCIE pre Greenify</string>
+    <string name="notification_listener_title">Ponechať oznámenia</string>
+    <string name="notification_text_workaround_talking">Ak sa stretli s náhodným hovorením</string>
+    <string name="notification_timer_coalesced_subtext">Automaticky optimalizované pomocou Greenify</string>
+    <string name="notification_timer_coalesced_title">Pravidelný časovač splynutý</string>
+    <string name="notification_title_workaround_talking">Riešenie problému s hovorením</string>
+    <string name="placeholder_show_all">Zobraziť viac aplikácií</string>
+    <string name="prefs_cat_donation_only_features">Vyžaduje darcovský balík</string>
+    <string name="prefs_cat_experimental_features">Experimentálne funkcie</string>
+    <string name="prefs_cat_xposed_donation_features">Vyžaduje Xposed a darcovský balík</string>
+    <string name="prefs_cat_xposed_only_features">Vyžaduje Xposed framework</string>
+    <string name="prefs_labs_automated_hibernation_title">Automatická hibernácia (4.1+)</string>
+    <string name="prefs_labs_block_notification_abuse_summary">Niektoré aplikácie využívajú zraniteľnosť Androidu (&lt;4.3) pre získanie neoprávnenej priority držania sa v pamäti pri nízkopamäťových situáciách.. Tieto aplikácie budú nesprávne rozoznané ako \"Vnímateľné\" v Greenify a nebude ich možné hibernovať.</string>
+    <string name="prefs_labs_block_notification_abuse_title">Blokovať otravné stavy aplikácií</string>
+    <string name="prefs_labs_boost_mode_summary">Lepší výkon a kompatibilita a to najmä, ak ste sa stretli so zlyhaním pri hibernácii alebo s root problémami.</string>
+    <string name="prefs_labs_boost_mode_title">Boost režim</string>
+    <string name="prefs_labs_gcm_push_summary">"Povoliť push správy GCM na prebudenie hibernovaných aplikácií okrem prípadu, keď majú tieto aplikácie zakázané oznámenia v systéme (Nastavenia - Aplikácie).
+Povoľte, prosím, tiež \"Ponechať oznámenia\" na vyhnutie sa straty oznámení po opätovnej hibernácií."</string>
+    <string name="prefs_labs_gcm_push_title">Push správy GCM pre greenifikované aplikácie</string>
+    <string name="prefs_labs_reveal_hidden_sync_title">Odhaliť skrytú synchronizáciu</string>
+    <string name="prefs_labs_root_mode_summary_boost">Fungovanie v \"Boost režime\" (pozrite nižšie), ktorý je odporúčaný režim.</string>
+    <string name="prefs_labs_system_apps_limited_title">Greenifikovanie systémových aplikácií (limitované)</string>
+    <string name="prefs_labs_system_apps_summary">Odstrániť imunitu u systémových aplikácií proti hibernácií a tým sa stane väčšina z nich greenifikovateľná.</string>
+    <string name="prefs_labs_system_apps_title">Greenifikovanie systémových aplikácií</string>
+    <string name="prefs_labs_telephony_wakeup_summary">Povoliť udalostiam telefónu (ako sú napr. hovory, SMS), aby prebudili hibernované aplikácie. Greenifikované aplikácie s týmito funkciami telefónu budú normálne fungovať.</string>
+    <string name="prefs_labs_telephony_wakeup_title">Prebudenie telefónu</string>
+    <string name="prefs_labs_timer_coalescing_summary">Povoliť pravidelné splývanie časovača (dávkovanie) pre všetky aplikácie (nie len pre aplikácie určené pre KitKat). Dostupné len na Androide 4.4+.</string>
+    <string name="prefs_labs_timer_coalescing_title">Splývanie časovača (4.4+)</string>
+    <string name="prefs_labs_wakeup_tracker_summary">Stopovať, ktorá aplikácia prebudila Vaše greenifikované aplikácie a voliteľne odrezať cestu prebudenia pre vyhnutie sa ďalších prebudení.</string>
+    <string name="prefs_labs_wakeup_tracker_title">Stopovač &amp;amp; odstrihávač prebudení</string>
+    <string name="prefs_labs_working_mode_title">Režim fungovania</string>
+    <string name="progress_be_hibernating">Hibernovanie...</string>
+    <string name="section_alarm">Plánované spustenie (od posledného spustenia)</string>
+    <string name="section_alarm_tips">"Tieto aplikácie majú naplánovaný beh na pozadí, čo môže spomaliť zariadenie a vybíjať batériu.
+
+Dajte si pozor na aplikácie, ktoré Vaše zariadenie často prebúdzajú."</string>
+    <string name="section_all_apps">Viac</string>
+    <string name="section_hibernated">Hibernované</string>
+    <string name="section_pending">Čakanie</string>
+    <string name="section_pending_auto">Hibernovať počas niekoľkých minút po vypnutí obrazovky</string>
+    <string name="section_pending_tip_nonroot">Tieto aplikácie sú prebudené a stali sa nečinnými. Je potrebné ich vrátiť do hibernácie.</string>
+    <string name="section_postponed">Automaticky nehibernované</string>
+    <string name="section_postponed_tip">Greenify nedá tieto aplikácie automaticky do hibernácie kvôli uvedeným dôvodom, dokým sa stav neskôr nezmení.</string>
+    <string name="section_receiver">Môžu spomaliť zariadenie, keď ...</string>
+    <string name="section_receiver_tip">"Tieto aplikácie môžu spomaliť zariadenie, keď sa udejú určité udalosti, v ľubovoľnom stupni.
+
+Čím viac aplikácií sa tu bude nachádzať, tým bude odozva zariadenia na tieto udalosti pomalejšia."</string>
+    <string name="section_service">Bežiace na pozadí</string>
+    <string name="section_service_tip">"Aplikácie bežiace na pozadí používajú určité množstvo pamäte a môžu spomaliť zariadenie v ľubovoľnom stupni.
+
+Udržujte tento zoznam čo najkratší, ak je to možné."</string>
+    <string name="service_cleaner">Čistič</string>
+    <string name="showcase_accessibility_setting">Povoliť automatizáciu</string>
+    <string name="showcase_manual_hibernation_automation">Tento ručný proces môže byť automatizovaný pomocou služby uľahčenia prístupu, ktorú poskytuje Greenify.</string>
+    <string name="showcase_manual_hibernation_desc">Vzhľadom na obmedzenia systému Android, pri práci v režime bez rootu budete musieť ručne kliknúť na tlačidlo \"Vynútiť zastavenie\" pre ukončenie hibernácie.</string>
+    <string name="showcase_manual_hibernation_title">Ručná hibernácia</string>
+    <string name="toast_accessibility_setting">Tu povoľte alebo zakážte službu uľahčenia prístupu Greenify</string>
+    <string name="toast_action_undo">SPÄŤ</string>
+    <string name="toast_already_greenified">Aplikácia %1$s je už greenifikovaná.</string>
+    <string name="toast_app_no_launcher_entry">Táto aplikácia nemá položku v spúšťači.</string>
+    <string name="toast_apps_hibernated">%1$s hibernované.</string>
+    <string name="toast_apps_hidden">Skryté aplikácie</string>
+    <string name="toast_auto_hibernation_failure_tip">"Prosím uistite sa, že root prístup bol udelený Greenify. Niektoré nástroje na správu rootu vyžadujú opätovné udelenie root prístupu pre každú aktualizáciu aplikácie.
+
+Ak stále dochádza k zlyhaniu pri hibernovaní, prosím, skúste iný nástroj na správu rootu alebo \"Boost režim\" v experimentálnych funkciách."</string>
+    <string name="toast_cannot_switch_to_launcher">Nemožno prepnúť na váš spúšťač, stlačte, prosím, ručne tlačidlo Domov.</string>
+    <string name="toast_failed_to_greenify">Nepodarilo sa greenifikovať \"%1$s\".</string>
+    <string name="toast_gcm_tip">"GCM (Cloudové správy Google) sú integrované do tejto aplikácie app a môžu byť využívané pre push oznámenia. Po greenifikácii aplikácií s GCM tieto push oznámenia nebudú fungovať.
+
+Experimentálna funkcia v darcovskom balíku povoľuje push správy GCM u greenifikovaných aplikácií."</string>
+    <string name="toast_gesture_reset">Predvolené správanie gesta potiahnutia nahor na tlačidlu Domov je obnovené.</string>
+    <string name="toast_hibernation_failure">Nepodarilo sa vložiť \"%1$s\" do hibernácie.</string>
+    <string name="toast_need_reboot">Nedostupné až do ďalšieho reštartu</string>
+    <string name="toast_none_hibernated">Žiadne aplikácie nepotrebujú hibernáciu.</string>
+    <string name="toast_opted_in">Ďakujeme za vašu účasť!</string>
+    <string name="toast_opted_out">Odhlásili ste sa. Žiadne anonymné štatistiky nebudú zhromažďované.</string>
+    <string name="toast_service_disabled">"Automatická hibernácia je zakázaná.
+Greenifikované aplikácie už nebudú automaticky hibernované."</string>
+    <string name="toast_service_enabled">Automatická hibernácia je povolená.</string>
+    <string name="toast_shortcut_created">Na vašom spúšťači bol vytvorený odkaz pre hibernáciu na jeden klik.</string>
+    <string name="toast_tasker_wakeup_unavail_in_nonroot">Prepáčte, ale dostupné len v root režime.</string>
+    <string name="wizard_step_enjoy">Užívajte si</string>
+    <string name="wizard_step_enjoy_desc">hladký a trvalý zážitok rovnako ako v prvý deň.</string>
+    <string name="wizard_step_forget">Zabudnite</string>
+    <string name="wizard_step_forget_desc">na starosti s údržbou, nechajte to Greenify spraviť v tichosti za vás.</string>
+    <string name="wizard_step_greenify">Greenifikujte</string>
+    <string name="wizard_step_greenify_desc">bateriu vybíjajúce, pamäť zabierajúce a skryto bežiace aplikácie.</string>
+    <string name="app_state_wakeup_paths_cutoff">Odstrihnúť cesty prebudení</string>
+    <string name="app_waker_root">root</string>
+    <string name="app_waker_shell">konzola</string>
+    <string name="dialog_full_cutoff_message">"Odstrihnutie ciest prebudení môže narušiť funkčnosť tejto aplikácie alebo aplikácií na nej závislých.
+
+Ak sa stane niečo zlé, prosím, pripojte odstrihnuté cesty."</string>
+    <string name="event_wifi_scan">Skenovanie Wi-Fi</string>
+    <string name="prefs_labs_automated_hibernation_summary">V režime bez rootu automatizovať hibernáciu počas niekoľkých minút po vypnutí obrazovky. Rozsvieti sa obrazovka, vykoná sa hibernácia a potom sa obrazovka vypne. (Vyžaduje Android 4.1 +, uľahčenie prístupu, správcu zariadení a nezabezpečenú uzamykaciu obrazovku)</string>
+    <string name="prefs_labs_deep_hibernation_summary">Presadzovať agresívne hibernácie aplikácií, zastavovať ich prebudenie inými aplikáciami.</string>
+    <string name="prefs_labs_deep_hibernation_title">Hlboká hibernácia</string>
+    <string name="prefs_labs_no_remove_notifications_limited_summary">Neodstraňovať oznámenia, keď je aplikácia v hibernácii (len pri vypnutej obrazovke, takže si môžete prečítať oznámenia neskôr. Ikona v stavovom riadku pôvodného oznámenia nemôže byť zachovaná kvôli obmedzeniu povolenia. Verzia tejto funkcie nižšie založená na Xposede nemá takéto obmedzenia.</string>
+    <string name="prefs_labs_no_remove_notifications_limited_title">Neodstraňovať oznámenia (obmedzené)</string>
+    <string name="prefs_labs_no_remove_notifications_summary">Neodstraňovať oznámenia, keď je aplikácia v hibernácii, takže si môžete prečítať oznámenia neskôr. (Nutný reštart)</string>
+    <string name="prefs_labs_no_remove_notifications_title">Neodstraňovať oznámenia</string>
+    <string name="prefs_labs_reveal_hidden_sync_summary">Odhaliť skryté úlohy synchronizácie účtov v \"Nastavenia - Účty\", začínajúce s \"*\".</string>
+    <string name="prefs_labs_root_mode_summary_off">Obmedzený režim (bez root-u). Ak je vaše zariadenie rootnuté, prosím, povoľte túto možnosť pre plný výkon Greenify.</string>
+    <string name="prefs_labs_root_mode_summary_on">Root režim. Ak vaše zariadenie nie je rootnuté, prosím, zakážte túto voľbu pre správnu funkciu.</string>
+    <string name="prefs_labs_system_apps_limited_summary">Odstrániť imunitu u niektorých systémových aplikáciách proti hibernácii, a teda ich bude možné greenifikovať. Vzhľadom k technickým obmedzeniam, hibernované systémové aplikácie nemusia byť tak pokojné ako nesystémové aplikácie, a niektoré ďalšie systémové aplikácie môže byť greenifikované len s verziou tejto funkcie založenou na Xposede..</string>
+    <string name="service_wakeup_monitor">Monitor prebudení</string>
+    <string name="toast_app_ingreenifiable">Prepáčte, ale \"%1$s\" nie je možné greenifikovať.</string>
+    <string name="toast_apps_not_hibernating">Nehibernujúce: %1$s</string>
+    <string name="toast_auto_hibernation_oos">Služba automatickej hibernácie je zastavená. Ak je táto správa zobrazovaná často, služba na pozadí môže byť blokovaná nástrojmi od tretích strán alebo nastaveniami systému (napríklad režim Stamina na zariadeniach Sony alebo Správca automatického spustenia na MIUI). Prosím, pridajte Greenify na bielu listinu pre fungovanie automatickej hibernácie.</string>
+    <string name="toast_auto_hibernation_restarting">Služba automatickej hibernácie sa reštartuje ... (pravdepodobne kvôli malej voľnej pamäte)</string>
+    <string name="toast_no_auto_hibernation_for_secure_keyguard">Prepáčte, ale automatická hibernácia nemôže fungovať, ak je uzamykacia obrazovka zabezpečená. Ako alternatívu môžete použiť skratku \"Hibernovať a zamknúť obrazovku\".</string>
+    <string name="toast_no_auto_hibernation_for_secure_keyguard_with_navbar">Prepáčte, ale automatická hibernácia nemôže fungovať, ak je uzamykacia obrazovka zabezpečená. Gesto \"potiahnutia nadol\" na softvérovom tlačidile \"Domov\" je odporúčané pre skratku \"Hibernovať a zamknúť obrazovku\".</string>
+    <string name="app_state_critical">Kritické</string>
+    <string name="app_state_working">Fungovanie</string>
+    <string name="toast_action_setting">Nastavenia</string>
+    <string name="toast_usage_stats_permission">Povolenie je vyžadované na zistenie a vyhnutie sa hibernácii aplikáciám na popredí</string>
+    <string name="section_pending_charging">Hibernácia je ignorovaná počas nabíjania</string>
+</resources>

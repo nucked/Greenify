@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="prefs_labs_working_mode_options">
+        <item>&lt;b>非ROOT模式&lt;/b>"
+"&lt;small>如果你的设备未ROOT&lt;/small></item>
+        <item>&lt;b>ROOT模式&lt;/b>"
+"&lt;small>如果你的设备已ROOT&lt;/small></item>
+        <item>&lt;b>高效模式&lt;/b>"
+"&lt;small>最佳的性能和兼容性 (需Xposed)&lt;/small></item>
+    </string-array>
+</resources>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="prefs_labs_working_mode_options">
+        <item>&lt;b>Root-suz&lt;/b>"
+"&lt;small>Cihazınız rootlu değilse&lt;/small></item>
+        <item>&lt;b>Root&lt;/b>"
+"&lt;small>Cihazınız rootlu ise&lt;/small></item>
+        <item>&lt;b>Hızlı&lt;/b>"
+"&lt;small>En iyi performans ve uygunluk (Xposed gerekli)&lt;/small></item>
+    </string-array>
+</resources>

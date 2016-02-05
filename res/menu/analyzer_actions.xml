@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item android:id="@id/action_unhide_all" android:menuCategory="container" android:title="@string/menu_action_unhide_all" android:titleCondensed="@string/menu_action_unhide_all" android:checkable="true" app:showAsAction="never" />
+    <item android:icon="@drawable/ic_action_search" android:id="@id/action_pick" android:menuCategory="container" android:title="@string/menu_action_pick" android:titleCondensed="@string/menu_action_pick_condensed" app:showAsAction="ifRoom" />
+    <item android:icon="@drawable/ic_action_archive" android:id="@id/action_hide" android:visible="false" android:menuCategory="container" android:title="@string/menu_action_hide" android:titleCondensed="@string/menu_action_hide" app:showAsAction="always" />
+</menu>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="prefs_labs_working_mode_options">
+        <item>&lt;b>Non-Root&lt;/b>"
+"&lt;small>jika perangkat kamu belum diroot&lt;/small></item>
+        <item>&lt;b>Root&lt;/b>"
+"&lt;small>Jika perangkat kamu sudah diroot&lt;/small></item>
+        <item>&lt;b>Boost&lt;/b>"
+"&lt;small>Kinerja terbaik dan kompatibilitas (Xposed diperlukan)&lt;/small></item>
+    </string-array>
+</resources>

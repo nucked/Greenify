@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="prefs_labs_working_mode_options">
+        <item>&lt;b>Chưa-Root&lt;/b>"
+"&lt;small>Nếu thiết bị của bạn chưa được root&lt;/small></item>
+        <item>&lt;b>Đã Root&lt;/b>"
+"&lt;small>Nếu thiết bị của bạn đã được root&lt;/small></item>
+        <item>&lt;b>Tăng cường&lt;/b>"
+"&lt;small>Tương thích và hoạt động tốt nhất (phải có cài Xposed)&lt;/small></item>
+    </string-array>
+</resources>

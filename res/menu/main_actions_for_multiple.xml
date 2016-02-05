@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item android:icon="@drawable/ic_action_remove" android:id="@id/action_remove" android:menuCategory="container" android:title="@string/menu_action_ungreenify" android:titleCondensed="@string/menu_action_ungreenify_condensed" app:showAsAction="ifRoom" />
+    <item android:icon="@drawable/ic_action_run" android:id="@id/action_run" android:visible="false" android:menuCategory="container" android:title="@string/menu_action_hibernate" android:titleCondensed="@string/menu_action_hibernate_condensed" app:showAsAction="always" />
+    <item android:icon="@drawable/ic_action_hibernate" android:id="@id/action_hibernate" android:menuCategory="container" android:title="@string/menu_action_hibernate" android:titleCondensed="@string/menu_action_hibernate_condensed" app:showAsAction="always" />
+</menu>

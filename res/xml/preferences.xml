@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ListPreference android:entries="@array/prefs_labs_working_mode_options" android:title="@string/prefs_labs_working_mode_title" android:key="working_mode" android:entryValues="@array/prefs_working_mode_values" />
+    <PreferenceScreen android:title="@string/prefs_shallow_hibernation_title" android:key="\#shallow_hibernation">
+        <SwitchPreference android:persistent="true" android:title="@string/prefs_shallow_hibernation_title" android:key="shallow_hibernation" />
+        <PreferenceCategory android:title="@string/prefs_cat_about" />
+        <com.oasisfeng.android.preference.WallOfTextPreference android:selectable="false" android:summary="@string/prefs_shallow_hibernation_description" />
+        <Preference android:summary="@string/prefs_learn_more">
+            <intent android:action="android.intent.action.VIEW" android:data="@string/url_about_shallow_hibernation" />
+        </Preference>
+    </PreferenceScreen>
+    <PreferenceScreen android:title="@string/prefs_labs_doze_title" android:key="\#super_doze">
+        <SwitchPreference android:persistent="false" android:title="@string/prefs_labs_doze_title" android:key="super_doze" />
+        <PreferenceCategory android:title="@string/prefs_cat_about" />
+        <com.oasisfeng.android.preference.WallOfTextPreference android:selectable="false" android:summary="@string/prefs_labs_doze_description" />
+        <Preference android:summary="@string/prefs_learn_more">
+            <intent android:action="android.intent.action.VIEW" android:data="@string/url_about_super_doze" />
+        </Preference>
+        <Preference android:title="@string/prefs_doze_whitelist_title" android:key="doze_whitelist" android:summary="@string/prefs_doze_whitelist_summary">
+            <intent android:action="android.settings.IGNORE_BATTERY_OPTIMIZATION_SETTINGS" />
+        </Preference>
+        <PreferenceCategory android:title="Debug Options" />
+        <SwitchPreference android:persistent="false" android:title="Notification" android:key="doze_notification" android:summary="Show notification for recent (normal and aggressive) doze durations." />
+    </PreferenceScreen>
+    <CheckBoxPreference android:persistent="true" android:title="@string/prefs_labs_automated_hibernation_title" android:key="automated_hibernation" android:summary="@string/prefs_labs_automated_hibernation_summary" />
+    <CheckBoxPreference android:title="@string/prefs_alt_screen_off_title" android:key="alt_screen_off" android:summary="@string/prefs_alt_screen_off_summary" />
+    <CheckBoxPreference android:persistent="false" android:title="@string/prefs_labs_navbar_gesture_title" android:key="navbar_gesture" android:summary="@string/prefs_labs_navbar_gesture_summary" />
+    <CheckBoxPreference android:persistent="false" android:title="@string/prefs_labs_no_remove_notifications_limited_title" android:key="keep_notifications_limited" android:summary="@string/prefs_labs_no_remove_notifications_limited_summary" />
+    <PreferenceScreen android:title="@string/prefs_xposed_features_title" android:key="xposed-features" android:summary="@string/prefs_xposed_features_summary">
+        <CheckBoxPreference android:persistent="true" android:title="@string/prefs_labs_timer_coalescing_title" android:key="timer_coalescing" android:summary="@string/prefs_labs_timer_coalescing_summary" />
+        <CheckBoxPreference android:persistent="true" android:title="@string/prefs_labs_telephony_wakeup_title" android:key="telephony_wakeup" android:summary="@string/prefs_labs_telephony_wakeup_summary" />
+        <CheckBoxPreference android:persistent="true" android:title="@string/prefs_labs_no_remove_notifications_title" android:key="keep_notifications" android:summary="@string/prefs_labs_no_remove_notifications_summary" />
+        <CheckBoxPreference android:persistent="true" android:title="@string/prefs_labs_wakeup_tracker_title" android:key="wakeup_tracker" android:summary="@string/prefs_labs_wakeup_tracker_summary" />
+        <CheckBoxPreference android:persistent="true" android:title="@string/prefs_labs_block_notification_abuse_title" android:key="block_notification_abuse" android:summary="@string/prefs_labs_block_notification_abuse_summary" />
+        <PreferenceCategory android:title="@string/prefs_cat_donation_only_features" android:key="donation-xposed-features">
+            <CheckBoxPreference android:persistent="true" android:title="@string/prefs_labs_deep_hibernation_title" android:key="deep_hibernation" android:summary="@string/prefs_labs_deep_hibernation_summary" />
+            <CheckBoxPreference android:persistent="true" android:title="@string/prefs_labs_gcm_push_title" android:key="gcm" android:summary="@string/prefs_labs_gcm_push_summary" />
+            <CheckBoxPreference android:persistent="true" android:title="@string/prefs_labs_system_apps_title" android:key="system_apps" android:summary="@string/prefs_labs_system_apps_summary" />
+            <CheckBoxPreference android:persistent="true" android:title="@string/prefs_labs_reveal_hidden_sync_title" android:key="reveal_hidden_sync" android:summary="@string/prefs_labs_reveal_hidden_sync_summary" />
+        </PreferenceCategory>
+    </PreferenceScreen>
+    <PreferenceCategory android:title="@string/prefs_cat_donation_only_features" android:key="donation-features">
+        <CheckBoxPreference android:persistent="true" android:title="@string/prefs_labs_system_apps_limited_title" android:key="system_apps_limited" android:summary="@string/prefs_labs_system_apps_limited_summary" />
+    </PreferenceCategory>
+</PreferenceScreen>

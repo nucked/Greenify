@@ -1,0 +1,310 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_home_description">ホームへ移動</string>
+    <string name="abc_action_bar_home_description_format">%1$s、%2$s</string>
+    <string name="abc_action_bar_home_subtitle_description_format">%1$s、%2$s、%3$s</string>
+    <string name="abc_action_bar_up_description">上へ移動</string>
+    <string name="abc_action_menu_overflow_description">その他のオプション</string>
+    <string name="abc_action_mode_done">完了</string>
+    <string name="abc_activity_chooser_view_see_all">すべて表示</string>
+    <string name="abc_activitychooserview_choose_application">アプリの選択</string>
+    <string name="abc_capital_off">OFF</string>
+    <string name="abc_capital_on">ON</string>
+    <string name="abc_search_hint">検索…</string>
+    <string name="abc_searchview_description_clear">検索キーワードを削除</string>
+    <string name="abc_searchview_description_query">検索キーワード</string>
+    <string name="abc_searchview_description_search">検索</string>
+    <string name="abc_searchview_description_submit">検索キーワードを送信</string>
+    <string name="abc_searchview_description_voice">音声検索</string>
+    <string name="abc_shareactionprovider_share_with">共有</string>
+    <string name="abc_shareactionprovider_share_with_application">%sと共有</string>
+    <string name="abc_toolbar_collapse_description">折りたたむ</string>
+    <string name="common_google_play_services_api_unavailable_text">%1$sには現在利用されていないGoogle Play開発者サービスが必要です。詳しくはデベロッパーにお問い合わせください。</string>
+    <string name="common_google_play_services_enable_button">Google Play開発者サービスを有効化</string>
+    <string name="common_google_play_services_enable_text">%1$sの実行には、Google Play開発者サービスの有効化が必要です。</string>
+    <string name="common_google_play_services_enable_title">Google Play開発者サービスの有効化</string>
+    <string name="common_google_play_services_install_button">Google Play開発者サービスを入手</string>
+    <string name="common_google_play_services_install_text_phone">%1$sの実行にはGoogle Play開発者サービスが必要ですが、お使いのスマートフォンにはインストールされていません。</string>
+    <string name="common_google_play_services_install_text_tablet">%1$sの実行にはGoogle Play開発者サービスが必要ですが、お使いのタブレットにはインストールされていません。</string>
+    <string name="common_google_play_services_install_title">Google Play開発者サービスの入手</string>
+    <string name="common_google_play_services_invalid_account_text">指定したアカウントはこの端末上に存在しません。別のアカウントを選択してください。</string>
+    <string name="common_google_play_services_invalid_account_title">無効なアカウント</string>
+    <string name="common_google_play_services_network_error_text">Google Play開発者サービスに接続するには、データ接続が必要です。</string>
+    <string name="common_google_play_services_network_error_title">ネットワークエラー</string>
+    <string name="common_google_play_services_notification_ticker">Google Play開発者サービスのエラー</string>
+    <string name="common_google_play_services_restricted_profile_text">制限付きプロフィールからのアカウントへのアクセスはサポートされていません。</string>
+    <string name="common_google_play_services_restricted_profile_title">制限付きプロフィール</string>
+    <string name="common_google_play_services_sign_in_failed_text">指定されたアカウントへのログイン中にエラーが発生しました。別のアカウントを選択してください。</string>
+    <string name="common_google_play_services_sign_in_failed_title">ログインできませんでした</string>
+    <string name="common_google_play_services_unknown_issue">「%1$s」でGoogle Play開発者サービスに問題が発生しています。問題が解決しない場合は、デベロッパーにお問い合わせください。</string>
+    <string name="common_google_play_services_unsupported_text">%1$sに必要なGoogle Play開発者サービスは、お使いの端末ではサポートされていません。詳しくは端末メーカーにお問い合わせください。</string>
+    <string name="common_google_play_services_unsupported_title">Google Play開発者サービス</string>
+    <string name="common_google_play_services_update_button">更新</string>
+    <string name="common_google_play_services_update_text">%1$sの実行にはGoogle Play開発者サービスの更新が必要です。</string>
+    <string name="common_google_play_services_update_title">Google Play開発者サービスの更新</string>
+    <string name="common_google_play_services_updating_text">%1$sの実行にはGoogle Play開発者サービスが必要ですが、このサービスは現在更新中です。</string>
+    <string name="common_google_play_services_updating_title">Google Play開発者サービスの更新中</string>
+    <string name="common_google_play_services_wear_update_text">Google Play開発者サービスの新しいバージョンが必要です。まもなく自動更新されます。</string>
+    <string name="common_open_on_phone">スマートフォンで開く</string>
+    <string name="common_signin_button_text">ログイン</string>
+    <string name="common_signin_button_text_long">Googleにログイン</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="about_donation_summary">寄付すると様々な追加機能が使えます</string>
+    <string name="about_donation_summary_donated">実験的な機能はメニューで有効にできます。</string>
+    <string name="about_donation_title">寄付</string>
+    <string name="about_donation_title_donated">寄付ありがとう!</string>
+    <string name="about_licenses_title">ライセンス</string>
+    <string name="about_raise_your_voice_program_detail">"Greenifyはアプリの開発をよりよいものにするためにあなたの冬眠させたアプリの開発者に知らせるコミュニティを作る予定です。
+
+この目的のため、Greenifyは個人情報の含まれない匿名のデータを収集します。いつでもオプトアウト(データ収集の無効化)することができます。"</string>
+    <string name="about_raise_your_voice_program_summary">あなたの声が必要です!</string>
+    <string name="about_raise_your_voice_program_title">\"声を上げよう!\" プログラム</string>
+    <string name="about_translation_credit">WedyDQ10</string>
+    <string name="about_translation_title">翻訳</string>
+    <string name="about_uninstall">アンインストール</string>
+    <string name="about_version_summary">このアプリを評価</string>
+    <string name="about_version_title">バージョン</string>
+    <string name="accessibility_service_description">"このユーザー補助サービスは、Greenify でのいくつかの特別な機能のために必要です。
+
+潜在的なプライバシーのリスク、全てのユーザ補助サービスに関する通常の通知警告に関して警告されることがあります。 我々は「これからも、決して」このユーザー補助サービスで、あなたの個人情報を「収集しない」ことを約束します。
+
+幾つかの Samsung 製デバイスではユーザ補助サービスを有効化した際に音声通話に関する問題があります。本問題に遭遇した場合、ここで\"設定\"に関する回避策を有効にしてください。"</string>
+    <string name="analysis_detail_alarm_with_wakeup">%1$d 回動作 (内 %2$d 回起動)</string>
+    <string name="app_analyzer_name">アプリ分析</string>
+    <string name="app_analyzer_subtitle">%1$dアプリを選択</string>
+    <string name="app_shortcut_hibernate">直ちに休止</string>
+    <string name="app_shortcut_hibernate_lock">休止 + スクリーンロック</string>
+    <string name="app_shortcut_nothing">なし</string>
+    <string name="app_shortcut_wakeup">ウェイクアップ</string>
+    <string name="app_state_always_ignored">休止のため状態を常に無視</string>
+    <string name="app_state_hibernation_failed">%1$s前に休止失敗</string>
+    <string name="app_state_provider_in_use">%1$sが使用中のプロパイダ</string>
+    <string name="app_state_service_in_use">%1$sが使用中のサービス</string>
+    <string name="app_state_unsaveable">状態復元不可能</string>
+    <string name="app_state_woken_by_activity">%1$s 前にUI起動</string>
+    <string name="app_state_woken_by_app">%2$sにより%1$s前に作動</string>
+    <string name="app_state_woken_by_authenticator">%1$s 前に自動同期</string>
+    <string name="app_state_woken_by_backup">%1$s 前にバックアップ</string>
+    <string name="app_state_woken_by_broadcast">%1$s 前に通知</string>
+    <string name="app_state_woken_by_content_provider">%1$s 前にコンテンツ提供</string>
+    <string name="app_state_woken_by_push_msg">%1$s 前にプッシュ受信</string>
+    <string name="app_state_woken_by_search">%1$s 前にコンテンツ検索</string>
+    <string name="app_state_woken_by_service">%1$s 前にサービス開始</string>
+    <string name="app_state_woken_by_sync">%1$s 前に同期</string>
+    <string name="app_state_woken_by_widget">%1$s 前にウィジェット更新</string>
+    <string name="app_state_woken_directly">%1$s前(%2$sにより直接起動)</string>
+    <string name="app_title_service_disabled">Greenify (自動休止無効)</string>
+    <string name="app_waker_google">Google サービス</string>
+    <string name="app_waker_system">Android システム</string>
+    <string name="app_waker_unknown">不明なソース</string>
+    <string name="device_admin_for_automation">Greenify 自動化</string>
+    <string name="device_admin_for_automation_description">自動的な休止後に Greenify が直ちに画面消灯するのを許可する</string>
+    <string name="device_admin_warning_when_disabling">無効化した場合、Greenify は画面消去時に自動休止をすることが出来ません</string>
+    <string name="dialog_app_picker_guide_button">ランチャーへ移動</string>
+    <string name="dialog_app_picker_guide_message">ランチャーに移動します。アプリを起動して通知をタップしてください。</string>
+    <string name="dialog_app_picker_guide_title">アプリの選択方法</string>
+    <string name="dialog_button_cancel">キャンセル</string>
+    <string name="dialog_button_continue">続行</string>
+    <string name="dialog_button_insist">無視</string>
+    <string name="dialog_button_later_by_oneself">後でする</string>
+    <string name="dialog_button_learn_more">詳細</string>
+    <string name="dialog_button_opt_in">オプトイン</string>
+    <string name="dialog_button_opt_out">オプトアウト</string>
+    <string name="dialog_confirmation_unsafe_to_hibernate">この状態のアプリは休止すると危険です。休止を強制すると動作がおかしくなったりデータが失われる場合があります。</string>
+    <string name="dialog_cutoff_message">"ウェイクアップパスを削除するとそのアプリが機能しなくなる可能性があります。
+
+機能しなくなった場合削除したものを戻してください。
+
+影響するもの: [%s]"</string>
+    <string name="dialog_cutoff_title">警告</string>
+    <string name="dialog_degreenified_message">冬眠をやめさせましたが、そのアプリを起動するまではまだ休止状態(バックグラウンドサービスが動作しない状態)のままです。</string>
+    <string name="dialog_degreenified_title">注意</string>
+    <string name="dialog_donation_corrupted_message">寄付版のパッケージが壊れています。Google Playから再インストールしてください。</string>
+    <string name="dialog_greenify_confirmation_message">%1$s を冬眠させますか？</string>
+    <string name="dialog_greenifying_system_apps">システムアプリの冬眠は現在実験的な機能で、寄付したユーザーのみ使用できます。</string>
+    <string name="dialog_incompatible_rom_title">非対応ROM</string>
+    <string name="dialog_ingreenfiable_message_for_system_app">"システムアプリの冬眠は危険なことが多いです。
+無視ボタンを押すと冬眠させます。"</string>
+    <string name="dialog_ingreenfiable_title">%1$sを冬眠させられません</string>
+    <string name="dialog_labs_incompatible_rom_message">有効にできませんでした、おそらく使用中のROMと互換性がありません。</string>
+    <string name="dialog_labs_operation_failure_message">操作に失敗しました。</string>
+    <string name="dialog_labs_state_set_failure_message">セットに失敗しました!</string>
+    <string name="dialog_message_donation_package_exclusive">"本機能は現在donation package のみ有効です。
+
+全ての実験的機能をアンロックするにはdonation packageを今すぐご購入下さい。"</string>
+    <string name="dialog_option_always_ignore_state">実行中の状態を常に無視</string>
+    <string name="dialog_root_operation_failure_message">この操作の実行に失敗しました。 root権限が付与されているか確認してください。</string>
+    <string name="dialog_thank4donation_message">"寄付して頂きありがとうございます。
+
+メニューから実験的な機能を有効に出来ます。"</string>
+    <string name="dialog_thank4donation_title">ありがとう!</string>
+    <string name="dialog_title_confirmation">確認</string>
+    <string name="dialog_title_error">エラー</string>
+    <string name="dialog_verification_error_message">寄付を認証できませんでした。ネットワークに接続して再試行してください。</string>
+    <string name="dialog_verification_fatal_error">寄付を確認出来ません、エラーについて報告して下さい</string>
+    <string name="dialog_version_mismatch_message">このアプリを更新してください。</string>
+    <string name="dialog_version_mismatch_title">バージョン不一致</string>
+    <string name="dialog_warning_for_greenifying_launcher">デフォルトで起動するランチャーを冬眠させようとしています。よく使うアプリを冬眠させるのはおすすめできません。</string>
+    <string name="dialog_warning_title">警告</string>
+    <string name="dialog_xposed_module_inactive_message">GreenifyのXposedモジュールが有効になっていません。まずXposed installerでチェックを入れないとこれらの機能は動作しません。</string>
+    <string name="event_capture_video">動画を録画した時</string>
+    <string name="event_connectivity_changes">ネット接続が変更された時</string>
+    <string name="event_media_connect">外部ストレージを接続した時</string>
+    <string name="event_media_eject">外部ストレージを取り外した時</string>
+    <string name="event_media_scan">ストレージをスキャンした時</string>
+    <string name="event_postfix_volatile">(状態により変化)</string>
+    <string name="event_power_connected">電源に接続した時</string>
+    <string name="event_power_disconnected">電源を接続解除した時</string>
+    <string name="event_take_photo">写真を撮影した時</string>
+    <string name="event_unlock_keyguard">ロック解除された時</string>
+    <string name="event_update_apps">アプリを更新した時</string>
+    <string name="guide_btn_activate_module">モジュールを有効化して再起動</string>
+    <string name="guide_btn_install_xposed_installer">「Xposedインストーラ」をインストール</string>
+    <string name="guide_btn_setup_xposed_framework">Xposedフレームワークをセットアップ</string>
+    <string name="guide_link_why_xposed">どうしてXposedフレームワークが必要なの?</string>
+    <string name="guide_sub_title">セットアップガイド</string>
+    <string name="guide_title">実験的な機能</string>
+    <string name="menu_about">情報</string>
+    <string name="menu_action_accept">了解</string>
+    <string name="menu_action_cutoff">ウェイクアップパスを削除</string>
+    <string name="menu_action_cutoff_condensed">削除</string>
+    <string name="menu_action_greenify">Greenifyウィザード</string>
+    <string name="menu_action_greenify_condensed">冬眠...</string>
+    <string name="menu_action_hibernate">休止する</string>
+    <string name="menu_action_hibernate_condensed">休止</string>
+    <string name="menu_action_hide">隠す</string>
+    <string name="menu_action_pick">冬眠させるアプリを選択</string>
+    <string name="menu_action_pick_condensed">アプリを選択</string>
+    <string name="menu_action_reattach">ウェイクアップパスを元に戻す</string>
+    <string name="menu_action_reattach_condensed">元に戻す</string>
+    <string name="menu_action_reconsider_state">状態を再取得</string>
+    <string name="menu_action_refresh">再読み込み</string>
+    <string name="menu_action_run">起動する</string>
+    <string name="menu_action_ungreenify">選択したアプリの冬眠をやめる</string>
+    <string name="menu_action_ungreenify_condensed">冬眠をやめる</string>
+    <string name="menu_action_unhide_all">全て表示</string>
+    <string name="menu_create_shortcut">休止ショートカットを作成</string>
+    <string name="menu_disable_service">自動休止を無効化</string>
+    <string name="menu_enable_service">自動休止を有効化</string>
+    <string name="menu_reset_gesture">\"プルアップ\" ゼスチャーのリセット</string>
+    <string name="no_app_picked">選択されていません</string>
+    <string name="notification_app_picker_text">アプリを起動してここをタップすると選べます。</string>
+    <string name="notification_app_picker_ticker">"まずアプリを起動してください。
+それからこの通知をタップしてください。"</string>
+    <string name="notification_app_picker_title">Greenify用アプリピッカー</string>
+    <string name="notification_listener_title">通知キーパー</string>
+    <string name="notification_text_workaround_talking">ランダムな音声通話の問題に直面した場合</string>
+    <string name="notification_timer_coalesced_subtext">Greenify により自動的に最適化されました</string>
+    <string name="notification_timer_coalesced_title">定期的なタイマーを合算しました</string>
+    <string name="notification_title_workaround_talking">通話に関する問題の回避方法</string>
+    <string name="placeholder_show_all">その他のアプリを表示</string>
+    <string name="prefs_cat_donation_only_features">Donation Package が必要</string>
+    <string name="prefs_cat_experimental_features">実験的な機能</string>
+    <string name="prefs_cat_xposed_donation_features">Xposed &amp;amp; Donation Package が必要</string>
+    <string name="prefs_cat_xposed_only_features">Xposed Framework が必要</string>
+    <string name="prefs_labs_automated_hibernation_title">自動休止 （4.1+)</string>
+    <string name="prefs_labs_block_notification_abuse_summary">一部のアプリはAndroid 4.3以下でメモリ保持優先度がおかしくなるバグを持っています。そういったアプリはGreenifyが\"知覚可能\"と誤認識してしまい、休止できません。</string>
+    <string name="prefs_labs_block_notification_abuse_title">異常なアプリ状態のブロック</string>
+    <string name="prefs_labs_boost_mode_summary">パフォーマンスと互換性が向上します。特にroot権限の問題があったり休止に失敗したりする場合に効果があります。</string>
+    <string name="prefs_labs_boost_mode_title">ブーストモード</string>
+    <string name="prefs_labs_gcm_push_summary">GCMプッシュ通知で休止したアプリを動作させられるようにします。冬眠させてもプッシュ通知機能を使えるように出来ます。</string>
+    <string name="prefs_labs_gcm_push_title">冬眠したアプリへのGCMプッシュ</string>
+    <string name="prefs_labs_reveal_hidden_sync_title">非表示の同期を表示する</string>
+    <string name="prefs_labs_root_mode_summary_boost">推奨される下記のような”ブーストモード”に稼働中。</string>
+    <string name="prefs_labs_system_apps_limited_title">システムアプリの休止（限定的）</string>
+    <string name="prefs_labs_system_apps_summary">ほとんどのシステムアプリを冬眠させられるようになります。</string>
+    <string name="prefs_labs_system_apps_title">システムアプリの冬眠</string>
+    <string name="prefs_labs_telephony_wakeup_summary">通話イベント(電話やSMS等)で休止したアプリを動作させられるようにします。通話やSMS関連のアプリを冬眠しても通常通り使えるように出来ます。</string>
+    <string name="prefs_labs_telephony_wakeup_title">通話ウェイクアップ</string>
+    <string name="prefs_labs_timer_coalescing_summary">KitKat向けでないアプリでも定期的なタイマー結合を有効にします。Android 4.4以降でのみ使用できます。</string>
+    <string name="prefs_labs_timer_coalescing_title">タイマー結合(4.4以降)</string>
+    <string name="prefs_labs_wakeup_tracker_summary">どのアプリが冬眠したアプリを起動したか記録し、起動させないようウェイクアップパスを削除できるようにします。</string>
+    <string name="prefs_labs_wakeup_tracker_title">ウェイクアップ記録 &amp;amp; 削除</string>
+    <string name="prefs_labs_working_mode_title">動作モード</string>
+    <string name="progress_be_hibernating">休止中…</string>
+    <string name="section_alarm">スケジュール動作中(前回の起動から)</string>
+    <string name="section_alarm_tips">"このアプリはバックグラウンドで動作するようスケジュールされており、端末の動作を遅くしたりバッテリーを消費するかもしれません。
+
+自動実行の頻度に注意してください。"</string>
+    <string name="section_all_apps">その他</string>
+    <string name="section_hibernated">休止</string>
+    <string name="section_pending">待機中</string>
+    <string name="section_pending_auto">画面オフ後に休止</string>
+    <string name="section_pending_tip_nonroot">これらのアプリは起動し直ちにアイドル可能ですが、手動で休止する必要があります。</string>
+    <string name="section_postponed">自動的に休止しない</string>
+    <string name="section_postponed_tip">Greenifyは表示された理由によりこれらのアプリを自動的に休止させません。</string>
+    <string name="section_receiver">端末の動作を遅くさせるかも…</string>
+    <string name="section_receiver_tip">"これらのアプリは特定のイベントが起きたときに端末の動作を遅くさせるかもしれません。
+
+ここにアプリが多いとイベントが起きたときに反応が遅くなります。"</string>
+    <string name="section_service">バックグラウンドで動作中</string>
+    <string name="section_service_tip">"バックグラウンドで動作しているアプリはメモリを使用し端末の動作を遅くさせるかもしれません。
+
+このリストをできる限り少なくしてください。"</string>
+    <string name="service_cleaner">お掃除</string>
+    <string name="showcase_accessibility_setting">自動化を有効化</string>
+    <string name="showcase_manual_hibernation_automation">これらの手動操作はGreenifyにより提供されるユーザ補助サービスで自動化可能です。</string>
+    <string name="showcase_manual_hibernation_desc">Androidの制限により非rootモードでは休止を終わらせるには「強制終了」ボタンを押さないといけません。</string>
+    <string name="showcase_manual_hibernation_title">手動休止</string>
+    <string name="toast_accessibility_setting">Greenifyのアクセシビリティサービスをここで有効化/無効化します</string>
+    <string name="toast_action_undo">元に戻す</string>
+    <string name="toast_already_greenified">%1$sはすでに冬眠しています。</string>
+    <string name="toast_app_no_launcher_entry">このアプリはランチャーエントリーではありません。</string>
+    <string name="toast_apps_hibernated">%1$s を休止させました。</string>
+    <string name="toast_apps_hidden">隠しアプリ</string>
+    <string name="toast_auto_hibernation_failure_tip">"Greenifyにroot権限が許可されているか確認してください。 (アプリ更新時に許可し直さないといけない場合があります)
+
+問題が解決しない場合、SuperSUなど他のアプリを使うか、実験的な機能で\"ブーストモード\"を有効にしてください。"</string>
+    <string name="toast_cannot_switch_to_launcher">ランチャーに切り替えられませんでした、ホームボタンを押してください。</string>
+    <string name="toast_failed_to_greenify">\"%1$s\"の冬眠に失敗しました。</string>
+    <string name="toast_gcm_tip">"GCM (Google Cloud Messaging)がこのアプリに統合されており、プッシュ通知に使用されます。冬眠した場合動作しません。
+
+寄付版での実験的な機能でGCMプッシュ通知を冬眠したアプリでも使えるように出来ます。"</string>
+    <string name="toast_gesture_reset">ホームボタンリセット時の既定のプルアップゼスチャー</string>
+    <string name="toast_hibernation_failure">\"%1$s\"を休止させられませんでした。</string>
+    <string name="toast_need_reboot">次回の再起動まで無効</string>
+    <string name="toast_none_hibernated">休止させるアプリはありません。</string>
+    <string name="toast_opted_in">ご協力ありがとうございます!</string>
+    <string name="toast_opted_out">オプトアウトしました。データは収集されません。</string>
+    <string name="toast_service_disabled">"自動休止は無効化されました。
+冬眠させたアプリは自動的に休止されません。"</string>
+    <string name="toast_service_enabled">自動休止は有効です。</string>
+    <string name="toast_shortcut_created">ワンタップで休止できるショートカットをホームに作成しました。</string>
+    <string name="toast_tasker_wakeup_unavail_in_nonroot">申し訳ありません、rootモードのみ対応します</string>
+    <string name="wizard_step_enjoy">始めよう</string>
+    <string name="wizard_step_enjoy_desc">端末を使い始めたときのようなスムーズさをもう一度。</string>
+    <string name="wizard_step_forget">忘れよう（ROOTモードのみ）</string>
+    <string name="wizard_step_forget_desc">面倒なタスク管理はGreenifyにおまかせください。</string>
+    <string name="wizard_step_greenify">Greenify</string>
+    <string name="wizard_step_greenify_desc">バッテリーを消費し、メモリを食い、裏で動作しているアプリを冬眠させます。</string>
+    <string name="app_state_wakeup_paths_cutoff">ウェイクアップパスのカットオフ</string>
+    <string name="app_waker_root">root</string>
+    <string name="app_waker_shell">シェル</string>
+    <string name="dialog_full_cutoff_message">"全てのウェイクアップパスを削除するとそのアプリが機能しなくなったりアプリの依存性を損なうおそれがあります。
+
+何か不具合があった場合、再度カットオフを設定して下さい。"</string>
+    <string name="event_wifi_scan">Wi-Fiをスキャン済み</string>
+    <string name="prefs_labs_automated_hibernation_summary">非rootモードでは画面消灯後に休止が自動処理されます。Greenify は画面表示し、休止動作が実行された後に画面消灯します。（Android 4.1以降、アクセシビリティ、 デバイスの管理者権限と安全でないキーガードが必要）</string>
+    <string name="prefs_labs_deep_hibernation_summary">休止済みアプリに積極的なポリシーを強制することで、他のアプリから解除された場合も休止状態を保ちます。</string>
+    <string name="prefs_labs_deep_hibernation_title">ディープ ハイバネーション</string>
+    <string name="prefs_labs_no_remove_notifications_limited_summary">アプリ休止時(画面オフ時のみ)に通知を除去しないため、その後も通知内容を読むことが可能になります。限定的な制限によりオリジナル通知のステータスバーアイコンは保存することが出来ません。Xposedベースの本機能ではそのような制限はありません。</string>
+    <string name="prefs_labs_no_remove_notifications_limited_title">通知を除去しない(限定的)</string>
+    <string name="prefs_labs_no_remove_notifications_summary">アプリ休止時に通知を除去しないため、その後も通知内容を読むことが可能になります(再起動が必要)</string>
+    <string name="prefs_labs_no_remove_notifications_title">通知を除去しない</string>
+    <string name="prefs_labs_reveal_hidden_sync_summary">\"設定 - アカウント\" 内の非表示のアカウント同期タスクを表示します。先頭に\"*\"を付けます。</string>
+    <string name="prefs_labs_root_mode_summary_off">制限モードに稼働中です。デバイスが既にルートされている場合、このオプションを有効にしてGreenifyの全パワーを解放してください。</string>
+    <string name="prefs_labs_root_mode_summary_on">root モードで動作中です。あなたの端末が root 未取得の場合、本オプションを無効化により正規の動作を行うことが出来ます。</string>
+    <string name="prefs_labs_system_apps_limited_summary">いくつかのシステムアプリが持つ休止に対する免疫性を奪うことにより、休止させることが可能となります。技術的な制限により、休止済みシステムアプリは他の非システムアプリより静かではないかもしれませんし、他の幾つかのシステムアプリはこのバージョン以前のXposed-based なバージョンでのみ休止が可能です。</string>
+    <string name="service_wakeup_monitor">ウェイクアップモニター</string>
+    <string name="toast_app_ingreenifiable">申訳ございません。”%1$s”はグリーン化不可能です。</string>
+    <string name="toast_apps_not_hibernating">%1$sは休止しませんでした</string>
+    <string name="toast_auto_hibernation_oos">自動休止サービスが停止しました。このメッセージが頻繁に表示された場合、バックグラウンドサービスがサードパーティツールやシステム設定（Sony端末によるスタミナモードやMIUIでのAutoStart Manager）によりブロックされたと思われます。自動休止が動作するよう Greenify をホワイトリストに登録して下さい。</string>
+    <string name="toast_auto_hibernation_restarting">自動休止サービスが再起動されました...（空きメモリの不足によると想定されます）</string>
+    <string name="toast_no_auto_hibernation_for_secure_keyguard">申し訳ありません、自動休止はセキュアキーガードがセットされた状態では動作しません。代替手段として「休止とロックスクリーン」のショートカットを使用可能です。</string>
+    <string name="toast_no_auto_hibernation_for_secure_keyguard_with_navbar">自動休止はセキュアキーガードがセットされた状態では動作しません。「休止とロックスクリーン」のショートカット用に「ホーム」ソフトキー上での「プルアップ」ゼスチャーが必要です。</string>
+    <string name="app_state_critical">致命的</string>
+    <string name="app_state_working">動作中</string>
+    <string name="toast_action_setting">設定</string>
+    <string name="toast_usage_stats_permission">表示中アプリの検知と休止の防止には許可が必要です</string>
+    <string name="section_pending_charging">充電中は休止されません</string>
+</resources>

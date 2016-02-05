@@ -1,0 +1,279 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="about_donation_summary">Dapatkan fitur tambahan di dalam paket donasi</string>
+    <string name="about_donation_summary_donated">Penambahan fitur eksperimental dapat diaktifkan di menu utama.</string>
+    <string name="about_donation_title">Donasi</string>
+    <string name="about_donation_title_donated">Terimakasih atas donasinya</string>
+    <string name="about_licenses_title">Lisensi</string>
+    <string name="about_raise_your_voice_program_detail">"Greenify akan mengumpulkan suara dari komunitas untuk didengar oleh para pengembang aplikasi greenify.
+
+Greenify mengumpulkan data anonim tanpa informasi pribadi. Anda dapat memilih keluar setiap waktu."</string>
+    <string name="about_raise_your_voice_program_summary">Suara Anda dapat membuat perbedaan!</string>
+    <string name="about_raise_your_voice_program_title">Program \"Raise Your Voice!\"</string>
+    <string name="about_translation_credit">Malikush</string>
+    <string name="about_translation_title">Terjemahan</string>
+    <string name="about_uninstall">Hapus instalasi</string>
+    <string name="about_version_summary">Beri peringkat app ini</string>
+    <string name="about_version_title">Versi</string>
+    <string name="accessibility_service_description">"Layanan aksesibilitas ini diperlukan untuk beberapa fitur khusus di Greenify.
+
+Anda mungkin memperingatkan tentang potensi risiko privasi, itu hanya peringatan informatif biasa untuk layanan aksesibilitas. Kami berjanji TIDAK PERNAH mengumpulkan informasi pribadi Anda dalam layanan aksesibilitas ini.
+
+Beberapa perangkat Samsung telah berbicara jika ada masalah layanan aksesibilitas diaktifkan. Jika Anda mengalami masalah ini, solusinya aktifkan dalam \"Settings\" di sini."</string>
+    <string name="analysis_detail_alarm_with_wakeup">%1$d kali berjalan (bertambah %2$d wakeups)</string>
+    <string name="app_analyzer_name">Penganalisis Aplikasi</string>
+    <string name="app_analyzer_subtitle">%1$d aplikasi dipilih</string>
+    <string name="app_shortcut_hibernate">Hibernasi Sekarang</string>
+    <string name="app_shortcut_hibernate_lock">Hibernasi + Kunci Layar</string>
+    <string name="app_shortcut_nothing">Tidak ada</string>
+    <string name="app_shortcut_wakeup">Wake Up</string>
+    <string name="app_state_always_ignored">Selalu diabaikan untuk hibernasi</string>
+    <string name="app_state_hibernation_failed">%1$s yang lalu gagal menghibernasi</string>
+    <string name="app_state_provider_in_use">Provider digunakan oleh %1$s</string>
+    <string name="app_state_service_in_use">Layanan digunakan oleh %1$s</string>
+    <string name="app_state_unsaveable">Tidak dapat dipulihkan</string>
+    <string name="app_state_woken_by_activity">%1$s yang lalu UI terbuka</string>
+    <string name="app_state_woken_by_app">%1$s yang lalu terbangun oleh %2$s</string>
+    <string name="app_state_woken_by_authenticator">%1$s yang lalu terkonfirmasi</string>
+    <string name="app_state_woken_by_backup">%1$s yang lalu cadangan dilakukan</string>
+    <string name="app_state_woken_by_broadcast">%1$s yang lalu telah diberitahu dengan tegas</string>
+    <string name="app_state_woken_by_content_provider">%1$s yang lalu konten disediakan</string>
+    <string name="app_state_woken_by_push_msg">%1$s yang lalu dorongan diterima</string>
+    <string name="app_state_woken_by_search">%1$s yang lalu konten dicari</string>
+    <string name="app_state_woken_by_service">%1$s yang lalu layanan dimulai</string>
+    <string name="app_state_woken_by_sync">%1$s yang lalu tersinkronisasi</string>
+    <string name="app_state_woken_by_widget">%1$s yang lalu widget terbarui</string>
+    <string name="app_state_woken_directly">%1$s yang lalu terbangun langsung oleh %2$s</string>
+    <string name="app_title_service_disabled">Greenify (Hibernasi tidak otomatis)</string>
+    <string name="app_waker_google">Layanan Google</string>
+    <string name="app_waker_system">Sistem Android</string>
+    <string name="app_waker_unknown">sumber tak diketahui</string>
+    <string name="device_admin_for_automation">Greenify Automator</string>
+    <string name="device_admin_for_automation_description">Ijinkan Greenify untuk segera mematikan layar setelah hibernasi otomatis.</string>
+    <string name="device_admin_warning_when_disabling">Jika dinonaktifkan, Greenify akan mampu mengotomatisasi hibernasi ketika layar dimatikan.</string>
+    <string name="dialog_app_picker_guide_button">Pergi ke peluncur</string>
+    <string name="dialog_app_picker_guide_message">Anda akan dibawa ke peluncur sekarang. Jalankan aplikasinya, kemudian klik pemberitahuan pemilih untuk memilih aplikasi tersebut.</string>
+    <string name="dialog_app_picker_guide_title">Bagaimana memilih aplikasi</string>
+    <string name="dialog_button_cancel">Batalkan</string>
+    <string name="dialog_button_continue">Lanjutkan</string>
+    <string name="dialog_button_insist">Bersikeras</string>
+    <string name="dialog_button_later_by_oneself">Saya akan melakukannya nanti</string>
+    <string name="dialog_button_learn_more">Pelajari lainnya</string>
+    <string name="dialog_button_opt_in">Pilih-masuk</string>
+    <string name="dialog_button_opt_out">Pilih-keluar</string>
+    <string name="dialog_confirmation_unsafe_to_hibernate">Aplikasi dalam kondisi ini biasanya tidak aman untuk hibernasi. Pemaksaan hibernasi dapat menyebabkan gangguan fungsi atau bahkan kehilangan data.</string>
+    <string name="dialog_cutoff_message">"Memotong jalur wake-up yang dapat mematahkan fungsi aplikasi atau aplikasi lain yang bergantung padanya.
+
+Jika sesuatu yang buruk terjadi, silakan pasang kembali.
+
+Terpengaruh: [%s]"</string>
+    <string name="dialog_cutoff_title">Peringatan</string>
+    <string name="dialog_degreenified_message">Meskipun sudah tidak di-greenify, aplikasi ini masih tetap dalam hibernasi (semua fungsi latar belakang tidak akan bekerja) sampai anda membangunkannya dengan menjalankannya secara langsung.</string>
+    <string name="dialog_degreenified_title">Perhatian!</string>
+    <string name="dialog_donation_corrupted_message">Paket Donasi rusak. Silahkan install ulang dari Google Play?</string>
+    <string name="dialog_greenify_confirmation_message">Apa Anda benar-benar ingin meng-grenify %1$s</string>
+    <string name="dialog_greenifying_system_apps">Meng-Greenify aplikasi system adalah fitur eksperimental yang hanya tersedia dalam paket donasi.</string>
+    <string name="dialog_incompatible_rom_title">ROM tidak kompatibel</string>
+    <string name="dialog_ingreenfiable_message_for_system_app">Maaf, pada umumnya aplikasi system tidak aman untuk di-greenify.</string>
+    <string name="dialog_ingreenfiable_title">%1$s tidak dapat di-greenify</string>
+    <string name="dialog_labs_incompatible_rom_message">Gagal untuk mengaktifkan fitur ini. Ini mungkin tidak kompatibel dengan ROM Anda.</string>
+    <string name="dialog_labs_operation_failure_message">Pengoperasian gagal.</string>
+    <string name="dialog_labs_state_set_failure_message">Gagal untuk mengatur fitur!</string>
+    <string name="dialog_message_donation_package_exclusive">"Fitur ini saat ini hanya tersedia dalam paket donasi.
+
+Membeli paket donasi sekarang untuk membuka semua fitur eksperimental."</string>
+    <string name="dialog_option_always_ignore_state">Selalu mengabaikan kondisi yang sedang berjalan</string>
+    <string name="dialog_root_operation_failure_message">Gagal untuk melakukan operasi ini. Silahkan memastikan hak istimewa root telah diberikan.</string>
+    <string name="dialog_thank4donation_message">"Terimakasih atas sumbangan Anda untuk mendukung pengembangan.
+
+Sekarang Anda bisa mengaktifkan fitur eksperimental tambahan dari menu utama."</string>
+    <string name="dialog_thank4donation_title">Terimakasih</string>
+    <string name="dialog_title_confirmation">Konfirmasi</string>
+    <string name="dialog_title_error">Kesalahan</string>
+    <string name="dialog_verification_error_message">Gagal memverifikasi donasi. Silahkan periksa kondisi jaringan dan coba lagi beberapa saat.</string>
+    <string name="dialog_verification_fatal_error">Tidak dapat memverifikasi donasi, silahkan melaporkan kesalahan ini.</string>
+    <string name="dialog_version_mismatch_message">Silahkan perbarui aplikasi ini dengan versi yang terbaru</string>
+    <string name="dialog_version_mismatch_title">Versi tidak cocok</string>
+    <string name="dialog_warning_for_greenifying_launcher">Anda mencoba untuk meng-greenify aplikasi peluncur. Tidak dianjurkan untuk meng-greenify aplikasi yang sering digunakan.</string>
+    <string name="dialog_warning_title">Peringatan</string>
+    <string name="dialog_xposed_module_inactive_message">Modul Xposed Greenify belum diaktifkan. Anda perlu mengaktifkannya terlebih dulu melalui Xposed installer agar fitur ini bisa bekerja.</string>
+    <string name="event_capture_video">video terekam</string>
+    <string name="event_connectivity_changes">perubahan koneksi jaringan</string>
+    <string name="event_media_connect">media penyimpanan terkoneksi</string>
+    <string name="event_media_eject">media penyimpanan terlepas</string>
+    <string name="event_media_scan">penyimpanan dipindai</string>
+    <string name="event_postfix_volatile">(kondisi bisa bervariasi)</string>
+    <string name="event_power_connected">sumber daya tersambung</string>
+    <string name="event_power_disconnected">sumber daya terputus</string>
+    <string name="event_take_photo">foto diambil</string>
+    <string name="event_unlock_keyguard">pengaman tombol dibuka</string>
+    <string name="event_update_apps">aplikasi terbaharui</string>
+    <string name="guide_btn_activate_module">Aktifkan modul, Nyala ulang.</string>
+    <string name="guide_btn_install_xposed_installer">Memasang Xposed Installer</string>
+    <string name="guide_btn_setup_xposed_framework">Pengaturan Xposed framework</string>
+    <string name="guide_link_why_xposed">Mengapa perlu Xposed framework?</string>
+    <string name="guide_sub_title">Powerful modding framework</string>
+    <string name="guide_title">Pemandu Konfigurasi Xposed</string>
+    <string name="menu_about">Tentang</string>
+    <string name="menu_action_accept">Terima</string>
+    <string name="menu_action_cutoff">Potong jalur wake-up</string>
+    <string name="menu_action_cutoff_condensed">Potong</string>
+    <string name="menu_action_greenify">Asisten Greenify</string>
+    <string name="menu_action_greenify_condensed">Greenify...</string>
+    <string name="menu_action_hibernate">Dimasukkan ke dalam hibernasi sekarang</string>
+    <string name="menu_action_hibernate_condensed">Hibernasi</string>
+    <string name="menu_action_hide">Sembuyikan</string>
+    <string name="menu_action_pick">Pilih aplikasi untuk di greenify</string>
+    <string name="menu_action_pick_condensed">Pilih Aplikasi</string>
+    <string name="menu_action_reattach">Pasang kembali jalur wake-up</string>
+    <string name="menu_action_reattach_condensed">Pasang Kembali</string>
+    <string name="menu_action_reconsider_state">Mempertimbangkan kembali keadaannya</string>
+    <string name="menu_action_refresh">Segarkan</string>
+    <string name="menu_action_run">Jalankan</string>
+    <string name="menu_action_ungreenify">Hapus aplikasi yang dipilih dari Greenify</string>
+    <string name="menu_action_ungreenify_condensed">Hapus dari Greenify</string>
+    <string name="menu_action_unhide_all">Tampilkan semua</string>
+    <string name="menu_create_shortcut">Membuat jalan pintas hibernasi</string>
+    <string name="menu_disable_service">Nonaktifkan hibernasi-otomatis</string>
+    <string name="menu_enable_service">Aktifkan hibernasi-otomatis</string>
+    <string name="menu_reset_gesture">Atur ulang gesture \"tarik ke atas\"</string>
+    <string name="no_app_picked">Tidak ada aplikasi yang dipilih</string>
+    <string name="notification_app_picker_text">Jalankan aplikasi Anda, kemudian klik di sini untuk memilihnya.</string>
+    <string name="notification_app_picker_ticker">"Jalankan dahulu aplikasi Anda. 
+Kemudian klik pemberitahuan PEMILIH APLIKASI ini."</string>
+    <string name="notification_app_picker_title">PEMILIH APLIKASI untuk Greenify</string>
+    <string name="notification_listener_title">Penjaga Pemberitahuan</string>
+    <string name="notification_text_workaround_talking">If you are experiencing random voice talking</string>
+    <string name="notification_timer_coalesced_subtext">Optimasi Otomatis oleh Greenify</string>
+    <string name="notification_timer_coalesced_title">Pengatur waktu berkala menyatu</string>
+    <string name="notification_title_workaround_talking">Solusi untuk membicarakan masalah.</string>
+    <string name="placeholder_show_all">Tampilkan aplikasi lainnya</string>
+    <string name="prefs_cat_donation_only_features">Diperlukan Paket Donasi</string>
+    <string name="prefs_cat_experimental_features">Fitur Eksperimental</string>
+    <string name="prefs_cat_xposed_donation_features">Diperlukan Xposed &amp;amp; Paket Donasi</string>
+    <string name="prefs_cat_xposed_only_features">Diperlukan Xposed Framework</string>
+    <string name="prefs_labs_automated_hibernation_title">Otomatis hibernasi</string>
+    <string name="prefs_labs_block_notification_abuse_summary">Beberapa aplikasi mengeksploitasi kerentanan Android (sebelum 4.3) untuk mendapatkan prioritas tidak adil untuk tetap dalam memori dalam situasi memori rendah. Aplikasi tersebut akan diakui sebagai palsu \"jelas\" di Greenify dan tidak berhibernasi.</string>
+    <string name="prefs_labs_block_notification_abuse_title">Blokir Aplikasi Penyalahgunaan Keadaan</string>
+    <string name="prefs_labs_boost_mode_summary">Performa dan kompatibilitas lebih baik, terutama jika Anda mengalami kegagalan hibernasi atau masalah ROOT.</string>
+    <string name="prefs_labs_boost_mode_title">Boost Mode</string>
+    <string name="prefs_labs_gcm_push_summary">"Biarkan pesan push GCM membangunkan aplikasi terhibernasi, kecuali jika pemberitahuan dinonaktifkan dalam sistem (Settings - Apps).
+Silakan mengaktifkan juga \"Simpan Pemberitahuan\" untuk menghindari kehilangan pemberitahuan setelah re-hibernasi."</string>
+    <string name="prefs_labs_gcm_push_title">GCM mendorong aplikasi tergreenify.</string>
+    <string name="prefs_labs_reveal_hidden_sync_title">Menampakkan Sync Tersembunyi</string>
+    <string name="prefs_labs_root_mode_summary_boost">Bekerja di \"Mode Boost\" (lihat di bawah) merupakan mode yang dianjurkan.</string>
+    <string name="prefs_labs_system_apps_limited_title">Greenify aplikasi system</string>
+    <string name="prefs_labs_system_apps_summary">Menghilangkan aplikasi sistem dari kekebalan terhadap hibernasi, membuat sebagian besar dari mereka dapat digreenify.</string>
+    <string name="prefs_labs_system_apps_title">Greenify aplikasi system</string>
+    <string name="prefs_labs_telephony_wakeup_summary">Izinkan pemakaian telepon (seperti panggilan, SMS) untuk membangunkan aplikasi terhibernasi, sehingga panggilan atau SMS tergreenify dapat bekerja seperti yang diharapkan.</string>
+    <string name="prefs_labs_telephony_wakeup_title">Telephony Wakeup</string>
+    <string name="prefs_labs_timer_coalescing_summary">Menggabungkan periodik waktu wake-up CPU untuk semua aplikasi (bukan hanya app yang dirancang untuk 4.4+), untuk mengurangi konsumsi baterai karena CPU wake-up. Hanya tersedia pada Android 4.4+.</string>
+    <string name="prefs_labs_timer_coalescing_title">Pengatur Waktu Penggabungan Wakeup (4.4+)</string>
+    <string name="prefs_labs_wakeup_tracker_summary">Melacak app apa saja yang membangunkan app tergreenify, dan secara opsional memotong jalur tersebut untuk menghilangkan wake-up selanjutnya.</string>
+    <string name="prefs_labs_wakeup_tracker_title">Wake-up Tracker</string>
+    <string name="prefs_labs_working_mode_title">Mode Bekerja</string>
+    <string name="progress_be_hibernating">Hibernasi...</string>
+    <string name="section_alarm">Dijadwalkan berjalan (sejak startup terakhir)</string>
+    <string name="section_alarm_tips">"Aplikasi-aplikasi ini menjadwalkan diri untuk berjalan secara tersembunyi, sehingga dapat memperlambat perangkat dan menguras baterai.
+
+Waspadalah terhadap mereka yang sering membangunkan perangkat Anda."</string>
+    <string name="section_all_apps">Lainnya</string>
+    <string name="section_hibernated">Hibernasi</string>
+    <string name="section_pending">Hibernasi manual tertunda</string>
+    <string name="section_pending_auto">Hibernasi dimulai beberapa menit setelah layar mati</string>
+    <string name="section_pending_tip_nonroot">Aplikasi ini terbangun dan menjadi menganggur sekarang, Anda perlu secara manual menempatkan mereka kembali ke hibernasi.</string>
+    <string name="section_postponed">Tidak Hibernasi Otomatis</string>
+    <string name="section_postponed_tip">Greenify tidak akan hibernasi otomatis aplikasi-aplikasi ini karena alasan tertera, kecuali terjadi perubahan kondisi.</string>
+    <string name="section_receiver">Dapat memperlambat perangkat saat ...</string>
+    <string name="section_receiver_tip">"Aplikasi ini dapat memperlambat perangkat bila ada event tertentu, sampai tingkatan tertentu.
+
+Semakin banyak aplikasi di sini, berakibat event kurang responsif."</string>
+    <string name="section_service">Berjalan di latar belakang</string>
+    <string name="section_service_tip">"Aplikasi yang berjalan di latar belakang menggunakan sejumlah memori, dan dapat memperlambat kinerja perangkat. 
+ 
+Pertahankan daftar ini seringkas mungkin."</string>
+    <string name="service_cleaner">Auto hibernasi</string>
+    <string name="showcase_accessibility_setting">Aktifkan Otomasi</string>
+    <string name="showcase_manual_hibernation_automation">Proses manual ini dapat diotomatisasikan melalui layanan aksesibilitas yang disediakan oleh Greenify.</string>
+    <string name="showcase_manual_hibernation_desc">Pada mode bukan root, hibernasi harus dilakukan dengan cara ini karena pembatasan sistem Android. Silakan klik tombol \"Berhenti Paksa\" di atas untuk menyelesaikan hibernasi.</string>
+    <string name="showcase_manual_hibernation_title">Hibernasi Manual</string>
+    <string name="toast_accessibility_setting">Aktifkan atau nonaktifkan akses layanan Greenify sini</string>
+    <string name="toast_action_undo">Batalkan</string>
+    <string name="toast_already_greenified">%1$s sudah ter-greenify</string>
+    <string name="toast_app_no_launcher_entry">Aplikasi ini tidak masuk ke peluncur.</string>
+    <string name="toast_apps_hibernated">%1$s telah dihibernasi.</string>
+    <string name="toast_apps_hidden">Aplikasi tersembunyi</string>
+    <string name="toast_auto_hibernation_failure_tip">"Pastikan hak akses root diberikan kepada Greenify. (Beberapa alat manajemen root memerlukan eksplisit kembali pemberian-untuk setiap update dari aplikasi)
+
+Jika Anda masih mengalami kegagalan hibernasi, silakan coba alat manajemen root yang lain atau \"Mode Boost\" dalam fitur eksperimental."</string>
+    <string name="toast_cannot_switch_to_launcher">Tidak dapat beralih ke launcher Anda, silakan tekan tombol Home secara manual.</string>
+    <string name="toast_failed_to_greenify">Gagal meng-greenify \"%1$s\".</string>
+    <string name="toast_gcm_tip">"GCM (Google Cloud Messaging) diintegrasikan ke dalam aplikasi ini, dan dapat digunakan untuk push notifikasi. Ini tidak akan bekerja lagi jika digreenify.
+
+Sebuah fitur eksperimental dalam paket donasi bisa mengaktifkan GCM push untuk aplikasi ter-greenify."</string>
+    <string name="toast_gesture_reset">Tindakan standar dari gesture tarik ke atas pada tombol Home adalah mengatur ulang</string>
+    <string name="toast_hibernation_failure">Gagal menempatkan \"%1$s\" kedalam hibernasi</string>
+    <string name="toast_need_reboot">Tidak tersedia sampai reboot berikutnya</string>
+    <string name="toast_none_hibernated">Tidak ada aplikasi perlu hibernasi.</string>
+    <string name="toast_opted_in">Terimakasih atas partisipasi anda!</string>
+    <string name="toast_opted_out">Anda telah memilih keluar. Tidak ada data yang dikumpulkan.</string>
+    <string name="toast_service_disabled">"Hibernasi-otomatis tidak aktif
+Aplikasi yang digreenify tidak akan otomatis hibernasi"</string>
+    <string name="toast_service_enabled">Hibernasi-otomatis diaktifkan</string>
+    <string name="toast_shortcut_created">Sebuah jalan pintas untuk hibernasi dengan satu klik dibuat di launcher anda.</string>
+    <string name="toast_tasker_wakeup_unavail_in_nonroot">Maaf, hanya tersedia dalam mode root.</string>
+    <string name="wizard_step_enjoy">Nikmati</string>
+    <string name="wizard_step_enjoy_desc">lancar dan tahan lama seperti di hari pertama.</string>
+    <string name="wizard_step_forget">Lupakan (hanya mode ROOT)</string>
+    <string name="wizard_step_forget_desc">tentang penataan, biarkan Greenify melakukannya untuk Anda.</string>
+    <string name="wizard_step_greenify">Greenify</string>
+    <string name="wizard_step_greenify_desc">aplikasi penyedot baterai, pemonopoli memori dan berjalan diam-diam.</string>
+    <string name="app_state_wakeup_paths_cutoff">Memotong jalur wake-up</string>
+    <string name="app_waker_root">root</string>
+    <string name="app_waker_shell">shell</string>
+    <string name="dialog_full_cutoff_message">"Memotong semua jalur wake-up bisa matahkan fungsi aplikasi ini atau aplikasi lain yang bergantung padanya.
+
+Jika sesuatu yang buruk terjadi, silakan pasang kembali jalurnya."</string>
+    <string name="event_wifi_scan">Wi-Fi dipindai</string>
+    <string name="prefs_labs_automated_hibernation_summary">Untuk mode bukan root, atomatis hibernasi beberapa menit setelah layar padam. Ini akan menyalakan layar, melakukan hibernasi dan kemudian mematikan layar. (Membutuhkan Android 4.1+, acessibility, Perangkat Admin dan kunci-penjaga)</string>
+    <string name="prefs_labs_deep_hibernation_summary">Memaksakan kebijakan agresif untuk aplikasi terhibernasi, menghentikan mereka dari pengaruh aplikasi lain.</string>
+    <string name="prefs_labs_deep_hibernation_title">Hibernasi Mendalam (alfa)</string>
+    <string name="prefs_labs_no_remove_notifications_limited_summary">Jangan menghapus pemberitahuan ketika aplikasi terhibernasi (hanya saat layar padam), sehingga Anda bisa membaca pemberitahuan sesudahnya. Status ikon bar pemberitahuan tidak akan muncul, karena pembatasan hak istimewa. Versi Xposed dari fitur dibawah ini tidak memiliki batasan tersebut.</string>
+    <string name="prefs_labs_no_remove_notifications_limited_title">Jangan Hapus Pemberitahuan (terbatas)</string>
+    <string name="prefs_labs_no_remove_notifications_summary">Jangan menghapus pemberitahuan ketika aplikasi terhibernasi, sehingga Anda bisa membaca pemberitahuan sesudahnya.</string>
+    <string name="prefs_labs_no_remove_notifications_title">Jangan Hapus Pemberitahuan</string>
+    <string name="prefs_labs_reveal_hidden_sync_summary">Menampakkan tugas sync akun tersembunyi di \"Setelan - Akun\", diawali dengan \"*\".</string>
+    <string name="prefs_labs_root_mode_summary_off">Bekerja dalam mode bukan root. Jika perangkat Anda benar-benar sudah di root, mohon aktifkan pilihan ini untuk mengoptimalkan kekuatan penuh Greenify.</string>
+    <string name="prefs_labs_root_mode_summary_on">Bekeja pada mode root. Jika perangkat Anda benar-benar BELUM di root, nonaktifkan pilihan ini untuk memastikan fungsi yang benar.</string>
+    <string name="prefs_labs_system_apps_limited_summary">Menghilangkan beberapa aplikasi sistem kekebalan untuk hibernasi, membuat mereka greenifiable. Karena keterbatasan teknis, hibernasi aplikasi sistem mungkin tidak selalu tinggal di hibernasi sebagai aplikasi non-sistem.</string>
+    <string name="service_wakeup_monitor">Pemindai Wake-up</string>
+    <string name="toast_app_ingreenifiable">Maaf, \"%1$s\" tidak dapat digreenify.</string>
+    <string name="toast_apps_not_hibernating">Tak terhibernasi: %1$s</string>
+    <string name="toast_auto_hibernation_oos">Layanan auto-hibernasi dihentikan. Jika pesan ini sering muncul, mungkin terhalang oleh alat atau sistem pengaturan pihak ke-3 (misalnya Stamina Mode perangkat Sony, AutoStart Manager MIUI), silakan cek pengaturan yang sesuai dan whitelist Greenify jika memungkinkan.</string>
+    <string name="toast_auto_hibernation_restarting">Layanan Auto-hibernasi sedang dimulai kembali... (mungkin karena kekurangan memori)</string>
+    <string name="toast_no_auto_hibernation_for_secure_keyguard">Maaf, hibernasi otomatis tidak dapat bekerja jika kunci-penjaga diatur. Anda dapat menggunakan alternatif jalan pintas \"Hibernasi dan Kunci Layar\".</string>
+    <string name="toast_no_auto_hibernation_for_secure_keyguard_with_navbar">Maaf, hibernasi otomatis tidak dapat bekerja jika kunci-penjaga diatur. \"Tarik\" gestur pada soft-key \"Home\" direkomendasikan untuk pintasan \"Hibernate dan Lock Screen\".</string>
+    <string name="app_state_critical">Kritis</string>
+    <string name="app_state_working">Bekerja</string>
+    <string name="dialog_button_activate">Aktif</string>
+    <string name="dialog_google_sign_in">Masuklah ke akun Google Anda untuk mengaktifkan paket donasi.</string>
+    <string name="dialog_non_root_auto_hibernation_incompatible_rom_message">Maaf, hibernasi otomatis pada perangkat non-root belum mendukung perangkat (atau ROM) anda</string>
+    <string name="dialog_verifying_donation_package">Memverifikasi paket donasi anda</string>
+    <string name="service_accessibility">Greenify - Hibernasi Otomatis</string>
+    <string name="service_accessibility_description">Mengotomatisasi aplikasi yang hibernasi (pada perangkat non-root). Menonaktifkan layanan ini akan mematahkan hibernasi otomatis.</string>
+    <string name="state_disabled">Dinonaktifkan</string>
+    <string name="state_enabled">Diaktifkan</string>
+    <string name="toast_action_setting">Pengaturan</string>
+    <string name="toast_usage_stats_permission">Diperlukan izin untuk mendeteksi dan menghindari hibernasi pada aplikasi latar depan.</string>
+    <string name="menu_settings">Pengaturan</string>
+    <string name="prefs_cat_about">Tentang</string>
+    <string name="prefs_labs_automated_hibernation_summary_incompatible">Maaf, belum kompatibel dengan ROM ini.</string>
+    <string name="prefs_labs_doze_title">Aggressive Doze (percobaan)</string>
+    <string name="prefs_learn_more">Pelajari lebih lanjut (online)</string>
+    <string name="prefs_shallow_hibernation_title">Hibernasi dangkal (percobaan)</string>
+    <string name="prefs_xposed_features_summary">Diperlukan Xposed Framework untuk dapat bekerja</string>
+    <string name="toast_action_guide">Panduan</string>
+    <string name="toast_action_troubleshoot">Pemecahan masalah</string>
+    <string name="toast_donation_package_not_found">Maaf, paket donasi tidak ditemukan untuk akun Google Anda.</string>
+    <string name="section_pending_charging">Hibernasi diabaikan selama mengisi daya</string>
+</resources>

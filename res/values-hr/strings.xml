@@ -1,0 +1,351 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_home_description">Idi na početnu</string>
+    <string name="abc_action_bar_home_description_format">%1$s, %2$s</string>
+    <string name="abc_action_bar_home_subtitle_description_format">%1$s, %2$s, %3$s</string>
+    <string name="abc_action_bar_up_description">Idi gore</string>
+    <string name="abc_action_menu_overflow_description">Dodatne opcije</string>
+    <string name="abc_action_mode_done">Gotovo</string>
+    <string name="abc_activity_chooser_view_see_all">Prikaži sve</string>
+    <string name="abc_activitychooserview_choose_application">Odabir aplikacije</string>
+    <string name="abc_capital_off">ISKLJUČENO</string>
+    <string name="abc_capital_on">UKLJUČENO</string>
+    <string name="abc_search_hint">Pretražite…</string>
+    <string name="abc_searchview_description_clear">Izbriši upit</string>
+    <string name="abc_searchview_description_query">Upit za pretraživanje</string>
+    <string name="abc_searchview_description_search">Pretraživanje</string>
+    <string name="abc_searchview_description_submit">Pošalji upit</string>
+    <string name="abc_searchview_description_voice">Glasovno pretraživanje</string>
+    <string name="abc_shareactionprovider_share_with">Dijeljenje sa</string>
+    <string name="abc_shareactionprovider_share_with_application">Dijeljenje sa: %s</string>
+    <string name="abc_toolbar_collapse_description">Sažmi</string>
+    <string name="common_google_play_services_api_unavailable_text">%1$s zahtijeva jednu ili više usluga Google Playa koje trenutačno nisu dostupne. Za pomoć se obratite razvojnom programeru.</string>
+    <string name="common_google_play_services_enable_button">Omogući usluge Google Playa</string>
+    <string name="common_google_play_services_enable_text">%1$s neće funkcionirati ako ne omogućite usluge Google Playa.</string>
+    <string name="common_google_play_services_enable_title">Omogućivanje usluga Google Playa</string>
+    <string name="common_google_play_services_install_button">Preuzmi usluge Google Playa</string>
+    <string name="common_google_play_services_install_text_phone">%1$s neće funkcionirati bez usluga Google Playa koje nisu instalirane na vašem telefonu.</string>
+    <string name="common_google_play_services_install_text_tablet">%1$s neće funkcionirati bez usluga Google Playa koje nisu instalirane na vašem tabletu.</string>
+    <string name="common_google_play_services_install_title">Preuzimanje usluga Google Playa</string>
+    <string name="common_google_play_services_invalid_account_text">Navedeni račun ne postoji na ovom uređaju. Odaberite neki drugi račun.</string>
+    <string name="common_google_play_services_invalid_account_title">Nevažeći račun</string>
+    <string name="common_google_play_services_network_error_text">Potrebna je podatkovna veza za povezivanje s uslugama Google Playa.</string>
+    <string name="common_google_play_services_network_error_title">Mrežna pogreška</string>
+    <string name="common_google_play_services_notification_ticker">Pogreška usluga Google Playa</string>
+    <string name="common_google_play_services_restricted_profile_text">Pristupanje računima iz ograničenog profila nije dopušteno.</string>
+    <string name="common_google_play_services_restricted_profile_title">Ograničeni profil</string>
+    <string name="common_google_play_services_sign_in_failed_text">Pogreška prilikom prijave na navedeni račun. Odaberite neki drugi račun.</string>
+    <string name="common_google_play_services_sign_in_failed_title">Prijava nije uspjela</string>
+    <string name="common_google_play_services_unknown_issue">%1$s ima poteškoća s uslugama Google Playa. Ako se problem ponovi, tražite pomoć od razvojnog programera.</string>
+    <string name="common_google_play_services_unsupported_text">%1$s radi na temelju usluga Google Playa koje vaš uređaj ne podržava. Za pomoć se obratite proizvođaču.</string>
+    <string name="common_google_play_services_unsupported_title">Usluge Google Playa</string>
+    <string name="common_google_play_services_update_button">Ažuriraj</string>
+    <string name="common_google_play_services_update_text">%1$s neće funkcionirati ako ne ažurirate usluge Google Playa.</string>
+    <string name="common_google_play_services_update_title">Ažuriranje usluga Google Playa</string>
+    <string name="common_google_play_services_updating_text">%1$s neće se pokrenuti bez usluga Google Playa koje se trenutačno ažuriraju.</string>
+    <string name="common_google_play_services_updating_title">Ažuriranje usluga Google Playa u tijeku</string>
+    <string name="common_google_play_services_wear_update_text">Potrebna je nova verzija usluga Google Playa. Uskoro će se ažurirati.</string>
+    <string name="common_open_on_phone">Otvori na telefonu</string>
+    <string name="common_signin_button_text">Prijava</string>
+    <string name="common_signin_button_text_long">Prijava putem Googlea</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="about_donation_summary">Kupite donacijsko pakovanje za dodatne mogucnosti</string>
+    <string name="about_donation_summary_donated">Dodatne eksperimentalne mogućnosti mogu biti aktivirane u glavnom meniju.</string>
+    <string name="about_donation_title">doniraj</string>
+    <string name="about_donation_title_donated">Hvala vam na donaciji</string>
+    <string name="about_licenses_title">licenca</string>
+    <string name="about_raise_your_voice_program_detail">"Greenify će podići glas zajednice da se čuju programeri vaših greenified aplikacije, za bolje prepoznavanje iskustva uređaja u app razvoj. 
+ 
+ Da biste povisili glas, Greenify prikuplja anonimne podatke bez informacija o privatnosti. Možete odjaviti u bilo koje vrijeme."</string>
+    <string name="about_raise_your_voice_program_summary">Vaš glas može nešto promijeniti!</string>
+    <string name="about_raise_your_voice_program_title">\"Raise Your Voice!\" program</string>
+    <string name="about_translation_credit">Hrvoje Fabijanić</string>
+    <string name="about_translation_title">prijevod</string>
+    <string name="about_uninstall">Deinstariraj</string>
+    <string name="about_version_summary">Ocijenite ovu aplikaciju.</string>
+    <string name="about_version_title">inačica</string>
+    <string name="accessibility_service_description">"Ova usluga je potreban za neke posebne značajke u Greenify.
+
+Možete biti upozoreni o potencijalnom riziku privatnost, to je samo redovito informativno upozorenje za pristupačne usluge. Obećavamo nikada prikupljanje vaših osobnih podataka u ovoj usluzi.
+
+Neki Samsung uređaji imaju glasovnih problema ako je omogućena pristupačne usluge. Ako ste se suočili s ovim problemom, omogućite zaobilazno rješenje tu u \"Settings\"."</string>
+    <string name="analysis_detail_alarm_with_wakeup">%1$d radi (uključujuci %2$d buđenja)</string>
+    <string name="app_analyzer_name">Analizator aplikacija</string>
+    <string name="app_analyzer_subtitle">%1$d aplikacija odabrana(o)</string>
+    <string name="app_shortcut_hibernate">Hiberniraj sada</string>
+    <string name="app_shortcut_hibernate_lock">Hiberniraj + Zaključaj zaslon</string>
+    <string name="app_shortcut_nothing">Nista</string>
+    <string name="app_shortcut_wakeup">Probudi</string>
+    <string name="app_state_always_ignored">Stanje uvijek ignorirano za hibernaciju</string>
+    <string name="app_state_hibernation_failed">Pred %1$s hibernacija nije uspjela</string>
+    <string name="app_state_provider_in_use">Davatelj usluga kojeg koristite %1$s</string>
+    <string name="app_state_service_in_use">Usluga koju koristite %1$s</string>
+    <string name="app_state_unsaveable">Nepovratno stanje</string>
+    <string name="app_state_woken_by_activity">Pred %1$s KS otvoreno</string>
+    <string name="app_state_woken_by_app">Pred %1$s probuđeno od %2$s</string>
+    <string name="app_state_woken_by_authenticator">Pred %1$s potvrđeno</string>
+    <string name="app_state_woken_by_backup">Pred %1$s izvedeno sigurnosno kopiranje</string>
+    <string name="app_state_woken_by_broadcast">Pred %1$s eksplicitno obaviješten</string>
+    <string name="app_state_woken_by_content_provider">Prije %1$s sadržaj osiguran</string>
+    <string name="app_state_woken_by_push_msg">Pred %1$s primljena obavijest</string>
+    <string name="app_state_woken_by_search">Pred %1$s pretražen sadržaj</string>
+    <string name="app_state_woken_by_service">Pred %1$s pokrenuta usluga</string>
+    <string name="app_state_woken_by_sync">Pred %1$s sinkronizirano</string>
+    <string name="app_state_woken_by_widget">Pred %1$s ažuriran dodatak</string>
+    <string name="app_state_woken_directly">%1$s prije direktno probuđeno od strane %2$s</string>
+    <string name="app_title_service_disabled">Greenify (Ručna hibernacija)</string>
+    <string name="app_waker_google">Google Usluge</string>
+    <string name="app_waker_system">Android Sustav</string>
+    <string name="app_waker_unknown">nepoznati izvor</string>
+    <string name="device_admin_for_automation">Greenify automatizator</string>
+    <string name="device_admin_for_automation_description">Dopusti Greenify da ugasi ekran odmah nakon automatske hibernacije</string>
+    <string name="device_admin_warning_when_disabling">Ako je onemogućeno, Greenify neće moći provesti automatsku hibernaciju dok je ekran ugašen.</string>
+    <string name="dialog_app_picker_guide_button">Idite na pokretač.</string>
+    <string name="dialog_app_picker_guide_message">Pokretanje je u tjeku. Otvorite i odaberite obavijest željene aplikacije.</string>
+    <string name="dialog_app_picker_guide_title">Kako izabrati aplikaciju</string>
+    <string name="dialog_button_cancel">Otkazati</string>
+    <string name="dialog_button_continue">nastavi</string>
+    <string name="dialog_button_insist">Insistiraj</string>
+    <string name="dialog_button_later_by_oneself">Kasnije ću.</string>
+    <string name="dialog_button_learn_more">Saznaj više</string>
+    <string name="dialog_button_opt_in">Opt-in</string>
+    <string name="dialog_button_opt_out">Opt-out</string>
+    <string name="dialog_confirmation_unsafe_to_hibernate">Aplikacija u ovom stanju obično je nesigurna za hibernaciju. Prisilna hibernacija može dovesti do prekida funkcije ili čak do gubitka podataka.</string>
+    <string name="dialog_cutoff_message">"Prekidanje akcije za buđenje može pokvariti funkcionalnost aplikacije ili zavisnih aplikacija.
+
+Ako se nešto loše desi, molimo prespojite akciju za buđenje.
+
+Pogođeno: [%s]"</string>
+    <string name="dialog_cutoff_title">Upozorenje</string>
+    <string name="dialog_degreenified_message">Pored toga što je isključna hibernacija, aplikacije će još uvijek ostati u njoj (sva njihova pozadinska funkcionalnost neće raditi) dok ih ne pokrenete ručno.</string>
+    <string name="dialog_degreenified_title">Pozor</string>
+    <string name="dialog_donation_corrupted_message">Paket donacije je pokvaren. Ponovno ga instalirajte sa Google Play-a.</string>
+    <string name="dialog_greenify_confirmation_message">Da li stvarno želite greenify %1$s</string>
+    <string name="dialog_greenifying_system_apps">Greenifying sistemska aplikacija je trenutno eksperimentalno svojstvo dostupno samo sa paketom koji uključuje doniranje.</string>
+    <string name="dialog_incompatible_rom_title">Neodgovarajući ROM</string>
+    <string name="dialog_ingreenfiable_message_for_system_app">Nažalost sistemska aplikacija općenito nije sigurna za greenificiranje.</string>
+    <string name="dialog_ingreenfiable_title">Dostupan za Greenifikaciju %1$s</string>
+    <string name="dialog_labs_incompatible_rom_message">Neuspjela aktivacija ove opcije. Možda je neodgovarajuća za vaš ROM.</string>
+    <string name="dialog_labs_operation_failure_message">Operacija neuspjela.</string>
+    <string name="dialog_labs_state_set_failure_message">Neuspješan odabir značajke!</string>
+    <string name="dialog_message_donation_package_exclusive">"Ova mogućnost je trenutno jedino moguća u donacijskom paketu.
+
+Kupi donacijski paket da omogućiš sve eksperimentalne mogućnosti."</string>
+    <string name="dialog_option_always_ignore_state">Uvijek zanemari pokrenuto stanje</string>
+    <string name="dialog_root_operation_failure_message">Neuspješna operacija. Molimo osigurajte root privilegije.</string>
+    <string name="dialog_thank4donation_message">"Hvala vam na vašoj donaciji i podršci u razvijanju
+
+Sada možete aktivirati dodatne eksperimentalne značajke iz glavnog izbornika."</string>
+    <string name="dialog_thank4donation_title">Hvala</string>
+    <string name="dialog_title_confirmation">Potvrda</string>
+    <string name="dialog_title_error">Greška</string>
+    <string name="dialog_verification_error_message">Neuspjela ovjera doniranja. Molimo provjerite stanje vaše mreže i pokušajte ponovo kasnije.</string>
+    <string name="dialog_verification_fatal_error">Donaciju nije moguće potvrditi, molimo prijavite ovu grešku.</string>
+    <string name="dialog_version_mismatch_message">Molimo nadogradite ovu aplikaciju na posljednju verziju.</string>
+    <string name="dialog_version_mismatch_title">Neodgovarajuća verzija</string>
+    <string name="dialog_warning_for_greenifying_launcher">Pokušali ste greenificirati aplikaciju zadanog launchera. Nije preporučljivo greenificirati često korištene aplikacije.</string>
+    <string name="dialog_warning_title">Upozorenje</string>
+    <string name="dialog_xposed_module_inactive_message">Xposed modul Greenify aplikacije nije još aktiviran. Morate ga aktivirati u Xposed instalaciji da bi ove opcije radile.</string>
+    <string name="event_capture_video">Video je snimljen</string>
+    <string name="event_connectivity_changes">Mrežna povezivanost je promjenjena</string>
+    <string name="event_media_connect">prijenosna pohrana je spojena</string>
+    <string name="event_media_eject">prijenosna pohrana je dodspojena</string>
+    <string name="event_media_scan">pohrana je skenirana</string>
+    <string name="event_postfix_volatile">(može se razlikovati od države do države)</string>
+    <string name="event_power_connected">Napajanje je priključeno</string>
+    <string name="event_power_disconnected">Napajanje je isključeno</string>
+    <string name="event_take_photo">Fotografija je uslikana</string>
+    <string name="event_unlock_keyguard">Tipkovnica je otključana</string>
+    <string name="event_update_apps">Aplikacija je ažurirana</string>
+    <string name="guide_btn_activate_module">Aktiviram modul, Reboot</string>
+    <string name="guide_btn_install_xposed_installer">Instaliraj Xposed Installer</string>
+    <string name="guide_btn_setup_xposed_framework">Postavi Xposed framework</string>
+    <string name="guide_link_why_xposed">Zašto je potreban Xposed framework?</string>
+    <string name="guide_sub_title">Powerful modding framework</string>
+    <string name="guide_title">Xposed Setup Vodič</string>
+    <string name="menu_about">oko</string>
+    <string name="menu_action_accept">Prihvati</string>
+    <string name="menu_action_cutoff">Presjecite put za buđenje</string>
+    <string name="menu_action_cutoff_condensed">Presjeći</string>
+    <string name="menu_action_greenify">Greenify čarobnjak</string>
+    <string name="menu_action_greenify_condensed">Greenify...</string>
+    <string name="menu_action_hibernate">Postavi u hibernaciju sada</string>
+    <string name="menu_action_hibernate_condensed">Hiberniraj</string>
+    <string name="menu_action_hide">Sakrij</string>
+    <string name="menu_action_pick">Odaberi aplikaciju za greenificiranje</string>
+    <string name="menu_action_pick_condensed">Odaberi aplikaciju</string>
+    <string name="menu_action_reattach">Prespojite puteve za buđenje</string>
+    <string name="menu_action_reattach_condensed">Prespojite</string>
+    <string name="menu_action_reconsider_state">Preispitaj stanje</string>
+    <string name="menu_action_refresh">Osvježi</string>
+    <string name="menu_action_run">Pokrenite</string>
+    <string name="menu_action_ungreenify">Degreenify odabranu aplikaciju</string>
+    <string name="menu_action_ungreenify_condensed">Degreenify</string>
+    <string name="menu_action_unhide_all">Pokaži sve</string>
+    <string name="menu_create_shortcut">Napravite prečicu za hibernaciju</string>
+    <string name="menu_disable_service">Onemogući auto-hibernaciju</string>
+    <string name="menu_enable_service">Omogućena auto-hibernacija</string>
+    <string name="menu_reset_gesture">Resetiraj \"pull-up\" gestu</string>
+    <string name="no_app_picked">Nema odabranih aplikacija</string>
+    <string name="notification_app_picker_text">Pokenite aplikaciju i kliknite za odabir.</string>
+    <string name="notification_app_picker_ticker">"Prvo pokrenite aplikaciju.
+Onda kliknite ovu obavijest za APP PICKER."</string>
+    <string name="notification_app_picker_title">APP PICKER za Greenify</string>
+    <string name="notification_listener_title">Čuvar obavijesti</string>
+    <string name="notification_text_workaround_talking">Ako si suočen sa povremenim razgovorom</string>
+    <string name="notification_timer_coalesced_subtext">Automatski optimizirano sa Greenify</string>
+    <string name="notification_timer_coalesced_title">Združen periodični timer</string>
+    <string name="notification_title_workaround_talking">Obilaženje problema sa razgovorom</string>
+    <string name="placeholder_show_all">Pokaži više aplikacija</string>
+    <string name="prefs_cat_donation_only_features">Obavezan donacijski paket</string>
+    <string name="prefs_cat_experimental_features">Eksperimentalne mogućnosti</string>
+    <string name="prefs_cat_xposed_donation_features">Obavezan Xposed &amp;amp; Donacijski Paket</string>
+    <string name="prefs_cat_xposed_only_features">Obavezan Xposed Framework</string>
+    <string name="prefs_labs_automated_hibernation_title">Automatska hibernacija</string>
+    <string name="prefs_labs_block_notification_abuse_summary">Neke aplikacije koriste ranjivost Androida (prije 4.3) da postignu ne fer prioritet i zadrže memoriju u low-memory situaciji. Te aplikacije biti će pogrešno prepoznate kao \"Osjetljive\" u Greenifyju i neće se hibernirati.</string>
+    <string name="prefs_labs_block_notification_abuse_title">Blokiranje zlouporabe stanja aplikacije</string>
+    <string name="prefs_labs_boost_mode_summary">Bolje performanse i usklađenost, posebno ako iskusite neuspjelu hibernaciju ili probleme sa ROOT-om.</string>
+    <string name="prefs_labs_boost_mode_title">Boost Način</string>
+    <string name="prefs_labs_gcm_push_summary">"Dozvoli GCM push message za buđenje hiberniranih aplikacija, osim ako njihove obavijesti nisu onemogućene u system (Settings - Apps).
+Također odaberi \"Don't Remove Notifications\" da izbjegneš gubitak obavijesti nakon re-hibernacije."</string>
+    <string name="prefs_labs_gcm_push_title">GCM push za greenified aplikacije</string>
+    <string name="prefs_labs_reveal_hidden_sync_title">Prikaži Skrivenu Sinkronizaciju</string>
+    <string name="prefs_labs_root_mode_summary_boost">Rad u \"Boost Mode\" (vidi ispod) koji je i preporučeni način.</string>
+    <string name="prefs_labs_system_apps_limited_title">Greenificiranje sistemskih aplikacija</string>
+    <string name="prefs_labs_system_apps_summary">Lišavanje sistemskih aplikacija od imuniteta na hibernaciju, čini večinu njih greenificirajućim.</string>
+    <string name="prefs_labs_system_apps_title">Greenifciranje systemskih aplikacija</string>
+    <string name="prefs_labs_telephony_wakeup_summary">Dopušta događajima telefona ( pozivi, SMS)da pokrenu hibernirane aplikacije tako da greenificirane aplikacije poziva ili SMS-a rade očekivano.</string>
+    <string name="prefs_labs_telephony_wakeup_title">Buđenje telefonom</string>
+    <string name="prefs_labs_timer_coalescing_summary">Spoji periodični CPU wake-up timer za sve aplikacije (ne samo za aplikacije dizajnirane za 4.4+), za smanjenje trošenja baterije u raspršenim CPU wake-upima. (Zahtijeva Android 4.4+)</string>
+    <string name="prefs_labs_timer_coalescing_title">Spajanje Wakeup Timer-a (4.4+)</string>
+    <string name="prefs_labs_wakeup_tracker_summary">Prati koja točno aplikacija budi tvoju greenificiranu aplikaciju, i opciono reže put buđenja da eliminira daljnja buđenja.</string>
+    <string name="prefs_labs_wakeup_tracker_title">Praćenje buđenja</string>
+    <string name="prefs_labs_working_mode_title">Način rada</string>
+    <string name="progress_be_hibernating">Hibernira</string>
+    <string name="section_alarm">Zakazano pokretanje (od zadnjeg pokretanja)</string>
+    <string name="section_alarm_tips">"Ove aplikacije su si same postavile termin za tiho pokretanje, to može usporiti vaš uređaj i iscrpiti bateriju.
+
+Čuvajte se prečestog buđenja vašeg uređaja."</string>
+    <string name="section_all_apps">Više</string>
+    <string name="section_hibernated">Hibernirano</string>
+    <string name="section_pending">Čekanje ručne hibernacije</string>
+    <string name="section_pending_auto">Hibernirat će kratko nakon sto se ekran ugasi</string>
+    <string name="section_pending_tip_nonroot">Ove aplikacije su budne i postaju sada besposlene, trebate ih ručno postaviti u hibernaciju.</string>
+    <string name="section_postponed">Neće se hibernirati automatski</string>
+    <string name="section_postponed_tip">Greenify neće staviti ove aplikacije automaski u hibernaciju iz navedenih razloga, osim ako se stanje promjeni.</string>
+    <string name="section_receiver">Može usporiti uređaj kada...</string>
+    <string name="section_receiver_tip">"Ove aplikacije mogu usporiti rad uređaja kada se dogode određeni događaji.
+
+Više aplikacija ovdje, manja osjetljivost na događaje."</string>
+    <string name="section_service">Pokrenuto je u pozadini</string>
+    <string name="section_service_tip">"Aplikacije pokrenute u pozadini koristiti će određenu količinu memorije i može usporiti rad uređaja.
+
+Držite popis što je moguće kraći."</string>
+    <string name="service_cleaner">Čišćenje</string>
+    <string name="showcase_accessibility_setting">Omogući Automatizaciju</string>
+    <string name="showcase_manual_hibernation_automation">Ovaj ručni proces može se automatizirati kroz accessibility service omogućen uz Greenify.</string>
+    <string name="showcase_manual_hibernation_desc">U non-root načinu, hibernacija će se odvijati na ovaj način radi ograničenja Android sistema. Klikni \"stop\" komandu ispod za završetak hibernacije.</string>
+    <string name="showcase_manual_hibernation_title">Ručna Hibernacija</string>
+    <string name="toast_accessibility_setting">Ovdje omogući / onemogući dostupnost usluga u Greenify-u.</string>
+    <string name="toast_action_undo">Vrati se</string>
+    <string name="toast_already_greenified">%1$s je već greenificiran.</string>
+    <string name="toast_app_no_launcher_entry">Ova aplikacija nema pristup pokretaču.</string>
+    <string name="toast_apps_hibernated">%1$s je u hibernaciji.</string>
+    <string name="toast_apps_hidden">Skrivene aplikacije</string>
+    <string name="toast_auto_hibernation_failure_tip">"Molimo osigurajte root privilegije za Greenify. (neki alati za root dozvole trebaju za svaku nadogradnju obnavljanje dozvole)
+
+Ako još iskusite neuspjele hibernacije, pokušajte sa drugim alatima za root dozvole ili \"Boost Mode\" u eksperimentalnim opcijama."</string>
+    <string name="toast_cannot_switch_to_launcher">Ne može se vratiti na pokretač, molimo pritisnite Home tipku za povratak.</string>
+    <string name="toast_failed_to_greenify">Neuspjeli pokušaj greenify \"%1$s\"</string>
+    <string name="toast_gcm_tip">"GCM (Google Cloud Messaging) je ugrađen u ovu aplikaciju i može biti korišten za push obavijesti. Neće raditi ako bude greenified.
+
+Eksperimentalna opcija u paketu s donacijama dozvoljava GCM push za greenified aplikacije."</string>
+    <string name="toast_gesture_reset">Predinstalirano ponašanje pull-up geste na Home prekidaču je resetirano.</string>
+    <string name="toast_hibernation_failure">Pogreška, \"%1$s\" nije u hibernaciji.</string>
+    <string name="toast_need_reboot">Onemogućeno do slijedećeg restarta</string>
+    <string name="toast_none_hibernated">Hibernaciju ne treba nijedna aplikacija.</string>
+    <string name="toast_opted_in">Hvala na sudjelovanju!</string>
+    <string name="toast_opted_out">Opt-out ste. Nikakve anonimne statistike će biti prikupljene.</string>
+    <string name="toast_service_disabled">"Auto-hibernacija je onemogućena. 
+
+Grennificirane aplikacije neće se automatski prebaciti u hibernaciju."</string>
+    <string name="toast_service_enabled">Auto-hibernacija je omogućena.</string>
+    <string name="toast_shortcut_created">Prečica je kreirana u vašoj aplikaciji za jedan klik do hibernacije.</string>
+    <string name="toast_tasker_wakeup_unavail_in_nonroot">Nažalost ovo je moguće jedino u root modu.</string>
+    <string name="wizard_step_enjoy">Uživajte</string>
+    <string name="wizard_step_enjoy_desc">Gladak i trajan doživljaj kao i prvog dana.</string>
+    <string name="wizard_step_forget">Zaboravite (samo ROOT)</string>
+    <string name="wizard_step_forget_desc">Dopustite Greenify da radi u pozadini.</string>
+    <string name="wizard_step_greenify">Greenificiraj</string>
+    <string name="wizard_step_greenify_desc">Potajno pokretanje aplikacija, memorija i baterija se troše.</string>
+    <string name="app_state_wakeup_paths_cutoff">Put buđenja je odsječen</string>
+    <string name="app_waker_root">root</string>
+    <string name="app_waker_shell">ljuska</string>
+    <string name="dialog_full_cutoff_message">"Prekidanje svih akcija za buđenje može pokvariti funkcionalnost aplikacije ili zavisnih aplikacija.
+
+Ako se nešto loše desi, molimo prespojite akciju za buđenje."</string>
+    <string name="event_wifi_scan">Wi-Fi je skeniran</string>
+    <string name="prefs_labs_automated_hibernation_summary">U non-root načinu, automatski hibernira minutu nakon gašenja ekrana. Osvjetlit će ekran, provesti hibernaciju i zatim ugasiti ekran. (Zahtijeva Android 4.1+, Acessibility, Device Admin i insecure key-guard)</string>
+    <string name="prefs_labs_deep_hibernation_summary">"Provodi agresivni pristup hiberniranim aplikacijama, onemogućuje njihovo buđenje od strane drugih aplikacija.
+UPOZORENJE: Može prekinuti cross-app functionalnost hiberniranih aplikacija!"</string>
+    <string name="prefs_labs_deep_hibernation_title">Duboka Hibernacija (alpha)</string>
+    <string name="prefs_labs_no_remove_notifications_limited_summary">Ne miče obavijesti kad aplikacija hibernira (samo kad je ekran ugašen) tako da ih kasnije možeš pročitati. Status bar ikona originalne aplikacije ne može se sačuvati radi ograničenja privilegija. Verzija bazirana na Xposed-u nema ova ograničenja.</string>
+    <string name="prefs_labs_no_remove_notifications_limited_title">Ne miči Obavijesti (ograničeno)</string>
+    <string name="prefs_labs_no_remove_notifications_summary">Ne miče obavijesti kad aplikacije hiberniraju, tako da ih kasnije možeš pročitati.</string>
+    <string name="prefs_labs_no_remove_notifications_title">Ne miči Obavijesti</string>
+    <string name="prefs_labs_reveal_hidden_sync_summary">Prikaži skrivene zadatke sinkronizacije u \"Settings - Accounts\", označene sa\"*\".</string>
+    <string name="prefs_labs_root_mode_summary_off">Rad u non-root načinu. Ako je tvoj uređaj rootan, odaberi ovu opciju za oslobađanje pune snage Greenify-a.</string>
+    <string name="prefs_labs_root_mode_summary_on">Radi u root načinu. Ako tvoj uređaj nije rootan, odznači ovu opciju da osiguraš ispravan rad.</string>
+    <string name="prefs_labs_system_apps_limited_summary">Lišavanje nekih sistemskih aplikacija od imuniteta na hibernaciju, čini ih greenificirajućim. Radi tehničkih ograničenja, sistemske aplikacije neće uvijek ostati u hibernaciji kao ne-sistemske.</string>
+    <string name="service_wakeup_monitor">Monitor buđenja</string>
+    <string name="toast_app_ingreenifiable">Nažalost, \"%1$s\" je ne greenificirajuće.</string>
+    <string name="toast_apps_not_hibernating">Nije hibernirano: %1$s</string>
+    <string name="toast_auto_hibernation_oos">Auto-hibernacija je zaustavljena. Ako se ova poruka često prikazuje, Greenify je možda blokiran alatom 3. strane ili sistemskom postavkom.</string>
+    <string name="toast_auto_hibernation_restarting">Auto-hibernacija je restartana… (vjerovatno zbog nedostatka slobodne memorije)</string>
+    <string name="toast_no_auto_hibernation_for_secure_keyguard">Nažalost, automatska hibernacija ne radi ako je secure key-guard aktiviran. Alternativno možeš koristiti \"Hibernate and Lock Screen\" kraticu.</string>
+    <string name="toast_no_auto_hibernation_for_secure_keyguard_with_navbar">Nažalost, automatska hibernacija ne radi ako je secure key-guard aktiviran. \"Pull up\" gesta na \"Home\" prekidaču preporučena je za \"Hibernate and Lock Screen\" kraticu.</string>
+    <string name="app_state_critical">Kritično</string>
+    <string name="app_state_working">Radim</string>
+    <string name="dialog_button_activate">Aktiviraj</string>
+    <string name="dialog_google_sign_in">Prijavi se u svoj Google račun radi aktivacije donacijskog paketa.</string>
+    <string name="dialog_non_root_auto_hibernation_incompatible_rom_message">Nažalost Auto hibernacija u non-root modu tvoj uređaj (ili ROM) još uvijek ne podržava.</string>
+    <string name="dialog_verifying_donation_package">Provjera donacijskog paketa....</string>
+    <string name="service_accessibility">Greenify - Automatska Hibernacija</string>
+    <string name="service_accessibility_description">Automatizira app hibernaciju (na non-root uređajima). Onemogućenje ove usluge prekinut će auto-hibernaciju.</string>
+    <string name="state_disabled">Onemogućeno</string>
+    <string name="state_enabled">Omogućeno</string>
+    <string name="toast_action_setting">Podešavanje</string>
+    <string name="toast_draw_on_top_revoked">\"Draw on top\" dozvola nije dopuštena, dopusti ju za Greenify u APPOps ili postavkama dozvola na tvom uređaju.</string>
+    <string name="toast_usage_stats_permission">Za pronalaženje i izbjegavanje hibernacije aplikacija koje rade aktivno potrebna je dozvola</string>
+    <string name="menu_settings">Postavke</string>
+    <string name="prefs_cat_about">O aplikaciji</string>
+    <string name="prefs_labs_automated_hibernation_summary_incompatible">Nažalost ovo još nije kompatibilno s ovim ROM-om.</string>
+    <string name="prefs_labs_doze_title">Aggresivnni Doze (experimentalno)</string>
+    <string name="prefs_labs_navbar_gesture_title">Dugi pritisak na navigacijsku traku</string>
+    <string name="prefs_learn_more">Saznaj više (online)</string>
+    <string name="prefs_shallow_hibernation_description">"Plitka hibernacija je potpuno nov mehanizam hibernacije rađen posebno za Android 6.0+, sa boljom kompatibilnošću i efikasnošću.
+
+Aplikacije više neće biti ugašene u plitkoj hibernaciji, u interakcijskom kontekstu su sačuvane za brže izvođenje prebacivanja, a sve pozadinske radnje još uvijek ostaju strogo zabranjene tijekom hibernacije.
+
+Plitko-hibernirane aplikacije će se probuditi za kratko vrijeme povremeno u satima i odmah nakon pritiska na visok prioritet GCM (samo ako GCM prioritet provodi app developer). One će također ostati budne tijekom punjenja.
+
+Ako je označeno, plitka hibernacija zamjenjuje klasičnu hibernaciju kroz Greenify.
+
+Ova mogućnost NE preporučuje se za uređaje s malo memorije."</string>
+    <string name="prefs_shallow_hibernation_title">Plitka hibernacija (experimentalno)</string>
+    <string name="prefs_xposed_features_summary">"Da bi radilo potreban je Xposed framework "</string>
+    <string name="prefs_xposed_features_title">Xposed-bazirane Značajke</string>
+    <string name="toast_action_guide">Vodič</string>
+    <string name="toast_action_troubleshoot">Rješavanje problema</string>
+    <string name="toast_assist_app_setting_guide">Odaberi Greenify u \"Assist app\".</string>
+    <string name="toast_donation_package_not_found">Nažalost, donacijski paket nije proađen za tvoj Google račun.</string>
+    <string name="toast_need_accessibility_service">Accessibility service za Greenify mora biti aktiviran za automatsku hibernaciju.</string>
+    <string name="toast_need_device_admin">Admin na uređaju za Greenify mora biti aktiviran za izvođenje auto-hibernacije nakon gašenja ekrana.</string>
+    <string name="toast_need_overlay">\"Draw on top\" dozvola obavezna je za provođenje tihe auto-hibernacije dok je ekran ugašen.</string>
+    <string name="prefs_labs_doze_description">"Podesite doze mod na nekoliko minuta (umjesto sati mirovanja normalno) nakon što se zaslon isključuje, ako se ne opterećuje, to poboljšatva uštedu energije.
+
+Doze način je novi mehanizam za uštedu energije uveden u Android 6.0. U ovom načinu rada, pozadinska izvođenja svih aplikacija (osim bijele liste) su strogo zabranjena, do sljedeće interakcije korisnika ili punjenja. Uređaj će također povremeno (u satima) kratko izići iz doze načina."</string>
+    <string name="prefs_labs_navbar_gesture_summary">"Dugo pritisnite središnju tipku na dnu navigacijske trake za hibernaciju aplikacije i zaključavanje zaslona, ili jednostavno zaključajte zaslon.
+Pazite, ova značajka možda neće biti kompatibilna sa Smart Lock i otključavanjem pomoću otiska prsta."</string>
+    <string name="section_pending_charging">Hibernacija se ne provodi prilikom punjenja</string>
+</resources>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="about_translation_credit">Official</string>
+    <string name="accessibility_tip1">1. press the area of greenify in the next activity</string>
+    <string name="accessibility_tip2">2. active accessbility for greenify</string>
+    <string name="device_admin_tip1">1. press the area of greenify in the next activity</string>
+    <string name="device_admin_tip2">2. press the active button</string>
+    <string name="usage_stat_tip1">1.press the Apps with usage access area</string>
+    <string name="usage_stat_tip2">2.enable greenify</string>
+</resources>

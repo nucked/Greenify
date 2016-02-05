@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="prefs_labs_working_mode_options">
+        <item>&lt;b>Bez roota&lt;/b>"
+"&lt;small>V případě, že zařízení nemá přístup root.&lt;/small></item>
+        <item>&lt;b>S rootem&lt;/b>"
+"&lt;small>V případě, že zařízení má přístup root.&lt;/small></item>
+        <item>&lt;b>Boost&lt;/b>"
+"&lt;small>Nejlepší výkon a kompatibilita (vyžadován modul Xposed)&lt;/small></item>
+    </string-array>
+</resources>

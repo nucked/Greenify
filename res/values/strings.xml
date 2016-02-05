@@ -1,0 +1,371 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_home_description">Navigate home</string>
+    <string name="abc_action_bar_home_description_format">%1$s, %2$s</string>
+    <string name="abc_action_bar_home_subtitle_description_format">%1$s, %2$s, %3$s</string>
+    <string name="abc_action_bar_up_description">Navigate up</string>
+    <string name="abc_action_menu_overflow_description">More options</string>
+    <string name="abc_action_mode_done">Done</string>
+    <string name="abc_activity_chooser_view_see_all">See all</string>
+    <string name="abc_activitychooserview_choose_application">Choose an app</string>
+    <string name="abc_capital_off">OFF</string>
+    <string name="abc_capital_on">ON</string>
+    <string name="abc_search_hint">Search…</string>
+    <string name="abc_searchview_description_clear">Clear query</string>
+    <string name="abc_searchview_description_query">Search query</string>
+    <string name="abc_searchview_description_search">Search</string>
+    <string name="abc_searchview_description_submit">Submit query</string>
+    <string name="abc_searchview_description_voice">Voice search</string>
+    <string name="abc_shareactionprovider_share_with">Share with</string>
+    <string name="abc_shareactionprovider_share_with_application">Share with %s</string>
+    <string name="abc_toolbar_collapse_description">Collapse</string>
+    <string name="common_google_play_services_api_unavailable_text">%1$s requires one or more Google Play services that are not currently available. Please contact the developer for assistance.</string>
+    <string name="common_google_play_services_enable_button">Enable Google Play services</string>
+    <string name="common_google_play_services_enable_text">"%1$s won't work unless you enable Google Play services."</string>
+    <string name="common_google_play_services_enable_title">Enable Google Play services</string>
+    <string name="common_google_play_services_install_button">Get Google Play services</string>
+    <string name="common_google_play_services_install_text_phone">"%1$s won't run without Google Play services, which are missing from your phone."</string>
+    <string name="common_google_play_services_install_text_tablet">"%1$s won't run without Google Play services, which are missing from your tablet."</string>
+    <string name="common_google_play_services_install_title">Get Google Play services</string>
+    <string name="common_google_play_services_invalid_account_text">The specified account does not exist on this device. Please choose a different account.</string>
+    <string name="common_google_play_services_invalid_account_title">Invalid Account</string>
+    <string name="common_google_play_services_network_error_text">A data connection is required to connect to Google Play services.</string>
+    <string name="common_google_play_services_network_error_title">Network Error</string>
+    <string name="common_google_play_services_notification_ticker">Google Play services error</string>
+    <string name="common_google_play_services_restricted_profile_text">Accessing accounts from a restricted profile is not supported.</string>
+    <string name="common_google_play_services_restricted_profile_title">Restricted Profile</string>
+    <string name="common_google_play_services_sign_in_failed_text">Error signing in the specified account. Please choose a different account.</string>
+    <string name="common_google_play_services_sign_in_failed_title">Sign in failed</string>
+    <string name="common_google_play_services_unknown_issue">%1$s is having trouble with Google Play services. If the problem persists, please contact the developer for assistance.</string>
+    <string name="common_google_play_services_unsupported_text">%1$s relies on Google Play services, which is not supported by your device. Contact the manufacturer for assistance.</string>
+    <string name="common_google_play_services_unsupported_title">Google Play services</string>
+    <string name="common_google_play_services_update_button">Update</string>
+    <string name="common_google_play_services_update_text">"%1$s won't run unless you update Google Play services."</string>
+    <string name="common_google_play_services_update_title">Update Google Play services</string>
+    <string name="common_google_play_services_updating_text">"%1$s won't run without Google Play services, which are currently updating."</string>
+    <string name="common_google_play_services_updating_title">Google Play services are updating</string>
+    <string name="common_google_play_services_wear_update_text">New version of Google Play services needed. It will update itself shortly.</string>
+    <string name="common_open_on_phone">Open on phone</string>
+    <string name="common_signin_button_text">Sign in</string>
+    <string name="common_signin_button_text_long">Sign in with Google</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="about_donation_summary">Get donation package for additional features</string>
+    <string name="about_donation_summary_donated">Additional experimental features can be activated in main menu.</string>
+    <string name="about_donation_title">Donate</string>
+    <string name="about_donation_title_donated">Thanks for donation</string>
+    <string name="about_licenses_title">Licences</string>
+    <string name="about_raise_your_voice_program_detail">"Greenify will raise the voice of community to be heard by the developers of your greenified apps, for better recognition of device experience in app development.
+
+To raise your voice, Greenify collects anonymous data without privacy information. You can opt-out at any time."</string>
+    <string name="about_raise_your_voice_program_summary">Your voice can make a difference!</string>
+    <string name="about_raise_your_voice_program_title">\"Raise Your Voice!\" program</string>
+    <string name="about_translation_credit">(Place name of primary translators here for credit)</string>
+    <string name="about_translation_title">Translation</string>
+    <string name="about_uninstall">Uninstall</string>
+    <string name="about_version_summary">Rate this app.</string>
+    <string name="about_version_title">Version</string>
+    <string name="accessibility_service_description">"This accessibility service is required for some special features in Greenify.
+
+You may be warned about potential privacy risk, that's just a regular informative warning for any accessibility service. We promise NEVER EVER collecting your personal information in this accessibility service.
+
+Some Samsung devices has voice talking issue if any accessibility service is enabled. If you are experiencing this issue, enabled the workaround in \"Settings\" here."</string>
+    <string name="analysis_detail_alarm_with_wakeup">%1$d runs (inc %2$d wakeups)</string>
+    <string name="app_analyzer_name">App Analyzer</string>
+    <string name="app_analyzer_subtitle">%1$d app(s) selected</string>
+    <string name="app_shortcut_hibernate">Hibernate Now</string>
+    <string name="app_shortcut_hibernate_lock">Hibernate + Lock Screen</string>
+    <string name="app_shortcut_nothing">Nothing</string>
+    <string name="app_shortcut_wakeup">Wake Up</string>
+    <string name="app_state_always_ignored">State always ignored for hibernation</string>
+    <string name="app_state_hibernation_failed">%1$s ago failed to hibernate</string>
+    <string name="app_state_provider_in_use">Provider in use by %1$s</string>
+    <string name="app_state_service_in_use">Service in use by %1$s</string>
+    <string name="app_state_unsaveable">State unrecoverable</string>
+    <string name="app_state_woken_by_activity">%1$s ago UI opened</string>
+    <string name="app_state_woken_by_app">%1$s ago woken by %2$s</string>
+    <string name="app_state_woken_by_authenticator">%1$s ago authenticated</string>
+    <string name="app_state_woken_by_backup">%1$s ago backup performed</string>
+    <string name="app_state_woken_by_broadcast">%1$s ago explicitly notified</string>
+    <string name="app_state_woken_by_content_provider">%1$s ago content provided</string>
+    <string name="app_state_woken_by_push_msg">%1$s ago push received</string>
+    <string name="app_state_woken_by_search">%1$s ago content searched</string>
+    <string name="app_state_woken_by_service">%1$s ago service started</string>
+    <string name="app_state_woken_by_sync">%1$s ago synchronized</string>
+    <string name="app_state_woken_by_widget">%1$s ago widget updated</string>
+    <string name="app_state_woken_directly">%1$s ago woken directly by %2$s</string>
+    <string name="app_title_service_disabled">Greenify (No Auto-hibernation)</string>
+    <string name="app_waker_google">Google services</string>
+    <string name="app_waker_system">Android system</string>
+    <string name="app_waker_unknown">unknown source</string>
+    <string name="device_admin_for_automation">Greenify Automator</string>
+    <string name="device_admin_for_automation_description">Allow Greenify to turn off screen immediately after automated hibernation.</string>
+    <string name="device_admin_warning_when_disabling">If disabled, Greenify will be unable to automate the hibernation when screen is off.</string>
+    <string name="dialog_app_picker_guide_button">Go to launcher</string>
+    <string name="dialog_app_picker_guide_message">You will be brought to launcher now. Open the app, then click the picker notification to pick that app.</string>
+    <string name="dialog_app_picker_guide_title">How to pick app</string>
+    <string name="dialog_button_cancel">Cancel</string>
+    <string name="dialog_button_continue">Continue</string>
+    <string name="dialog_button_insist">Insist</string>
+    <string name="dialog_button_later_by_oneself">"I'll do it later"</string>
+    <string name="dialog_button_learn_more">Learn more</string>
+    <string name="dialog_button_opt_in">Opt-in</string>
+    <string name="dialog_button_opt_out">Opt-out</string>
+    <string name="dialog_confirmation_unsafe_to_hibernate">App in this state is usually unsafe to hibernate. Force hibernation may cause function interruption or even data loss.</string>
+    <string name="dialog_cutoff_message">"Cut off the wake-up path may break the functionality of this app or the dependent apps.
+
+If anything bad happens, please reattach the cut-off.
+
+Affected: [%s]"</string>
+    <string name="dialog_cutoff_title">Warning</string>
+    <string name="dialog_degreenified_message">Despite degreenified, app still stays in hibernation (all its background functionality will not work) until you wake it up by explicitly launching it.</string>
+    <string name="dialog_degreenified_title">Attention</string>
+    <string name="dialog_donation_corrupted_message">Donation package is corrupted. Please re-install it from Google Play.</string>
+    <string name="dialog_greenify_confirmation_message">Do you really want to greenify %1$s</string>
+    <string name="dialog_greenifying_system_apps">Greenifying system apps is currently an experimental feature available only with donation package.</string>
+    <string name="dialog_incompatible_rom_title">Incompatible ROM</string>
+    <string name="dialog_ingreenfiable_message_for_system_app">Sorry, system app is not safe to be greenified in general.</string>
+    <string name="dialog_ingreenfiable_title">Ingreenifiable %1$s</string>
+    <string name="dialog_labs_incompatible_rom_message">Failed to activate this feature. It may be incompatible with your ROM.</string>
+    <string name="dialog_labs_operation_failure_message">Operation failed.</string>
+    <string name="dialog_labs_state_set_failure_message">Failed to set feature state!</string>
+    <string name="dialog_message_donation_package_exclusive">"This feature is currently only available in donation package.
+
+Purchase the donation package now to unlock all experimental features."</string>
+    <string name="dialog_option_always_ignore_state">Always ignore running state</string>
+    <string name="dialog_root_operation_failure_message">Failed to perform this operation. Please ensure the root privilege is granted.</string>
+    <string name="dialog_thank4donation_message">"Thanks for your donation to support the development.
+
+You can now activate the additional experimental features from main menu."</string>
+    <string name="dialog_thank4donation_title">Thanks</string>
+    <string name="dialog_title_confirmation">Confirmation</string>
+    <string name="dialog_title_error">Error</string>
+    <string name="dialog_verification_error_message">Failed to verify the donation. Please check your network condition and try again later.</string>
+    <string name="dialog_verification_fatal_error">Cannot verify the donation, please report this error.</string>
+    <string name="dialog_version_mismatch_message">Please update this app to the latest version.</string>
+    <string name="dialog_version_mismatch_title">Version mismatch</string>
+    <string name="dialog_warning_for_greenifying_launcher">You attempt to greenify the app of default launcher. It is not recommended to greenify frequently using apps.</string>
+    <string name="dialog_warning_title">Warning</string>
+    <string name="dialog_xposed_module_inactive_message">Xposed module of Greenify is not activated yet. You need to activate it in Xposed installer first for these features to work.</string>
+    <string name="event_capture_video">video is captured</string>
+    <string name="event_connectivity_changes">network connectivity changes</string>
+    <string name="event_media_connect">removable storage is connected</string>
+    <string name="event_media_eject">removable storage is ejected</string>
+    <string name="event_media_scan">storage is scanned</string>
+    <string name="event_postfix_volatile">(may vary with state)</string>
+    <string name="event_power_connected">power is connected</string>
+    <string name="event_power_disconnected">power is disconnected</string>
+    <string name="event_take_photo">photo is taken</string>
+    <string name="event_unlock_keyguard">keyguard is unlocked</string>
+    <string name="event_update_apps">app is updated</string>
+    <string name="guide_btn_activate_module">Activate module, Reboot</string>
+    <string name="guide_btn_install_xposed_installer">Install \"Xposed Installer\"</string>
+    <string name="guide_btn_setup_xposed_framework">Setup Xposed framework</string>
+    <string name="guide_link_why_xposed">Why need Xposed framework?</string>
+    <string name="guide_sub_title">Powerful modding framework</string>
+    <string name="guide_title">Xposed Setup Guide</string>
+    <string name="menu_about">About</string>
+    <string name="menu_action_accept">Accept</string>
+    <string name="menu_action_cutoff">Cut off wake-up path</string>
+    <string name="menu_action_cutoff_condensed">Cut off</string>
+    <string name="menu_action_greenify">Greenify Wizard</string>
+    <string name="menu_action_greenify_condensed">Greenify…</string>
+    <string name="menu_action_hibernate">Put into hibernation now</string>
+    <string name="menu_action_hibernate_condensed">Hibernate</string>
+    <string name="menu_action_hide">Hide</string>
+    <string name="menu_action_pick">Pick an app to greenify</string>
+    <string name="menu_action_pick_condensed">Pick App</string>
+    <string name="menu_action_reattach">Reattach its wake-up paths</string>
+    <string name="menu_action_reattach_condensed">Reattach</string>
+    <string name="menu_action_reconsider_state">Reconsider its state</string>
+    <string name="menu_action_refresh">Refresh</string>
+    <string name="menu_action_run">Run</string>
+    <string name="menu_action_ungreenify">Degreenify selected app</string>
+    <string name="menu_action_ungreenify_condensed">Degreenify</string>
+    <string name="menu_action_unhide_all">Show all</string>
+    <string name="menu_create_shortcut">Create hibernation shortcut</string>
+    <string name="menu_disable_service">Disable auto-hibernation</string>
+    <string name="menu_enable_service">Enable auto-hibernation</string>
+    <string name="menu_reset_gesture">Reset \"pull-up\" gesture</string>
+    <string name="no_app_picked">No app picked</string>
+    <string name="notification_app_picker_text">Start your app, then click here to pick it.</string>
+    <string name="notification_app_picker_ticker">"First start your app.
+Then click this notification of APP PICKER."</string>
+    <string name="notification_app_picker_title">APP PICKER for Greenify</string>
+    <string name="notification_listener_title">Notification Keeper</string>
+    <string name="notification_text_workaround_talking">If you are experiencing random voice talking</string>
+    <string name="notification_timer_coalesced_subtext">Automatically optimized by Greenify</string>
+    <string name="notification_timer_coalesced_title">Periodic timer coalesced</string>
+    <string name="notification_title_workaround_talking">Workaround for talking issue</string>
+    <string name="placeholder_show_all">Show more apps</string>
+    <string name="prefs_cat_donation_only_features">Require Donation Package</string>
+    <string name="prefs_cat_experimental_features">Experimental Features</string>
+    <string name="prefs_cat_xposed_donation_features">Require Xposed &amp; Donation Package</string>
+    <string name="prefs_cat_xposed_only_features">Require Xposed Framework</string>
+    <string name="prefs_labs_automated_hibernation_title">Automated hibernation</string>
+    <string name="prefs_labs_block_notification_abuse_summary">Some apps exploit a vulnerability of Android (before 4.3) to gain unfair priority to keep in memory in low-memory situation. Those apps will be false recognized as \"Perceptible\" in Greenify and not hibernating.</string>
+    <string name="prefs_labs_block_notification_abuse_title">Block App State Abuse</string>
+    <string name="prefs_labs_boost_mode_summary">Better performance and compatibility, especially if you are experiencing hibernation failure or ROOT issues.</string>
+    <string name="prefs_labs_boost_mode_title">Boost Mode</string>
+    <string name="prefs_labs_gcm_push_summary">"Allow GCM push message to wake up hibernated apps, except if its notification is disabled in system (Settings - Apps).
+Please also enable \"Don't Remove Notifications\" to avoid losing notifications after re-hibernation."</string>
+    <string name="prefs_labs_gcm_push_title">GCM push for greenified apps</string>
+    <string name="prefs_labs_reveal_hidden_sync_title">Reveal Hidden Sync</string>
+    <string name="prefs_labs_root_mode_summary_boost">Working in \"Boost Mode\" (see below) which is the recommended mode.</string>
+    <string name="prefs_labs_system_apps_limited_title">Greenifying system apps</string>
+    <string name="prefs_labs_system_apps_summary">Deprive system apps of immunity to hibernation, make most of them greenifiable.</string>
+    <string name="prefs_labs_system_apps_title">Greenifying system apps</string>
+    <string name="prefs_labs_telephony_wakeup_summary">Allow telephony events (like call, SMS) to wake up hibernated apps, thus greenified call or SMS-aware apps working as expected.</string>
+    <string name="prefs_labs_telephony_wakeup_title">Telephony Wakeup</string>
+    <string name="prefs_labs_timer_coalescing_summary">Coalesce periodic CPU wake-up timer for all apps (not just apps designed for 4.4+), to reduce battery waste in dispersive CPU wake-ups. (Requires Android 4.4+)</string>
+    <string name="prefs_labs_timer_coalescing_title">Wakeup Timer Coalescing (4.4+)</string>
+    <string name="prefs_labs_wakeup_tracker_summary">Track which app explicitly woke your greenified apps, and optionally cut off the wake-up path to eliminate further wake-ups.</string>
+    <string name="prefs_labs_wakeup_tracker_title">Wake-up Tracker</string>
+    <string name="prefs_labs_working_mode_title">Working Mode</string>
+    <string name="progress_be_hibernating">Hibernating…</string>
+    <string name="section_alarm">Scheduled running (since last startup)</string>
+    <string name="section_alarm_tips">"These apps scheduled themselves for silent running, thus may slow down the device and drain the battery.
+
+Beware of those waking your device frequently."</string>
+    <string name="section_all_apps">More</string>
+    <string name="section_hibernated">Hibernated</string>
+    <string name="section_pending">Pending manual hibernation</string>
+    <string name="section_pending_auto">Will hibernate in minutes after screen goes off</string>
+    <string name="section_pending_tip_nonroot">These apps are woken and become idle now, you need to manually put them back to hibernation.</string>
+    <string name="section_postponed">Not Hibernating Automatically</string>
+    <string name="section_postponed_tip">Greenify will not put these apps into hibernation automatically due to shown reasons, unless state changes later.</string>
+    <string name="section_receiver">May slow down the device when…</string>
+    <string name="section_receiver_tip">"These apps may slow down the device when centain events happen, in arbitrary degree.
+
+More apps here, less responsive on the events."</string>
+    <string name="section_service">Running in background</string>
+    <string name="section_service_tip">"Apps running in background will use a certain amount of memory, and may slow down the device in arbitrary degree.
+
+Keep this list as short as possible."</string>
+    <string name="service_cleaner">Auto Hibernation</string>
+    <string name="showcase_accessibility_setting">Enable Automation</string>
+    <string name="showcase_manual_hibernation_automation">This manual process can be automated via an accessibility service provided with Greenify.</string>
+    <string name="showcase_manual_hibernation_desc">In non-root mode, hibernation has to be performed in this way due to restriction of Android system. Please click the \"Force stop\" button above to finish hibernation.</string>
+    <string name="showcase_manual_hibernation_title">Manual Hibernation</string>
+    <string name="toast_accessibility_setting">Enable or disable accessibility service of Greenify here</string>
+    <string name="toast_action_undo">Undo</string>
+    <string name="toast_already_greenified">\"%1$s\" is already greenified.</string>
+    <string name="toast_app_no_launcher_entry">This app has no launcher entry.</string>
+    <string name="toast_apps_hibernated">%1$s hibernated.</string>
+    <string name="toast_apps_hidden">Apps hidden</string>
+    <string name="toast_auto_hibernation_failure_tip">"Please make sure root privilege is granted to Greenify. (some root management tool require explicitly re-granting for every update of app)
+
+If you still experience hibernation failure, please try another root management tool or \"Boost Mode\" in experimental features."</string>
+    <string name="toast_cannot_switch_to_launcher">Cannot switch to your launcher, please manually press the Home button.</string>
+    <string name="toast_failed_to_greenify">Failed to greenify \"%1$s\".</string>
+    <string name="toast_gcm_tip">"GCM (Google Cloud Messaging) is integrated into this app, and may be used for push notification. It will not work any more if greenified.
+
+An experimental feature in donation package enables GCM push for greenified apps."</string>
+    <string name="toast_gesture_reset">The default behavior of pull-up gesture on Home button is reset.</string>
+    <string name="toast_hibernation_failure">Failed to put \"%1$s\" into hibernation.</string>
+    <string name="toast_need_reboot">Unavailable until next reboot</string>
+    <string name="toast_none_hibernated">No apps need to hibernate.</string>
+    <string name="toast_opted_in">Thanks for your participation!</string>
+    <string name="toast_opted_out">You have opted-out. No anonymous statistics will be collected.</string>
+    <string name="toast_service_disabled">"Auto-hibernation is disabled.
+Greenified apps will no longer hibernate automatically."</string>
+    <string name="toast_service_enabled">Auto-hibernation is enabled.</string>
+    <string name="toast_shortcut_created">A shortcut is created in your launcher for one-click hibernation.</string>
+    <string name="toast_tasker_wakeup_unavail_in_nonroot">Sorry, only available in root mode.</string>
+    <string name="wizard_step_enjoy">Enjoy</string>
+    <string name="wizard_step_enjoy_desc">smooth and lasting experience just like on the first day.</string>
+    <string name="wizard_step_forget">Forget (ROOT only)</string>
+    <string name="wizard_step_forget_desc">about house keeping, let Greenify silently do it for you.</string>
+    <string name="wizard_step_greenify">Greenify</string>
+    <string name="wizard_step_greenify_desc">battery leeching, memory hogging and stealthily running apps.</string>
+    <string name="app_state_wakeup_paths_cutoff">Wake-up paths cut off</string>
+    <string name="app_waker_root">root</string>
+    <string name="app_waker_shell">shell</string>
+    <string name="dialog_full_cutoff_message">"Cut off all wake-up paths may break the functionality of this app or the dependent apps.
+
+If anything bad happens, please reattach the cut-off."</string>
+    <string name="event_wifi_scan">Wi-Fi is scanned</string>
+    <string name="prefs_labs_automated_hibernation_summary">For non-root mode, automate the hibernation minutes after screen goes off. It will light up the screen, perform the hibernation and then turn off the screen. (Requires Android 4.1+, Accessibility, Device Admin and insecure key-guard)</string>
+    <string name="prefs_labs_deep_hibernation_summary">"Enforce aggressive policies to hibernated apps, stopping them from being woken by other apps.
+WARNING: may break cross-app functionality of hibernated apps!"</string>
+    <string name="prefs_labs_deep_hibernation_title">Deep Hibernation (alpha)</string>
+    <string name="prefs_labs_no_remove_notifications_limited_summary">"Don't remove notifications when app hibernates (only while screen is off), so you could read notifications afterward. Status bar icon of the original notification cannot be preserved, due to privilege restriction. The Xposed-based version of this feature below has no such limitation."</string>
+    <string name="prefs_labs_no_remove_notifications_limited_title">"Don't Remove Notifications (limited)"</string>
+    <string name="prefs_labs_no_remove_notifications_summary">"Don't remove notifications when app hibernates, so you could read notifications afterward."</string>
+    <string name="prefs_labs_no_remove_notifications_title">"Don't Remove Notifications"</string>
+    <string name="prefs_labs_reveal_hidden_sync_summary">Reveal hidden account sync tasks in \"Settings - Accounts\", prefixed with \"*\".</string>
+    <string name="prefs_labs_root_mode_summary_off">Working in non-root mode. If your device is actually rooted, please enable this option to release full power of Greenify.</string>
+    <string name="prefs_labs_root_mode_summary_on">Working in root mode. If your device is actually NOT rooted, please disable this option to ensure correct functionality.</string>
+    <string name="prefs_labs_system_apps_limited_summary">Deprive some system apps of immunity to hibernation, make them greenifiable. Due to technical limitation, hibernated system apps may not always stay in hibernation as non-system apps.</string>
+    <string name="service_wakeup_monitor">Wake-up Monitor</string>
+    <string name="toast_app_ingreenifiable">Sorry, \"%1$s\" is ingreenifiable.</string>
+    <string name="toast_apps_not_hibernating">Not hibernating: %1$s</string>
+    <string name="toast_auto_hibernation_oos">Auto-hibernation service was stopped. If this is shown frequently, Greenify might be blocked by 3rd-party tool or system settings.</string>
+    <string name="toast_auto_hibernation_restarting">Auto-hibernation service is being restarted… (probably due to low free memory)</string>
+    <string name="toast_no_auto_hibernation_for_secure_keyguard">Sorry, automatic hibernation cannot work if secure key-guard is set. You can use \"Hibernate and Lock Screen\" shortcut alternatively.</string>
+    <string name="toast_no_auto_hibernation_for_secure_keyguard_with_navbar">Sorry, automatic hibernation cannot work if secure key-guard is set. \"Pull up\" gesture on \"Home\" soft-key is recommended for \"Hibernate and Lock Screen\" shortcut.</string>
+    <string name="app_state_critical">Critical</string>
+    <string name="app_state_working">Working</string>
+    <string name="dialog_button_activate">Activate</string>
+    <string name="dialog_google_sign_in">Sign-in your Google account to activate donation package.</string>
+    <string name="dialog_non_root_auto_hibernation_incompatible_rom_message">Sorry, auto-hibernation in non-root mode does not support your device (or ROM) yet.</string>
+    <string name="dialog_verifying_donation_package">Verifying your donation package…</string>
+    <string name="service_accessibility">Greenify - Automated Hibernation</string>
+    <string name="service_accessibility_description">Automate the app hibernation (on non-root device). Disable this service will break auto-hibernation.</string>
+    <string name="state_disabled">Disabled</string>
+    <string name="state_enabled">Enabled</string>
+    <string name="toast_action_setting">Setting</string>
+    <string name="toast_draw_on_top_revoked">\"Draw on top\" permission is not granted, please grant it to Greenify in AppOps or permission settings of your device.</string>
+    <string name="toast_usage_stats_permission">Permission is required to detect and avoid hibernating foreground app</string>
+    <string name="menu_settings">Settings</string>
+    <string name="prefs_cat_about">About</string>
+    <string name="prefs_labs_automated_hibernation_summary_incompatible">Sorry, not yet compatible with this ROM.</string>
+    <string name="prefs_labs_doze_title">Aggressive Doze (experimental)</string>
+    <string name="prefs_labs_navbar_gesture_title">Long-press action on nav-bar</string>
+    <string name="prefs_learn_more">Learn more (online)</string>
+    <string name="prefs_shallow_hibernation_description">"Shallow hibernation is an entirely new hibernation mechanism built exclusively for Android 6.0+, with better compatibility and efficiency.
+
+Apps will no longer be killed in shallow hibernation, with interaction context preserved for snappier task switching, while all the background behaviors are still strictly prohibited during hibernation.
+
+Shallow-hibernated apps will be woken for a brief time periodically in hours and immediately upon HIGH priority GCM push (only if GCM priority is implemented by app developer). They will also keep awake during charging.
+
+If enabled, shallow hibernation replaces the classic hibernation mechanism throughout Greenify.
+
+This feature is NOT suggested for low memory device."</string>
+    <string name="prefs_shallow_hibernation_title">Shallow Hibernation (experimental)</string>
+    <string name="prefs_xposed_features_summary">Require Xposed framework to work</string>
+    <string name="prefs_xposed_features_title">Xposed-based Features</string>
+    <string name="toast_action_guide">Guide</string>
+    <string name="toast_action_troubleshoot">Troubleshoot</string>
+    <string name="toast_assist_app_setting_guide">Please select Greenify in \"Assist app\".</string>
+    <string name="toast_donation_package_not_found">Sorry, donation package is not found for your Google account.</string>
+    <string name="toast_need_accessibility_service">Accessibility service of Greenify needs to be activated to automate hibernation.</string>
+    <string name="toast_need_device_admin">Device-admin of Greenify needs to be activated to perform auto-hibernation after screen goes off.</string>
+    <string name="toast_need_overlay">\"Draw on top\" permission is required to perform silent auto-hibernation while screen is off.</string>
+    <string name="accessibility_tip1">1 在下个页面中单击图示的绿色守护条目</string>
+    <string name="accessibility_tip2">2 点击右侧的开关打包绿色激活辅助功能（激活过程会提示进行二次确认）</string>
+    <string name="device_admin_tip1">1.在下个页面中单击图示的绿色守护条目</string>
+    <string name="device_admin_tip2">2.点击激活按钮</string>
+    <string name="usage_stat_tip1">1.点击图示中的查看权限使用应用条目</string>
+    <string name="usage_stat_tip2">2.授予绿色守护查看应用程序使用状态权限</string>
+    <string name="prefs_labs_doze_description">"Enter doze mode in minutes (instead of hours stationary normally) after the screen goes off if not charging, to improve its power-saving efforts.
+
+Doze mode is a new power saving mechanism introduced in Android 6.0. In this mode, background behaviors of all apps (except white-listed) are strictly prohibited, until next user interaction or charging. The device will also periodically (in hours) exit doze mode briefly."</string>
+    <string name="prefs_labs_navbar_gesture_summary">"Long-press the center button in bottom navigation bar to hibernate apps and lock screen, or just lock screen.
+Beware, this feature may be incompatible with Smart Lock and finger-print unlock."</string>
+    <string name="app_name">Greenify</string>
+    <string name="prefs_alt_screen_off_summary">"Use alternative method to turn off screen, slower but compatible with Smart Lock and fingerprint unlock.
+It may not work on some devices."</string>
+    <string name="prefs_alt_screen_off_title">Alternative Screen Off Mode</string>
+    <string name="prefs_doze_whitelist_summary">Apps in the white list will not be affected by Doze mode (including the normal doze in Android). They also do not support Shallow Hibernation.</string>
+    <string name="prefs_doze_whitelist_title">White list</string>
+    <string name="section_pending_paroled">Woken temporarily</string>
+    <string name="section_pending_paroled_tip">Shallow-hibernated apps will be woken for several minutes when charging is started and also periodically for a brief time, then back to hibernation afterwards.</string>
+    <string name="appbar_scrolling_view_behavior">android.support.design.widget.AppBarLayout$ScrollingViewBehavior</string>
+    <string name="auth_google_play_services_client_facebook_display_name">Facebook</string>
+    <string name="auth_google_play_services_client_google_display_name">Google</string>
+    <string name="character_counter_pattern">%1$d / %2$d</string>
+    <string name="gcm_defaultSenderId">923028272402</string>
+    <string name="google_app_id">1:923028272402:android:5167a265c85e6198</string>
+    <string name="url_about_shallow_hibernation">http://greenify.uservoice.com/knowledgebase/articles/828357</string>
+    <string name="url_about_super_doze">http://greenify.uservoice.com/knowledgebase/articles/828360</string>
+</resources>

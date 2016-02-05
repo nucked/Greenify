@@ -1,0 +1,80 @@
+.class Lbdm;
+.super Ljava/lang/Object;
+
+# interfaces
+.implements Lbdq;
+
+
+# instance fields
+.field final synthetic a:Lbdk;
+
+
+# direct methods
+.method constructor <init>(Lbdk;)V
+    .locals 0
+
+    iput-object p1, p0, Lbdm;->a:Lbdk;
+
+    invoke-direct {p0}, Ljava/lang/Object;-><init>()V
+
+    return-void
+.end method
+
+
+# virtual methods
+.method public a(Ljava/util/List;)V
+    .locals 5
+    .annotation system Ldalvik/annotation/Signature;
+        value = {
+            "(",
+            "Ljava/util/List",
+            "<",
+            "Lbdn;",
+            ">;)V"
+        }
+    .end annotation
+
+    invoke-interface {p1}, Ljava/util/List;->iterator()Ljava/util/Iterator;
+
+    move-result-object v1
+
+    :goto_0
+    invoke-interface {v1}, Ljava/util/Iterator;->hasNext()Z
+
+    move-result v0
+
+    if-eqz v0, :cond_0
+
+    invoke-interface {v1}, Ljava/util/Iterator;->next()Ljava/lang/Object;
+
+    move-result-object v0
+
+    check-cast v0, Lbdn;
+
+    iget-object v2, p0, Lbdm;->a:Lbdk;
+
+    iget-object v3, p0, Lbdm;->a:Lbdk;
+
+    iget-object v4, v0, Lbdn;->a:Ljava/lang/String;
+
+    iget-object v0, v0, Lbdn;->b:Ljava/lang/Object;
+
+    invoke-virtual {v3, v4, v0}, Lbdk;->b(Ljava/lang/String;Ljava/lang/Object;)Ljava/util/Map;
+
+    move-result-object v0
+
+    invoke-static {v2, v0}, Lbdk;->a(Lbdk;Ljava/util/Map;)V
+
+    goto :goto_0
+
+    :cond_0
+    iget-object v0, p0, Lbdm;->a:Lbdk;
+
+    invoke-static {v0}, Lbdk;->a(Lbdk;)Ljava/util/concurrent/CountDownLatch;
+
+    move-result-object v0
+
+    invoke-virtual {v0}, Ljava/util/concurrent/CountDownLatch;->countDown()V
+
+    return-void
+.end method

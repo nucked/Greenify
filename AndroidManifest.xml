@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android" android:installLocation="internalOnly" package="com.oasisfeng.greenify" platformBuildVersionCode="23" platformBuildVersionName="6.0-2438415">
+    <permission android:label="Internal" android:name="com.oasisfeng.greenify.INTERNAL" android:protectionLevel="signature"/>
+    <uses-permission android:name="com.oasisfeng.greenify.INTERNAL"/>
+    <uses-permission android:name="android.permission.INTERNET"/>
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE"/>
+    <uses-permission android:maxSdkVersion="20" android:name="android.permission.GET_TASKS"/>
+    <uses-permission android:name="android.permission.PACKAGE_USAGE_STATS"/>
+    <uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED"/>
+    <uses-permission android:name="android.permission.READ_SYNC_STATS"/>
+    <uses-permission android:name="android.permission.DUMP"/>
+    <uses-permission android:name="android.permission.READ_LOGS"/>
+    <uses-permission android:name="android.permission.SYSTEM_ALERT_WINDOW"/>
+    <uses-permission android:name="android.permission.DISABLE_KEYGUARD"/>
+    <uses-permission android:name="android.permission.FORCE_STOP_PACKAGES"/>
+    <uses-permission android:name="com.android.launcher.permission.INSTALL_SHORTCUT"/>
+    <application android:allowBackup="true" android:backupAgent="com.oasisfeng.greenify.GreenifyBackupAgent" android:icon="@mipmap/ic_launcher" android:label="@string/app_name" android:name="com.oasisfeng.greenify.GreenifyApplication" android:theme="@style/Theme.Green">
+        <meta-data android:name="xposedmodule" android:value="true"/>
+        <meta-data android:name="xposedminversion" android:value="30"/>
+        <meta-data android:name="xposeddescription" android:value="@string/prefs_cat_experimental_features"/>
+        <meta-data android:name="com.google.android.gms.version" android:value="@integer/google_play_services_version"/>
+        <activity android:name="com.oasisfeng.greenify.GreenifyActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN"/>
+                <category android:name="android.intent.category.LAUNCHER"/>
+            </intent-filter>
+            <intent-filter>
+                <action android:name="com.oasisfeng.greenify.action.GREENIFY"/>
+                <category android:name="android.intent.category.DEFAULT"/>
+                <data android:scheme="package"/>
+            </intent-filter>
+        </activity>
+        <activity-alias android:enabled="false" android:label="Greenify™" android:name="com.oasisfeng.greenify.NewGreenifyActivity" android:targetActivity="com.oasisfeng.greenify.GreenifyActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN"/>
+                <category android:name="android.intent.category.LAUNCHER"/>
+            </intent-filter>
+        </activity-alias>
+        <activity android:name="com.oasisfeng.greenify.AboutDialog" android:theme="@style/Theme.AppCompat.Light.Dialog"/>
+        <activity android:label="@string/prefs_cat_experimental_features" android:name="com.oasisfeng.greenify.pro.ExperimentalFeatureSetting" android:theme="@style/Theme.Green.Settings">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN"/>
+                <category android:name="de.robv.android.xposed.category.MODULE_SETTINGS"/>
+            </intent-filter>
+        </activity>
+        <activity android:name="com.oasisfeng.greenify.pro.SetupGuideActivity" android:theme="@style/Theme.AppCompat.DialogWhenLarge"/>
+        <activity android:clearTaskOnLaunch="true" android:excludeFromRecents="true" android:hardwareAccelerated="false" android:icon="@drawable/ic_shortcut_hibernate" android:label="@string/app_shortcut_hibernate" android:name="com.oasisfeng.greenify.GreenifyShortcut" android:process=":service" android:taskAffinity=":shortcut" android:theme="@android:style/Theme.Translucent.NoTitleBar">
+            <intent-filter>
+                <action android:name="android.intent.action.CREATE_SHORTCUT"/>
+                <action android:name="com.twofortyfouram.locale.intent.action.EDIT_SETTING"/>
+                <category android:name="android.intent.category.DEFAULT"/>
+            </intent-filter>
+        </activity>
+        <activity-alias android:label="@string/app_shortcut_hibernate_lock" android:name="com.oasisfeng.greenify.HibernateAndLockScreen" android:targetActivity="com.oasisfeng.greenify.GreenifyShortcut">
+            <intent-filter>
+                <action android:name="android.intent.action.CREATE_SHORTCUT"/>
+                <action android:name="android.intent.action.ASSIST"/>
+                <action android:name="android.intent.action.SEARCH_LONG_PRESS"/>
+                <category android:name="android.intent.category.DEFAULT"/>
+            </intent-filter>
+        </activity-alias>
+        <activity-alias android:icon="@android:drawable/ic_menu_close_clear_cancel" android:label="@string/app_shortcut_nothing" android:name="com.oasisfeng.greenify.Nothing" android:targetActivity="com.oasisfeng.greenify.GreenifyShortcut">
+            <intent-filter>
+                <action android:name="android.intent.action.ASSIST"/>
+                <category android:name="android.intent.category.DEFAULT"/>
+            </intent-filter>
+        </activity-alias>
+        <activity-alias android:label="@string/app_shortcut_wakeup" android:name="com.oasisfeng.greenify.WakeupShortcut" android:targetActivity="com.oasisfeng.greenify.GreenifyShortcut">
+            <intent-filter>
+                <action android:name="com.twofortyfouram.locale.intent.action.EDIT_SETTING"/>
+                <category android:name="android.intent.category.DEFAULT"/>
+            </intent-filter>
+        </activity-alias>
+        <activity android:clearTaskOnLaunch="true" android:excludeFromRecents="true" android:hardwareAccelerated="false" android:launchMode="singleTask" android:name="com.oasisfeng.greenify.HibernationLaunchpad" android:taskAffinity=":automation" android:theme="@style/Theme.AppCompat.Translucent.NoTitleBar"/>
+        <activity android:name="com.oasisfeng.greenify.accessibility.AccessibilitySettings" android:theme="@style/Theme.AppCompat.Light.NoActionBar"/>
+        <receiver android:name="com.oasisfeng.greenify.api.BroadcastApi" android:process=":service">
+            <intent-filter>
+                <action android:name="com.twofortyfouram.locale.intent.action.FIRE_SETTING"/>
+            </intent-filter>
+        </receiver>
+        <receiver android:exported="false" android:name="com.oasisfeng.greenify.AppCollector">
+            <intent-filter>
+                <action android:name="com.oasisfeng.greenify.action.PICK_APP"/>
+            </intent-filter>
+        </receiver>
+        <receiver android:name="com.oasisfeng.greenify.Startup">
+            <intent-filter>
+                <action android:name="android.intent.action.BOOT_COMPLETED"/>
+                <action android:name="android.intent.action.MY_PACKAGE_REPLACED"/>
+            </intent-filter>
+        </receiver>
+        <receiver android:enabled="@bool/since_api_19" android:name="com.oasisfeng.greenify.engine.PackageMonitor">
+            <intent-filter>
+                <action android:name="android.intent.action.PACKAGE_ADDED"/>
+                <action android:name="android.intent.action.PACKAGE_REPLACED"/>
+                <data android:scheme="package"/>
+            </intent-filter>
+        </receiver>
+        <receiver android:name="com.oasisfeng.greenify.WakeupObserver" android:permission="android.permission.MASTER_CLEAR">
+            <intent-filter>
+                <action android:name="com.oasisfeng.greenify.action.APP_WAKEUP"/>
+            </intent-filter>
+        </receiver>
+        <receiver android:name="com.oasisfeng.greenify.TimerCoalescingNotifier" android:permission="android.permission.MASTER_CLEAR">
+            <intent-filter>
+                <action android:name="com.oasisfeng.greenify.action.TIMER_COALESCED"/>
+            </intent-filter>
+        </receiver>
+        <receiver android:description="@string/device_admin_for_automation_description" android:label="@string/device_admin_for_automation" android:name="com.oasisfeng.greenify.DeviceAdmin" android:permission="android.permission.BIND_DEVICE_ADMIN">
+            <meta-data android:name="android.app.device_admin" android:resource="@xml/device_admin"/>
+            <intent-filter>
+                <action android:name="android.app.action.DEVICE_ADMIN_ENABLED"/>
+            </intent-filter>
+        </receiver>
+        <service android:exported="false" android:label="@string/service_cleaner" android:name="com.oasisfeng.greenify.CleanerService" android:process=":service"/>
+        <service android:exported="false" android:label="@string/service_wakeup_monitor" android:name="com.oasisfeng.greenify.engine.WakeupMonitor" android:process=":service"/>
+        <service android:enabled="false" android:exported="false" android:label="@string/prefs_labs_doze_title" android:name="com.oasisfeng.greenify.DozeService" android:process=":service"/>
+        <service android:enabled="false" android:exported="false" android:label="Doze Tracker" android:name="com.oasisfeng.greenify.DozeTrackerService" android:process=":service"/>
+        <service android:name="com.oasisfeng.greenify.HibernationService" android:process=":service"/>
+        <service android:name="com.oasisfeng.greenify.HibernationRestrictedService" android:process=":service"/>
+        <service android:description="@string/service_accessibility_description" android:label="@string/service_accessibility" android:name="com.oasisfeng.greenify.AccessibilityDispatcher" android:permission="android.permission.BIND_ACCESSIBILITY_SERVICE" android:process=":service">
+            <intent-filter>
+                <action android:name="android.accessibilityservice.AccessibilityService"/>
+            </intent-filter>
+            <meta-data android:name="android.accessibilityservice" android:resource="@xml/accessibility"/>
+        </service>
+        <service android:description="@string/notification_listener_title" android:enabled="false" android:label="@string/app_name" android:name="com.oasisfeng.greenify.notification.NotificationListenerDelegate" android:permission="android.permission.BIND_NOTIFICATION_LISTENER_SERVICE" android:process=":service">
+            <intent-filter>
+                <action android:name="android.service.notification.NotificationListenerService"/>
+            </intent-filter>
+        </service>
+        <service android:description="@string/prefs_labs_no_remove_notifications_summary" android:label="@string/notification_listener_title" android:name="com.oasisfeng.greenify.nevo.NotificationKeeper" android:permission="com.oasisfeng.nevo.permission.BIND_DECORATOR_SERVICE" android:process=":service">
+            <intent-filter android:priority="-100">
+                <action android:name="com.oasisfeng.nevo.Decorator"/>
+                <data android:scheme="package"/>
+            </intent-filter>
+        </service>
+        <receiver android:exported="false" android:name="com.google.android.gms.analytics.AnalyticsReceiver" android:process=":analytics">
+            <intent-filter>
+                <action android:name="com.google.android.gms.analytics.ANALYTICS_DISPATCH"/>
+            </intent-filter>
+        </receiver>
+        <service android:name="com.google.android.gms.analytics.AnalyticsService" android:process=":analytics"/>
+        <receiver android:name="com.google.android.gms.analytics.CampaignTrackingReceiver" android:permission="android.permission.INSTALL_PACKAGES" android:process=":analytics">
+            <intent-filter>
+                <action android:name="com.android.vending.INSTALL_REFERRER"/>
+            </intent-filter>
+        </receiver>
+        <service android:name="com.google.android.gms.analytics.CampaignTrackingService"/>
+        <activity android:name="com.google.android.gms.tagmanager.PreviewActivity" android:noHistory="true">
+            <intent-filter>
+                <data android:scheme="tagmanager.c.com.oasisfeng.greenify"/>
+                <action android:name="android.intent.action.VIEW"/>
+                <category android:name="android.intent.category.DEFAULT"/>
+                <category android:name="android.intent.category.BROWSABLE"/>
+            </intent-filter>
+        </activity>
+        <meta-data android:name="com.google.android.backup.api_key" android:value="AEdPqrEAAAAI5HX4G0rh8RvVIFxLb8pXEwik0ZC6iRe1ekfx8w"/>
+        <activity android:excludeFromRecents="true" android:exported="false" android:name="com.google.android.gms.auth.api.signin.internal.SignInHubActivity" android:theme="@android:style/Theme.Translucent.NoTitleBar"/>
+        <service android:exported="true" android:name="com.google.android.gms.auth.api.signin.RevocationBoundService" android:permission="com.google.android.gms.auth.api.signin.permission.REVOCATION_NOTIFICATION"/>
+        <activity android:exported="true" android:name="com.google.android.gms.appinvite.PreviewActivity" android:theme="@style/Theme.AppInvite.Preview">
+            <intent-filter>
+                <action android:name="com.google.android.gms.appinvite.ACTION_PREVIEW"/>
+                <category android:name="android.intent.category.DEFAULT"/>
+            </intent-filter>
+        </activity>
+        <meta-data android:name="com.oasisfeng.nevo.sdk.version" android:value="@integer/nevo_sdk_version"/>
+    </application>
+</manifest>

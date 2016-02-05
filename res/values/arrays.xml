@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="prefs_labs_working_mode_options">
+        <item>&lt;b>Non-Root&lt;/b>"
+"&lt;small>If your device is not rooted&lt;/small></item>
+        <item>&lt;b>Root&lt;/b>"
+"&lt;small>If your device is rooted&lt;/small></item>
+        <item>&lt;b>Boost&lt;/b>"
+"&lt;small>Best performance and compatibility (Xposed required)&lt;/small></item>
+    </string-array>
+    <string-array name="prefs_working_mode_values">
+        <item>restricted</item>
+        <item>root</item>
+        <item>boost</item>
+    </string-array>
+</resources>

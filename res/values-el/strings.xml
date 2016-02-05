@@ -1,0 +1,296 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_home_description">Πλοήγηση στην αρχική σελίδα</string>
+    <string name="abc_action_bar_home_description_format">%1$s, %2$s</string>
+    <string name="abc_action_bar_home_subtitle_description_format">%1$s, %2$s, %3$s</string>
+    <string name="abc_action_bar_up_description">Πλοήγηση προς τα επάνω</string>
+    <string name="abc_action_menu_overflow_description">Περισσότερες επιλογές</string>
+    <string name="abc_action_mode_done">Τέλος</string>
+    <string name="abc_activity_chooser_view_see_all">Προβολή όλων</string>
+    <string name="abc_activitychooserview_choose_application">Επιλέξτε κάποια εφαρμογή</string>
+    <string name="abc_capital_off">ΑΠΕΝΕΡΓΟΠΟΙΗΣΗ</string>
+    <string name="abc_capital_on">ΕΝΕΡΓΟΠΟΙΗΣΗ</string>
+    <string name="abc_search_hint">Αναζήτηση…</string>
+    <string name="abc_searchview_description_clear">Διαγραφή ερωτήματος</string>
+    <string name="abc_searchview_description_query">Ερώτημα αναζήτησης</string>
+    <string name="abc_searchview_description_search">Αναζήτηση</string>
+    <string name="abc_searchview_description_submit">Υποβολή ερωτήματος</string>
+    <string name="abc_searchview_description_voice">Φωνητική αναζήτηση</string>
+    <string name="abc_shareactionprovider_share_with">Κοινή χρήση με</string>
+    <string name="abc_shareactionprovider_share_with_application">Κοινή χρήση με %s</string>
+    <string name="abc_toolbar_collapse_description">Σύμπτυξη</string>
+    <string name="common_google_play_services_api_unavailable_text">Η εφαρμογή %1$s απαιτεί μία ή περισσότερες υπηρεσίες του Google Play που δεν είναι διαθέσιμες προς το παρόν. Επικοινωνήστε με τον προγραμματιστή για βοήθεια.</string>
+    <string name="common_google_play_services_enable_button">Ενεργοποίηση υπηρεσιών Google Play</string>
+    <string name="common_google_play_services_enable_text">Η εφαρμογή %1$s δεν θα λειτουργήσει εάν δεν έχετε ενεργοποιήσει τις υπηρεσίες Google Play.</string>
+    <string name="common_google_play_services_enable_title">Ενεργοποίηση υπηρεσιών Google Play</string>
+    <string name="common_google_play_services_install_button">Λήψη υπηρεσιών Google Play</string>
+    <string name="common_google_play_services_install_text_phone">Η εφαρμογή %1$s δεν θα εκτελεστεί χωρίς τις υπηρεσίες Google Play, οι οποίες λείπουν από το τηλέφωνό σας.</string>
+    <string name="common_google_play_services_install_text_tablet">Η εφαρμογή %1$s δεν θα εκτελεστεί χωρίς τις υπηρεσίες Google Play, οι οποίες λείπουν από το tablet σας.</string>
+    <string name="common_google_play_services_install_title">Λήψη υπηρεσιών Google Play</string>
+    <string name="common_google_play_services_invalid_account_text">Ο συγκεκριμένος λογαριασμός δεν υπάρχει σε αυτήν τη συσκευή. Επιλέξτε έναν διαφορετικό λογαριασμό.</string>
+    <string name="common_google_play_services_invalid_account_title">Μη έγκυρος λογαριασμός</string>
+    <string name="common_google_play_services_network_error_text">Απαιτείται σύνδεση δεδομένων για να συνδεθείτε με τις υπηρεσίες Google Play.</string>
+    <string name="common_google_play_services_network_error_title">Σφάλμα δικτύου</string>
+    <string name="common_google_play_services_notification_ticker">Σφάλμα υπηρεσιών Google Play</string>
+    <string name="common_google_play_services_restricted_profile_text">Δεν υποστηρίζεται η πρόσβαση σε λογαριασμούς από ένα προφίλ περιορισμένης πρόσβασης.</string>
+    <string name="common_google_play_services_restricted_profile_title">Προφίλ περιορισμένης πρόσβασης</string>
+    <string name="common_google_play_services_sign_in_failed_text">Σφάλμα κατά τη σύνδεση στον συγκεκριμένο λογαριασμό. Επιλέξτε έναν διαφορετικό λογαριασμό.</string>
+    <string name="common_google_play_services_sign_in_failed_title">Η σύνδεση απέτυχε</string>
+    <string name="common_google_play_services_unknown_issue">Παρουσιάζονται προβλήματα με τις υπηρεσίες Google Play στην εφαρμογή %1$s. Εάν το πρόβλημα εξακολουθεί να παρουσιάζεται, επικοινωνήστε με τον προγραμματιστή για βοήθεια.</string>
+    <string name="common_google_play_services_unsupported_text">Η εφαρμογή %1$s βασίζεται στις υπηρεσίες Google Play, οι οποίες δεν υποστηρίζονται από τη συσκευή σας. Επικοινωνήστε με τον κατασκευαστή για βοήθεια.</string>
+    <string name="common_google_play_services_unsupported_title">υπηρεσίες Google Play</string>
+    <string name="common_google_play_services_update_button">Ενημέρωση</string>
+    <string name="common_google_play_services_update_text">Η εφαρμογή %1$s θα εκτελεστεί αφού ενημερώσετε τις υπηρεσίες Google Play.</string>
+    <string name="common_google_play_services_update_title">Ενημέρωση υπηρεσιών Google Play</string>
+    <string name="common_google_play_services_updating_text">Η εφαρμογή %1$s δεν θα εκτελεστεί χωρίς τις υπηρεσίες Google Play, οι οποίες ενημερώνονται αυτήν τη στιγμή.</string>
+    <string name="common_google_play_services_updating_title">Ενημέρωση των υπηρεσιών Google Play</string>
+    <string name="common_google_play_services_wear_update_text">Απαιτείται νέα έκδοση των υπηρεσιών Google Play. Θα ενημερωθεί σύντομα.</string>
+    <string name="common_open_on_phone">Άνοιγμα σε τηλέφωνο</string>
+    <string name="common_signin_button_text">Σύνδεση</string>
+    <string name="common_signin_button_text_long">Συνδεθείτε με το Google</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="about_donation_summary">Λάβετε το πακέτο δωρεάς για επιπρόσθετα χαρακτηριστικά</string>
+    <string name="about_donation_summary_donated">Επιπρόσθετα πειραματικά χαρακτηριστικά μπορούν να ενεργοποιηθούν στο κυρίως μενού.</string>
+    <string name="about_donation_title">Δωρίστε</string>
+    <string name="about_donation_title_donated">Ευχαριστούμε για την δωρεά.</string>
+    <string name="about_licenses_title">Άδειες</string>
+    <string name="about_raise_your_voice_program_detail">"Το Greenify θα υψώσει τη φώνη της κοινότητας ώστε αν ακουστεί από τους προγραμματιστές των greenified εφαρμογών για την καλύτερη αναγνώριση εμπειρίας συσκευής στην ανάπτυξη εφαρμογών.
+
+Για ν'α ακουστεί η φωνή σας, το Greenify συλλέγει ανώνυμα δεδομένα χωρίς καμία ιδιωτική πληροφορία. Μπορείτε να το ακυρώσετε οποιαδήποτε στιγμή."</string>
+    <string name="about_raise_your_voice_program_summary">Η φωνή σας μπορεί να κάνει τη διαφορά!</string>
+    <string name="about_raise_your_voice_program_title">Πρόγραμμα \"Υψώστε την φωνή σας!\"</string>
+    <string name="about_translation_credit">{Όνομα μεταφραστή για την τρέχουσα μετάφραση : Erevos Moonbeam }</string>
+    <string name="about_translation_title">Μετάφραση</string>
+    <string name="about_uninstall">Απεγκατάσταση</string>
+    <string name="about_version_summary">Βαθμολογήστε την εφαρμογή</string>
+    <string name="about_version_title">Έκδοση</string>
+    <string name="accessibility_service_description">"Αυτή η διεργασία πρόσβασης απαιτείται για μερικά ειδικά χαρακτηριστικά της εφαρμογής Greenify
+
+Μπορεί να προειδοποιηθείτε για πιθανή παραβίαση της ιδιωτικότητάς σας. Αυτή είναι μια συνήθης προειδοποίηση για τις διεργασίες πρόσβασης. Υποσχόμαστε ΠΟΤΕ να μην συλλέξουμε τις προσωπικές σας πληροφορίες μέσω αυτής της διεργασίας πρόσβασης
+
+Κάποιες συσκευές Samsung έχουν ζητήματα με την φωνητική ομιλία όταν ενεργοποιηθεί η διεργασία πρόσβασης. Αν έχετε τέτοιο ζήτημα, ενεργοποιήστε την επίλυση στις \"Ρυθμίσεις\""</string>
+    <string name="analysis_detail_alarm_with_wakeup">Εκτελούνται %1$d ( συμπεριλαμβανομένων %2$d ενεργοποιήσεων )</string>
+    <string name="app_analyzer_name">Αναλυτής Εφαρμογών</string>
+    <string name="app_analyzer_subtitle">Επιλέχθηκε(σαν) %1$d εφαρμογή(γές)</string>
+    <string name="app_shortcut_hibernate">Αδρανοποίηση Τώρα</string>
+    <string name="app_shortcut_hibernate_lock">Αδρανοποίηση + Κλείδωμα οθόνης</string>
+    <string name="app_shortcut_nothing">Τίποτα</string>
+    <string name="app_shortcut_wakeup">Ενεργοποίηση</string>
+    <string name="app_state_always_ignored">Η κατάσταση θα αγνοείται πάντα για αδρανοποίηση</string>
+    <string name="app_state_hibernation_failed">Πριν από %1$s . Αποτυχία αδρανοποίησης.</string>
+    <string name="app_state_provider_in_use">Ο διακομηστής είναι σε χρήση από %1$s</string>
+    <string name="app_state_service_in_use">Η υπηρεσία είναι σε χρήση από %1$s</string>
+    <string name="app_state_unsaveable">Μη ανακτέα κατάσταση</string>
+    <string name="app_state_woken_by_activity">Πριν %1$s ανοίχθηκε UI</string>
+    <string name="app_state_woken_by_app">Πριν %1$s ενεργοποιήθηκε από %2$s</string>
+    <string name="app_state_woken_by_authenticator">Επικυρώθηκε πριν από %1$s</string>
+    <string name="app_state_woken_by_backup">Διενεργήθει λήψη αντιγράφου ασφαλείας πριν από %1$s</string>
+    <string name="app_state_woken_by_broadcast">Ρητά ειδοποιήθηκε πριν από %1$s</string>
+    <string name="app_state_woken_by_content_provider">Παρέχθηκε περιεχόμενο πριν από %1$s</string>
+    <string name="app_state_woken_by_push_msg">Πριν %1$s παρελήφθηκε push</string>
+    <string name="app_state_woken_by_search">Αναζήτηση περιεχομένου πριν από %1$s</string>
+    <string name="app_state_woken_by_service">Εκκίνηση υπηρεσίας πριν από %1$s</string>
+    <string name="app_state_woken_by_sync">Συγχρονισμός πριν από %1$s</string>
+    <string name="app_state_woken_by_widget">Αναβάθμιση widget πριν %1$s</string>
+    <string name="app_state_woken_directly">Πριν από %1$s ενεργοποιήθηκε απευθείας από %2$s</string>
+    <string name="app_title_service_disabled">Πρασινοποίηση ( χωρίς αυτόματη απενεργοποίηση )</string>
+    <string name="app_waker_google">Υπηρεσίες Google</string>
+    <string name="app_waker_system">Σύστημα Android</string>
+    <string name="app_waker_unknown">Άγνωστη πηγή</string>
+    <string name="device_admin_for_automation">Αυτόματος πρασινοποιητής</string>
+    <string name="device_admin_for_automation_description">Επιτρέψτε στο Greenify να σβήνει την οθόνη αμέσως μετά την αυτόματη αδρανοποίηση.</string>
+    <string name="device_admin_warning_when_disabling">Εάν είναι απενεργοποιημένο, το Greenify δεν θα μπορεί να αδρανοποιήσει αυτόματα όταν η οθόνη είναι σβησμένη.</string>
+    <string name="dialog_app_picker_guide_button">Πηγαίνετε στον launcher</string>
+    <string name="dialog_app_picker_guide_message">Θα μεταφερθείτε στον launcher τώρα. Ανοίξτε την εφαρμογή , μετά κάντε κλικ στην ειδοποίηση για να επιλέξετε την εφαρμογή.</string>
+    <string name="dialog_app_picker_guide_title">Πως να επιλέξετε εφαρμογή</string>
+    <string name="dialog_button_cancel">Ακύρωση</string>
+    <string name="dialog_button_continue">Συνεχίστε</string>
+    <string name="dialog_button_insist">Επιμένω</string>
+    <string name="dialog_button_later_by_oneself">Θα το κάνω αργότερα</string>
+    <string name="dialog_button_learn_more">Μάθετε περισσότερα</string>
+    <string name="dialog_button_opt_in">Επιλέξτε να συμμετάσχετε</string>
+    <string name="dialog_button_opt_out">Επιλέξτε να μη συμμετάσχετε</string>
+    <string name="dialog_confirmation_unsafe_to_hibernate">Εφαρμογές σε αυτή τη κατασταση δεν είναι συνήθως ασφαλές να αδρανοποιηθούν. Αναγκαστική αδρανοποίηση μπορεί να προκαλέσει διακοπές λειτουργίας ή ακόμα και απώλεια δεδομένων</string>
+    <string name="dialog_cutoff_message">"Καταργώντας το μονοπάτι ενεργοποίησης μπορεί να επηρεάσει τη λειτουργικότητα της εφαρμογής ή των εξαρτώμενων από αυτή εφαρμογές
+
+Αν συμβεί κάτι άσχημο, ενσωματώστε ξανά την αποκοπή
+
+Επηρεάστηκαν:[%s]"</string>
+    <string name="dialog_cutoff_title">Προειδοποίηση</string>
+    <string name="dialog_degreenified_message">Παρόλο που πρασινοποιήθηκε , η εφαρμογή παραμένει αδρανής ( όλες οι λειτουργίες υπόβαθρου δεν λειτουργόυν ) εως ότου να την ενεργοποιήσετε μέσω ρητής εκκίνησης της.</string>
+    <string name="dialog_degreenified_title">Προσοχή</string>
+    <string name="dialog_donation_corrupted_message">Το πακέτο δωρεάς είναι κατεστραμμένο. Εκ νέου εγκατάσταση από το Google Play;</string>
+    <string name="dialog_greenify_confirmation_message">Θέλετε σίγουρα να πρασινοποιήσετε %1$s</string>
+    <string name="dialog_greenifying_system_apps">Η πρασινοποίηση εφαρμογών συστήματος είναι πειραματικό χαρακτηριστικό και είναι διαθέσιμη μόνο με το πακέτο δωρεάς.</string>
+    <string name="dialog_incompatible_rom_title">Μη συμβατή ROM</string>
+    <string name="dialog_ingreenfiable_message_for_system_app">Λυπόμαστε , η εφαρμογή του συστήματος δεν είναι ασφαλές να πρασινοποιηθεί εν γένει.</string>
+    <string name="dialog_ingreenfiable_title">Μη πρασινοποιήσιμες %1$s</string>
+    <string name="dialog_labs_incompatible_rom_message">Αποτυχία ορισμού αυτού του χαρακτηριστικού.Μπορεί ναι είναι ασύμβατο με την ROM σας.</string>
+    <string name="dialog_labs_operation_failure_message">Αποτυχία λειτουργίας.</string>
+    <string name="dialog_labs_state_set_failure_message">Αποτυχία ορισμού της κατάστασης του χαρακτηριστικού.</string>
+    <string name="dialog_message_donation_package_exclusive">"Αυτό το χρακτηρισιτκό είναι διαθέσιμο μόνο στο πακέτο δωρεάς.
+
+Αγοράστε το πακέτο δωρεάς τώρα για να ξεκλειδώσετε τα πειραματικά χαρακτηριστικά."</string>
+    <string name="dialog_option_always_ignore_state">Αγνόηση πάντα της κατάστασής της</string>
+    <string name="dialog_root_operation_failure_message">Αποτυχία εκτέλεσης αυτής της διεργασίας. Παρακαλώ επιβεβαιώστε ότι έχετε δώσει δικαιώματα υπερδιαχειρστή (root)</string>
+    <string name="dialog_thank4donation_message">"Ευχαριστώ για τη δωρεά σας έτσι ώστε να υποστηρίξετε την εξέλιξη
+
+Μπορείτε τώρα να ενεργοποιήσετε τα πειραματικά χαρακτηριστικά στο κεντρικό μενού"</string>
+    <string name="dialog_thank4donation_title">Ευχαριστούμε.</string>
+    <string name="dialog_title_confirmation">Επιβεβαίωση</string>
+    <string name="dialog_title_error">Σφάλμα</string>
+    <string name="dialog_verification_error_message">Δεν μπορεί να επαληθευτεί η δωρεά. Παρακαλώ ελέγξτε την κατάσταση του δικτύου σας και προσπαθήστε ξανά αργότερα.</string>
+    <string name="dialog_verification_fatal_error">Δεν μπορεί να επαληθευτεί η δωρεά, αναφέρετε αυτό το σφάλμα.</string>
+    <string name="dialog_version_mismatch_message">Παρακαλώ αναβαθμίστε αυτή την εφαρμογή στην πρόσφατη έκδοση.</string>
+    <string name="dialog_version_mismatch_title">Αναντοιστιχία έκδοσης</string>
+    <string name="dialog_warning_for_greenifying_launcher">"Επιχειρήτε να πρασινοποιήσετε τηεν εφαρμογή του εξ'ορισμού launcher. Δεν συνίσταται η πρασινοποίηση συχνά χρισιμοποιούμενων εφαρμογών."</string>
+    <string name="dialog_warning_title">Προσοχή</string>
+    <string name="dialog_xposed_module_inactive_message">Η μονάδα Xposed του Greenify δεν είναι ακόμη ενεργοποιημένη. Πρέπει να την ενεργοποιήσετε στην εγκατάσταση του Xposed για να λειτουργήσουν αυτά τα χαρακτηριστικά.</string>
+    <string name="event_capture_video">Καταγράφηκε video</string>
+    <string name="event_connectivity_changes">Αλλαγές συνδεσιμότητας δικτύου</string>
+    <string name="event_media_connect">Ένα αφαιρούμενο αποθηκευτικό μέσο συνδέθηκε</string>
+    <string name="event_media_eject">Ένα αφαιρούμενο αποθηκευτικό μέσο αποσυνδέθηκε</string>
+    <string name="event_media_scan">Ο αποθηκευτικός χώρος σαρώθηκε</string>
+    <string name="event_postfix_volatile">( μπορεί να μεταβάλλεται με την κατάσταση )</string>
+    <string name="event_power_connected">Σύνδεση πηγής ρεύματος</string>
+    <string name="event_power_disconnected">Αποσύνδεση πηγής ρεύματος</string>
+    <string name="event_take_photo">Λήφθηκε φωτογραφία</string>
+    <string name="event_unlock_keyguard">Η προστασία πλήκτρων/κλειδιών δεν είναι κλειδωμένη</string>
+    <string name="event_update_apps">Η εφαρμογή αναβαθμίστηκε</string>
+    <string name="guide_btn_activate_module">Ενεργοποιήστε την μονάδα &amp; επανεκκινήστε</string>
+    <string name="guide_btn_install_xposed_installer">Εγκαταστήστε τον Xposed Installer</string>
+    <string name="guide_btn_setup_xposed_framework">Ρυθμίστε το Xposed framework</string>
+    <string name="guide_link_why_xposed">Γιατί χρειάζεται το Xposed framework?</string>
+    <string name="guide_sub_title">Οδηγός Εγκατάστασης</string>
+    <string name="guide_title">Πειραματικές λειτουργίες</string>
+    <string name="menu_about">Σχετικά</string>
+    <string name="menu_action_accept">Αποδοχή</string>
+    <string name="menu_action_cutoff">Αποκοπή μονοπατιού ενεργοποίησης</string>
+    <string name="menu_action_cutoff_condensed">Αποκοπή</string>
+    <string name="menu_action_greenify">Οδηγός Greenify</string>
+    <string name="menu_action_greenify_condensed">Πρασινοποίηση...</string>
+    <string name="menu_action_hibernate">Θέστε σε αδρανοποίηση τώρα</string>
+    <string name="menu_action_hibernate_condensed">Αδρανοποίηση</string>
+    <string name="menu_action_hide">Απόκρυψη</string>
+    <string name="menu_action_pick">Επιλογή εφαρμογής προς πρασινοποίηση</string>
+    <string name="menu_action_pick_condensed">Επιλογή Εφαρμογής</string>
+    <string name="menu_action_reattach">Επανσύνδεση μονοπατιών ενεργοποίησης</string>
+    <string name="menu_action_reattach_condensed">Επανασύνδεση</string>
+    <string name="menu_action_reconsider_state">Αναθεωρήστε την κατάστασή της</string>
+    <string name="menu_action_refresh">Ανανέωση</string>
+    <string name="menu_action_run">Εκκίνηση</string>
+    <string name="menu_action_ungreenify">Αποπρασινοποίηση επιλεγμένης εφαρμογής</string>
+    <string name="menu_action_ungreenify_condensed">Απoπρασινοποίηση</string>
+    <string name="menu_action_unhide_all">Εμφάνιση όλων</string>
+    <string name="menu_create_shortcut">Δημιούργηστε συντόμευση αδρανοποίησης.</string>
+    <string name="menu_disable_service">Θέστε την αυτόματη απενεργοποίηση εκτός λειτουργίας</string>
+    <string name="menu_enable_service">Ενεργοποιήστε την αυτόματη αδρανοποίηση</string>
+    <string name="menu_reset_gesture">Επαναφορά της κίνησης τράβηγμα-προς-τα-πάνω</string>
+    <string name="no_app_picked">Δεν επιλέχθηκε εφαρμογή</string>
+    <string name="notification_app_picker_text">Εκκινήστε την εφαρμογή σας , μετά κάντε κλικ εδώ για να την επιλέξετε</string>
+    <string name="notification_app_picker_ticker">"Πρώτα εκκινήστε την εφαρμογή σας.
+Μετά κάντε κλικ σε αυτή την ειδοποίηση του ΕΠΙΛΟΓΕΑ ΕΦΑΡΜΟΓΩΝ"</string>
+    <string name="notification_app_picker_title">ΕΠΙΛΟΓΕΑΣ ΕΦΑΡΜΟΓΩΝ για το Greenify</string>
+    <string name="notification_listener_title">Διατήρηση Ειδοποίησης</string>
+    <string name="notification_text_workaround_talking">Εαν αντιμετωπίζετε τυχαίες ομιλιες</string>
+    <string name="notification_timer_coalesced_subtext">Αυτοματοποιήθηκε βέλτιστα από το Greenify</string>
+    <string name="notification_timer_coalesced_title">Το περιοδικό χρονόμετρο συνδυάστηκε</string>
+    <string name="notification_title_workaround_talking">Λύση για το πρόβλημα ομιλίας</string>
+    <string name="placeholder_show_all">Προβολή περισσότερων εφαρμογών</string>
+    <string name="prefs_cat_donation_only_features">Απαιτεί το πακέτο δωρεάς</string>
+    <string name="prefs_cat_experimental_features">Πειραματικά χαρακτηριστικά</string>
+    <string name="prefs_cat_xposed_donation_features">Απαιτεί το Xposed και το πακέτο δωρεάς</string>
+    <string name="prefs_cat_xposed_only_features">Απαιτεί το Xposed Framework</string>
+    <string name="prefs_labs_automated_hibernation_title">Αυτοματοποιημένη αδρανοποίηση (4,1+)</string>
+    <string name="prefs_labs_block_notification_abuse_summary">Κάποιες εφαρμογές εκμεταλλεύονται μια ευπάθεια του Android (πριν την έκδοση 4.3) έτσι ώστε να αποκτήσουν προτεραιότητα παραμονής στη μνήμη σε περιπτώσεις χαμηλής μνήμης. Αυτές οι εφαρμογές μπορεί να αναγνωριστούν εσφαλμένα από το Greenify ως \"Απαραίτητες\" και να μην αδρανοποιηθούν</string>
+    <string name="prefs_labs_block_notification_abuse_title">Κατάχρηση κατάστασης εμποδιζόμενης εφαρμογής</string>
+    <string name="prefs_labs_boost_mode_summary">Καλύτερη απόδοση και συμβατότητα, ειδικά αν αντιμετωπίζετε αποτυχία αδρανοποίησης ή ζητήματα ROOT.</string>
+    <string name="prefs_labs_boost_mode_title">Λειτουργία Ενίσχυσης</string>
+    <string name="prefs_labs_gcm_push_summary">Επιτρέψτε στην υπηρεσία GCM μηνύματα push, να ξυπνήσει τις αδρανοποιημένες εφαρμογές, έτσι θα μπορείτε επίσης να πρασινοποιείσετε τις εφαρμογές που τροφοδοτούνται από την υπηρεσία GCM χωρίς να χάσετε τα push notifications.</string>
+    <string name="prefs_labs_gcm_push_title">GCM push για πρασινοποιημένες εφαρμογές</string>
+    <string name="prefs_labs_reveal_hidden_sync_title">Αποκάλυψη Κρυφού Συγχρονισμού</string>
+    <string name="prefs_labs_system_apps_limited_title">Πρασινοποίηση εφαρμογών συστήματος (περιορισμένο)</string>
+    <string name="prefs_labs_system_apps_summary">Αφαιρέστε από τις εφαρμογές του συστήματος την ανοσία που έχουν απέναντι στην αδρανοποίηση και πρασινοποιείσετε τις περισσότερες από αυτές.</string>
+    <string name="prefs_labs_system_apps_title">Πρασινοποίηση εφαρμογών συστήματος</string>
+    <string name="prefs_labs_telephony_wakeup_summary">Επιτρέψτε στα γεγνότα τηλεφωνίας (όπως κλήση, SMS) να ξυπνήσουν τις εφαρμογές που βρίσκονται σε αδρανοποίηση, έτσι οι εφαρμογές κλήσης ή SMS θα λειτουργούν όπως αναμένεται.</string>
+    <string name="prefs_labs_telephony_wakeup_title">Ενεργοποίηση Τηλεφωνίας</string>
+    <string name="prefs_labs_timer_coalescing_summary">Ενεργοποιήστε περιοδική timer coalescing (batching) για όλες τις εφαρμογές (όχι μόνο για εφαρμογές σχεδιασμένες για KitKat). Διαθέσιμο μόνο σε Android 4.4 +.</string>
+    <string name="prefs_labs_timer_coalescing_title">Συνδυασμός χρονοδιακόπτη ενεργοποίησης (4.4+)</string>
+    <string name="prefs_labs_wakeup_tracker_summary">Ιχνηλατήστε αναλυτικά ποία εφαρμογή ενεργοποίησε την πρασινοποιημένη εφαρμογή και προαιρετικά αποκόψτε το μονοπάτι ενεργοποίησης για την αποτροπή περαιτέρω ενεργοποιήσεων</string>
+    <string name="prefs_labs_wakeup_tracker_title">Ιχνηλάτηση και Αποκοπή Ενεργοποίησης</string>
+    <string name="progress_be_hibernating">Αδρανοποίηση...</string>
+    <string name="section_alarm">Προγραμματισμένη εκτέλεση ( από την τελευτέα εκκίνηση )</string>
+    <string name="section_alarm_tips">"Αυτές οι εφαρμογές προγραμματίζουν τον εαυτό τους για σιωπηλή εκτέλεση, επομένως μπορεί να επιβραδύνουν τη συσκευή και να προκαλέσουν αποφόρτιση της μπαταρίας.
+
+Προσέξτε εκείνες που προκαλούν αφύπνιση της συσκευής συχνά."</string>
+    <string name="section_all_apps">Περισσότερα</string>
+    <string name="section_hibernated">Αδρανοποιημένη</string>
+    <string name="section_pending">Εκκρεμεί</string>
+    <string name="section_pending_auto">Θα γίνει αδρανοποίηση μερικά λεπτά μετά το κλείσιμο της οθόνης.</string>
+    <string name="section_pending_tip_nonroot">Αυτές οι εφαρμογές ενεργοποιήθηκαν και πρέπει να τις αδρανοποιήσετε χειροκίνητα</string>
+    <string name="section_postponed">Δεν αδρανοποιήται αυτόματα</string>
+    <string name="section_postponed_tip">Το Greenify δεν θα αδρανοποιήσει αυτές τις εφαρμογές λόγω των εμφανιζόμενων αιτιών , εκτός εάν οι κατάσταση τους ματαβληθεί αργότερα.</string>
+    <string name="section_receiver">Δύναται να επιβραδύνει την συσκευή όταν ...</string>
+    <string name="section_receiver_tip">"Οι εφαρμογές αυτές δύναται να επιβραδύνουν την συσκευή όταν συμβούν συγκεκριμένα γεγονότα , σε αυθαίρετο βαθμό.
+
+Περισσότερες εφαρμογές εδώ , λιγότερη ανταπόκριση στα γεγονότα."</string>
+    <string name="section_service">Εκτέλεση στο υπόβαθρο</string>
+    <string name="section_service_tip">"Οι εφαρμογές που εκτελούνται στο υπόβαθρο θα χρησιμοποιούν ένα δεδομένο ποσό μνήμης και δύναται να επιβραδύνουν την συσκευή σε αυθάιρετο βαθμό.
+
+Κρατήστε αυτή την λίστα όσο το δυνατόν πιο μικρή."</string>
+    <string name="service_cleaner">Καθαριστής</string>
+    <string name="showcase_accessibility_setting">Ενεργοποίηση Αυτοματισμού</string>
+    <string name="showcase_manual_hibernation_automation">Αυτή η χειροκίνητη διεργασία μπορεί να αυτοματοποιηθεί μέσω μίας διεργασίας πρόσβασης η οποία παρέχεται από την εφαρμογή Greenify</string>
+    <string name="showcase_manual_hibernation_desc">Εξ αιτίας του περιορισμού στο σύστημα Android, όταν εργάζεται σε κατάσταση μη-root, πρέπει να κάνετε κλικ χειροκίνητα το κουμπί \"Force stop\" για να ολοκληρώσετε την αδρανοποίηση.</string>
+    <string name="showcase_manual_hibernation_title">Χειροκίνητη αδρανοποίηση</string>
+    <string name="toast_accessibility_setting">Ενεργοποιήστε ή απενεργοποιήστε την υπηρεσία πρόσβασης του Greenify εδώ</string>
+    <string name="toast_action_undo">Αναίρεση</string>
+    <string name="toast_already_greenified">\"%1$s\" είναι ήδη πρασινοποιημένη.</string>
+    <string name="toast_app_no_launcher_entry">Αυτή η εφαρμογή δεν έχει είσοδο</string>
+    <string name="toast_apps_hibernated">Αδρανοποιήθηκαν %1$s.</string>
+    <string name="toast_apps_hidden">Εφαρμογές που αποκρύφθηκαν</string>
+    <string name="toast_auto_hibernation_failure_tip">"Παρακαλούμε βεβαιωθείτε ότι έχουν χορηγηθεί προνόμια root στο Greenify. (κάποια εργαλεία διαχείρισης root απαιτούν ρητά την εκ νέου χορήγηση root κάθε φορά που θα γίνεται ενημέρωση της εφαρμογής) 
+Εάν εξακολουθείτε να αντιμετωπίζετε αποτυχίες αδρανοποίησης, δοκιμάστε ένα άλλο εργαλείο διαχείρισης root ή τη \"Λειτουργία Boost\" στις πειραματικές λειτουργίες."</string>
+    <string name="toast_cannot_switch_to_launcher">Δεν είναι δυνατή η μετάβαση στον launcher σας , παρακαλώ όπως επιλέξετε το κουμπί Home χειροκίνητα.</string>
+    <string name="toast_failed_to_greenify">Αποτυχία πρασινοποίησης \"%1$s\".</string>
+    <string name="toast_gcm_tip">"Η υπηρεσία GCM (Google Cloud Messaging) είναι ενσωματωμένη σε αυτή την εφαρμογή και μπορεί να χρησιμοποιηθεί για push notification.
+Αν πρασινοποιηθεί δε θα λειτουργεί άλλο.
+
+Μια πειραματική λειτουργία στο πακέτο δωρεάς, ενεργοποιεί την GCM push για εφαρμογές που έχουν πρασινοποιηθεί."</string>
+    <string name="toast_gesture_reset">Η προεπιλεγμένη συμπεριφορά της τράβηγμα-προς-τα-πάνω κίνησης στο κεντρικό κουμπί είναι η επαναφορά.</string>
+    <string name="toast_hibernation_failure">Αποτυχία να τεθεί \"%1$s\" σε αδρανοποίηση.</string>
+    <string name="toast_need_reboot">Μη διαθέσιμο μέχρι την επόμενη επανεκκίνηση</string>
+    <string name="toast_none_hibernated">Δεν υπάρχουν εφαρμογές προς αδρανοποίηση.</string>
+    <string name="toast_opted_in">Ευχαριστούμε για την συμμετοχή σας !</string>
+    <string name="toast_opted_out">Επιλέξατε να μην συμμετάσχετε. Δεν θα συλλεχθούν στατιστικά ανώνυμα.</string>
+    <string name="toast_service_disabled">"Η αυτόματη απενεργοποίηση είναι εκτός λειτουργίας.
+Οι πρασινοποιημένες εφαρμογές δεν θα απενεργοποιούνται αυτόματα πλέον."</string>
+    <string name="toast_service_enabled">Η αυτόματη απενεργοποίηση είναι σε λειτουργία.</string>
+    <string name="toast_shortcut_created">Μια συντόμευση δημιουργήθηκε στον launcher σας για αδρανοποίηση με ένα κλικ .</string>
+    <string name="toast_tasker_wakeup_unavail_in_nonroot">Λυπούμαστε αλλά είναι διαθέσιμο μόνο σε λειτουργία root</string>
+    <string name="wizard_step_enjoy">Απολαύστε</string>
+    <string name="wizard_step_enjoy_desc">Ομαλή και ανθεκτική στο χρόνο εμπειρία , όπως την πρώτη ημέρα.</string>
+    <string name="wizard_step_forget">Παράβλεψη</string>
+    <string name="wizard_step_forget_desc">Σχετικά με το σιγύρισμα , αφήστε το Greenify να το κάνει για εσάς αθόρυβα.</string>
+    <string name="wizard_step_greenify">Greenify</string>
+    <string name="wizard_step_greenify_desc">Εφαρμογές που προκαλούν αποφόρτιση μπαταρίας , κατακράτηση μνήμης και εκτελούνται κρυφά.</string>
+    <string name="app_state_wakeup_paths_cutoff">Ενεργοποίηστε τις διαδρομές αποκοπής</string>
+    <string name="app_waker_root">root</string>
+    <string name="app_waker_shell">κέλυφος</string>
+    <string name="dialog_full_cutoff_message">"Εάν αποκόψετε όλες τις διαδρομές ενεργοποίησης μπορεί να χαλάσει η λειτουργικότητα της συγκεκριμένης εφαρμογής ή των βασιζόμενων σε αυτήν εφαρμογών.
+
+Εάν συμβεί κάτι κακό, παρακαλώ απενεργοποιήστε την αποκοπη."</string>
+    <string name="event_wifi_scan">Το ασύρματο δίκτυο σαρώθηκε</string>
+    <string name="prefs_labs_deep_hibernation_title">Αδρανοποίηση εις βάθος</string>
+    <string name="prefs_labs_no_remove_notifications_limited_title">Διατήρηση των ειδοποιήσεων (περιορισμένο)</string>
+    <string name="prefs_labs_no_remove_notifications_summary">Διατήρηση των ειδοποιήσεων όταν η εφαρμογή αδρανοποιήται, έτσι ώστε να μπορείτε να διαβάζετε τις ειδοποιήσεις μετά. (απαιτείται επανεκκίνηση)</string>
+    <string name="prefs_labs_no_remove_notifications_title">Διατήρηση των ειδοποιήσεων</string>
+    <string name="prefs_labs_reveal_hidden_sync_summary">Αποκάλυψη κρυφού συγχρονισμού λογαρισμού στο \"Ρυθμίσεις - Λογαριασμοί\", με πρόθεμα \"*\"</string>
+    <string name="prefs_labs_root_mode_summary_off">Λειτουργιά χωρίς root. Εάν η συσκευή σας έχει root, παρακαλώ ενεργοποιήστε αυτήν την επιλογή για να απελευθερώσετε την πλήρη δύναμη του Greenify.</string>
+    <string name="prefs_labs_root_mode_summary_on">Λειτουργιά root. Εάν η συσκευή σας δεν έχει root, παρακαλώ απενεργοποιήστε αυτήν την επιλογή για να σιγουρέψετε τη σωστή λειτουργικότητα.</string>
+    <string name="service_wakeup_monitor">Άναψε την οθόνη</string>
+    <string name="toast_app_ingreenifiable">Συγνώμη, \"%1$s\" ειναι απρασινοποίητη.</string>
+    <string name="toast_apps_not_hibernating">Δεν αδρανοποιήται: %1$s</string>
+    <string name="toast_auto_hibernation_oos">Η υπηρεσία αυτόματης αδρανοποίησης διακόπηκε. Εάν αυτό το μήνυμα εμφανίζεται συχνά, η υπηρεσία υποβάθρου μπορεί να εμποδίζετε από κάποια άλλη εξωτερική εφαρμογή ή από τις ρυθμίσεις του συστήματος (π.χ. Stamina mode στις συσκευές Sony, AutoStart Manager στις συσκευές MIUI), παρακαλώ ελέγξτε τις αντίστοιχες ρυθμίσεις και αποκλείστε το Greenify εάν είναι δυνατόν.</string>
+    <string name="toast_auto_hibernation_restarting">Η υπηρεσία της αυτόματης αδρανοποίησης επανακινείται... (μάλλον λόγω του ότι δεν υπάρχει αρκετή διαθέσιμη μνήμη)</string>
+</resources>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="prefs_labs_working_mode_options">
+        <item>&lt;b>Ne-ROOT-at&lt;/b>"
+"&lt;small>daca dispozitivul nu este ROOT-at&lt;/small></item>
+        <item>&lt;b>Root-at&lt;/b>"
+"&lt;small>daca dispozitivul este root-at&lt;/small></item>
+        <item>&lt;b>Boost&lt;/b>"
+"&lt;small>Cea mai buna performanta si compatibilitate (este necesar Xposed)&lt;/small></item>
+    </string-array>
+</resources>

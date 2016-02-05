@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="prefs_labs_working_mode_options">
+        <item>&lt;b>Non-Root&lt;/b>"
+"&lt;small>"Si votre appareil n'est pas rooter"&lt;/small></item>
+        <item>&lt;b>Root&lt;/b>"
+"&lt;small>Si votre appareil est rooter&lt;/small></item>
+        <item>&lt;b>Boost&lt;/b>"
+"&lt;small>De meilleures performances et compatibilité (Xposed requis)&lt;/small></item>
+    </string-array>
+</resources>

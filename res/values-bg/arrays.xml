@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="prefs_labs_working_mode_options">
+        <item>&lt;b>Без root&lt;/b>"
+"&lt;small>Ако вашето устройство няма root&lt;/small></item>
+        <item>&lt;b>Root&lt;/b>"
+"&lt;small>Ако вашето устройство има root&lt;/small></item>
+        <item>&lt;b>Ускорен&lt;/b>"
+"&lt;small>Най-добра производителност и съвместимост (изисква Xposed)&lt;/small></item>
+    </string-array>
+</resources>

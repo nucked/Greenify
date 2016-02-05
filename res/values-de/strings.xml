@@ -1,0 +1,345 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_home_description">Zur Startseite</string>
+    <string name="abc_action_bar_home_description_format">%1$s: %2$s</string>
+    <string name="abc_action_bar_home_subtitle_description_format">%1$s, %2$s: %3$s</string>
+    <string name="abc_action_bar_up_description">Nach oben</string>
+    <string name="abc_action_menu_overflow_description">Weitere Optionen</string>
+    <string name="abc_action_mode_done">Fertig</string>
+    <string name="abc_activity_chooser_view_see_all">Alle ansehen</string>
+    <string name="abc_activitychooserview_choose_application">App auswählen</string>
+    <string name="abc_capital_off">Aus</string>
+    <string name="abc_capital_on">An</string>
+    <string name="abc_search_hint">Suchen…</string>
+    <string name="abc_searchview_description_clear">Suchanfrage löschen</string>
+    <string name="abc_searchview_description_query">Suchanfrage</string>
+    <string name="abc_searchview_description_search">Suchen</string>
+    <string name="abc_searchview_description_submit">Suchanfrage senden</string>
+    <string name="abc_searchview_description_voice">Sprachsuche</string>
+    <string name="abc_shareactionprovider_share_with">Freigeben für</string>
+    <string name="abc_shareactionprovider_share_with_application">Freigeben für %s</string>
+    <string name="abc_toolbar_collapse_description">Minimieren</string>
+    <string name="common_google_play_services_api_unavailable_text">%1$s erfordert einen oder mehrere Google Play-Dienste, der bzw. die derzeit nicht verfügbar sind. Bitte wenden Sie sich an den Entwickler, um Unterstützung zu erhalten.</string>
+    <string name="common_google_play_services_enable_button">Google Play-Dienste aktivieren</string>
+    <string name="common_google_play_services_enable_text">%1$s funktioniert erst nach der Aktivierung der Google Play-Dienste.</string>
+    <string name="common_google_play_services_enable_title">Google Play-Dienste aktivieren</string>
+    <string name="common_google_play_services_install_button">Google Play-Dienste installieren</string>
+    <string name="common_google_play_services_install_text_phone">Zur Nutzung von %1$s sind Google Play-Dienste erforderlich, die auf Ihrem Smartphone nicht installiert sind.</string>
+    <string name="common_google_play_services_install_text_tablet">Zur Nutzung von %1$s sind Google Play-Dienste erforderlich, die auf Ihrem Tablet nicht installiert sind.</string>
+    <string name="common_google_play_services_install_title">Google Play-Dienste installieren</string>
+    <string name="common_google_play_services_invalid_account_text">Das angegebene Konto ist auf diesem Gerät nicht vorhanden. Bitte wählen Sie ein anderes Konto aus.</string>
+    <string name="common_google_play_services_invalid_account_title">Konto ungültig</string>
+    <string name="common_google_play_services_network_error_text">Um eine Verbindung zu den Google Play-Diensten herzustellen, ist eine Datenverbindung erforderlich.</string>
+    <string name="common_google_play_services_network_error_title">Netzwerkfehler</string>
+    <string name="common_google_play_services_notification_ticker">Fehler beim Zugriff auf Google Play-Dienste</string>
+    <string name="common_google_play_services_restricted_profile_text">Der Zugriff auf Konten von eingeschränkten Profilen wird nicht unterstützt.</string>
+    <string name="common_google_play_services_restricted_profile_title">Eingeschränktes Profil</string>
+    <string name="common_google_play_services_sign_in_failed_text">Fehler beim Anmelden im angegebenen Konto. Bitte wählen Sie ein anderes Konto aus.</string>
+    <string name="common_google_play_services_sign_in_failed_title">Anmeldung fehlgeschlagen</string>
+    <string name="common_google_play_services_unknown_issue">%1$s hat Probleme mit Google Play-Diensten. Wenn das Problem weiterhin besteht, kontaktieren Sie bitte den Entwickler.</string>
+    <string name="common_google_play_services_unsupported_text">Zur Nutzung von %1$s sind Google Play-Dienste erforderlich. Diese werden auf Ihrem Gerät jedoch nicht unterstützt. Wenden Sie sich für weitere Informationen an den Hersteller.</string>
+    <string name="common_google_play_services_unsupported_title">Google Play-Dienste</string>
+    <string name="common_google_play_services_update_button">Aktualisieren</string>
+    <string name="common_google_play_services_update_text">Zur Nutzung von %1$s ist eine Aktualisierung von Google Play-Diensten erforderlich.</string>
+    <string name="common_google_play_services_update_title">Google Play-Dienste aktualisieren</string>
+    <string name="common_google_play_services_updating_text">Zur Nutzung von %1$s sind Google Play-Dienste erforderlich, die gerade aktualisiert werden.</string>
+    <string name="common_google_play_services_updating_title">Google Play-Dienste werden aktualisiert</string>
+    <string name="common_google_play_services_wear_update_text">Eine neue Version der Google Play-Dienste wird benötigt. Diese wird in Kürze automatisch aktualisiert.</string>
+    <string name="common_open_on_phone">Auf Smartphone öffnen</string>
+    <string name="common_signin_button_text">Anmelden</string>
+    <string name="common_signin_button_text_long">Über Google anmelden</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="about_donation_summary">Holen Sie sich die Spenderversion für weitere Funktionen</string>
+    <string name="about_donation_summary_donated">Die zusätzlichen experimentellen Features können im Hauptmenü aktiviert werden.</string>
+    <string name="about_donation_title">Spenden</string>
+    <string name="about_donation_title_donated">Vielen Dank für deine Spende</string>
+    <string name="about_licenses_title">Lizenzen</string>
+    <string name="about_raise_your_voice_program_detail">"Greenify wird die Stimmen der Community nutzen, um von den Entwicklern Ihrer greenified Apps beachtet zu werden, damit das Geräte-Erlebnis in der App-Entwicklung stärker berücksichtigt wird.
+
+Um Ihrer Stimme Gehör zu verschaffen, sammelt Greenify anonyme Daten, welche keine privaten Informationen enthalten. Dies können Sie jederzeit deaktivieren."</string>
+    <string name="about_raise_your_voice_program_summary">Deine Stimme kann etwas bewirken!</string>
+    <string name="about_raise_your_voice_program_title">\"Erhebe deine Stimme!\" - Programm</string>
+    <string name="about_translation_credit">"Andreas Schnäpp
+Sebastian Müller
+S13gfried"</string>
+    <string name="about_translation_title">Übersetzung</string>
+    <string name="about_uninstall">Deinstallieren</string>
+    <string name="about_version_summary">Bewerten</string>
+    <string name="about_version_title">Version</string>
+    <string name="accessibility_service_description">"Diese Bedienungshilfe ist erforderlich für ein paar spezielle Features in Greenify.
+
+Du wirst über ein potenzielles Risiko deiner Privatsphäre gewarnt. Dies ist eine systembedingte, informative Warnung vor dem Einrichten einer Bedienungshilfe. Wir versprechen, dass wir NIEMALS deine persönlichen Informationen sammeln.
+
+Manche Samsung-Geräte haben Probleme mit der Spracheingabe, wenn eine Bedienungshilfe aktiviert ist. Wenn dir ein solches Problem widerfährt, dann aktiviere die Problemumgehung in den \"Einstellungen\" hier."</string>
+    <string name="analysis_detail_alarm_with_wakeup">%1$d mal ausgeführt (incl. %2$d wakeups)</string>
+    <string name="app_analyzer_name">Anwendungsanalyse</string>
+    <string name="app_analyzer_subtitle">%1$d Anwendung(en) ausgewählt</string>
+    <string name="app_shortcut_hibernate">In den Ruhezustand versetzen</string>
+    <string name="app_shortcut_hibernate_lock">Ruhezustand + Bildschirmsperre</string>
+    <string name="app_shortcut_nothing">Nichts</string>
+    <string name="app_shortcut_wakeup">Aufwecken</string>
+    <string name="app_state_always_ignored">Status für den Ruhezustand immer ignorieren</string>
+    <string name="app_state_hibernation_failed">In den Ruhezustand versetzen vor %1$s fehlgeschlagen</string>
+    <string name="app_state_provider_in_use">Provider wird verwendet von %1$s</string>
+    <string name="app_state_service_in_use">Service wird verwendet von %1$s</string>
+    <string name="app_state_unsaveable">Zustand nicht wiederherstellbar</string>
+    <string name="app_state_woken_by_activity">Vor %1$s UI geöffnet</string>
+    <string name="app_state_woken_by_app">Vor %1$s geweckt von %2$s</string>
+    <string name="app_state_woken_by_authenticator">Vor %1$s authentifiziert</string>
+    <string name="app_state_woken_by_backup">Backup vor %1$s durchgeführt</string>
+    <string name="app_state_woken_by_broadcast">Vor %1$s explizit benachrichtigt</string>
+    <string name="app_state_woken_by_content_provider">Vor %1$s Inhalt bereitgestellt</string>
+    <string name="app_state_woken_by_push_msg">Vor %1$s Push-Benachrichtigung erhalten</string>
+    <string name="app_state_woken_by_search">Vor %1$s Inhalt gesucht</string>
+    <string name="app_state_woken_by_service">Vor %1$s Service gestartet</string>
+    <string name="app_state_woken_by_sync">Vor %1$s synchronisiert</string>
+    <string name="app_state_woken_by_widget">Vor %1$s Widget aktualisiert</string>
+    <string name="app_state_woken_directly">Vor %1$s geweckt von %2$s</string>
+    <string name="app_title_service_disabled">Greenify (Kein automatischer Ruhezustand)</string>
+    <string name="app_waker_google">Google Dienste</string>
+    <string name="app_waker_system">Android System</string>
+    <string name="app_waker_unknown">Unbekannte Quelle</string>
+    <string name="device_admin_for_automation">Greenify Automator</string>
+    <string name="device_admin_for_automation_description">Greenify erlauben den Bildschirm sofort auszustellen, nachdem der automatische Ruhezustand eingetreten ist.</string>
+    <string name="device_admin_warning_when_disabling">Ist diese Funktion deaktiviert, wird Greenify nicht in der Lage sein, Apps automatisch in den Ruhezustand zu versetzen, solange der Bildschirm ausgeschaltet ist.</string>
+    <string name="dialog_app_picker_guide_button">Gehe zum Homescreen</string>
+    <string name="dialog_app_picker_guide_message">Sie werden nun zum Launcher zurückgebracht. Öffnen Sie die Anwendung und klicken danach die Auswahl-Benachrichtigung an, um die Anwendung auszuwählen.</string>
+    <string name="dialog_app_picker_guide_title">Wie man Anwendungen auswählt</string>
+    <string name="dialog_button_cancel">Abbrechen</string>
+    <string name="dialog_button_continue">Fortfahren</string>
+    <string name="dialog_button_insist">Trotzdem fortfahren</string>
+    <string name="dialog_button_later_by_oneself">"Mach' ich später"</string>
+    <string name="dialog_button_learn_more">Mehr erfahren</string>
+    <string name="dialog_button_opt_in">Mitmachen</string>
+    <string name="dialog_button_opt_out">Nicht mitmachen</string>
+    <string name="dialog_confirmation_unsafe_to_hibernate">Bei Apps in diesem Zustand ist es meistens unsicher, sie in den Ruhezustand zu versetzen. Den Ruhezustand zu erzwingen könnte ihre Funktion unterbrechen oder sogar zu Datenverlust führen.</string>
+    <string name="dialog_cutoff_message">"Das Abschneiden des Wake-Up-Pfads kann die Funktion dieser Anwendung oder von abhängigen Anwendungen beeinträchtigen.
+
+Bei unerwünschtem Verhalten, bitte die Trennung wieder rückgängig machen.
+
+Betroffen: [%s]"</string>
+    <string name="dialog_cutoff_title">Warnung</string>
+    <string name="dialog_degreenified_message">Auch wenn die App nicht mehr greenified ist, wird sie im Ruhezustand bleiben (alle Hintergrundfunktionen werden nicht funktionieren) bis du sie manuell startest.</string>
+    <string name="dialog_degreenified_title">Achtung</string>
+    <string name="dialog_donation_corrupted_message">Das Donation-Paket ist fehlerhaft. Neuinstallation via Google Play?</string>
+    <string name="dialog_greenify_confirmation_message">Wollen Sie wirklich %1$s greenifyen</string>
+    <string name="dialog_greenifying_system_apps">Das greenifyen von Systemapps ist derzeit ein experimentelles Feature und nur im Rahmen der Spenderversion verfügbar.</string>
+    <string name="dialog_incompatible_rom_title">Inkompatible ROM</string>
+    <string name="dialog_ingreenfiable_message_for_system_app">Sorry, das greenifien von Systemapps ist nicht immer sicher.</string>
+    <string name="dialog_ingreenfiable_title">\"%1$s\" kann nicht greenified werden</string>
+    <string name="dialog_labs_incompatible_rom_message">Aktivierung des Features fehlgeschlagen. Es ist möglicherweise nicht kompatibel mit deiner Rom.</string>
+    <string name="dialog_labs_operation_failure_message">Operation fehlgeschlagen.</string>
+    <string name="dialog_labs_state_set_failure_message">Feature konnte nicht aktiviert werden!</string>
+    <string name="dialog_message_donation_package_exclusive">"Dieses Feature ist momentan nur in der Spendenversion verfügbar.
+
+Kaufe das Spendenpaket, um alle Experimentellen Features freizuschalten"</string>
+    <string name="dialog_option_always_ignore_state">Den Zustand dieser App immer ignorieren</string>
+    <string name="dialog_root_operation_failure_message">Operation konnte nicht durchgeführt werden. Bitte stellen Sie sicher, das Rootrechte gewährt wurden.</string>
+    <string name="dialog_thank4donation_message">"Danke für deine Spende, um die Entwicklung zu unterstützen.
+
+Nun kannst du über das Hauptmenü die zusätzlichen experimentellen Features aktivieren."</string>
+    <string name="dialog_thank4donation_title">Danke</string>
+    <string name="dialog_title_confirmation">Bestätigung</string>
+    <string name="dialog_title_error">Fehler</string>
+    <string name="dialog_verification_error_message">Die Spende konnte nicht verifiziert werden. Bitte überprüfe deine Netzwerkverbindung und probier es später erneut.</string>
+    <string name="dialog_verification_fatal_error">Die Spende konnte nicht verifiziert werden, bitte melden Sie diesen Fehler.</string>
+    <string name="dialog_version_mismatch_message">Bitte update auf die neuste Version.</string>
+    <string name="dialog_version_mismatch_title">Version stimmt nicht</string>
+    <string name="dialog_warning_for_greenifying_launcher">Sie versuchen die Anwendung des Standard-Launchers zu greenifien. Es wird nicht empfohlen häufig verwendete Anwendungen einzufrieren.</string>
+    <string name="dialog_warning_title">Warnung</string>
+    <string name="dialog_xposed_module_inactive_message">Das Xposed Modul von Greenify ist bisher nicht aktiviert. Du musst diese im Xposed Installer aktivieren um die Features zu nutzen.</string>
+    <string name="event_capture_video">Video wird aufgenommen</string>
+    <string name="event_connectivity_changes">Netzwerk Konnektivität verändert sich</string>
+    <string name="event_media_connect">Wechseldatenträger wurde erkannt</string>
+    <string name="event_media_eject">Wechseldatenträger wurde entfernt</string>
+    <string name="event_media_scan">Speicher wird überprüft</string>
+    <string name="event_postfix_volatile">(kann mit Zustand variieren)</string>
+    <string name="event_power_connected">Netzteil verbunden</string>
+    <string name="event_power_disconnected">Netzteil getrennt</string>
+    <string name="event_take_photo">Foto wird aufgenommen</string>
+    <string name="event_unlock_keyguard">Tastensperre wird deaktiviert</string>
+    <string name="event_update_apps">App wird aktualisiert</string>
+    <string name="guide_btn_activate_module">Module aktivieren &amp; Neustart</string>
+    <string name="guide_btn_install_xposed_installer">Xposed Installer Installieren</string>
+    <string name="guide_btn_setup_xposed_framework">Xposed-Framework einrichten</string>
+    <string name="guide_link_why_xposed">Warum Sie das Xposed-Framework benötigen?</string>
+    <string name="guide_sub_title">Umfangreiches Modding Framework</string>
+    <string name="guide_title">Experimentelle Features</string>
+    <string name="menu_about">Über Greenify</string>
+    <string name="menu_action_accept">Annehmen</string>
+    <string name="menu_action_cutoff">Wake-Up-Pfad abschneiden</string>
+    <string name="menu_action_cutoff_condensed">Abschneiden</string>
+    <string name="menu_action_greenify">Greenify Assistent</string>
+    <string name="menu_action_greenify_condensed">Greenify...</string>
+    <string name="menu_action_hibernate">Jetzt in den Ruhezustand versetzen</string>
+    <string name="menu_action_hibernate_condensed">In den Ruhezustand versetzen</string>
+    <string name="menu_action_hide">Verstecken</string>
+    <string name="menu_action_pick">Anwendung zum Greenifien auswählen</string>
+    <string name="menu_action_pick_condensed">Anwendung auswählen</string>
+    <string name="menu_action_reattach">Wake-Up-Pfade wieder anbinden</string>
+    <string name="menu_action_reattach_condensed">Wieder anbinden</string>
+    <string name="menu_action_reconsider_state">Zustand zurücksetzen</string>
+    <string name="menu_action_refresh">Aktualisieren</string>
+    <string name="menu_action_run">Ausführen</string>
+    <string name="menu_action_ungreenify">Ausgewählte Anwendung degreenifien</string>
+    <string name="menu_action_ungreenify_condensed">Entgreenifien</string>
+    <string name="menu_action_unhide_all">Zeig mir alle</string>
+    <string name="menu_create_shortcut">Erstelle Ruhezustand Schnellzugriff</string>
+    <string name="menu_disable_service">Automatischen Ruhezustand deaktivieren</string>
+    <string name="menu_enable_service">Automatischen Ruhezustand aktivieren</string>
+    <string name="menu_reset_gesture">Pull-up Bewegung zurücksetzen</string>
+    <string name="no_app_picked">Keine Anwendung ausgewählt</string>
+    <string name="notification_app_picker_text">App starten und danach hier klicken zum Greenifien.</string>
+    <string name="notification_app_picker_ticker">"Starten Sie zuerst Ihre Anwendung.
+Klicken Sie danach diese Benachrichtigung zur Anwendungsauswahl an."</string>
+    <string name="notification_app_picker_title">Anwendungsauswahl für Greenify</string>
+    <string name="notification_listener_title">Benachrichtigungen behalten</string>
+    <string name="notification_text_workaround_talking">Aktiviere diese Funktion, wenn sich die Sprachausgabe ungewollt einschaltet.</string>
+    <string name="notification_timer_coalesced_subtext">Automatisch von Greenify optimiert</string>
+    <string name="notification_timer_coalesced_title">Periodischer Timer zusammengeführt</string>
+    <string name="notification_title_workaround_talking">Fix für Sprach-Bug</string>
+    <string name="placeholder_show_all">Weitere Anwendungen anzeigen</string>
+    <string name="prefs_cat_donation_only_features">Erfordert Spendenpaket</string>
+    <string name="prefs_cat_experimental_features">Experimentelle Features</string>
+    <string name="prefs_cat_xposed_donation_features">Erfordert Xposed &amp;amp; Spendenpaket</string>
+    <string name="prefs_cat_xposed_only_features">Erfordert Xposed Framework</string>
+    <string name="prefs_labs_automated_hibernation_title">Automatischer Ruhezustand (4.1+)</string>
+    <string name="prefs_labs_block_notification_abuse_summary">Einige Anwendungen nutzen eine Sicherheitslücke in Android (vor 4.3) um zu hohe Priorität zu erlangen und sich somit in Momenten mit belegten Speicher dort festzuhalten. Diese Anwendungen werden fälschlicherweise von Greenify als \"Wahrnehmbar\" eingestuft und können nicht in den Ruhezustand versetzt werden.</string>
+    <string name="prefs_labs_block_notification_abuse_title">Blockiere Meldung über geblockte Apps</string>
+    <string name="prefs_labs_boost_mode_summary">Bessere Performance und Kompatibilität, besonders wenn Störungen im Ruhezustand und bei ROOT-Problemen auftreten.</string>
+    <string name="prefs_labs_boost_mode_title">Boost Modus</string>
+    <string name="prefs_labs_gcm_push_summary">"Erlaubt GCM-Push-Nachichten um die sich in Ruhe befindene App aufzuwecken, außer die Benachrichtigung ist im System deaktiviert (Einstellungen - Apps).
+Bitte aktivien Sie \"Benachichtigung behalten\" um zu verhindern das Benachrichtigungen, nach erneuten Ruhezustand, verloren gehen."</string>
+    <string name="prefs_labs_gcm_push_title">GCM Push für greenified Apps</string>
+    <string name="prefs_labs_reveal_hidden_sync_title">Enthülle versteckte Synchronisation</string>
+    <string name="prefs_labs_root_mode_summary_boost">Betreiben im \"Boost\"-Modus (siehe unten) ist der empfohlene Modus.</string>
+    <string name="prefs_labs_system_apps_limited_title">System-Apps greenifien (eingeschränkt)</string>
+    <string name="prefs_labs_system_apps_summary">Entzieht System-Apps die Immunität vor dem Ruhezustand. Dadurch werden die meisten System-Apps greenifybar.</string>
+    <string name="prefs_labs_system_apps_title">Greenifiying Systemapps</string>
+    <string name="prefs_labs_telephony_wakeup_summary">Erlaubt Telefon-Ereignisse (wie Anruf, SMS) um sich in Ruhe befindene Apps aufzuwecken. Somit funktionieren greenified Anruf- oder SMS-fähige Apps wie erwartet.</string>
+    <string name="prefs_labs_telephony_wakeup_title">Telefonie Wakeup</string>
+    <string name="prefs_labs_timer_coalescing_summary">Aktiviere Periodisches Timer Coalescing (Batching) für alle Apps (nicht nur für Apps die für KitKat entwickelt wurden). Nur verfügbar unter Android 4.4+.</string>
+    <string name="prefs_labs_timer_coalescing_title">Timer vereinigen (4.4+)</string>
+    <string name="prefs_labs_wakeup_tracker_summary">Verfolgen Sie welches App die Greenifieden Apps aufweckt und entscheiden Sie ob Sie zukünftige Wake-Ups verhindern wollen.</string>
+    <string name="prefs_labs_wakeup_tracker_title">Tracker &amp;amp; Cutoff aufwecken</string>
+    <string name="prefs_labs_working_mode_title">Betriebsmodus</string>
+    <string name="progress_be_hibernating">In den Ruhezustand versetzen...</string>
+    <string name="section_alarm">Geplanter Start (seit letztem Systemstart)</string>
+    <string name="section_alarm_tips">"Diese Apps haben selbstständig ihre nächste Ausführung ohne Benutzeraktivität veranlasst und können dementsprechend unbemerkt das Gerät verlangsamen und so den Akku belasten.
+
+Vorsicht vor Apps, die das Gerät regelmäßig aufwecken."</string>
+    <string name="section_all_apps">Mehr</string>
+    <string name="section_hibernated">Im Ruhezustand</string>
+    <string name="section_pending">Bevorstehend</string>
+    <string name="section_pending_auto">Wird einige Minuten nach Abschalten des Displays in den Ruhezustand versetzt</string>
+    <string name="section_pending_tip_nonroot">Diese Apps wurden aufgeweckt und werden nun aktiv. Du musst sie manuell wieder in den Ruhezustand versetzen.</string>
+    <string name="section_postponed">Nicht automatisch in den Ruhezustand versetzt</string>
+    <string name="section_postponed_tip">Greenify wird diese Anwendungen aufgrund der angegebenen Gründe nicht automatisch in den Ruhezustand versetzen, sofern sich deren Zustand später nicht ändern sollte.</string>
+    <string name="section_receiver">Können das Gerät verlangsamen, wenn…</string>
+    <string name="section_receiver_tip">"Diese Anwendungen können das Gerät bei bestimmten Ereignissen merklich verlangsamen.
+
+Je mehr Anwendungen hier aufgeführt sind, desto langsamer reagiert das Gerät möglicherweise bei weiteren Ereignissen."</string>
+    <string name="section_service">Läuft im Hintergrund</string>
+    <string name="section_service_tip">"Anwendungen im Hintergrund benötigten eine gewisse Menge an Arbeitsspeicher und können das Gerät merklich verlangsamen.
+
+Halten Sie diese Liste so kurz wie möglich."</string>
+    <string name="service_cleaner">Automatischer Ruhezustand</string>
+    <string name="showcase_accessibility_setting">Automatisierung aktivieren</string>
+    <string name="showcase_manual_hibernation_automation">Dieser manuelle Prozess kann durch einen Erreichbarkeitsdienst von Greenify automatisiert werden.</string>
+    <string name="showcase_manual_hibernation_desc">Aufgrund der Beschränkung im Android System funktioniert der automatische Ruhezustand nicht ohne Root. Bitte klicke den \"Beenden erzwingen\" Knopf, um die App in den Ruhezustand zu versetzen.</string>
+    <string name="showcase_manual_hibernation_title">Manueller Ruhezustand</string>
+    <string name="toast_accessibility_setting">Aktiviere oder deaktiviere den Eingabehilfe-Service von Greenify hier</string>
+    <string name="toast_action_undo">Rückgängig</string>
+    <string name="toast_already_greenified">\"%1$s\" ist schon greenified.</string>
+    <string name="toast_app_no_launcher_entry">Diese App wurde nicht im Launcher gefunden.</string>
+    <string name="toast_apps_hibernated">%1$s in den Ruhezustand versetzt.</string>
+    <string name="toast_apps_hidden">App versteckt</string>
+    <string name="toast_auto_hibernation_failure_tip">"Bitte stelle sicher, dass Greenify Root-Rechte gewährt werden (einige Root-Management-Tools fordern explizit nach jedem App-Update eine Neubewilligung).
+
+Wenn weitere Störungen im Ruhezustand auftreten, versuche ein anderes Root-Management-Tool oder aktiviere den \"Boost Modus\" in den experimentellen Features."</string>
+    <string name="toast_cannot_switch_to_launcher">Kann nicht zum Homescreen wechseln, bitte drücken Sie manuell die Home Taste.</string>
+    <string name="toast_failed_to_greenify">Greenifien fehlgeschlagen \"%1$s\".</string>
+    <string name="toast_gcm_tip">"GCM (Google Cloud Messaging) ist Bestandteil dieser App und kann für Push-Benachrichtigungen verwendet werden. Es wird nach dem Greenifien nicht mehr funktionieren.
+
+Ein experimentelles Feature im Spendenpaket ermöglicht GCM-Push für greenified Apps."</string>
+    <string name="toast_gesture_reset">Das Standardverhalten vom Pull-up des Home-Knopfes wurde zurückgesetzt</string>
+    <string name="toast_hibernation_failure">\"%1$s\" in den Ruhezustand versetzen fehlgeschlagen.</string>
+    <string name="toast_need_reboot">Nicht verfügbar bis zum nächsten Neustart</string>
+    <string name="toast_none_hibernated">Es musste keine Anwendungen in den Ruhezustand versetzt werden.</string>
+    <string name="toast_opted_in">Vielen Dank für Ihre Teilnahme!</string>
+    <string name="toast_opted_out">Sie haben Feedback deaktiviert. Es werden keine anonymen Statistiken mehr gesammelt.</string>
+    <string name="toast_service_disabled">"Automatischer Ruhezustand wurde deaktiviert.
+Greenified Apps werden nicht mehr automatisch in den Ruhezustand versetzt."</string>
+    <string name="toast_service_enabled">Automatischer Ruhezustand wurde aktiviert.</string>
+    <string name="toast_shortcut_created">Ein Schnellzugriff für Ein-Klick-Ruhezustand wurde in Ihrem Launcher erstellt.</string>
+    <string name="toast_tasker_wakeup_unavail_in_nonroot">Sorry, für diese Funktion wird eine Root-Berechtigung benötigt.</string>
+    <string name="wizard_step_enjoy">Genießen</string>
+    <string name="wizard_step_enjoy_desc">Flüssige Performance wie am ersten Tag.</string>
+    <string name="wizard_step_forget">Vergessen</string>
+    <string name="wizard_step_forget_desc">Greenify kümmert sich unbemerkt um den Rest.</string>
+    <string name="wizard_step_greenify">Greenify</string>
+    <string name="wizard_step_greenify_desc">Akku belastende, speicherhungrige und heimlich ausgeführte Anwendungen in den Ruhezustand versetzen.</string>
+    <string name="app_state_wakeup_paths_cutoff">Aufwach-Pfade abgeschnitten</string>
+    <string name="app_waker_root">root</string>
+    <string name="app_waker_shell">shell</string>
+    <string name="dialog_full_cutoff_message">"Das Abschneiden des Aufwach-Pfads kann die Funktion dieser Anwendung oder von abhängigen Anwendungen beeinträchtigen.
+
+Bei unerwünschtem Verhalten, bitte die Trennung wieder rückgängig machen."</string>
+    <string name="event_wifi_scan">WLAN wird gescannt</string>
+    <string name="prefs_labs_automated_hibernation_summary">Diese Funktion bewirkt den Automatischen Ruhezustand im eingeschränkten Modus (fehlende Root-Berechtigung). Dabei wird der Bildschirm angeschaltet, die Apps in den Ruhezustand befördert, und daraufhin der Bildschirm ausgeschaltet. (Erfordert Android 4.1, Greenify Eingabehilfe Servvice, Greenify Admin Berechtigung sowie ausgeschaltete Tastensperre)</string>
+    <string name="prefs_labs_deep_hibernation_title">tiefer Ruhezustand (alpha)</string>
+    <string name="prefs_labs_no_remove_notifications_limited_summary">Entfernt die Benachrichtungen nicht, wenn Apps in den Ruhezustand gehen (nur bei ausgeschaltetem Bildschirm). Sie können die Benachrichtigungen später lesen. Das Statusbar Symbol der originalen Benachrichtigung kann wegen eingeschränkter Berechtigungen nicht erhalten werden. Die Xposed-basierte Version dieser Funktion hat diese Einschränkung nicht.</string>
+    <string name="prefs_labs_no_remove_notifications_limited_title">Benachrichtigungen nicht entfernen (eingeschränkt)</string>
+    <string name="prefs_labs_no_remove_notifications_summary">Entfernt die Benachrichtungen nicht, wenn Apps in den Ruhezustand gehen. Sie können die Benachrichtigungen später lesen.</string>
+    <string name="prefs_labs_no_remove_notifications_title">Benachrichtigungen nicht entfernen</string>
+    <string name="prefs_labs_reveal_hidden_sync_summary">Enthülle versteckte Konten Synchronisation in \"Einstellungen - Konten\", vorangestellt mit \"*\".</string>
+    <string name="prefs_labs_root_mode_summary_off">Arbeitet im eingeschränkten Modus (ohne Root)</string>
+    <string name="prefs_labs_root_mode_summary_on">Arbeitet im Rootmodus</string>
+    <string name="prefs_labs_system_apps_limited_summary">Ermöglicht das Greenifyen von Systemapps, indem es diesen die Immunität vor dem Ruhezustand entzieht. Aufgrund von technischen Restriktionen können Systemapps leichter wieder aufwachen, als normale Apps. Einige Systemapps können allerdings nur mit dem Xposed-Modul dieser Funktion, welche weiter unten zu finden ist, vollständig und dauerhaft in den Ruhezustand versetzt werden.</string>
+    <string name="service_wakeup_monitor">Aufweck-Monitor</string>
+    <string name="toast_app_ingreenifiable">Sorry, \"%1$s\" kann nicht greenified werden</string>
+    <string name="toast_apps_not_hibernating">Nicht im Hibernatezustand: %1$s</string>
+    <string name="toast_auto_hibernation_oos">Der Automatische Ruhezustand wurde von einem 3rd-party Tool oder Einstellungen des Systems (z.b Stamina Modus für Sony Geräte, AutoStart Manager bei MIUI Roms) blockiert. Bitte setze Greenify in diesen Apps auf die Whitelist, um den Automatischen Ruhezustand zu reaktivieren.</string>
+    <string name="toast_auto_hibernation_restarting">Der Automatische Ruhezustand wird neu gestartet... (Grund hierfür ist wahrscheinlich zu wenig verfügbarer RAM-Speicher)</string>
+    <string name="toast_no_auto_hibernation_for_secure_keyguard">Sorry, der Automatische Ruhezustand kann nur funktionieren, wenn die Tastensperre nicht oder zumindest nicht mit zusätzlicher Sicherheit (Passwort, evtl. Muster) eingestellt ist. Alternativ kann aber die Verknüpfung \"Ruhezustand + Bildschirmsperre\" auf dem Homescreen erstellt werden.</string>
+    <string name="toast_no_auto_hibernation_for_secure_keyguard_with_navbar">Sorry, der Automatische Ruhezustand kann nur funktionieren, wenn die Tastensperre nicht oder zumindest nicht mit zusätzlicher Sicherheit (Passwort, evtl. Muster) eingestellt ist. Alternativ kann aber die Verknüpfung \"Ruhezustand + Bildschirmsperre\" auf dem Homescreen erstellt werden.</string>
+    <string name="app_state_critical">kritisch</string>
+    <string name="app_state_working">arbeite</string>
+    <string name="dialog_button_activate">aktivieren</string>
+    <string name="dialog_google_sign_in">Melden Sie sich mit Ihrem Google-Konto an um das Spenden-Paket zu aktivieren.</string>
+    <string name="dialog_non_root_auto_hibernation_incompatible_rom_message">Entschuldigung, der automatische Ruhezustand im nicht gerooteten Modus wird von Ihrem Gerät (oder ROM) noch nicht unterstützt.</string>
+    <string name="dialog_verifying_donation_package">Verifiziere Ihr Spendenpaket...</string>
+    <string name="service_accessibility">Greenify - automatisierter Ruhezustand</string>
+    <string name="service_accessibility_description">Den App Ruhezustand automatisieren (auf nicht gerooteten Geräten). Abwählen dieser Option wird den automatischen Ruhezustand deaktivieren.</string>
+    <string name="state_disabled">deaktiviert</string>
+    <string name="state_enabled">aktiviert</string>
+    <string name="toast_action_setting">Einstellung</string>
+    <string name="toast_draw_on_top_revoked">Die Berechtigung \"Über anderen Apps ausführen\" wurde nicht erteilt. Bitte erteilen Sie Greenify diese Berechtigung in den AppOps oder den Berechtigungseinstellungen Ihres Geräts.</string>
+    <string name="toast_usage_stats_permission">Um zu verhindern, dass Apps im Vordergrund in den Ruhezustand geschickt werden, ist eine Genehmigung erforderlich.</string>
+    <string name="menu_settings">Einstellungen</string>
+    <string name="prefs_cat_about">Über</string>
+    <string name="prefs_labs_automated_hibernation_summary_incompatible">Entschuldigung, dies ist it diesem ROM noch nicht kompatibel.</string>
+    <string name="prefs_labs_doze_title">Aggressives Dösen (experimentell)</string>
+    <string name="prefs_labs_navbar_gesture_title">Aktion für langes Drücken der Navigationsleiste</string>
+    <string name="prefs_learn_more">Mehr erfahren (online)</string>
+    <string name="prefs_shallow_hibernation_description">"Seichter Ruhezustand ist eine völlig neue Ruhezustandsmechanismus der ausschließlich für Android 6.0+ entwickelt wurde. Er bietet eine bessere Kompatibilität und Leistungsfähigkeit.
+
+Apps werden im seichten Ruhezustand nicht mehr komplett beendet und der Interaktionskontext für flotteren Task-Wechsel erhalten, während alle Hintergrundaktivitäten während des Ruhezustands streng verboten sind.
+
+Anwendungen im seichten Ruhezustand werden in regelmäßigen Abständen für eine kurze Zeit und unmittelbar bei GCM Push Benachrichtigungen hoher Priorität (nur wenn GCM Priorität durch den App-Entwickler implementiert wurde) geweckt. Sie werden auch während des Ladevorgangs wach gehalten.
+
+Wenn aktiviert, ersetzt der flache Ruhezustand ersetzt den klassischen Mechanismus innerhalb von Greenify.
+
+Diese Funktion ist nicht für Geräte mit wenig Hauptspeicher empfohlen."</string>
+    <string name="prefs_shallow_hibernation_title">Seichter Ruhezustand (experimentell)</string>
+    <string name="prefs_xposed_features_summary">Xposed Framework erforderlich</string>
+    <string name="prefs_xposed_features_title">Xposed-basierte Funktionen</string>
+    <string name="toast_action_guide">Anleitung</string>
+    <string name="toast_action_troubleshoot">Fehlersuche</string>
+    <string name="toast_assist_app_setting_guide">Bitte Greenify als Hilfs-App auswählen.</string>
+    <string name="toast_donation_package_not_found">Entschuldigung, das Spendenpaket konnte in Ihrem Google-Konto nicht gefunden werden.</string>
+    <string name="toast_need_accessibility_service">Der \"Eingabehilfe\" Dienst für Greenify muss aktiviert sein, um den Ruhezustand zu automatisieren zu können.</string>
+    <string name="toast_need_device_admin">Greenify muss als Geräteadministrator aktiviert sein, um den den automatischen Ruhezustand nach dem Ausschalten des Bildschirms ausführen zu können.</string>
+    <string name="toast_need_overlay">Die Berechtigung \"Über anderen Apps ausführen\" ist erforderlich um das stille versetzen in den Ruhezustand auszuführen, wenn der Bildschirm ausgeschaltet ist.</string>
+    <string name="section_pending_charging">Ruhezustand während des Ladens ignoriert</string>
+</resources>

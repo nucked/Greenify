@@ -1,0 +1,308 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="about_donation_summary">获取捐赠版额外提供的高级特性</string>
+    <string name="about_donation_summary_donated">额外的试验性特性可以从主菜单中激活</string>
+    <string name="about_donation_title">捐赠</string>
+    <string name="about_donation_title_donated">感谢捐赠</string>
+    <string name="about_licenses_title">软件协议</string>
+    <string name="about_raise_your_voice_program_detail">"绿色守护将会把社区的声音送达那些您所绿色化的应用背后的开发者，呼吁他们在应用开发中重视并审慎对待设备体验。
+
+为了汇聚您的声音，绿色守护收集少量不含隐私信息的匿名统计数据。您可以随时退出这一计划。"</string>
+    <string name="about_raise_your_voice_program_summary">凝聚更有力的声音，改变你的不爽！</string>
+    <string name="about_raise_your_voice_program_title">“发出您的声音！” 计划</string>
+    <string name="about_translation_credit">官方提供</string>
+    <string name="about_translation_title">翻译</string>
+    <string name="about_uninstall">卸载</string>
+    <string name="about_version_summary">评价此应用</string>
+    <string name="about_version_title">版本</string>
+    <string name="accessibility_service_description">"此无障碍（辅助功能）模块是绿色守护中部分特殊特性所需的。
+
+激活此模块时，你可能会收到关于隐私风险的警告，这是对任何辅助服务的例行警告。我们承诺永远不会通过辅助服务搜集你的任何个人信息。
+
+部分三星的设备中激活辅助服务会导致随机的语音朗读问题，如果你遇到了此问题，请点在此处的“设置”中暂时性规避。"</string>
+    <string name="analysis_detail_alarm_with_wakeup">%1$d 次运行（其中 %2$d 次唤醒）</string>
+    <string name="app_analyzer_name">应用排查顾问</string>
+    <string name="app_analyzer_subtitle">已选择 %1$d 个应用</string>
+    <string name="app_shortcut_hibernate">立即休眠</string>
+    <string name="app_shortcut_hibernate_lock">立即休眠并关闭屏幕</string>
+    <string name="app_shortcut_nothing">什么都不做</string>
+    <string name="app_shortcut_wakeup">唤醒</string>
+    <string name="app_state_always_ignored">休眠时无视状态</string>
+    <string name="app_state_hibernation_failed">%1$s 前休眠失败</string>
+    <string name="app_state_provider_in_use">数据正在被 %1$s 访问</string>
+    <string name="app_state_service_in_use">服务正在被 %1$s 使用</string>
+    <string name="app_state_unsaveable">状态无法保存</string>
+    <string name="app_state_woken_by_activity">%1$s 前界面被开启</string>
+    <string name="app_state_woken_by_app">%1$s 前被 %2$s 唤醒</string>
+    <string name="app_state_woken_by_authenticator">%1$s 前账号授权</string>
+    <string name="app_state_woken_by_backup">%1$s 前进行过备份</string>
+    <string name="app_state_woken_by_broadcast">%1$s 前被显式通知</string>
+    <string name="app_state_woken_by_content_provider">%1$s 前提供过内容</string>
+    <string name="app_state_woken_by_push_msg">%1$s 前收到推送</string>
+    <string name="app_state_woken_by_search">%1$s 前内容被搜索过</string>
+    <string name="app_state_woken_by_service">%1$s 前服务被启动</string>
+    <string name="app_state_woken_by_sync">%1$s 前进行过同步</string>
+    <string name="app_state_woken_by_widget">%1$s 前窗口小部件更新过</string>
+    <string name="app_state_woken_directly">%1$s 前被 %2$s 直接唤醒</string>
+    <string name="app_title_service_disabled">绿色守护（自动休眠已关闭）</string>
+    <string name="app_waker_google">Google服务</string>
+    <string name="app_waker_system">Android系统</string>
+    <string name="app_waker_unknown">未知角色</string>
+    <string name="device_admin_for_automation">绿色守护自动休眠</string>
+    <string name="device_admin_for_automation_description">允许绿色守护在待机状态完成自动休眠后立即关闭屏幕</string>
+    <string name="device_admin_warning_when_disabling">如果禁用，绿色守护将无法在屏幕关闭后（或关闭时）自动休眠。</string>
+    <string name="dialog_app_picker_guide_button">前往启动器</string>
+    <string name="dialog_app_picker_guide_message">您即将被带到启动器。请打开需要选择的应用，然后点击通知栏的向导以选择该应用。</string>
+    <string name="dialog_app_picker_guide_title">如何选择应用</string>
+    <string name="dialog_button_cancel">取消</string>
+    <string name="dialog_button_continue">继续</string>
+    <string name="dialog_button_insist">仍然坚持</string>
+    <string name="dialog_button_later_by_oneself">稍后我自己启动</string>
+    <string name="dialog_button_learn_more">详细了解</string>
+    <string name="dialog_button_opt_in">加入计划</string>
+    <string name="dialog_button_opt_out">退出计划</string>
+    <string name="dialog_confirmation_unsafe_to_hibernate">强制休眠此状态下的应用并不安全，有可能导致功能异常中断，甚至数据丢失。</string>
+    <string name="dialog_cutoff_message">"切断唤醒途径可能破坏此应用的功能或依赖它的其它应用的功能。
+
+如果出现了任何不良结果，请“接续”此应用被切断的唤醒途径。
+
+影响: [%s]"</string>
+    <string name="dialog_cutoff_title">小心</string>
+    <string name="dialog_degreenified_message">虽然应用现在已经去绿色化，但它仍然尚处在休眠状态（所有后台机制暂不工作），直到您下次主动运行它时才会被唤醒。</string>
+    <string name="dialog_degreenified_title">注意</string>
+    <string name="dialog_donation_corrupted_message">捐赠版已损坏，请从Google Play市场重新安装。</string>
+    <string name="dialog_greenify_confirmation_message">您希望绿色化 %1$s？</string>
+    <string name="dialog_greenifying_system_apps">“绿色化系统应用”目前是一个仅限捐赠版用户使用的试验性特性。</string>
+    <string name="dialog_incompatible_rom_title">ROM不兼容</string>
+    <string name="dialog_ingreenfiable_message_for_system_app">抱歉，系统级应用无法被绿色化。</string>
+    <string name="dialog_ingreenfiable_title">无法绿色化“%1$s”</string>
+    <string name="dialog_labs_incompatible_rom_message">激活特性失败。可能目前它与当前设备的ROM不兼容。</string>
+    <string name="dialog_labs_operation_failure_message">操作失败！</string>
+    <string name="dialog_labs_state_set_failure_message">设置特性状态失败！</string>
+    <string name="dialog_message_donation_package_exclusive">此特性目前仅限捐赠版使用，现在购买捐赠版可激活所有试验性特性。</string>
+    <string name="dialog_option_always_ignore_state">以后休眠时都无视此应用的状态</string>
+    <string name="dialog_root_operation_failure_message">操作失败，请确认已授予ROOT权限。</string>
+    <string name="dialog_thank4donation_message">"非常感谢你捐赠支持本应用的开发。
+
+现在你可以随时通过主菜单激活额外的试验性特性。"</string>
+    <string name="dialog_thank4donation_title">感谢</string>
+    <string name="dialog_title_confirmation">确认</string>
+    <string name="dialog_title_error">错误</string>
+    <string name="dialog_verification_error_message">暂时无法验证捐赠信息。请检查你的网络连接状况，稍后重试。</string>
+    <string name="dialog_verification_fatal_error">验证捐赠信息失败，请将此错误报告给我们。</string>
+    <string name="dialog_version_mismatch_message">请升级此应用至最新版本。</string>
+    <string name="dialog_version_mismatch_title">版本不匹配</string>
+    <string name="dialog_warning_for_greenifying_launcher">您正试图绿色化“启动器”应用。不建议绿色化使用频率较高的应用。</string>
+    <string name="dialog_warning_title">慎重</string>
+    <string name="dialog_xposed_module_inactive_message">绿色守护的Xposed模块尚未激活。你需要首先在“Xposed安装器”应用中激活后才能使用。</string>
+    <string name="event_capture_video">在拍摄视频后</string>
+    <string name="event_connectivity_changes">当网络连接改变后</string>
+    <string name="event_media_connect">当存储卡插入后</string>
+    <string name="event_media_eject">当存储卡移除后</string>
+    <string name="event_media_scan">当扫描存储介质后</string>
+    <string name="event_postfix_volatile">（可能随状态变化）</string>
+    <string name="event_power_connected">当电源断开时</string>
+    <string name="event_power_disconnected">当电源连接时</string>
+    <string name="event_take_photo">在拍摄照片后</string>
+    <string name="event_unlock_keyguard">解锁手机屏幕后</string>
+    <string name="event_update_apps">当应用更新后</string>
+    <string name="guide_btn_activate_module">启用“绿色守护”模块 并 重启</string>
+    <string name="guide_btn_install_xposed_installer">安装“Xposed安装器”</string>
+    <string name="guide_btn_setup_xposed_framework">激活 Xposed框架</string>
+    <string name="guide_link_why_xposed">为什么需要Xposed框架？</string>
+    <string name="guide_sub_title">强大的免刷ROM系统修改神器</string>
+    <string name="guide_title">安装 Xposed 框架</string>
+    <string name="menu_about">关于</string>
+    <string name="menu_action_accept">确定</string>
+    <string name="menu_action_cutoff">切断唤醒途径</string>
+    <string name="menu_action_cutoff_condensed">切断唤醒途径</string>
+    <string name="menu_action_greenify">绿色化向导</string>
+    <string name="menu_action_greenify_condensed">绿色向导</string>
+    <string name="menu_action_hibernate">置于休眠状态</string>
+    <string name="menu_action_hibernate_condensed">休眠</string>
+    <string name="menu_action_hide">隐藏</string>
+    <string name="menu_action_pick">选择一个应用绿色化</string>
+    <string name="menu_action_pick_condensed">手动选择</string>
+    <string name="menu_action_reattach">接续唤醒途径</string>
+    <string name="menu_action_reattach_condensed">接续唤醒途径</string>
+    <string name="menu_action_reconsider_state">不再忽略应用状态</string>
+    <string name="menu_action_refresh">刷新</string>
+    <string name="menu_action_run">运行</string>
+    <string name="menu_action_ungreenify">去绿色化</string>
+    <string name="menu_action_ungreenify_condensed">去绿色化</string>
+    <string name="menu_action_unhide_all">显示全部</string>
+    <string name="menu_create_shortcut">创建休眠快捷方式</string>
+    <string name="menu_disable_service">停止自动休眠</string>
+    <string name="menu_enable_service">恢复自动休眠</string>
+    <string name="menu_reset_gesture">重设上滑手势行为</string>
+    <string name="no_app_picked">没有选定应用</string>
+    <string name="notification_app_picker_text">启动想要选择的应用，然后点击这里选中它。</string>
+    <string name="notification_app_picker_ticker">"首先启动想要选择的应用。
+然后点击这条通知消息。"</string>
+    <string name="notification_app_picker_title">绿色守护 · 应用选择向导</string>
+    <string name="notification_listener_title">通知保持</string>
+    <string name="notification_text_workaround_talking">如果你遇到了随机出现的自动语音播报</string>
+    <string name="notification_timer_coalesced_subtext">绿色守护已为您自动优化</string>
+    <string name="notification_timer_coalesced_title">周期定时器已对齐</string>
+    <string name="notification_title_workaround_talking">规避随机语音播报问题</string>
+    <string name="placeholder_show_all">显示更多应用</string>
+    <string name="prefs_cat_donation_only_features">需要捐赠版</string>
+    <string name="prefs_cat_experimental_features">试验性特性</string>
+    <string name="prefs_cat_xposed_donation_features">需要 Xposed 及捐赠版</string>
+    <string name="prefs_cat_xposed_only_features">需要 Xposed</string>
+    <string name="prefs_labs_automated_hibernation_title">全自动化休眠</string>
+    <string name="prefs_labs_block_notification_abuse_summary">阻止应用滥用Android（4.3之前）的应用状态漏洞获取在低内存状况下不平等的内存驻留优先权。这些应用会被绿色守护误认为“尚可感知”而逃避被自动休眠。</string>
+    <string name="prefs_labs_block_notification_abuse_title">阻止应用状态漏洞滥用</string>
+    <string name="prefs_labs_boost_mode_summary">提高休眠操作的性能及兼容性，尤其当你遇到了休眠失败或ROOT权限问题。</string>
+    <string name="prefs_labs_boost_mode_title">高效模式</string>
+    <string name="prefs_labs_gcm_push_summary">"允许GCM推送消息唤醒已休眠的应用，除非其通知消息已在系统（设置 - 应用）中关闭。
+请务必同时开启“保留通知消息”特性，以免应用再度休眠时丢失通知消息。"</string>
+    <string name="prefs_labs_gcm_push_title">为绿色化应用开启GCM推送</string>
+    <string name="prefs_labs_reveal_hidden_sync_title">显示隐藏的同步</string>
+    <string name="prefs_labs_root_mode_summary_boost">当前工作在“高效模式”（见下面），已是最优模式。</string>
+    <string name="prefs_labs_system_apps_limited_title">绿色化系统应用</string>
+    <string name="prefs_labs_system_apps_summary">解除系统应用对休眠的免疫，让它们中的大多数可以被正常绿色化。</string>
+    <string name="prefs_labs_system_apps_title">绿色化系统应用</string>
+    <string name="prefs_labs_telephony_wakeup_summary">允许已休眠的应用响应通讯相关的事件（如电话、短信等），从而可以绿色化电话或短信类应用，而不失去相关的响应能力。</string>
+    <string name="prefs_labs_telephony_wakeup_title">让绿色化应用响应通讯事件</string>
+    <string name="prefs_labs_timer_coalescing_summary">在时间上对齐所有应用的周期性CPU唤醒（而不仅限于特别针对Android 4.4+开发的应用），以减少因分散的CPU唤醒而造成的电量浪费。仅支持Android 4.4及以上系统。</string>
+    <string name="prefs_labs_timer_coalescing_title">唤醒对齐 (Android 4.4+)</string>
+    <string name="prefs_labs_wakeup_tracker_summary">追踪哪一个应用唤醒了已休眠的绿色化应用，并可切断其唤醒途径以消除不必要的唤醒。</string>
+    <string name="prefs_labs_wakeup_tracker_title">唤醒追踪</string>
+    <string name="prefs_labs_working_mode_title">工作模式</string>
+    <string name="progress_be_hibernating">正在休眠…</string>
+    <string name="section_alarm">曾定期运行（在此次设备启动后）</string>
+    <string name="section_alarm_tips">"这些应用曾定期让它们自己悄悄运行，因此可能减缓设备的响应速度并消耗电量。
+
+留意那些频繁唤醒设备的应用。"</string>
+    <string name="section_all_apps">更多应用</string>
+    <string name="section_hibernated">已休眠</string>
+    <string name="section_pending">待手动休眠</string>
+    <string name="section_pending_auto">即将于屏幕关闭数分钟后休眠</string>
+    <string name="section_pending_tip_nonroot">这些应用曾被唤醒现已空闲，你需要手动将它们重新休眠。</string>
+    <string name="section_postponed">暂不自动休眠</string>
+    <string name="section_postponed_tip">这些应用因为所示的原因，目前不会自动休眠，除非后续其状态发生变化。</string>
+    <string name="section_receiver">可能减缓设备响应速度</string>
+    <string name="section_receiver_tip">"当特定事件发生时，这些应用可能在一定程度上减缓设备的响应速度。
+
+这部分应用越多，事件发生时系统的响应越缓慢。"</string>
+    <string name="section_service">后台运行中</string>
+    <string name="section_service_tip">"后台运行的应用将消耗一定内存，并可能在一定程度上使设备工作缓慢。
+
+建议保持这部分应用尽可能的少。"</string>
+    <string name="service_cleaner">自动休眠</string>
+    <string name="toast_accessibility_setting">现在，启用或关闭绿色守护的无障碍（辅助功能）服务。</string>
+    <string name="toast_action_undo">撤销</string>
+    <string name="toast_already_greenified">“%1$s”早前已绿色化</string>
+    <string name="toast_app_no_launcher_entry">此应用没有启动入口</string>
+    <string name="toast_apps_hibernated">%1$s 已休眠</string>
+    <string name="toast_apps_hidden">应用已隐藏</string>
+    <string name="toast_auto_hibernation_failure_tip">"由于某些ROOT管理工具要求在应用每次更新后重新授予权限，请再次确认ROOT权限已赋予“绿色守护”。
+
+如果仍然遇到休眠失败，请尝试换用其它ROOT管理工具，或使用试验性特性中的“高效模式”。"</string>
+    <string name="toast_cannot_switch_to_launcher">无法切换到启动器，请按HOME按钮切换。</string>
+    <string name="toast_failed_to_greenify">对“%1$s”绿色化失败</string>
+    <string name="toast_gcm_tip">"此应用集成了谷歌官方的消息推送机制。如果对其绿色化，你将会失去来自这个应用的推送消息。
+
+捐赠版中的一个试验性特性可以让绿色化的应用也能接收GCM推送消息。"</string>
+    <string name="toast_gesture_reset">“主屏”上滑手势的默认行为已重置。</string>
+    <string name="toast_hibernation_failure">对“%1$s”休眠失败</string>
+    <string name="toast_need_reboot">重启前无法使用</string>
+    <string name="toast_none_hibernated">没有应用需要休眠</string>
+    <string name="toast_opted_in">感谢您的参与！</string>
+    <string name="toast_opted_out">您已退出计划。匿名的统计数据将不会被收集。</string>
+    <string name="toast_service_disabled">自动休眠已停止，绿色化的应用将不再自动休眠。</string>
+    <string name="toast_service_enabled">自动休眠已恢复</string>
+    <string name="toast_shortcut_created">“一键休眠”的快捷方式已添加到您的桌面。</string>
+    <string name="toast_tasker_wakeup_unavail_in_nonroot">抱歉，仅在ROOT模式下可用。</string>
+    <string name="wizard_step_enjoy">享受</string>
+    <string name="wizard_step_enjoy_desc">第一天拥有这部设备时的爽滑和持久体验。</string>
+    <string name="wizard_step_forget">忘却 (仅限ROOT模式)</string>
+    <string name="wizard_step_forget_desc">这些繁琐的家务活，由我为您默默打理一切。</string>
+    <string name="wizard_step_greenify">绿色化</string>
+    <string name="wizard_step_greenify_desc">那些耗费电池电量，占用宝贵内存，偷偷自动运行的应用。</string>
+    <string name="app_state_wakeup_paths_cutoff">唤醒途径已切断</string>
+    <string name="app_waker_root">ROOT</string>
+    <string name="app_waker_shell">命令行</string>
+    <string name="dialog_full_cutoff_message">"切断唤醒途径可能破坏此应用的功能或依赖它的其它应用的功能。
+
+如果出现了任何不良结果，请“接续”此应用被切断的唤醒途径。"</string>
+    <string name="event_wifi_scan">当Wi-Fi扫描时</string>
+    <string name="prefs_labs_automated_hibernation_summary">非ROOT模式下，在屏幕关闭数分钟后进行自动化休眠。它会略微点亮屏幕，完成休眠，然后关闭屏幕。(需要Android 4.1及以上、辅助功能授权、设备管理器授权及非安全保护性的屏幕锁定方式)</string>
+    <string name="prefs_labs_deep_hibernation_summary">使用激进的休眠策略，在更大程度上确保休眠的应用不被其它应用唤醒。危险：可能导致已休眠应用提供的跨应用机制失效！</string>
+    <string name="prefs_labs_deep_hibernation_title">深度休眠</string>
+    <string name="prefs_labs_no_remove_notifications_limited_summary">在休眠时不移除该应用的通知消息（仅在屏幕关闭期间），这样在应用休眠后仍然可阅读之前留下的通知消息。因权限限制，原始通知的状态栏图标无法保持原样。下面Xposed版的此特性则没有这一限制。</string>
+    <string name="prefs_labs_no_remove_notifications_limited_title">不移除通知消息 (非Xposed版)</string>
+    <string name="prefs_labs_no_remove_notifications_summary">在休眠时不移除该应用的通知消息，这样在应用休眠后仍然可阅读之前留下的通知消息。</string>
+    <string name="prefs_labs_no_remove_notifications_title">不移除通知消息</string>
+    <string name="prefs_labs_reveal_hidden_sync_summary">在“设置 - 账号”中显示隐藏的周期性同步任务（以“*”标识）。</string>
+    <string name="prefs_labs_root_mode_summary_off">当前工作在非ROOT模式。如果你的设备实际已经ROOT，请打开此选项以获得完整的功能。</string>
+    <string name="prefs_labs_root_mode_summary_on">当前工作在ROOT模式。如果你的设备并未ROOT，请关闭此选项以确保绿色守护正常工作。</string>
+    <string name="prefs_labs_system_apps_limited_summary">解除部分系统应用对休眠的免疫，让它们可以被正常绿色化。由于技术上的制约，有一些系统应用可能不及非系统应用那么稳定的保持休眠。</string>
+    <string name="service_wakeup_monitor">唤醒追踪</string>
+    <string name="toast_app_ingreenifiable">抱歉，无法绿色化“%1$s”。</string>
+    <string name="toast_apps_not_hibernating">暂不休眠：%1$s</string>
+    <string name="toast_auto_hibernation_oos">自动休眠服务已停止。如果此信息频繁出现，绿色守护的自动休眠机制可能已被第三方工具或系统设置阻止。</string>
+    <string name="toast_auto_hibernation_restarting">自动休眠服务正在重启… (可能因空余内存过低)</string>
+    <string name="toast_no_auto_hibernation_for_secure_keyguard">抱歉，自动化休眠无法在安全解锁方式开启时工作。你可以尝试使用“休眠并关闭屏幕”快捷方式作为替代。</string>
+    <string name="toast_no_auto_hibernation_for_secure_keyguard_with_navbar">抱歉，自动化休眠无法在安全解锁方式开启时工作。建议将导航栏的『桌面』虚拟键上滑手势设置为『立即休眠并关闭屏幕』。</string>
+    <string name="app_state_critical">极其重要</string>
+    <string name="app_state_working">工作中</string>
+    <string name="dialog_button_activate">激活</string>
+    <string name="dialog_google_sign_in">登入您的捐赠版绑定的Google账号以激活</string>
+    <string name="dialog_non_root_auto_hibernation_incompatible_rom_message">抱歉，非ROOT模式下的自动休眠功能目前尚未支持你的设备（或系统固件）。</string>
+    <string name="dialog_verifying_donation_package">正在验证您的捐赠版…</string>
+    <string name="service_accessibility">绿色守护 - 自动休眠助手</string>
+    <string name="service_accessibility_description">在非ROOT设备上支持应用自动休眠。停止或禁用此服务将导致自动休眠无法工作。</string>
+    <string name="state_disabled">已关闭</string>
+    <string name="state_enabled">已开启</string>
+    <string name="toast_action_setting">设置</string>
+    <string name="toast_draw_on_top_revoked">“在其它应用的上层显示”权限未授予，请先在AppOps或系统的权限设置中将此权限授予绿色守护。</string>
+    <string name="toast_usage_stats_permission">需要授予权限以检测并避免休眠前台应用</string>
+    <string name="menu_settings">设置</string>
+    <string name="prefs_cat_about">关于</string>
+    <string name="prefs_labs_automated_hibernation_summary_incompatible">抱歉，与此ROM尚不兼容。</string>
+    <string name="prefs_labs_doze_title">嗜睡模式 (试验性)</string>
+    <string name="prefs_labs_navbar_gesture_title">导航栏长按快捷操作</string>
+    <string name="prefs_learn_more">了解更多信息（在线）</string>
+    <string name="prefs_shallow_hibernation_description">"浅度休眠是特别为Android 6.0+全新打造的休眠机制，具备更佳的兼容性和流畅性。
+
+在浅度休眠中，应用将不再被杀死并保留离开时的上下文，以提升多任务切换的流畅性。同时，所有的后台行为在休眠期间依然被严格限制。
+
+浅度休眠的应用将会被小时计的周期性短暂唤醒，并在收到高优先级的Google云推送时立即短暂唤醒（需要应用开发者支持高优先级推送）。它们还将在充电期间保持唤醒。
+
+一旦开启，浅度休眠将在绿色守护中全面取代传统休眠机制。
+
+不建议内存较少的设备启用此特性。"</string>
+    <string name="prefs_shallow_hibernation_title">浅度休眠 (试验性)</string>
+    <string name="prefs_xposed_features_summary">需要安装 Xposed 框架才能使用</string>
+    <string name="prefs_xposed_features_title">基于 Xposed 的特性</string>
+    <string name="toast_action_guide">操作说明</string>
+    <string name="toast_action_troubleshoot">排查故障</string>
+    <string name="toast_assist_app_setting_guide">请在“辅助程序”中选择绿色守护。</string>
+    <string name="toast_donation_package_not_found">抱歉，未能找到与您的Google账号绑定的捐赠版。</string>
+    <string name="toast_need_accessibility_service">绿色守护的无障碍（辅助功能）服务需要激活才能完成休眠操作。</string>
+    <string name="toast_need_device_admin">绿色守护的设备管理器模块需要激活才能在屏幕关闭之后执行自动休眠。</string>
+    <string name="toast_need_overlay">需要“在其它应用的上层显示”权限以在屏幕关闭期间执行静默的自动休眠。</string>
+    <string name="prefs_labs_doze_description">"未充电时，在屏幕关闭后数分钟（而非常规的静止不动数小时）即进入“打盹模式”，提升其省电效果。
+
+“打盹模式”是Android 6.0引入的优化省电效果的设备全局运行模式。在进入该模式后，所有应用（除非加入白名单）的后台行为均被严格禁止，直到用户下次使用或充电。在此期间，设备将会以小时计定期的短暂退出“打盹模式”。"</string>
+    <string name="prefs_labs_navbar_gesture_summary">"通过长按底部全局导航栏的中间按钮执行休眠并关闭屏幕，或仅关闭屏幕。
+注意，此特性可能与“Smart Lock”及指纹解锁不兼容。"</string>
+    <string name="app_name">绿色守护</string>
+    <string name="prefs_alt_screen_off_summary">"在关闭屏幕时使用特殊的方式，较慢但可兼容Smart Lock和指纹解锁。
+可能在部分设备上无效。"</string>
+    <string name="prefs_alt_screen_off_title">特殊方式关屏</string>
+    <string name="prefs_doze_whitelist_summary">名单中的应用将不受影响，包括在Android常规的打盹（Doze）模式下。它们也不支持“浅度休眠”。</string>
+    <string name="prefs_doze_whitelist_title">白名单</string>
+    <string name="section_pending_paroled">已暂时唤醒</string>
+    <string name="section_pending_paroled_tip">浅度休眠的应用会在充电开始时以及周期性的短暂唤醒数分钟，然后重回休眠状态。</string>
+    <string name="section_pending_charging">充电期间忽略休眠状态</string>
+    <string name="dialog_button_no">否</string>
+    <string name="dialog_button_yes">是</string>
+    <string name="dialog_warning_for_too_frequent_sync">这个应用在以过于频繁的周期（每%1$d分钟）自动同步，将会被频繁唤醒。是否需要关闭其自动同步？</string>
+    <string name="app_state_persistent">常驻型应用</string>
+    <string name="section_pending_tip">这些应用已空闲，将在屏幕关闭一小段时间后休眠。</string>
+    <string name="dialog_root_only_auto_hibernation_message">抱歉，“自动休眠”只能工作在已ROOT的设备上。</string>
+    <string name="dialog_root_only_feature_title">此特性需要ROOT</string>
+</resources>

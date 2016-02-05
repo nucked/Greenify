@@ -1,0 +1,315 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_home_description">Ugrás a főoldalra</string>
+    <string name="abc_action_bar_home_description_format">%1$s, %2$s</string>
+    <string name="abc_action_bar_home_subtitle_description_format">%1$s, %2$s, %3$s</string>
+    <string name="abc_action_bar_up_description">Felfelé mozgatás</string>
+    <string name="abc_action_menu_overflow_description">További lehetőségek</string>
+    <string name="abc_action_mode_done">Kész</string>
+    <string name="abc_activity_chooser_view_see_all">Összes megtekintése</string>
+    <string name="abc_activitychooserview_choose_application">Válasszon ki egy alkalmazást</string>
+    <string name="abc_capital_off">KI</string>
+    <string name="abc_capital_on">BE</string>
+    <string name="abc_search_hint">Keresés…</string>
+    <string name="abc_searchview_description_clear">Lekérdezés törlése</string>
+    <string name="abc_searchview_description_query">Keresési lekérdezés</string>
+    <string name="abc_searchview_description_search">Keresés</string>
+    <string name="abc_searchview_description_submit">Lekérdezés küldése</string>
+    <string name="abc_searchview_description_voice">Hangalapú keresés</string>
+    <string name="abc_shareactionprovider_share_with">Megosztás a következővel:</string>
+    <string name="abc_shareactionprovider_share_with_application">Megosztás a következővel: %s</string>
+    <string name="abc_toolbar_collapse_description">Összecsukás</string>
+    <string name="common_google_play_services_api_unavailable_text">A(z) %1$s alkalmazásnak legalább egy olyan Google Play-szolgáltatásra van szüksége, amely jelenleg nem érhető el. További segítségért vegye fel a kapcsolatot a fejlesztővel.</string>
+    <string name="common_google_play_services_enable_button">Google Play-szolgáltatások engedélyezése</string>
+    <string name="common_google_play_services_enable_text">"A(z) %1$s alkalmazás csak akkor működik, ha  engedélyezi a Google Play-szolgáltatásokat."</string>
+    <string name="common_google_play_services_enable_title">Google Play-szolgáltatások engedélyezése</string>
+    <string name="common_google_play_services_install_button">A Google Play-szolgáltatások beszerzése</string>
+    <string name="common_google_play_services_install_text_phone">A(z) %1$s alkalmazás nem fut a Google Play-szolgáltatások nélkül, amelyek hiányoznak a telefonról.</string>
+    <string name="common_google_play_services_install_text_tablet">A(z) %1$s alkalmazás nem fut a Google Play-szolgáltatások nélkül, amelyek hiányoznak a táblagépről.</string>
+    <string name="common_google_play_services_install_title">A Google Play-szolgáltatások beszerzése</string>
+    <string name="common_google_play_services_invalid_account_text">A megadott fiók nem létezik ezen az eszközön. Válasszon másik fiókot.</string>
+    <string name="common_google_play_services_invalid_account_title">Érvénytelen fiók</string>
+    <string name="common_google_play_services_network_error_text">A Google Play-szolgáltatásokhoz történő kapcsolódáshoz adatkapcsolat szükséges.</string>
+    <string name="common_google_play_services_network_error_title">Hálózati hiba</string>
+    <string name="common_google_play_services_notification_ticker">Google Play-szolgáltatások – hiba</string>
+    <string name="common_google_play_services_restricted_profile_text">Korlátozott jogokkal rendelkező profilból nem lehetséges a fiókelérés.</string>
+    <string name="common_google_play_services_restricted_profile_title">Korlátozott jogokkal rendelkező profil</string>
+    <string name="common_google_play_services_sign_in_failed_text">Hiba a megadott fiókba való bejelentkezéskor. Kérjük, válasszon másik fiókot.</string>
+    <string name="common_google_play_services_sign_in_failed_title">Sikertelen bejelentkezés</string>
+    <string name="common_google_play_services_unknown_issue">A(z) %1$s alkalmazás problémába ütközött a Google Play szolgáltatásainak használata során. Ha a probléma továbbra is fennáll, vegye fel a kapcsolatot a fejlesztővel.</string>
+    <string name="common_google_play_services_unsupported_text">A(z) %1$s használatához olyan Google Play-szolgáltatásokra van szükség, amelyeket eszköze nem támogat. Ha segítségre van szüksége, lépjen kapcsolatba a gyártóval.</string>
+    <string name="common_google_play_services_unsupported_title">Google Play-szolgáltatások</string>
+    <string name="common_google_play_services_update_button">Frissítés</string>
+    <string name="common_google_play_services_update_text">A(z) %1$s alkalmazás csak akkor fog működni, ha frissíti a Google Play-szolgáltatásokat.</string>
+    <string name="common_google_play_services_update_title">A Google Play-szolgáltatások frissítése</string>
+    <string name="common_google_play_services_updating_text">A(z) %1$s alkalmazás nem fut a Google Play-szolgáltatások nélkül, amelyek frissítése folyamatban van.</string>
+    <string name="common_google_play_services_updating_title">A Google Play-szolgáltatások frissülnek</string>
+    <string name="common_google_play_services_wear_update_text">A Google Play-szolgáltatások új verziójára van szükség. A szolgáltatás hamarosan frissíti önmagát.</string>
+    <string name="common_open_on_phone">Megnyitás a telefonon</string>
+    <string name="common_signin_button_text">Bejelentkezés</string>
+    <string name="common_signin_button_text_long">Bejelentkezés Google-fiókkal</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="about_donation_summary">További funkciókért szerezze be a támogatói csomagot.</string>
+    <string name="about_donation_summary_donated">További kísérleti funkciókat a főmenüben aktiválhat.</string>
+    <string name="about_donation_title">Támogatás</string>
+    <string name="about_donation_title_donated">Köszönöm a támogatást</string>
+    <string name="about_licenses_title">Licenszek</string>
+    <string name="about_raise_your_voice_program_detail">A Greenify felemeli a közösség hangját, hogy a fejlesztők halljanak a hibernált alkalmazásokról, és az alkalmazásfejlesztésnél jobban megismerjék az készülék tapasztalatokat.</string>
+    <string name="about_raise_your_voice_program_summary">Az Ön hangja is változtathat!</string>
+    <string name="about_raise_your_voice_program_title">\"Emeld fel a hangod\" program</string>
+    <string name="about_translation_credit">Appel</string>
+    <string name="about_translation_title">Fordítás</string>
+    <string name="about_uninstall">Eltávolítás</string>
+    <string name="about_version_summary">Értékelje az alkalmazást.</string>
+    <string name="about_version_title">Verzió</string>
+    <string name="accessibility_service_description">"A szolgáltatás eléréséhez egyes speciális Greenify funkciók szükségesek.
+
+Lehetséges, hogy adatvédelmi kockázatokra figyelmeztet, de ez általános figyelmeztetés bármelyik szolgáltatásnál. Mi megígérjük, hogy SOHASEM gyűjtünk személyes információkat a szolgáltatás elérésekor.
+
+Egyes Samsung készülékeknél hang probléma lehet a beszélgetéseknél, ha bármelyik elérhető szolgáltatás engedélyezve van. Ha ilyen hibát tapasztal, engedélyezze a megoldást a \"Beállítások\" -ban itt."</string>
+    <string name="analysis_detail_alarm_with_wakeup">%1$d futtatás (%2$d felébresztéssel)</string>
+    <string name="app_analyzer_name">Alkalmazás elemző</string>
+    <string name="app_analyzer_subtitle">%1$d alkalmazás kiválasztva</string>
+    <string name="app_shortcut_hibernate">Hibernálás most</string>
+    <string name="app_shortcut_hibernate_lock">Hibernálás + képernyőzár</string>
+    <string name="app_shortcut_nothing">Semmi</string>
+    <string name="app_shortcut_wakeup">Ébresztés</string>
+    <string name="app_state_always_ignored">Mindig figyelmen kívül hagyja hibérnáláskor</string>
+    <string name="app_state_hibernation_failed">Nem sikerült hibernálni %1$s-el ezelőtt</string>
+    <string name="app_state_provider_in_use">Szolgáltató használatban %1$s által</string>
+    <string name="app_state_service_in_use">Szolgáltatás használatban %1$s által</string>
+    <string name="app_state_unsaveable">Visszaállíthatatlan állapotban</string>
+    <string name="app_state_woken_by_activity">%1$s-el ezelőtt UI megnyitva</string>
+    <string name="app_state_woken_by_app">%1$s-el ezelőtt felébresztve %2$s által</string>
+    <string name="app_state_woken_by_authenticator">%1$s-el ezelőtt hitelesítve</string>
+    <string name="app_state_woken_by_backup">%1$s-el ezelőtt mentés végrehajtva</string>
+    <string name="app_state_woken_by_broadcast">%1$s-el ezelőtt értesítve</string>
+    <string name="app_state_woken_by_content_provider">%1$s-el ezelőtt tartalom biztosítva</string>
+    <string name="app_state_woken_by_push_msg">%1$s-el ezelőtt push fogadva</string>
+    <string name="app_state_woken_by_search">%1$s-el ezelőtt tartalom keresve</string>
+    <string name="app_state_woken_by_service">%1$s-el ezelőtt szolgáltatás elindult</string>
+    <string name="app_state_woken_by_sync">%1$s-el ezelőtt szinkronizálva</string>
+    <string name="app_state_woken_by_widget">%1$s-el ezelőtt widget frissítve</string>
+    <string name="app_state_woken_directly">%1$s-el ezelőtt közvetlenül %2$s ébresztette</string>
+    <string name="app_title_service_disabled">Hibernálás (nincs auto-hibernálás)</string>
+    <string name="app_waker_google">Google szolgáltatások</string>
+    <string name="app_waker_system">Android rendszer</string>
+    <string name="app_waker_unknown">ismeretlen forrás</string>
+    <string name="device_admin_for_automation">Greenify Automatizáló</string>
+    <string name="device_admin_for_automation_description">Engedélyezi, hogy a Greenify kikapcsolja a képernyőt az automatikus hibernálás után</string>
+    <string name="device_admin_warning_when_disabling">Ha le van tiltva, a Greenify nem lesz képes az automatizált hibernálásra, ha a képernyő ki van kapcsolva.</string>
+    <string name="dialog_app_picker_guide_button">Gyerünk az indítóhoz</string>
+    <string name="dialog_app_picker_guide_message">Most az indítóhoz fog kerülni. Nyissa meg az alkalmazást, majd az alkalmazás felvételéhez kattintson az értesítő sávban a Greenify alkalmazásgyűjtőjére.</string>
+    <string name="dialog_app_picker_guide_title">Hogyan válasszon ki egy alkalmazást</string>
+    <string name="dialog_button_cancel">Mégsem</string>
+    <string name="dialog_button_continue">Folytatás</string>
+    <string name="dialog_button_insist">Megtart</string>
+    <string name="dialog_button_later_by_oneself">Később csinálom</string>
+    <string name="dialog_button_learn_more">Tudjon meg többet</string>
+    <string name="dialog_button_opt_in">Bekapcsolva</string>
+    <string name="dialog_button_opt_out">Kikapcsolva</string>
+    <string name="dialog_confirmation_unsafe_to_hibernate">Az alkalmazást ebben az állapotban általában nem biztonságos hibernálni. A hibernálás kényszerítése nem megfelelő működést vagy akár adatvesztést okozhat.</string>
+    <string name="dialog_cutoff_message">"Az ébresztési útvonal kikapcsolása hibát okozhat az alkalmazás vagy az attól függő alkalmazások működésében.
+
+Ha bármi rossz történik, kérem kapcsolja vissza.
+
+Érintett: [%s]"</string>
+    <string name="dialog_cutoff_title">Figyelmeztetés</string>
+    <string name="dialog_degreenified_message">A kiolvasztás ellenére az alkalmazás továbbra is hibernált állapotban marad (semmilyen háttérfunkciója nem fog működni), amíg a direkt indításával fel nem ébreszti.</string>
+    <string name="dialog_degreenified_title">Figyelem</string>
+    <string name="dialog_donation_corrupted_message">A támogatási csomag sérült. Újratelepíti a Google Playből?</string>
+    <string name="dialog_greenify_confirmation_message">Biztos hibernálni akarja a következőt: %1$s?</string>
+    <string name="dialog_greenifying_system_apps">A rendszeralkalmazások hibernálása jelenleg kísérleti funkció és csak a támogatói csomaggal érhető el.</string>
+    <string name="dialog_incompatible_rom_title">Nem kompatibilis ROM</string>
+    <string name="dialog_ingreenfiable_message_for_system_app">Sajnáljuk, a rendszeralkalmazások hibernálása általában nem biztonságos.</string>
+    <string name="dialog_ingreenfiable_title">\"%1$s\" nem hibernálható</string>
+    <string name="dialog_labs_incompatible_rom_message">A funkció aktiválása sikertelen. Valószínűleg nem kompatibilis a ROM-mal.</string>
+    <string name="dialog_labs_operation_failure_message">Művelet sikertelen.</string>
+    <string name="dialog_labs_state_set_failure_message">A funkció állapot beállítása sikertelen!</string>
+    <string name="dialog_message_donation_package_exclusive">"Ez a szolgáltatás jelenleg csak a támogatói csomagban érhető el.
+
+Vásárolja meg a támogatói csomagot a kísérleti szolgáltatások feloldásához."</string>
+    <string name="dialog_option_always_ignore_state">Mindig figyelmen kívül hagyja a futó állapotot</string>
+    <string name="dialog_root_operation_failure_message">A művelet végrehajtása sikertelen. Kérem győződjön meg, hogy a root jogosultság meg van-e adva.</string>
+    <string name="dialog_thank4donation_message">"Köszönjük, hogy támogatja a fejlesztést.
+
+Mostmár további kísérleti funkciókat aktiválhat a főmenüből."</string>
+    <string name="dialog_thank4donation_title">Köszi</string>
+    <string name="dialog_title_confirmation">Jóváhagyás</string>
+    <string name="dialog_title_error">Hiba</string>
+    <string name="dialog_verification_error_message">A támogatást nem sikerült ellenőrizni. Kérem ellenőrizze a hálózati kapcsolatot és próbálja újra.</string>
+    <string name="dialog_verification_fatal_error">Nem lehet ellenőrizni a támogatást, kérjük jelezze ezt a hibát.</string>
+    <string name="dialog_version_mismatch_message">Kérem frissítse az alkalmazást a legfrissebb verzióra.</string>
+    <string name="dialog_version_mismatch_title">Nem egyező verziók</string>
+    <string name="dialog_warning_for_greenifying_launcher">Az alapértelmezett indító alkalmazást próbája hibernálni. A gyakran használt alkalmazások hibernálása nem javasolt.</string>
+    <string name="dialog_warning_title">Figyelmeztetés</string>
+    <string name="dialog_xposed_module_inactive_message">A Greenify Xposed modulja még nincs aktiválva. A funkciók működéséhet először aktiválnia kell az Xposed telepítőben.</string>
+    <string name="event_capture_video">videó rögzítve</string>
+    <string name="event_connectivity_changes">változik a hálózati kapcsolat</string>
+    <string name="event_media_connect">eltávolítható tároló csatlakoztatva</string>
+    <string name="event_media_eject">Eltávolítható tároló leválasztva</string>
+    <string name="event_media_scan">tároló szkennelve</string>
+    <string name="event_postfix_volatile">(különböző állapotoknál eltérhet)</string>
+    <string name="event_power_connected">energiaforrás csatlakoztatva</string>
+    <string name="event_power_disconnected">energiaforrás lecsatlakoztatva</string>
+    <string name="event_take_photo">kép elkészítve</string>
+    <string name="event_unlock_keyguard">képernyőzár nyitva</string>
+    <string name="event_update_apps">alkalmazás frissítésekor</string>
+    <string name="guide_btn_activate_module">Modul aktiválása &amp; újraindítás</string>
+    <string name="guide_btn_install_xposed_installer">Xposed Installer telepítése</string>
+    <string name="guide_btn_setup_xposed_framework">Xposed framework beállítása</string>
+    <string name="guide_link_why_xposed">Miért van szükség az Xposed frameworkre?</string>
+    <string name="guide_sub_title">Beállítási útmutató</string>
+    <string name="guide_title">Xposed Beállítási útmutató</string>
+    <string name="menu_about">A programról</string>
+    <string name="menu_action_accept">Elfogad</string>
+    <string name="menu_action_cutoff">Ébresztési útvonal kikapcsolása</string>
+    <string name="menu_action_cutoff_condensed">Kikapcsolás</string>
+    <string name="menu_action_greenify">Greenify varázsló</string>
+    <string name="menu_action_greenify_condensed">Hibernálás...</string>
+    <string name="menu_action_hibernate">Hibernálás most</string>
+    <string name="menu_action_hibernate_condensed">Hibernálás</string>
+    <string name="menu_action_hide">Elrejt</string>
+    <string name="menu_action_pick">Válassza ki a hibernálandó alkalmazást</string>
+    <string name="menu_action_pick_condensed">Alkalmazás kiválasztása</string>
+    <string name="menu_action_reattach">Ébresztési útvonal visszakapcsolása</string>
+    <string name="menu_action_reattach_condensed">Visszakapcsolás</string>
+    <string name="menu_action_reconsider_state">Állapot felülvizsgálata</string>
+    <string name="menu_action_refresh">Frissítés</string>
+    <string name="menu_action_run">Futtatás</string>
+    <string name="menu_action_ungreenify">Kiválasztott alkalmazás kiolvasztása</string>
+    <string name="menu_action_ungreenify_condensed">Kiolvasztás</string>
+    <string name="menu_action_unhide_all">Mindent mutat</string>
+    <string name="menu_create_shortcut">Hibernálás parancsikon létrehozása</string>
+    <string name="menu_disable_service">Automatikus hibernálás letiltása</string>
+    <string name="menu_enable_service">Automatikus hibernálás engedélyezése</string>
+    <string name="menu_reset_gesture">A \"Pull-up\" gesztus alapértelmezett értékre állítása</string>
+    <string name="no_app_picked">Nincs kiválasztott alkalmazás</string>
+    <string name="notification_app_picker_text">Indítsa el az alkalmazást, majd kattintson ide a felvételhez.</string>
+    <string name="notification_app_picker_ticker">"Először indítsa el az alkalmazást.
+Azután kattintson az alkalmazásgyűjtő értesítésre."</string>
+    <string name="notification_app_picker_title">Greenify alkalmazásgyűjtő</string>
+    <string name="notification_listener_title">Értesitések</string>
+    <string name="notification_text_workaround_talking">Ha azt tapasztalja, hogy véletlenszerűen hang szólal meg</string>
+    <string name="notification_timer_coalesced_subtext">Automatikusan optimalizál Greenify</string>
+    <string name="notification_timer_coalesced_title">Időszakos időzítő</string>
+    <string name="notification_title_workaround_talking">Megoldás a beszéd problémára</string>
+    <string name="placeholder_show_all">További alkalmazások mutatása</string>
+    <string name="prefs_cat_donation_only_features">Szükséges az Adományozói csomag</string>
+    <string name="prefs_cat_experimental_features">Kísérleti funkciók</string>
+    <string name="prefs_cat_xposed_donation_features">Szükséges az Xposed &amp;amp; Adomány csomag</string>
+    <string name="prefs_cat_xposed_only_features">Szükséges az Xposed Keretrendszer</string>
+    <string name="prefs_labs_automated_hibernation_title">Automatizált hibernálás (4.1+)</string>
+    <string name="prefs_labs_block_notification_abuse_summary">Néhány alkalmazás kihasználva az Android sebezhetőségét (4.3 előtti), jogosulatlan prioritás megszerzésével a memóriában tartja magát kevés memória esetén. Ezek az alkalmazások hibásan \"Észlelhetőnek\" lesznek felismerve és nem hibernálódnak.</string>
+    <string name="prefs_labs_block_notification_abuse_title">Szabálytalan alkalmazás állapot blokkolása</string>
+    <string name="prefs_labs_boost_mode_summary">Jobb teljesítmény és kompatibilitás, különösen ha hibernálási vagy ROOT problémákat tapasztal.</string>
+    <string name="prefs_labs_boost_mode_title">Gyors mód</string>
+    <string name="prefs_labs_gcm_push_summary">GCM push üzenetek engedélyezése a hibernált alkalmazások felébresztéséhez, így GCM-es alkalmazásokat is hibernálhat a push értesítések elvesztése nélkül.</string>
+    <string name="prefs_labs_gcm_push_title">GCM push a hibernált alkalmazásoknak</string>
+    <string name="prefs_labs_reveal_hidden_sync_title">Rejtett szinkronizálás</string>
+    <string name="prefs_labs_root_mode_summary_boost">Munka \"Gyorsítás módban\" (lásd alul) az ajánlott mód.</string>
+    <string name="prefs_labs_system_apps_limited_title">Greenifying rendszer alkalmazások (korlátozott)</string>
+    <string name="prefs_labs_system_apps_summary">Rendszeralkalmazások hibernálási ellenállásának megszűntetése, így legtöbbjük hibernálhatóvá tehető.</string>
+    <string name="prefs_labs_system_apps_title">Rendszeralkalmazások hibernálása</string>
+    <string name="prefs_labs_telephony_wakeup_summary">Engedélyezi a telefon eseményeknek (pl. hívás, SMS) a hibernált alkalmazások felébresztését, így a hibernált hívás vagy SMS alkalmazások úgy működnek, ahogy elvárt.</string>
+    <string name="prefs_labs_telephony_wakeup_title">Telefonálás felébresztés</string>
+    <string name="prefs_labs_timer_coalescing_summary">Időzítő egyesítés (kötegelt) engedélyezése az összes alkalmazás számára (nem csak a KitKat alkalmazásoknak). Csak Android 4.4+ verzión működik.</string>
+    <string name="prefs_labs_timer_coalescing_title">Ébresztő időzítés (4.4+)</string>
+    <string name="prefs_labs_wakeup_tracker_summary">Kövesse nyomon melyik alkalmazás ébreszti fel a hibernált alkalmazásokat és opcionálisan kapcsolja ki a további ébresztések megszűntetéséhez.</string>
+    <string name="prefs_labs_wakeup_tracker_title">Felébredés követő &amp;amp; kikapcsoló</string>
+    <string name="prefs_labs_working_mode_title">Működési mód</string>
+    <string name="progress_be_hibernating">Hibernálás...</string>
+    <string name="section_alarm">Ütemezett futtatás (a legutolsó indítás óta)</string>
+    <string name="section_alarm_tips">"Ezek az alkalmazások ütemezetten futnak a háttérben, ezért lelassíthatják az eszközt és meríthetik az akkumulátort.
+ 
+
+Óvakodjon az eszközt gyakran felébresztő alkalmazásoktól."</string>
+    <string name="section_all_apps">Több</string>
+    <string name="section_hibernated">Hibernálva</string>
+    <string name="section_pending">Függőben lévő kézi hibernálás</string>
+    <string name="section_pending_auto">Hibernálás a képernyő kikapcsolása után rövid idő múlva</string>
+    <string name="section_pending_tip_nonroot">Ezek az alkalmazások ébren vannak és nyugalmi állapotba kerültek. Kézzel kell hibernálni őket.</string>
+    <string name="section_postponed">Nem hibernálódnak automatikusan</string>
+    <string name="section_postponed_tip">A Greenify ezeket az alkalmazásokat nem hibernálja automatikusan, kivéve, ha az állapotuk később megváltozik.</string>
+    <string name="section_receiver">Lelassíthatja az eszközt, amikor…</string>
+    <string name="section_receiver_tip">"Ezek az alkalmazások valamennyire lelassíthatják az eszközt ha bizonyos események bekövetkeznek.
+
+Minél több alkalmazás van itt, annál kevésbe lesz reszponzív."</string>
+    <string name="section_service">Háttérben fut</string>
+    <string name="section_service_tip">"A háttérben futó alkalmazások bizonyos mennyiségű memóriát használnak, és valamilyen mértékben lelassíthatják az eszközt.
+
+Tartsa ezt a listát a lehető legrövidebben."</string>
+    <string name="service_cleaner">Automatikus hibernálás</string>
+    <string name="showcase_accessibility_setting">Automatizálás engedélyezése</string>
+    <string name="showcase_manual_hibernation_automation">Ez a kézi folyamat automatizálható a Greenify hozzáférés szolgáltatás segítségével.</string>
+    <string name="showcase_manual_hibernation_desc">Az Android rendszer korlátozásai miatt, az auto-hibernálás root nélkül nem működik. A hibernálás befejezéséhez kézzel kell kattintani a \"Kényszerített leállítás\" gombra.</string>
+    <string name="showcase_manual_hibernation_title">Kézi hibernálás</string>
+    <string name="toast_accessibility_setting">A Greenify szolgáltatás engedélyezése vagy letiltása itt lehetséges</string>
+    <string name="toast_action_undo">VISSZA</string>
+    <string name="toast_already_greenified">\"%1$s\" már hibernálva van.</string>
+    <string name="toast_app_no_launcher_entry">Ez az alkalmazás nem launcher bejegyzés</string>
+    <string name="toast_apps_hibernated">%1$s hibernálva.</string>
+    <string name="toast_apps_hidden">Elrejtett alkalmazások</string>
+    <string name="toast_auto_hibernation_failure_tip">"Kérem győződjön meg róla, hogy a Greenify root jogokat kapott. (néhány root kezelő eszköz minden frissítésénél kéri az alkalmazás újraengedélyezését)
+
+Ha továbbra is hibernálási problémákat tapasztal, kérem próbáljon ki más root kezelő eszközt vagy a \"Gyorsító módot\" a kísérleti funkcióknál."</string>
+    <string name="toast_cannot_switch_to_launcher">Nem sikerült átváltani az indítóhoz, kérem nyomja meg a Home gombot.</string>
+    <string name="toast_failed_to_greenify">\"%1$s\" hibernálása sikertelen.</string>
+    <string name="toast_gcm_tip">"GCM (Google Cloud Messaging) integrálva van az alkalmazásba és push értesítésekhez használható. Nem fog működni, ha az alkalmazás hibernálva van.
+
+A támogatói verzióban kísérleti jelleggel engedélyezve van a GCP push a hibernált alkalmazásoknál."</string>
+    <string name="toast_gesture_reset">A \"Pull-up\" gesztus alapértelmezett viselkedése a Home gomb alaphelyzetbe állítása.</string>
+    <string name="toast_hibernation_failure">\"%1$s\" hibernálása sikertelen.</string>
+    <string name="toast_need_reboot">Nem elérhető, a következő újrainditásig</string>
+    <string name="toast_none_hibernated">Nincs hibernálandó alkalmazás.</string>
+    <string name="toast_opted_in">Köszönjük a közreműködését!</string>
+    <string name="toast_opted_out">Kikapcsolva. Nem lesz további névtelen statisztika gyűjtve.</string>
+    <string name="toast_service_disabled">"Automatikus hibernálás letiltva.
+Az alkalmazások többé nem lesznek automatikusan hibernálva."</string>
+    <string name="toast_service_enabled">Automatikus hibernálás engedélyezve.</string>
+    <string name="toast_shortcut_created">Az egy kattintásos parancsikon létrehozva.</string>
+    <string name="toast_tasker_wakeup_unavail_in_nonroot">Sajnáljuk, csak root módban érhető el.</string>
+    <string name="wizard_step_enjoy">Élvezze</string>
+    <string name="wizard_step_enjoy_desc">a sima és hosszan tartó élményt, mint az első napokban.</string>
+    <string name="wizard_step_forget">Feledkezzen meg</string>
+    <string name="wizard_step_forget_desc">a takarításról, engedje hogy a Greenify csendben elvégezze Önnek.</string>
+    <string name="wizard_step_greenify">Fagyassza le</string>
+    <string name="wizard_step_greenify_desc">az akkumulátor-, memóriazabáló és rejtve futó alkalmazásokat.</string>
+    <string name="app_state_wakeup_paths_cutoff">Ébresztési útvonal kikapcsolása</string>
+    <string name="app_waker_root">root</string>
+    <string name="app_waker_shell">shell</string>
+    <string name="dialog_full_cutoff_message">"Az ébresztési útvonal kikapcsolása lehet, hogy megakadályozza ennek vagy a vele összefüggő alkalmazások működését.
+
+Ha valami nem jól működik, kérjük kapcsolja vissza az ébredési útvonalat."</string>
+    <string name="event_wifi_scan">Wi-Fi ellenőrizve</string>
+    <string name="prefs_labs_automated_hibernation_summary">A nem root módban automatizálja a hibernálást és röviddel később a képernyő kikapcsolást. Kivilágosodik a képernyő, elvégzi a hibernálást és utána kikapcsolja a képernyőt. (Szükséges: Android 4.1+, Kisegítő lehetőségek,Szolgáltatások és bizonytalan kulcstartó)</string>
+    <string name="prefs_labs_deep_hibernation_summary">"Az agresszív szabályok végrehajtása a hibernált alkalmazásra megakadályozza, hogy más alkalmazásokat felébresszen.
+FIGYELEM: lehet, hogy az így hibernált alkalmazás szünetelteti a vele összefüggő működésű alkalmazások futását."</string>
+    <string name="prefs_labs_deep_hibernation_title">Mély hibernálás (alfa)</string>
+    <string name="prefs_labs_no_remove_notifications_limited_summary">Ne távolítsa értesítést, amikor az alkalmazás hibernálva van (csak amíg a képernyő ki van kapcsolva), így utána el lehet olvasni az értesítésekeket. Az eredeti értesítés állapotjelző ikonját nem lehet megtartani a kiváltság korlátozása miatt. Az Xposed-alapú változatban ennek a funkciónak nincs ilyen korlátozása.</string>
+    <string name="prefs_labs_no_remove_notifications_limited_title">Ne távolítsa el az értesítéseket (korlátozott)</string>
+    <string name="prefs_labs_no_remove_notifications_summary">Ne távolítsa el az értesítéseket amikor hibernálja az alkalmazást, így utána is lehet olvasni az értesítéseket. (Újraindítás szükséges)</string>
+    <string name="prefs_labs_no_remove_notifications_title">Ne távolítsa el az értesítéseket</string>
+    <string name="prefs_labs_reveal_hidden_sync_summary">Rejtett fiók szinkron feladatok a \"Beállitások- Fiókok\", nál \"*\".</string>
+    <string name="prefs_labs_root_mode_summary_off">Nem rootolt mód. Ha az eszköz valójában rootolt, akkor engedélyezze ezt az opciót, hogy a Greenify kiadja a teljes erejét.</string>
+    <string name="prefs_labs_root_mode_summary_on">Root módban működik</string>
+    <string name="prefs_labs_system_apps_limited_summary">Egyes rendszer alkalmazások alapértelmezésként nem hibernálhatók. Bizonyos technikai korlátozások miatt a egyes hibernált rendszer alkalmazások nem olyan csendesek, mint a nem rendszer alkalmazások és más rendszer alkalmazások.</string>
+    <string name="service_wakeup_monitor">Felébredés figyelő</string>
+    <string name="toast_app_ingreenifiable">Sajnáljuk, \"%1$s\" nem hibernálható.</string>
+    <string name="toast_apps_not_hibernating">Nem hibernált: %1$s</string>
+    <string name="toast_auto_hibernation_oos">Az automatikus hibernálás szolgáltatás leállt. Ha ez az üzenet gyakran megjelenik, ezt a háttér szolgáltatást lehet, hogy blokkolja egy 3rd-party eszköz vagy rendszer beállításai (például Stamina Mód Sony eszközökön, AutoStart Manager a MIUI-ban), ellenőrizze a megfelelő beállításokat, és ha lehetséges adja a Greenify-t az engedélyezett listához.</string>
+    <string name="toast_auto_hibernation_restarting">Az automatikus hibernálás szolgáltatás újraindul... (lehetséges, hogy kevés a szabad memória)</string>
+    <string name="toast_no_auto_hibernation_for_secure_keyguard">Sajnáljuk, de az automatikus hibernálás nem működik ha a biztonsági kulcstartó be van állítva. Használhatja alternatívaként a \"Hibernálás és Képernyő zárolás\" parancsot.</string>
+    <string name="toast_no_auto_hibernation_for_secure_keyguard_with_navbar">Sajnáljuk, az automatikus hibernálás nem működik, ha biztonságos kulcstartó be van állítva. A \"Húzd fel\" mozgulat után a \"Home\" képernyőn ajánlott a \"Hibernálás és képernyőzár\" parancsikon.</string>
+    <string name="app_state_critical">Kritikus</string>
+    <string name="app_state_working">Működik</string>
+    <string name="dialog_button_activate">Aktiválás</string>
+    <string name="dialog_verifying_donation_package">Támogató csomag ellenőrzése</string>
+    <string name="state_disabled">Letiltva</string>
+    <string name="state_enabled">Engedélyezve</string>
+    <string name="toast_action_setting">Beállítás</string>
+    <string name="toast_usage_stats_permission">Engedély szükséges felismerni és elkerülni az előtérben futó hibernált alkalmazást</string>
+    <string name="menu_settings">Beállítások</string>
+    <string name="prefs_cat_about">Névjegy</string>
+    <string name="section_pending_charging">Hibernálás letiltása töltés közben</string>
+</resources>

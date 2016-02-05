@@ -1,0 +1,293 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_home_description">Navigați la ecranul de pornire</string>
+    <string name="abc_action_bar_home_description_format">%1$s, %2$s</string>
+    <string name="abc_action_bar_home_subtitle_description_format">%1$s, %2$s, %3$s</string>
+    <string name="abc_action_bar_up_description">Navigați în sus</string>
+    <string name="abc_action_menu_overflow_description">Mai multe opțiuni</string>
+    <string name="abc_action_mode_done">Terminat</string>
+    <string name="abc_activity_chooser_view_see_all">Afișați-le pe toate</string>
+    <string name="abc_activitychooserview_choose_application">Alegeți o aplicație</string>
+    <string name="abc_capital_off">DEZACTIVAȚI</string>
+    <string name="abc_capital_on">ACTIVAȚI</string>
+    <string name="abc_search_hint">Căutați…</string>
+    <string name="abc_searchview_description_clear">Ștergeți interogarea</string>
+    <string name="abc_searchview_description_query">Interogare de căutare</string>
+    <string name="abc_searchview_description_search">Căutați</string>
+    <string name="abc_searchview_description_submit">Trimiteți interogarea</string>
+    <string name="abc_searchview_description_voice">Căutare vocală</string>
+    <string name="abc_shareactionprovider_share_with">Trimiteți la</string>
+    <string name="abc_shareactionprovider_share_with_application">Trimiteți la %s</string>
+    <string name="abc_toolbar_collapse_description">Restrângeți</string>
+    <string name="common_google_play_services_api_unavailable_text">%1$s necesită unul sau mai multe servicii Google Play, care momentan nu sunt disponibile. Contactați dezvoltatorul pentru asistență.</string>
+    <string name="common_google_play_services_enable_button">Activați serviciile Google Play</string>
+    <string name="common_google_play_services_enable_text">%1$s nu va funcționa decât dacă activați serviciile Google Play.</string>
+    <string name="common_google_play_services_enable_title">Activați serviciile Google Play</string>
+    <string name="common_google_play_services_install_button">Descărcați serviciile Google Play</string>
+    <string name="common_google_play_services_install_text_phone">%1$s nu va rula fără serviciile Google Play, care lipsesc de pe telefon.</string>
+    <string name="common_google_play_services_install_text_tablet">%1$s nu va rula fără serviciile Google Play, care lipsesc de pe tabletă.</string>
+    <string name="common_google_play_services_install_title">Descărcați serviciile Google Play</string>
+    <string name="common_google_play_services_invalid_account_text">Contul menționat nu există pe acest dispozitiv. Alegeți alt cont.</string>
+    <string name="common_google_play_services_invalid_account_title">Contul nu este valid</string>
+    <string name="common_google_play_services_network_error_text">Este necesară o conexiune de date pentru a vă conecta la serviciile Google Play.</string>
+    <string name="common_google_play_services_network_error_title">Eroare de rețea</string>
+    <string name="common_google_play_services_notification_ticker">Eroare privind serviciile Google Play</string>
+    <string name="common_google_play_services_restricted_profile_text">Accesarea conturilor dintr-un profil cu permisiuni limitate nu este acceptată.</string>
+    <string name="common_google_play_services_restricted_profile_title">Profil cu permisiuni limitate</string>
+    <string name="common_google_play_services_sign_in_failed_text">Eroare la conectarea la contul specificat. Alegeți alt cont.</string>
+    <string name="common_google_play_services_sign_in_failed_title">Conectarea nu a reușit</string>
+    <string name="common_google_play_services_unknown_issue">%1$s întâmpină probleme privind serviciile Google Play. Dacă problema persistă, contactați dezvoltatorul pentru asistență.</string>
+    <string name="common_google_play_services_unsupported_text">%1$s se bazează pe serviciile Google Play, care nu sunt acceptate de dispozitiv. Contactați producătorul pentru asistență.</string>
+    <string name="common_google_play_services_unsupported_title">Serviciile Google Play</string>
+    <string name="common_google_play_services_update_button">Actualizați</string>
+    <string name="common_google_play_services_update_text">%1$s nu va rula decât dacă actualizați serviciile Google Play.</string>
+    <string name="common_google_play_services_update_title">Actualizați serviciile Google Play</string>
+    <string name="common_google_play_services_updating_text">%1$s nu va rula fără serviciile Google Play, care momentan se actualizează.</string>
+    <string name="common_google_play_services_updating_title">Se actualizează serviciile Google Play</string>
+    <string name="common_google_play_services_wear_update_text">Este necesară o nouă versiune a serviciilor Google Play. Se vor actualiza automat în curând.</string>
+    <string name="common_open_on_phone">Deschideți pe telefon</string>
+    <string name="common_signin_button_text">Conectați-vă</string>
+    <string name="common_signin_button_text_long">Conectați-vă cu Google</string>
+    <string name="status_bar_notification_info_overflow">˃999</string>
+    <string name="about_donation_summary">Achizitionati pachetul de donatii pentru functii suplimentare</string>
+    <string name="about_donation_summary_donated">Proprietățiile experimentale adiționale se pot activa din meniul principal.</string>
+    <string name="about_donation_title">Donați</string>
+    <string name="about_donation_title_donated">Mulțumim pentru donație</string>
+    <string name="about_licenses_title">Licențe</string>
+    <string name="about_raise_your_voice_program_detail">"Greenify va face vocea comunității să fie auzită de către dezvoltatorii aplicațiilor dumneavoastră greenifiate, pentru a avea parte de o recunoaștere mai bună a experienței dispozitivului în dezvoltarea de aplicații.
+
+Pentru ați face vocea auzită, Greenify colectează date anonime fară informații private. Puteți dezactiva acest lucru oricând."</string>
+    <string name="about_raise_your_voice_program_summary">Vocea ta poate face o diferență!</string>
+    <string name="about_raise_your_voice_program_title">programul \"Raise Your Voice!\"</string>
+    <string name="about_translation_credit">{ Numele traducatorului pentru aceasta traducere }</string>
+    <string name="about_translation_title">Traducerea</string>
+    <string name="about_uninstall">Dezinstaleaza</string>
+    <string name="about_version_summary">Dați o notă aplicației.</string>
+    <string name="about_version_title">Versiunea</string>
+    <string name="accessibility_service_description">"Serviciul de accesibilitate este necesar pentru functii speciale in Greenify
+
+Trebuie sa te avertizam despre potentialul risc de intimitate(privacy), aceasta este doar o avertizare pentru orice serviciu de accesibilitate. Iti promitem ca NU VOM COLECTA NICIODATA datele tale personale cu acest serviciu de accesibilitate.
+
+Cateva dispozitive Samsung au probleme cu comanda vocala daca acest serviciu este pornit.Daca intampini aceasta problema, permite \"Setarile\" aici."</string>
+    <string name="analysis_detail_alarm_with_wakeup">%1$d ruleaza(inclusiv %2$d wakeups)</string>
+    <string name="app_analyzer_name">Analizator aplicatii</string>
+    <string name="app_analyzer_subtitle">%1$d aplicatie(i) selectate</string>
+    <string name="app_shortcut_hibernate">Hiberneaza acum</string>
+    <string name="app_shortcut_hibernate_lock">Hiberneaza + Ecran blocare.</string>
+    <string name="app_shortcut_nothing">Nimic</string>
+    <string name="app_shortcut_wakeup">Trezeste</string>
+    <string name="app_state_always_ignored">Starea este intotdeauna ignorata pentru hibernare.</string>
+    <string name="app_state_hibernation_failed">Acum %1$s nu a putut hiberna</string>
+    <string name="app_state_provider_in_use">Provider folosit de %1$s</string>
+    <string name="app_state_service_in_use">Serviciu folosit de %1$s</string>
+    <string name="app_state_unsaveable">Stare irecuperabilă</string>
+    <string name="app_state_woken_by_activity">Acum %1$s interfața utilizatorului (UI) a fost pornită</string>
+    <string name="app_state_woken_by_app">Acum %1$s a fost trezită de %2$s</string>
+    <string name="app_state_woken_by_authenticator">Acum %1$s s-a autentificat</string>
+    <string name="app_state_woken_by_backup">Acum %1$s a avut loc un backup</string>
+    <string name="app_state_woken_by_broadcast">Acum %1$s a fost notificată explicit</string>
+    <string name="app_state_woken_by_content_provider">Acum %1$s conținutul a fost furnizat</string>
+    <string name="app_state_woken_by_push_msg">Acum %1$s a fost primit un push</string>
+    <string name="app_state_woken_by_search">Continut cautat in urma cu %1$s</string>
+    <string name="app_state_woken_by_service">Acum %1$s serviciul a pornit</string>
+    <string name="app_state_woken_by_sync">Acum %1$s a fost sincronizat</string>
+    <string name="app_state_woken_by_widget">Acum %1$s widget-ul a fost updatat.</string>
+    <string name="app_state_woken_directly">%1$s a fost pornita direct de %2$s</string>
+    <string name="app_title_service_disabled">Greenificare (fara auto-hibernare)</string>
+    <string name="app_waker_google">Serviciile Google</string>
+    <string name="app_waker_system">Sistemul Andoid</string>
+    <string name="app_waker_unknown">Surse necunoscute</string>
+    <string name="device_admin_for_automation">Automatizator hibernare.</string>
+    <string name="device_admin_for_automation_description">Pernite Greenify sa opreasca ecranul imediat dupa terminatrea procesului de hibernare automata.</string>
+    <string name="device_admin_warning_when_disabling">Daca este dezactiva, Greenify nu va putea sa execute auto hibernarea cand ecranul este oprit.</string>
+    <string name="dialog_app_picker_guide_button">Mergi la launcher</string>
+    <string name="dialog_app_picker_guide_message">Acum veti fi trimis in launcher. Deschideti aplicatia, apoi apasati pe notificare pentru a alege aplicatia.</string>
+    <string name="dialog_app_picker_guide_title">Cum sa alegeti aplicatia</string>
+    <string name="dialog_button_cancel">Anuleaza</string>
+    <string name="dialog_button_continue">Continuați</string>
+    <string name="dialog_button_insist">Insistați</string>
+    <string name="dialog_button_later_by_oneself">O voi face mai tarziu</string>
+    <string name="dialog_button_learn_more">Afla mai mult</string>
+    <string name="dialog_button_opt_in">optați</string>
+    <string name="dialog_button_opt_out">nu optați</string>
+    <string name="dialog_confirmation_unsafe_to_hibernate">Aplicatia, in aceasta stare, nu este sigura, daca este hibernata. Fortand hibernarea, se poate intampla ca functiile aplicatiei sa se intrerupa sau sa pierdeti date.</string>
+    <string name="dialog_cutoff_message">"Intreruperea pornirii procesului poate intrerupe functionalitatea acestei aplicatii sau a aplicatiilor dependente de aceasta
+
+Daca se intampla ceva rau, te rog ataseaza intreruperea.
+
+Afectata %s"</string>
+    <string name="dialog_cutoff_title">Avertisment</string>
+    <string name="dialog_degreenified_message">În ciuda degreenifierii, aplicația este încă în hibernare (toate acțiuniile ei în background nu au niciun efect) până când o porniți manual.</string>
+    <string name="dialog_degreenified_title">Atentie !</string>
+    <string name="dialog_donation_corrupted_message">Pachetul de donatii este corupt. Doriti sa il reinstalati din Google Play ?</string>
+    <string name="dialog_greenify_confirmation_message">Sunteti sigur ca vreti sa greenificati %1$s</string>
+    <string name="dialog_greenifying_system_apps">Greenificarea aplicatiilor sistemului este momentan o functie experimentala disponibila doar cu pachetul de donatii.</string>
+    <string name="dialog_incompatible_rom_title">ROM-ul nu este compatibil</string>
+    <string name="dialog_ingreenfiable_message_for_system_app">Ne cerem scuze, insa aplicatiile de sistem nu sunt sigur de greenificat</string>
+    <string name="dialog_ingreenfiable_title">Nu poate fii Greenify-ată aplicația \"%1$s\"</string>
+    <string name="dialog_labs_incompatible_rom_message">Nu s-a putut activa această proprietate. S-ar putea să fie incompatibilă cu ROM-ul dumneavoastră.</string>
+    <string name="dialog_labs_operation_failure_message">Operatiune esuata.</string>
+    <string name="dialog_labs_state_set_failure_message">Nu s-a putut seta starea proprietății!</string>
+    <string name="dialog_message_donation_package_exclusive">"Aceasta caracteristica este disponibile doar daca instalati aplicatia Pachet de Donatie.
+
+Cumparati aplicatia Pachet de Donatie pentru a debloca caracteristicile experimentale ale aplicatiei Geenify."</string>
+    <string name="dialog_option_always_ignore_state">Intotdeauna ignora starea de rulare(a aplicatiei)</string>
+    <string name="dialog_root_operation_failure_message">Nu s-a putut realiza operatiunea. Va rugam sa va asigurati ca exista privilegii root.</string>
+    <string name="dialog_thank4donation_message">"Va multumesc pentru donatie ca sa pot continua dezvoltarea.
+
+Puteti activa acum functiile experimentale din meniul principal."</string>
+    <string name="dialog_thank4donation_title">Mulțumim</string>
+    <string name="dialog_title_confirmation">Confirmare</string>
+    <string name="dialog_title_error">Eroare</string>
+    <string name="dialog_verification_error_message">Nu se poate verifica donatia. Va rugam sa va verificati conexiunea la retea si sa incercati din nou mai tarziu.</string>
+    <string name="dialog_verification_fatal_error">Nu putem verifica donatia, va rog raportai aceasta problema.</string>
+    <string name="dialog_version_mismatch_message">Va rugam sa actualizati aplicatia la ultima versiune.</string>
+    <string name="dialog_version_mismatch_title">Incompatibilate versiuni</string>
+    <string name="dialog_warning_for_greenifying_launcher">Ai incercat sa greenifici applicatia implicita.Nu este recomandat sa greenifici aplicatiile utilizate frecvent.</string>
+    <string name="dialog_warning_title">Atentie !</string>
+    <string name="dialog_xposed_module_inactive_message">Modulul Xposed pentru Greenify nu este inca activat. Trebuie sa il activati in installer-ul Xposed inainte pentru ca aceste optiuni sa functioneze.</string>
+    <string name="event_capture_video">Video inregistrat</string>
+    <string name="event_connectivity_changes">Schimbari conexiune internet</string>
+    <string name="event_media_connect">stocarea detașabilă este conectată</string>
+    <string name="event_media_eject">stocarea detașabilă este scoasă</string>
+    <string name="event_media_scan">stocarea este scanată</string>
+    <string name="event_postfix_volatile">(poate varia după stare)</string>
+    <string name="event_power_connected">cablul de curent este conectat</string>
+    <string name="event_power_disconnected">cablul de curent este deconectat</string>
+    <string name="event_take_photo">Imaginea a fost capturata</string>
+    <string name="event_unlock_keyguard">keyguard este deblocată</string>
+    <string name="event_update_apps">aplicația este updatată</string>
+    <string name="guide_btn_activate_module">Activati modul si restartati</string>
+    <string name="guide_btn_install_xposed_installer">Instalati Xposed Installer</string>
+    <string name="guide_btn_setup_xposed_framework">Setari framework Xposed</string>
+    <string name="guide_link_why_xposed">La ce foloseste framework-ul Xposed ?</string>
+    <string name="guide_sub_title">Ghid setare</string>
+    <string name="guide_title">Optiune experimentala</string>
+    <string name="menu_about">Despre</string>
+    <string name="menu_action_accept">Acceptați</string>
+    <string name="menu_action_cutoff">Opriți calea de trezire</string>
+    <string name="menu_action_cutoff_condensed">Opriți</string>
+    <string name="menu_action_greenify">Vrăjitorul Greenify</string>
+    <string name="menu_action_greenify_condensed">Greenify...</string>
+    <string name="menu_action_hibernate">Porniți hibernearea acum</string>
+    <string name="menu_action_hibernate_condensed">Hibernează</string>
+    <string name="menu_action_hide">Ascunde</string>
+    <string name="menu_action_pick">Alegeți o aplicație pentru a fi Greenifiată</string>
+    <string name="menu_action_pick_condensed">Alegeți aplicația</string>
+    <string name="menu_action_reattach">Reatașați căile lui de trezire</string>
+    <string name="menu_action_reattach_condensed">Reatașați</string>
+    <string name="menu_action_reconsider_state">Reconsidera starea.</string>
+    <string name="menu_action_refresh">Reîmprospătați</string>
+    <string name="menu_action_run">Executati</string>
+    <string name="menu_action_ungreenify">Opriți Greenify pentru aplicația selectată</string>
+    <string name="menu_action_ungreenify_condensed">Opriți Greenify</string>
+    <string name="menu_action_unhide_all">Aratați totul</string>
+    <string name="menu_create_shortcut">Creeaza scurtatura pentru hibernare</string>
+    <string name="menu_disable_service">Opriți auto-hibernarea</string>
+    <string name="menu_enable_service">Porniți auto-hibernarea</string>
+    <string name="menu_reset_gesture">Reseteaza miscarea \"ridica\"</string>
+    <string name="no_app_picked">Nicio aplicatie selectata</string>
+    <string name="notification_app_picker_text">Pornește-ți aplicația, apoi apasă aici pentru a o alege.</string>
+    <string name="notification_app_picker_ticker">"Porniți aplicatia dumneavoastră mai întâi.
+Apoi apăsați pe această notificare a lui APP PICKER"</string>
+    <string name="notification_app_picker_title">APP PICKER pentru Greenify</string>
+    <string name="notification_listener_title">Supraveghetor Notificari</string>
+    <string name="notification_text_workaround_talking">Daca experimentati problema vorbitului aleator a dispozitivului.</string>
+    <string name="notification_timer_coalesced_subtext">Optimizat automat de GREENIFY.</string>
+    <string name="notification_timer_coalesced_title">Temporizator periodic coalescent.</string>
+    <string name="placeholder_show_all">Mai multe aplicatii</string>
+    <string name="prefs_cat_donation_only_features">Este nevoie de aplicatia Pachet de Donatie.</string>
+    <string name="prefs_cat_experimental_features">Proprietăți experimentale</string>
+    <string name="prefs_cat_xposed_donation_features">Este nevoie de aplicatiile Xposed &amp;amp; Pachet de Donatie.</string>
+    <string name="prefs_cat_xposed_only_features">Este nevoie de Xposed Framework.</string>
+    <string name="prefs_labs_automated_hibernation_title">Hibernare automata (4.1+)</string>
+    <string name="prefs_labs_block_notification_abuse_summary">Anumite aplicatii folosesc o vulnerabilitate a Android-ului (dinainte de 4.3) pentru a accesa fara drept prioritatea de a ramane salvate in memoria RAM in situatii de memorie scazut. Aceste aplictii vor fi fals recunoscute ca \"Perceptibile\" de catre Greenify si nu vor hiberna.</string>
+    <string name="prefs_labs_block_notification_abuse_title">Blocați abuzul stării de către aplicație</string>
+    <string name="prefs_labs_boost_mode_summary">Creste performantele si compatibilitatea, in special daca experimentati erori de hibernare sau de ROOT.</string>
+    <string name="prefs_labs_boost_mode_title">Modul Boost</string>
+    <string name="prefs_labs_gcm_push_summary">"Permite mesajului push GCM(Google Cloud Messaging) sa scoata din starea de hibernare aplicatiile, exceptand aplicatiile la care nitificarile sunt dezactivate in sistem(setare-aplicatii)
+Te rog activeaza \"Pastreaza Notificarile\" pentru a evita pierderea notificarilor dupa re-hibernare."</string>
+    <string name="prefs_labs_gcm_push_title">GCM push pentru aplicațiile greenifiate</string>
+    <string name="prefs_labs_reveal_hidden_sync_title">Afiseaza Sincronizarea ascunsa.</string>
+    <string name="prefs_labs_root_mode_summary_boost">Lucrez in \"Modul Boost\" (vezi mai jos) - care este modul recomandat.</string>
+    <string name="prefs_labs_system_apps_limited_title">Hiberneaza aplicatiile de sistem(limitat).</string>
+    <string name="prefs_labs_system_apps_summary">Destituie aplicatiile de sistem de imunitatea la hibernare, facandu-le pe majoritatea hibernabile.</string>
+    <string name="prefs_labs_system_apps_title">Aplicațiile sistemului se Greenifiază</string>
+    <string name="prefs_labs_telephony_wakeup_summary">Permite evenimentelor de telefonie (apel, SMS, etc) sa trezeasca aplicatiile hibernate, astfel aplicatiile de telefonie sau de mesagerie pot functiona corect.</string>
+    <string name="prefs_labs_telephony_wakeup_title">Trezire Telefonică</string>
+    <string name="prefs_labs_timer_coalescing_title">Timer pornire coalescenta (4.4+)</string>
+    <string name="prefs_labs_wakeup_tracker_title">Supraveghetor Treziri</string>
+    <string name="prefs_labs_working_mode_title">Mod de lucru.</string>
+    <string name="progress_be_hibernating">Hiberneaza...</string>
+    <string name="section_alarm">Pornire programată (de când ultima pornire)</string>
+    <string name="section_alarm_tips">"Aceste aplicații s-au programat singure pentru pornirea silențioasă, încetinind astfel dispozitivul și golind bateria.
+
+Aveți grijă la cei care vă deblochează dispozitivul frecvent."</string>
+    <string name="section_all_apps">Mai mult</string>
+    <string name="section_hibernated">Hibernate</string>
+    <string name="section_pending">In curs</string>
+    <string name="section_pending_auto">Se va hiberna in cateva minute de la inchiderea ecranului</string>
+    <string name="section_pending_tip_nonroot">Aceste aplicații sunt trezite și devin inactive acum, trebuie să le puneți manual înapoi la hibernare.</string>
+    <string name="section_postponed">Nu hiberneaza automat</string>
+    <string name="section_postponed_tip">Greenify nu va pune aceste aplicații in modul de hibernare automat din cauza motivelor afișate, numai dacă starea se schimbă mai târziu.</string>
+    <string name="section_receiver">S-ar putea să incetinească dispozitivul atunci când ...</string>
+    <string name="section_receiver_tip">"Aceste aplicații pot încetinii dispozitivul atunci când anumite evenimente au loc arbitrar.
+
+Mai multe aplicații aici, mai puțin sensibil la evenimente."</string>
+    <string name="section_service">Ruleaza in fundal</string>
+    <string name="section_service_tip">"Aplicatiile care ruleaza in fundal folosesc o anumita cantitate de memorie si pot incetiniti arbitrar dispozitivul
+
+Pastrati aceasta lista pe cat de scurt posibila"</string>
+    <string name="service_cleaner">Curatitor</string>
+    <string name="showcase_accessibility_setting">Activaţi automatizarea</string>
+    <string name="showcase_manual_hibernation_automation">Acest proces manual, poate fi automatizat cu ajutorul serviciului de accesibilitate, oferit de aplicatia Greenify</string>
+    <string name="showcase_manual_hibernation_desc">Datorita restrictiilor sistemului Android, cand se lucreaza in modul fara root, va trebui sa apasati manual butonul \"Oprire fortata\" ca sa terminati hibernarea.</string>
+    <string name="showcase_manual_hibernation_title">Hibernare manuala</string>
+    <string name="toast_accessibility_setting">Activeaza sau dezactiveaza serviciul de accesibilitate a aplicatiei Greeenify aici.</string>
+    <string name="toast_action_undo">UNDO.</string>
+    <string name="toast_already_greenified">\"%1$s\" este deja Greenifiată.</string>
+    <string name="toast_app_no_launcher_entry">Aceasta aplicatia nu are scurtatura in launcher.</string>
+    <string name="toast_apps_hibernated">%1$s hibernează.</string>
+    <string name="toast_apps_hidden">Aplicatii ascunse.</string>
+    <string name="toast_auto_hibernation_failure_tip">"Va rugam sa va asigurati ca Greenify are privilegii de root. (anumite aplicatii de root management necesita explicit reacordarea privilegilor dupa fiecare actualizare)
+
+Daca tot intampinati erori de hibernare, va rugam sa incercati un alt manager de root sau \"Boost Mode\" din functii experimentale."</string>
+    <string name="toast_cannot_switch_to_launcher">Nu se poate comuta către launcher-ul tău, vă rugăm să apasați manual butonul Home.</string>
+    <string name="toast_failed_to_greenify">Nu s-a putut greenifia aplicația \"%1$s\"</string>
+    <string name="toast_gcm_tip">"GCM (Google Cloud Messaging) este integrată în această aplicație, și poate fi folosit pentru notificări de tip push. Nu va mai merge dacă este greenifiată.
+
+O proprietate experminetala in pachetul pentru donatori activează GCM push pentru aplicațiile greenifiate."</string>
+    <string name="toast_hibernation_failure">Nu s-a putut pune aplicația %1$s in modul de hibernare</string>
+    <string name="toast_need_reboot">Nu este disponibila pana la repornirea dispozitivului.</string>
+    <string name="toast_none_hibernated">Nicio aplicatie nu necesita hibernarea</string>
+    <string name="toast_opted_in">Va multumesc pentru participare !</string>
+    <string name="toast_opted_out">Ați optat în afară. Nicio statistică anonima nu va fi colectată.</string>
+    <string name="toast_service_disabled">"Auto-hibernarea este dezactivata.
+Aplicatiile greenificate nu vor mai hiberna automat."</string>
+    <string name="toast_service_enabled">HIbernarea automată este activată.</string>
+    <string name="toast_shortcut_created">O scurtatura a fost creata in launcher-ul dumnevoastra pentru hibernare la un click distanta.</string>
+    <string name="toast_tasker_wakeup_unavail_in_nonroot">Imi pare rau, este disponibil doar in modul ROOT.</string>
+    <string name="wizard_step_enjoy">Bucurați-vă</string>
+    <string name="wizard_step_enjoy_desc">experiență fluentă și de durată în tocmai ca în prima zi.</string>
+    <string name="wizard_step_forget">Uita</string>
+    <string name="wizard_step_forget_desc">cât despre curățare, lăsați Greenify să o facă pe ascuns.</string>
+    <string name="wizard_step_greenify">Greenify</string>
+    <string name="wizard_step_greenify_desc">bateria consumata inutil, memorie incarcata si aplicatii care ruleaza in fundal(backgound).</string>
+    <string name="app_waker_root">radacina</string>
+    <string name="app_waker_shell">shell</string>
+    <string name="event_wifi_scan">W-fi a fost scanat</string>
+    <string name="prefs_labs_automated_hibernation_summary">Pentru modul restrictionat(non-root), hibernarea va avea loc la cateva minute dupa ce ecranul se va opri. Ecranul va porni, se va porni auto hibernarea, dupa care ecranul se va opri.( este necesar Android 4.1+, Accesibilitate, Administrator Dispozitiv si ecran de blocare nesigur- fara pin sau pattern).</string>
+    <string name="prefs_labs_deep_hibernation_title">Hibernare Profunda (alpha)</string>
+    <string name="prefs_labs_no_remove_notifications_limited_title">Nu Dezactiva Notificarile (limitat)</string>
+    <string name="prefs_labs_no_remove_notifications_title">Nu Dezactiva Notificarile</string>
+    <string name="prefs_labs_reveal_hidden_sync_summary">Afiseaza Sincronizarea ascunsa a contului in \"Setari-Conturi\", folositi prefixul \"*\".</string>
+    <string name="prefs_labs_root_mode_summary_off">Lucreaza in mod restrictionat(non-root). Daca dispozitivul este ROOT-at, va rog sa activati aceasta optiune, pentru a debloca toate optiunile aplicatiei GREENIFY.</string>
+    <string name="prefs_labs_root_mode_summary_on">Lucreaza in modul ROOT(drepturi administrator). Daca dispozitivul nu este ROOT-at, va rugam sa dezactivati aceasta optiune, pentru a asigura functionarea corecta.</string>
+    <string name="service_wakeup_monitor">Monitor de Treziri</string>
+    <string name="toast_app_ingreenifiable">Imi pare rau, \"%1$s\" nu se poate hiberna.</string>
+    <string name="toast_apps_not_hibernating">Nu hiberneaza: %1$s</string>
+    <string name="toast_auto_hibernation_oos">Serviciul de Auto Hibernare a fost blocat de o aplicatie, sau setarile de sistem(ex. Mod Stamina in dispozitivele Sony), va rog poneti pe lista de deblocare aplicatia Greenify pentru ca hibernarea automata sa functioneze.</string>
+    <string name="toast_auto_hibernation_restarting">Serviciul de Auto-Hibernare a fost repornit..(probabil din cauza cantitatii mici de memorie disponibila).</string>
+    <string name="toast_no_auto_hibernation_for_secure_keyguard">Imi pare rau, hibernarea automata nu se poate face, daca ecranul de blocare este setat cu pin. Poti folosi scurtatura \" Hiberneaza si Ecran de Blocare\" pentru acest lucru.</string>
+    <string name="toast_no_auto_hibernation_for_secure_keyguard_with_navbar">Scuze, hibernarea automata nu poate functiona daca ecranul de blocare este securizat. Miscarea \"Ridica\" pe butonul \"Acasa\" este recomandata pentru scurtatura \"Hiberneaza si inchide\"</string>
+</resources>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="prefs_labs_working_mode_options">
+        <item>&lt;b>ללא root&lt;/b>"
+"&lt;small>אילו מכשירך אינו פתוח באמצעות root&lt;/small></item>
+        <item>&lt;b>Root&lt;/b>"
+"&lt;small>אילו מכשירך אינו פתוח באמצעות root&lt;/small></item>
+        <item>&lt;b>האץ&lt;/b>"
+"&lt;small>המצב הטוב ביותר לביצועים ותאימות (נדרשת מסגרת מסוג Exposed)&lt;/small></item>
+    </string-array>
+</resources>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item android:icon="@drawable/ic_action_cutoff" android:id="@id/action_cutoff" android:visible="false" android:menuCategory="container" android:title="@string/menu_action_cutoff" android:titleCondensed="@string/menu_action_cutoff_condensed" app:showAsAction="ifRoom" />
+    <item android:icon="@drawable/ic_action_run" android:id="@id/action_run" android:visible="false" android:menuCategory="container" android:title="@string/menu_action_run" android:titleCondensed="@string/menu_action_run" app:showAsAction="ifRoom" />
+    <item android:icon="@drawable/ic_action_add" android:id="@id/action_add" android:menuCategory="container" android:title="@string/menu_action_greenify" android:titleCondensed="@string/menu_action_greenify_condensed" app:showAsAction="ifRoom" />
+    <item android:icon="@drawable/ic_action_refresh" android:id="@id/action_refresh" android:menuCategory="container" android:title="@string/menu_action_refresh" android:titleCondensed="@string/menu_action_refresh" app:showAsAction="never" />
+    <item android:icon="@drawable/ic_action_remove" android:id="@id/action_remove" android:menuCategory="container" android:title="@string/menu_action_ungreenify" android:titleCondensed="@string/menu_action_ungreenify_condensed" app:showAsAction="never" />
+    <item android:icon="@drawable/ic_action_hibernate" android:id="@id/action_hibernate" android:menuCategory="container" android:title="@string/menu_action_hibernate" android:titleCondensed="@string/menu_action_hibernate_condensed" app:showAsAction="never" />
+    <item android:id="@id/action_reattach" android:visible="false" android:menuCategory="container" android:title="@string/menu_action_reattach" android:titleCondensed="@string/menu_action_reattach_condensed" app:showAsAction="never" />
+    <item android:id="@id/action_reconsider_state" android:visible="false" android:menuCategory="container" android:title="@string/menu_action_reconsider_state" app:showAsAction="never" />
+    <item android:id="@id/menu_disable_service" android:menuCategory="system" android:title="@string/menu_disable_service" app:showAsAction="never" />
+    <item android:id="@id/menu_enable_service" android:menuCategory="system" android:title="@string/menu_enable_service" app:showAsAction="never" />
+    <item android:id="@id/menu_create_shortcut" android:menuCategory="system" android:title="@string/menu_create_shortcut" app:showAsAction="never" />
+    <item android:id="@id/menu_reset_gesture" android:visible="false" android:menuCategory="system" android:title="@string/menu_reset_gesture" app:showAsAction="never" />
+    <item android:id="@id/menu_settings" android:menuCategory="system" android:title="@string/menu_settings" app:showAsAction="never" />
+    <item android:id="@id/menu_test" android:visible="@bool/debug" android:menuCategory="system" android:title="Test" app:showAsAction="never" />
+    <item android:id="@id/menu_about" android:menuCategory="system" android:title="@string/menu_about" app:showAsAction="never" />
+</menu>

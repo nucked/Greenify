@@ -1,0 +1,350 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_home_description">Ana ekrana git</string>
+    <string name="abc_action_bar_home_description_format">%1$s, %2$s</string>
+    <string name="abc_action_bar_home_subtitle_description_format">%1$s, %2$s, %3$s</string>
+    <string name="abc_action_bar_up_description">Yukarı git</string>
+    <string name="abc_action_menu_overflow_description">Diğer seçenekler</string>
+    <string name="abc_action_mode_done">Tamamlandı</string>
+    <string name="abc_activity_chooser_view_see_all">Tümünü göster</string>
+    <string name="abc_activitychooserview_choose_application">Bir uygulama seçin</string>
+    <string name="abc_capital_off">KAPAT</string>
+    <string name="abc_capital_on">AÇ</string>
+    <string name="abc_search_hint">Ara…</string>
+    <string name="abc_searchview_description_clear">Sorguyu temizle</string>
+    <string name="abc_searchview_description_query">Arama sorgusu</string>
+    <string name="abc_searchview_description_search">Ara</string>
+    <string name="abc_searchview_description_submit">Sorguyu gönder</string>
+    <string name="abc_searchview_description_voice">Sesli arama</string>
+    <string name="abc_shareactionprovider_share_with">Şununla paylaş</string>
+    <string name="abc_shareactionprovider_share_with_application">%s ile paylaş</string>
+    <string name="abc_toolbar_collapse_description">Daralt</string>
+    <string name="common_google_play_services_api_unavailable_text">%1$s, şu anda kullanılamayan bir veya daha fazla Google Play hizmetini gerektiriyor. Yardım için lütfen geliştiriciyle iletişim kurun.</string>
+    <string name="common_google_play_services_enable_button">Google Play hizmetlerini etkinleştir</string>
+    <string name="common_google_play_services_enable_text">Google Play hizmetlerini etkinleştirmezseniz %1$s çalışmaz.</string>
+    <string name="common_google_play_services_enable_title">Google Play hizmetlerini etkinleştirin</string>
+    <string name="common_google_play_services_install_button">Google Play hizmetlerini yükle</string>
+    <string name="common_google_play_services_install_text_phone">%1$s, şu anda telefonunuzda bulunmayan Google Play hizmetleri olmadan çalışmaz.</string>
+    <string name="common_google_play_services_install_text_tablet">%1$s, şu anda tabletinizde bulunmayan Google Play hizmetleri olmadan çalışmaz.</string>
+    <string name="common_google_play_services_install_title">Google Play hizmetlerini edinin</string>
+    <string name="common_google_play_services_invalid_account_text">Belirtilen hesap bu cihazda mevcut değil. Lütfen farklı bir hesap seçin.</string>
+    <string name="common_google_play_services_invalid_account_title">Geçersiz Hesap</string>
+    <string name="common_google_play_services_network_error_text">Google Play hizmetlerine bağlanmak için bir veri bağlantısı gerekiyor.</string>
+    <string name="common_google_play_services_network_error_title">Ağ Hatası</string>
+    <string name="common_google_play_services_notification_ticker">Google Play hizmetleri hatası</string>
+    <string name="common_google_play_services_restricted_profile_text">Kısıtlı bir profilden hesaplara erişim desteklenmiyor.</string>
+    <string name="common_google_play_services_restricted_profile_title">Kısıtlı Profil</string>
+    <string name="common_google_play_services_sign_in_failed_text">Belirtilen hesapta oturum açılırken hata oluştu. Lütfen farklı bir hesap seçin.</string>
+    <string name="common_google_play_services_sign_in_failed_title">Oturum açılamadı</string>
+    <string name="common_google_play_services_unknown_issue">%1$s, Google Play hizmetleriyle ilgili sorun yaşıyor. Sorun devam ederse lütfen yardım için geliştiriciyle iletişim kurun.</string>
+    <string name="common_google_play_services_unsupported_text">%1$s, cihazınız tarafından desteklenmeyen Google Play hizmetlerine ihtiyaç duyuyor. Yardım için üreticiyle iletişim kurun.</string>
+    <string name="common_google_play_services_unsupported_title">Google Play hizmetleri</string>
+    <string name="common_google_play_services_update_button">Güncelle</string>
+    <string name="common_google_play_services_update_text">Google Play hizmetlerini güncellemezseniz %1$s çalışmaz.</string>
+    <string name="common_google_play_services_update_title">Google Play hizmetlerini güncelleyin</string>
+    <string name="common_google_play_services_updating_text">%1$s, şu anda güncellenmekte olan Google Play hizmetleri olmadan çalışmaz.</string>
+    <string name="common_google_play_services_updating_title">Google Play hizmetleri güncelleniyor</string>
+    <string name="common_google_play_services_wear_update_text">Google Play hizmetlerinin yeni sürümü gerekiyor. Kendisini kısa süre içinde güncelleyecektir.</string>
+    <string name="common_open_on_phone">Telefonda aç</string>
+    <string name="common_signin_button_text">Oturum aç</string>
+    <string name="common_signin_button_text_long">"Google'da oturum aç"</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="about_donation_summary">Ek özellikler için bağış sürümünü edinin.</string>
+    <string name="about_donation_summary_donated">Deneysel özellikler ana menüden etkinleştirilebilir.</string>
+    <string name="about_donation_title">Bağış</string>
+    <string name="about_donation_title_donated">Bağış için teşekkürler</string>
+    <string name="about_licenses_title">Lisanslar</string>
+    <string name="about_raise_your_voice_program_detail">"Greenify, uygulama geliştirmede daha iyi bir ün için, \"uyutulmuş\" uygulamaların geliştiricileri için Sesini Yükselt hareketi düzenleyecektir.
+
+Sesinizi duyurmak için, Greenify özel hayatınızı ihlal etmeyen isimsiz veriler toplar. İstediğiniz zaman bu hareketten çıkabilirsiniz."</string>
+    <string name="about_raise_your_voice_program_summary">Siz bir faklılık yapabilirsiniz!</string>
+    <string name="about_raise_your_voice_program_title">\"Sesini Duyur!\" hareketi</string>
+    <string name="about_translation_credit">Arif GÜLER [arifguler@yandex.com]</string>
+    <string name="about_translation_title">Çeviri</string>
+    <string name="about_uninstall">Uygulamayı kaldır</string>
+    <string name="about_version_summary">Bu uygulamayı değerlendir.</string>
+    <string name="about_version_title">Sürüm</string>
+    <string name="accessibility_service_description">"Bu erişilebilirlik servisi Greenify'ın bazı önemli özelliklerinin çalışabilmesi için gereklidir.
+
+Muhtemel gizlilik tehlikesi ile ilgili uyarı alabilirsiniz. Bu uyarı herhangi bir erişilebilirlik servisi için olağan bilgilendirici bir uyarıdır. Bu servisle kişisel bilgilerinizi ASLA toplamayacağımıza söz veriyoruz.
+
+Bazı Samsung cihazları herhangi bir erişilebilirlik servisi etkinleştirildiğinde sesli okuma sorunu yaşıyorlar. Eğer bu sorunu yaşarsanız, \"Ayarlar\" kısmından ilgili seçeneği etkinleştirin."</string>
+    <string name="analysis_detail_alarm_with_wakeup">%1$d kez çalışmış (%2$d uyanma dahil)</string>
+    <string name="app_analyzer_name">Uygulama Analizcisi</string>
+    <string name="app_analyzer_subtitle">%1$d uygulama seçildi</string>
+    <string name="app_shortcut_hibernate">Şimdi Uyut</string>
+    <string name="app_shortcut_hibernate_lock">Uyut + Ekranı Kilitle</string>
+    <string name="app_shortcut_nothing">Hiçbir şey</string>
+    <string name="app_shortcut_wakeup">Uyandır</string>
+    <string name="app_state_always_ignored">Çalışma durumu uyutma için görmezden geliniyor</string>
+    <string name="app_state_hibernation_failed">%1$s süre önce uyutulamadı</string>
+    <string name="app_state_provider_in_use">Hizmet sağlayıcı, %1$s tarafından kullanılıyor</string>
+    <string name="app_state_service_in_use">Hizmet, %1$s tarafından kullanılıyor</string>
+    <string name="app_state_unsaveable">Kurtarılamayan durum</string>
+    <string name="app_state_woken_by_activity">%1$s süre önce uygulama açıldı</string>
+    <string name="app_state_woken_by_app">%1$s süre önce %2$s tarafından uyandırıldı</string>
+    <string name="app_state_woken_by_authenticator">%1$s süre önce yetkilendirildi</string>
+    <string name="app_state_woken_by_backup">%1$s süre önce yedekleme yapıldı</string>
+    <string name="app_state_woken_by_broadcast">%1$s süre önce açıkca bildirildi</string>
+    <string name="app_state_woken_by_content_provider">%1$s süre önce içerik sağlandı</string>
+    <string name="app_state_woken_by_push_msg">%1$s süre önce bildirim alındı</string>
+    <string name="app_state_woken_by_search">%1$s süre önce içerik arandı</string>
+    <string name="app_state_woken_by_service">%1$s süre önce hizmet başlatıldı</string>
+    <string name="app_state_woken_by_sync">%1$s süre önce senkronize edildi</string>
+    <string name="app_state_woken_by_widget">%1$s süre önce ekran aracı güncellendi</string>
+    <string name="app_state_woken_directly">%1$s önce %2$s tarafından doğrudan uyandırıldı</string>
+    <string name="app_title_service_disabled">Greenify (Oto-Uyutma Kapalı)</string>
+    <string name="app_waker_google">Google hizmetleri</string>
+    <string name="app_waker_system">Android sistemi</string>
+    <string name="app_waker_unknown">Bilinmeyen kaynak</string>
+    <string name="device_admin_for_automation">Greenify Otomatikleştirici</string>
+    <string name="device_admin_for_automation_description">"Otomatik uyutmadan sonra Greenify'ın hemen ekranı kapatmasına izin ver."</string>
+    <string name="device_admin_warning_when_disabling">Devre dışı bırakılırsa, ekran kapandığında Greenify uyutma işlemini otomatikleştiremeyecek.</string>
+    <string name="dialog_app_picker_guide_button">Başlatıcıya git</string>
+    <string name="dialog_app_picker_guide_message">Şimdi başlatıcı açılacak. Oradan uygulamayı açın, sonra seçmek için bildirime dokunun.</string>
+    <string name="dialog_app_picker_guide_title">Nasıl uygulama seçilir</string>
+    <string name="dialog_button_cancel">İptal</string>
+    <string name="dialog_button_continue">Devam</string>
+    <string name="dialog_button_insist">Zorla</string>
+    <string name="dialog_button_later_by_oneself">Daha sonra yapacağım</string>
+    <string name="dialog_button_learn_more">Daha fazlasını öğren</string>
+    <string name="dialog_button_opt_in">Katıl</string>
+    <string name="dialog_button_opt_out">Çık</string>
+    <string name="dialog_confirmation_unsafe_to_hibernate">Bu durumdaki uygulamaları uyutmak genellikle güvenli değildir. Zorla uyutma işlem bozukluklarına hatta veri kaybına sebep olabilir.</string>
+    <string name="dialog_cutoff_message">"Uyandırma yolunu kesmek, uygulamanın ya da o uygulamaya bağımlı diğer uygulamaların işlevselliğini bozabilir.
+
+Eğer istenmeyen durumlar olursa, lütfen uygulamayı tekrar bağlayın.
+
+Etkilenen: [%s]"</string>
+    <string name="dialog_cutoff_title">Uyarı</string>
+    <string name="dialog_degreenified_message">\"Uyandırılmasına\" rağmen, siz çalıştırana kadar uygulama derin uykuda kalacaktır (bütün arka plan işlemleri çalışmayacak).</string>
+    <string name="dialog_degreenified_title">Dikkat</string>
+    <string name="dialog_donation_corrupted_message">"Bağış paketi bozulmuş. Lütfen Google Play'den tekrar yükleyin!"</string>
+    <string name="dialog_greenify_confirmation_message">%1$s i gerçekten \"uyutmak\" istiyor musunuz</string>
+    <string name="dialog_greenifying_system_apps">Sistem uygulamalarını \"uyutmak\" şu an sadece bağış sürümüyle kullanılabilen deneysel bir özelliktir.</string>
+    <string name="dialog_incompatible_rom_title">Uyumsuz ROM</string>
+    <string name="dialog_ingreenfiable_message_for_system_app">Üzgünüz, sistem uygulamaları, genelde \"uyutulmak\" için uygun değildir.</string>
+    <string name="dialog_ingreenfiable_title">%1$s Uyutulamaz</string>
+    <string name="dialog_labs_incompatible_rom_message">Bu özellik etkinleştirilemedi. Sizin ROMunuzla uyumlu olmayabilir.</string>
+    <string name="dialog_labs_operation_failure_message">İşlem uygulanamadı.</string>
+    <string name="dialog_labs_state_set_failure_message">Özellik durumu ayarlanamadı!</string>
+    <string name="dialog_message_donation_package_exclusive">"Bu özellik şimdilik sadece bağış paketi ile mevcuttur.
+
+Bütün deneysel özellikleri kullanabilmek için şimdi bağış paketini satın alın."</string>
+    <string name="dialog_option_always_ignore_state">Çalışma durumunu görmezden gel</string>
+    <string name="dialog_root_operation_failure_message">Bu işlem gerçekleştirilemedi. Lütfen Yetkili Kullanıcı ayrıcalıklarını edindiğinizden emin olun.</string>
+    <string name="dialog_thank4donation_message">"Uygulamanın gelişimini destekleyen bağışınız için teşekkürler.
+
+Şimdi ana menüden ek özellikleri etkinleştirebilirsiniz."</string>
+    <string name="dialog_thank4donation_title">Teşekkürler</string>
+    <string name="dialog_title_confirmation">Doğrulama</string>
+    <string name="dialog_title_error">Hata var</string>
+    <string name="dialog_verification_error_message">Bağış doğrulanamadı. Lütfen ağ bağlantınızı kontrol edin ve sonra tekrar deneyin.</string>
+    <string name="dialog_verification_fatal_error">Bağış doğrulanamıyor, lütfen bu hatayı bildirin.</string>
+    <string name="dialog_version_mismatch_message">Lütfen bu uygulamayı en son sürüme güncelleyin.</string>
+    <string name="dialog_version_mismatch_title">Sürümler uyuşmuyor.</string>
+    <string name="dialog_warning_for_greenifying_launcher">Varsayılan başlatıcıyı \"uyutmaya\" çalıştınız. Çok kullanılan uygulamaları \"uyutmanız\" önerilmez.</string>
+    <string name="dialog_warning_title">Uyarı</string>
+    <string name="dialog_xposed_module_inactive_message">"Greenify'ın Xposed modülü henüz etkinleştirilmemiş. Bu özelliklerin çalışması için ilk önce modülü Xposed yükleyicisinde etkinleştirmeniz gerekiyor."</string>
+    <string name="event_capture_video">vidyo çekildiğinde</string>
+    <string name="event_connectivity_changes">ağ bağlantısı değiştiğinde</string>
+    <string name="event_media_connect">çıkarılabilir depolama bağlandığinda</string>
+    <string name="event_media_eject">çıkarılabilir depolama çıkartıldığında</string>
+    <string name="event_media_scan">depolama tarandığında</string>
+    <string name="event_postfix_volatile">(duruma göre değişebilir)</string>
+    <string name="event_power_connected">güç bağlandığında</string>
+    <string name="event_power_disconnected">güç kesildiğinde</string>
+    <string name="event_take_photo">fotoğraf çekildiğinde</string>
+    <string name="event_unlock_keyguard">tuş kilidi açıldığında</string>
+    <string name="event_update_apps">Uygulama güncellendiğinde</string>
+    <string name="guide_btn_activate_module">Modülü Etkinleştir, Yeniden Başlat</string>
+    <string name="guide_btn_install_xposed_installer">Xposed Yükleyicisi ni Kur</string>
+    <string name="guide_btn_setup_xposed_framework">Xposed çerçeve programını Kur</string>
+    <string name="guide_link_why_xposed">Neden Xposed çerçeve programına ihtiyaç duyuyoruz?</string>
+    <string name="guide_sub_title">Güçlü modifiye çerçeve programı</string>
+    <string name="guide_title">Xposed Kurulum Rehberi</string>
+    <string name="menu_about">Hakkında</string>
+    <string name="menu_action_accept">Kabul et</string>
+    <string name="menu_action_cutoff">Uyandırma yolunu kes</string>
+    <string name="menu_action_cutoff_condensed">Kes</string>
+    <string name="menu_action_greenify">Greenify Sihirbazı</string>
+    <string name="menu_action_greenify_condensed">Uyut...</string>
+    <string name="menu_action_hibernate">Şimdi uyut</string>
+    <string name="menu_action_hibernate_condensed">Uyut</string>
+    <string name="menu_action_hide">Gizle</string>
+    <string name="menu_action_pick">\"Uyutacak\" bir uygulama seç</string>
+    <string name="menu_action_pick_condensed">Uygulama Seç</string>
+    <string name="menu_action_reattach">Uyandırma yollarını bağla</string>
+    <string name="menu_action_reattach_condensed">Bağla</string>
+    <string name="menu_action_reconsider_state">Çalışma durumunu gözden geçir</string>
+    <string name="menu_action_refresh">Yenile</string>
+    <string name="menu_action_run">Çalıştır</string>
+    <string name="menu_action_ungreenify">Seçilen uygulamayı \"uyandır\"</string>
+    <string name="menu_action_ungreenify_condensed">Uyandır</string>
+    <string name="menu_action_unhide_all">Hepsini göster</string>
+    <string name="menu_create_shortcut">Uyutma kısayolu oluştur</string>
+    <string name="menu_disable_service">Oto-Uyutmayı kapat</string>
+    <string name="menu_enable_service">Oto-Uyutmayı aç</string>
+    <string name="menu_reset_gesture">\"Çekme\" hareketini sıfırla</string>
+    <string name="no_app_picked">Hiçbir uygulama seçilmedi</string>
+    <string name="notification_app_picker_text">Uygulamanızı başlatın, sonra seçmek için buraya dokunun.</string>
+    <string name="notification_app_picker_ticker">"Önce uygulamanızı başlatın
+Sonra Uygulama Seçicinin bu bildirimine dokunun."</string>
+    <string name="notification_app_picker_title">Greenify Uygulama Seçici</string>
+    <string name="notification_listener_title">Bildirim Koruyucu</string>
+    <string name="notification_text_workaround_talking">Eğer cihazınızda ara sıra konuşma sorunu yaşıyorsanız</string>
+    <string name="notification_timer_coalesced_subtext">Greenify ile otomatik olarak iyileştirildi</string>
+    <string name="notification_timer_coalesced_title">Periyodik zamanlayıcı birleştirildi</string>
+    <string name="notification_title_workaround_talking">Konuşma sorunu için çözüm</string>
+    <string name="placeholder_show_all">Daha fazla uygulama göster</string>
+    <string name="prefs_cat_donation_only_features">Bağış Paketini gerektirenler</string>
+    <string name="prefs_cat_experimental_features">Deneysel Özellikler</string>
+    <string name="prefs_cat_xposed_donation_features">Xposed ve Bağış Paketini gerektirenler</string>
+    <string name="prefs_cat_xposed_only_features">Xposed Çerçeve programını gerektirenler</string>
+    <string name="prefs_labs_automated_hibernation_title">Otomatik uyut</string>
+    <string name="prefs_labs_block_notification_abuse_summary">"Bazı uygulamalar, düşük hafıza durumlarında kendilerini bellekte tutacak haksız öncelik sağlayan Android (4.3 öncesi) açığını kullanırlar. Bu uygulamalar Greenify'da yanlış biçimde \"Sabit/Kalıcı\" ve uyutulmuyor olarak tanımlanır."</string>
+    <string name="prefs_labs_block_notification_abuse_title">Bozuk Uygulama Bildirimlerini engelle</string>
+    <string name="prefs_labs_boost_mode_summary">Daha iyi performans ve uyumluluk. (Özellikle uyutma sorunu ya da ROOT sorunu yaşıyorsanız.)</string>
+    <string name="prefs_labs_boost_mode_title">Hızlı Mod</string>
+    <string name="prefs_labs_gcm_push_summary">"GCM iletilerinin uygulamaları - eğer sistemde (ayarlar - uygulamalar) bildirimleri devre dışı bırakılmadıysa - uyandırmasına izin verir.
+Lütfen tekrar uyutmadan sonra bildirimleri kaybetmemek için \"Bildirimleri Göster\" i de etkin kılın."</string>
+    <string name="prefs_labs_gcm_push_title">\"Uyutulmuş\" uygulamalar için GCM bildirimi</string>
+    <string name="prefs_labs_reveal_hidden_sync_title">Gizli Eşitlemeyi Göster</string>
+    <string name="prefs_labs_root_mode_summary_boost">\"Hızlı Mod\" da çalışıyor. (Aşağı bakın) - Önerilen moddur.</string>
+    <string name="prefs_labs_system_apps_limited_title">Sistem uygulamalarını uyut</string>
+    <string name="prefs_labs_system_apps_summary">Sistem uygulamalarını uyutmaya yarar.</string>
+    <string name="prefs_labs_system_apps_title">Sistem uygulamalarını \"uyut\"</string>
+    <string name="prefs_labs_telephony_wakeup_summary">Telefonsal işlemlerin (konuşma, SMS gibi) uygulamaları uyandırmasına izin verir, böylece konuşma ve SMS uygulamalarının beklendiği gibi çalışmasına imkan verilir.</string>
+    <string name="prefs_labs_telephony_wakeup_title">Telefonsal özelliklerin Uyandırması</string>
+    <string name="prefs_labs_timer_coalescing_summary">Bütün uygulamalar için (sadece KitKat için tasarlanmış uygulamalar değil) rastgele CPU işlemlerinde pil israfını azaltmak adına periyodik CPU uyanma zamanlayıcısı birleştiricisi. (Android 4.4+ gerekir)</string>
+    <string name="prefs_labs_timer_coalescing_title">Uyanma Zamanlayıcı Birleştiricisi (4.4+)</string>
+    <string name="prefs_labs_wakeup_tracker_summary">Uyutulmuş uygulamalarınızı açıkca çalıştıran uygulamaları takip eder, ve istendiğinde sonraki açılışları engelleyecek uyandırma yollarını keser.</string>
+    <string name="prefs_labs_wakeup_tracker_title">Uyandıran Uygulama Takipçisi</string>
+    <string name="prefs_labs_working_mode_title">Çalışma Modu</string>
+    <string name="progress_be_hibernating">Uyutuluyor...</string>
+    <string name="section_alarm">Planlı çalışma (son açılıştan beri)</string>
+    <string name="section_alarm_tips">"Bu uygulamalar kendilerini arka planda çalışmak için ayarladılar, Bu yüzden cihazınızı yavaşlatabilirler ve pili bitirebilirler.
+
+Sık sık cihazınızı uyandıran bu uygulamalara dikkat edin."</string>
+    <string name="section_all_apps">Dahası</string>
+    <string name="section_hibernated">Uyutulanlar</string>
+    <string name="section_pending">Elle uyutma bekliyor</string>
+    <string name="section_pending_auto">Ekran kapandıktan hemen sonra uyutulacak</string>
+    <string name="section_pending_tip_nonroot">Bu uygulamalar uyandırıldı ve şimdi boştalar, onları tekrardan uyutmanız gerekir.</string>
+    <string name="section_postponed">Otomatik Uyutulamıyor</string>
+    <string name="section_postponed_tip">Greenify eğer daha sonra bir değişiklik olmazsa, gösterilen sebepler yüzünden bu uygulamaları otomatik uyutmayacak.</string>
+    <string name="section_receiver">Belirli durumlarda cihazı yavaşlatabilenler...</string>
+    <string name="section_receiver_tip">"Bu uygulamalar belirli durumlarda cihazınızı aşırı şekilde yavaşlatabilirler.
+
+Ne kadar fazla uygulama olursa, cihaz o kadar yavaş çalışır."</string>
+    <string name="section_service">Arka planda çalışanlar</string>
+    <string name="section_service_tip">"Arka planda çalışan uygulamalar belleği belirli bir miktar kullanacaktır, ve cihazı biraz yavaşlatabilirler.
+
+Bu listeyi mümkün olduğunca az tutun."</string>
+    <string name="service_cleaner">Otomatik Uyut</string>
+    <string name="showcase_accessibility_setting">Oto-Uyutucuyu etkinleştir</string>
+    <string name="showcase_manual_hibernation_automation">Bu işlem Greenify tarafından sunulan erişilebilirlik servisi ile otomatikleştirilebilir.</string>
+    <string name="showcase_manual_hibernation_desc">Android sınırlaması nedeniyle, root-suz modda uyutma işlemi bu şekilde yapılmak zorunda. Lütfen uyutma işlemini bitirmek için, \"Durmaya Zorla\" yı tıklayın.</string>
+    <string name="showcase_manual_hibernation_title">Elle Uyut</string>
+    <string name="toast_accessibility_setting">Greenify erişilebilirlik hizmetini buradan etkinleştirin ya da devre dışı bırakın</string>
+    <string name="toast_action_undo">Geri al</string>
+    <string name="toast_already_greenified">%1$s zaten uyutulmuş.</string>
+    <string name="toast_app_no_launcher_entry">Bu uygulamanın başlatıcı girdisi yok.</string>
+    <string name="toast_apps_hibernated">%1$s uyutuldu.</string>
+    <string name="toast_apps_hidden">Gizli uygulamalar</string>
+    <string name="toast_auto_hibernation_failure_tip">"Lütfen Yönetici haklarını Greenify için sağladığınızdan emin olun. (Bazı Yönetici hakları düzenleme araçları, uygulamanın her güncellenmesinde hakların tekrardan sağlanmasını gerektirir)
+
+Eğer hala uyutma sorunu yaşarsanız, lütfen başka bir yönetim aracı kullanın ya da deneysel özelliklerdeki \"Hızlı Modu\" u açın."</string>
+    <string name="toast_cannot_switch_to_launcher">Başlatıcınız açılamadı, lütfen Ana ekran tuşuna basın.</string>
+    <string name="toast_failed_to_greenify">\"%1$s\" \"uyutulamadı.\"</string>
+    <string name="toast_gcm_tip">"Bu uygulamaya GCM (Google Bulut Mesajlaşma) hizmeti dahil edilmiştir, ve uygulama iletileri için kullanılabilir. Eğer \"uyutulursa\" bir daha bu hizmet kullanılamayacak.
+
+Bağış sürümündeki deneysel bir özellik, \"uyutulmuş\" uygulamalar için GCM iletilerini etkinleştirir."</string>
+    <string name="toast_gesture_reset">Ana ekran tuşundaki çekme hareketinin varsayılan işlevi sıfırlandı.</string>
+    <string name="toast_hibernation_failure">\"%1$s\" uyutulamadı.</string>
+    <string name="toast_need_reboot">Cihaz yeniden başlatılana kadar kullanılamaz</string>
+    <string name="toast_none_hibernated">Uyutulacak uygulama yok.</string>
+    <string name="toast_opted_in">Katılımınız için teşekkür ederiz!</string>
+    <string name="toast_opted_out">Sesini Duyur Hareketinden çıktınız. Hiçbir isimsiz bilgi toplanmayacak.</string>
+    <string name="toast_service_disabled">"Oto-Uyutma devre dışı bırakıldı.
+\"Uyutulmuş\" uygulamalar artık otomatik olarak uyutulmayacak."</string>
+    <string name="toast_service_enabled">Oto-Uyutma etkinleştirildi.</string>
+    <string name="toast_shortcut_created">Tek tıklamayla uyutma için başlatıcınızın sayfasına kısayol eklendi.</string>
+    <string name="toast_tasker_wakeup_unavail_in_nonroot">Üzgünüz, sadece root modunda mevcut.</string>
+    <string name="wizard_step_enjoy">Harika</string>
+    <string name="wizard_step_enjoy_desc">İlk günkü gibi sorunsuz ve uzun süren bir deneyim.</string>
+    <string name="wizard_step_forget">Unut (sadece ROOTlu mod)</string>
+    <string name="wizard_step_forget_desc">ıvır zıvır işleri, Greenify sessiz bir şekilde sizin için yapsın.</string>
+    <string name="wizard_step_greenify">Greenify</string>
+    <string name="wizard_step_greenify_desc">(\"uyut\") pili tüketen, hafızayı şişiren ve gizli çalışan uygulamaları.</string>
+    <string name="app_state_wakeup_paths_cutoff">Uyandırma yollarını kes</string>
+    <string name="app_waker_root">root</string>
+    <string name="app_waker_shell">kabuk</string>
+    <string name="dialog_full_cutoff_message">"Uyandırma yolunu kesmek, uygulamanın ya da o uygulamaya bağımlı diğer uygulamaların işlevselliğini bozabilir.
+
+Eğer istenmeyen durumlar olursa, lütfen uygulamayı tekrar bağlayın."</string>
+    <string name="event_wifi_scan">Wi-Fi tarandı</string>
+    <string name="prefs_labs_automated_hibernation_summary">Root-suz modda, ekran kapandıktan dakikalar sonra uyku işlemini otomatikleştirir. Ekranı açar, uyutma işlemini gerçekleştirir ve ekranı kapatır. (Android 4.1+, Erişilebilirlik, Cihaz Yöneticisi ve şifresiz tuş kilidi gerektirir)</string>
+    <string name="prefs_labs_deep_hibernation_summary">"Uyutulan uygulamaların diğer uygulamalarca uyandırılmaması için katı eylemler kullanır.
+UYARI: uyutulmuş uygulamalar arası işlevleri bozabilir!"</string>
+    <string name="prefs_labs_deep_hibernation_title">Derin Uyku (alfa)</string>
+    <string name="prefs_labs_no_remove_notifications_limited_summary">Uygulama uyutulduğunda (sadece ekran kapalıyken) bildirimlerini kaldırma ki daha sonra okuyabilesiniz. Özgün bildirimin durum çubuğu simgesi öncelik sınırlamasından dolayı saklanamaz. Bu özelliğin Xposed tabanlı sürümünde böyle bir sınırlama yoktur.</string>
+    <string name="prefs_labs_no_remove_notifications_limited_title">Bildirimleri Kaldırma (sınırlı)</string>
+    <string name="prefs_labs_no_remove_notifications_summary">Uygulama uyutulduğunda bildirimlerini kaldırma ki daha sonra okuyabilesiniz.</string>
+    <string name="prefs_labs_no_remove_notifications_title">Bildirimleri Kaldırma</string>
+    <string name="prefs_labs_reveal_hidden_sync_summary">\"Ayarlar - Hesaplar\" altında bulunan \"*\" önekli gizli hesap eşitleme görevlerini gösterir.</string>
+    <string name="prefs_labs_root_mode_summary_off">"Rootsuz modda çalışıyor. Cihazınız gerçekten rootlu ise, Greenify'ın tam güçte çalışması için bu seçeneği lütfen etkinleştirin."</string>
+    <string name="prefs_labs_root_mode_summary_on">Rootlu modda çalışıyor. Cihazınız gerçekten rootlu DEĞİLSE, uygulamanın doğru çalışması için bu seçeneği lütfen devre dışı bırakın.</string>
+    <string name="prefs_labs_system_apps_limited_summary">Bazı sistem uygulamalarını uyku haline alabilir, uyutabilir. Teknik kısıtlamalar nedeniyle, uyutulmuş sistem uygulamaları diğer kullanıcı uygulamaları gibi her zaman uyku halinde kalamayabilirler.</string>
+    <string name="service_wakeup_monitor">Uyandırma Takibi</string>
+    <string name="toast_app_ingreenifiable">Üzgünüz \"%1$s\" \"uyutulamaz.\"</string>
+    <string name="toast_apps_not_hibernating">Uyutulmuyor: %1$s</string>
+    <string name="toast_auto_hibernation_oos">Oto-Uyutma hizmeti durduruldu. Bu mesaj sıklıkla gösteriliyorsa, 3. taraf uygulamalar ya da sistem ayarları yüzünden Greenify engelleniyor olabilir.</string>
+    <string name="toast_auto_hibernation_restarting">Oto-Uyutma hizmeti yeniden başlatılıyor... (muhtemelen düşük boş ram yüzünden)</string>
+    <string name="toast_no_auto_hibernation_for_secure_keyguard">Üzgünüz, otomatik uyutma tuş kilidi şifreli ayarlandığında çalışmaz. Onun yerine \"Uyut ve Ekranı Kilitle\" kısayolunu kullanabilirsiniz.</string>
+    <string name="toast_no_auto_hibernation_for_secure_keyguard_with_navbar">Üzgünüz, otomatik uyutma tuş kilidi şifreli ayarlandığında çalışmaz. \"Uyut ve Ekranı Kilitle\" kısayolu için \"Ana ekran\" tuşundaki \"Çekme\" hareketi önerilir.</string>
+    <string name="app_state_critical">Önemli</string>
+    <string name="app_state_working">Çalışıyor</string>
+    <string name="dialog_button_activate">Etkinleştir</string>
+    <string name="dialog_google_sign_in">Bağış paketini etkinleştirmek için Google hesabınıza giriş yapın.</string>
+    <string name="dialog_non_root_auto_hibernation_incompatible_rom_message">Üzgünüz, root-suz modda oto-uyutma cihazınızı (veya ROMunuzu) henüz desteklemiyor.</string>
+    <string name="dialog_verifying_donation_package">Bağış paketiniz doğrulanıyor...</string>
+    <string name="service_accessibility">Greenify - Otomatik Uyut</string>
+    <string name="service_accessibility_description">Uyg. uyutmayı (root-suz cihazlarda) otomatikleştirir. Bu hizmeti devre dışı bırakmak oto-uyutmayı bozabilir.</string>
+    <string name="state_disabled">Devre dışı</string>
+    <string name="state_enabled">Etkin</string>
+    <string name="toast_action_setting">Ayar</string>
+    <string name="toast_draw_on_top_revoked">"\"Üstte tut\" izni alınmadı, lütfen cihazınızın izin ayarlarında Greenify'a bu izni verin."</string>
+    <string name="toast_usage_stats_permission">Ön plandaki uygulamaları belirlemek ve uyutmaktan kaçınmak için izin gerekli</string>
+    <string name="menu_settings">Ayarlar</string>
+    <string name="prefs_cat_about">Hakkında</string>
+    <string name="prefs_labs_automated_hibernation_summary_incompatible">Üzgünüz, henüz sizin ROMunuzla uyumlu değil.</string>
+    <string name="prefs_labs_doze_title">Agresif Doze (deneysel)</string>
+    <string name="prefs_labs_navbar_gesture_title">Dolaşım çubuğunda uzun dokunma eylemi</string>
+    <string name="prefs_learn_more">Fazlasını öğrenin (çevrimiçi)</string>
+    <string name="prefs_shallow_hibernation_description">"Yüzeysel uyutma, daha iyi uyumluluk ve verimlilik ile özellikle Android 6.0+ için oluşturulmuş yeni bir uyutma tekniğidir.
+
+Daha akıcı görev değişimini sağlamak için etkileşim bağlamlı yüzeysel uyutmada artık uygulamalar sonlandırılmıyor, ancak uyutma sırasında tüm arka plan davranışları yine de engellenmektedir.
+
+Yüzeysel uyutulan uygulamalar saatler arasında kısa bir zaman dilimi için ve hemen YÜKSEK öncelikli GCM iletisi ardından (sadece GSM önceliği geliştirici tarafından kullanıldığında) uyandırılacaklar. Şarj esnasında da uyanık kalacaklar.
+
+Etkinleştirilirse, yüzeysel uyutma Greenify'da klasik uyutmanın yerini alacaktır.
+
+Bu özellik düşük RAM bellekli cihazlar için ÖNERİLMİYOR."</string>
+    <string name="prefs_shallow_hibernation_title">Yüzeysel Uyut (deneysel)</string>
+    <string name="prefs_xposed_features_summary">Çalışmaları için Xposed çerçevesi gerektirir</string>
+    <string name="prefs_xposed_features_title">Xposed tabanlı Özellikler</string>
+    <string name="toast_action_guide">Rehber</string>
+    <string name="toast_action_troubleshoot">Çözüm</string>
+    <string name="toast_assist_app_setting_guide">"Lütfen \"Yardım uyg.\" 'nda Greenify'ı seçin."</string>
+    <string name="toast_donation_package_not_found">Üzgünüz, Google hesabınızda bağış paketi bulunamıyor.</string>
+    <string name="toast_need_accessibility_service">Otomatik uyutma için Greenify erişilebilirlik hizmetinin etkinleştirilmesi gerekir.</string>
+    <string name="toast_need_device_admin">Ekran kapandıktan sonra oto-uyutma için Greenify cihaz yöneticisi haklarının etkinleştirilmesi gerekir.</string>
+    <string name="toast_need_overlay">Ekran kapalıyken sessiz oto-uyutma için \"Üstte tut\" izni gerekir.</string>
+    <string name="prefs_labs_doze_description">"Şarj edilmiyorsa, ekran kapandıktan sonra pil tasarruf girişimlerini arttırmak için dakikalar içinde (normalde saatler yerine) doze moduna girer.
+
+Doze modu Android 6.0 ile tanıtılan yeni bir pil tasarruf tekniğidir. Bu modda, sonraki kullanıcı etkileşimi ya da şarj edilişe kadar tüm uygulamaların (beyaz listeye alınanlar dışında) arka plan davranışları sert bir şekilde engellenir. Cihaz belirli aralıklarla (saat başı) doze modundan çıkar."</string>
+    <string name="prefs_labs_navbar_gesture_summary">"Uygulamaları uyutmak ve ekranı kilitlemek, ya da sadece ekranı kilitlemek için alttaki dolaşım çubuğundaki orta tuşa uzun dokunun.
+Dikkat edin, bu özellik Akıllı Kilit ve parmak izi ile girişler ile uyumsuz olabilir."</string>
+    <string name="section_pending_charging">Şarj sırasında uyutma görmezden gelindi</string>
+</resources>

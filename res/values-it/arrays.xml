@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="prefs_labs_working_mode_options">
+        <item>&lt;b>No-Root&lt;/b>"
+"&lt;small>Se il tuo dispositivo non ha permessi root&lt;/small></item>
+        <item>&lt;b>Root&lt;/b>"
+"&lt;small>Se il tuo dispositivo ha permessi root&lt;/small></item>
+        <item>&lt;b>Boost&lt;/b>"
+"&lt;small>Migliori prestazioni e compatibilità (richiede Xposed)&lt;/small></item>
+    </string-array>
+</resources>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:gravity="center_horizontal" android:orientation="vertical" android:id="@id/main" android:background="#fff9f9f9" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <ScrollView android:id="@id/scrollview" android:layout_width="fill_parent" android:layout_height="0.0dip" android:layout_weight="1.0">
+        <LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent">
+            <TextView android:textSize="16.0dip" android:textColor="#ff5e5e5e" android:id="@id/tv_title" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="16.0dip" android:layout_marginTop="16.0dip" android:text="@string/usage_stat_tip1" />
+            <ImageView android:layout_gravity="center_horizontal" android:id="@id/iv_step1" android:layout_width="250.0dip" android:layout_height="wrap_content" android:src="@drawable/usage_stat_1" />
+            <TextView android:textSize="16.0dip" android:textColor="#ff5e5e5e" android:id="@id/tv_title2" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="16.0dip" android:layout_marginTop="16.0dip" android:text="@string/usage_stat_tip2" />
+            <ImageView android:layout_gravity="center_horizontal" android:id="@id/iv_step2" android:layout_width="250.0dip" android:layout_height="wrap_content" android:src="@drawable/usage_stat_2" />
+        </LinearLayout>
+    </ScrollView>
+    <android.support.design.widget.FloatingActionButton android:layout_gravity="bottom|center|right" android:id="@id/next" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginRight="16.0dip" android:layout_marginBottom="8.0dip" android:src="@drawable/ic_arrow_forward" app:elevation="4.0dip" />
+</LinearLayout>

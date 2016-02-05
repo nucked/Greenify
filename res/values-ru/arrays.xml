@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="prefs_labs_working_mode_options">
+        <item>&lt;b>Без рута&lt;/b>"
+"&lt;small>Если устройство не имеет рут-доступа&lt;/small></item>
+        <item>&lt;b>Рут&lt;/b>"
+"&lt;small>Если устройство имеет рут-доступ&lt;/small></item>
+        <item>&lt;b>Ускорение&lt;/b>"
+"&lt;small>Лучшая производительность и совместимость (необходим Xposed)&lt;/small></item>
+    </string-array>
+</resources>

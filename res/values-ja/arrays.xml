@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="prefs_labs_working_mode_options">
+        <item>&lt;b>非Root&lt;/b>"
+"&lt;small>デバイスがルートされていない場合&lt;/small></item>
+        <item>&lt;b>Root&lt;/b>"
+"&lt;small>デバイスがルートされている場合&lt;/small></item>
+        <item>&lt;b>ブースト&lt;/b>"
+"&lt;small>もっともよいパーフォーマンスと互換性（Xposedが必要）&lt;/small></item>
+    </string-array>
+</resources>

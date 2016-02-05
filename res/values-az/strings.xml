@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="about_donation_summary">Əlavə xüsusiyyətlər üçün ianə paketini əldə edin</string>
+    <string name="about_donation_summary_donated">Əlavə təcrübi xüsusiyyətlər əsas menyudan aktivləşdirilə bilər.</string>
+    <string name="about_donation_title">İanə edin</string>
+    <string name="about_donation_title_donated">İanə üçün təşəkkür edirik</string>
+    <string name="about_licenses_title">Lisenziyalar</string>
+    <string name="about_raise_your_voice_program_detail">"Greenify will raise the voice of community to be heard by the developers of your greenified apps, for better recognition of device experience in app development.
+
+To raise your voice, Greenify collects anonymous data without privacy information. You can opt-out at any time."</string>
+    <string name="about_raise_your_voice_program_summary">Sizin səsiniz fərqlilik yarada bilər!</string>
+    <string name="about_raise_your_voice_program_title">\"Səsinizi Qaldırın!\" layihəsi</string>
+    <string name="about_translation_credit">İbrahimli Şükür (Hero355)</string>
+    <string name="about_translation_title">Tərcümə</string>
+    <string name="about_version_summary">Bu tətbiqi dərəcələndirin</string>
+    <string name="about_version_title">Versiya</string>
+    <string name="analysis_detail_alarm_with_wakeup">%1$d çalışır (inc %2$d oyanmalar)</string>
+    <string name="app_analyzer_name">Tətbiq analizi</string>
+    <string name="app_analyzer_subtitle">%1$d tətbiq(s) seçildi</string>
+    <string name="app_shortcut_hibernate">İndi hibernasiya edin</string>
+    <string name="app_state_hibernation_failed">%1$s əvvəl hibernasiya mümkün olmadı</string>
+    <string name="app_state_provider_in_use">%1$s tərəfindən təchizatçı istifadədədir</string>
+    <string name="app_state_service_in_use">%1$s tərəfindən servis istifadədədir</string>
+    <string name="app_state_unsaveable">Bərpaolunabilməyən vəziyyət</string>
+    <string name="app_state_woken_by_activity">%1$s əvvəl Sistem interfeysi açdı</string>
+    <string name="app_state_woken_by_app">%1$s əvvəl %2$s tərəfindən oyadıldı</string>
+    <string name="app_state_woken_by_authenticator">%1$s əvvəl təsdiqləndi</string>
+    <string name="app_state_woken_by_backup">%1$s əvvəl nüsxə çıxış elədi</string>
+    <string name="app_state_woken_by_broadcast">%1$s əvvəl aydınca bildirildi</string>
+    <string name="app_state_woken_by_content_provider">%1$s əvvəl məzmun təmin olundu</string>
+    <string name="app_state_woken_by_push_msg">%1$s əvvəl puş əldə edildi</string>
+    <string name="app_state_woken_by_search">%1$s məzmun axtarıldı</string>
+    <string name="app_state_woken_by_service">%1$s əvvəl servis başladı</string>
+    <string name="app_state_woken_by_sync">%1$s əvvəl sinxronlandı</string>
+    <string name="app_state_woken_by_widget">%1$s əvvəl piktoqram yeniləndi</string>
+    <string name="app_title_service_disabled">Greenify (Avto hibernasiya yoxdur)</string>
+    <string name="app_waker_google">Google servisləri</string>
+    <string name="app_waker_system">Android sistemi</string>
+    <string name="app_waker_unknown">bilinməyən mənbə</string>
+    <string name="dialog_app_picker_guide_button">Başlatmaya gedin</string>
+    <string name="dialog_app_picker_guide_message">Siz indi başlatamaya aparılacaqsınız. Tətbiqi açın, sonra həmin tətbiqi seçmək üçün bildirişdəki seçəni seçin :D</string>
+    <string name="dialog_app_picker_guide_title">Tətbiqi necə seçmək</string>
+    <string name="dialog_button_cancel">Ləğv edin</string>
+    <string name="dialog_button_continue">Davam edin</string>
+    <string name="dialog_button_insist">Təkid</string>
+    <string name="dialog_button_later_by_oneself">Bunu sonra edəcəyəm</string>
+    <string name="dialog_button_learn_more">Daha çox öyrənin</string>
+    <string name="dialog_button_opt_in">Razılaşmaq</string>
+    <string name="dialog_button_opt_out">Rədd etmək</string>
+    <string name="dialog_cutoff_message">"Oyanma cığırını kəsməklə tətbiqlərin funksionallığı qırıla bilər.
+
+Səhv bir şey baş versə,zəhmət olmasa kəsməni yenidən seçin.
+Təsirlənmiş: [%s]"</string>
+    <string name="dialog_cutoff_title">Xəbərdarlıq</string>
+    <string name="dialog_degreenified_message">"Despite degreenified, app still stays in hibernation (all its background functionality will not work) until you wake it up by explicitly launching it.
+Baxmayaraq ki greenify-dan çıxarılıb, tətbiq siz onu məcbur olaraq oyatmayana qədər hibernasiyada qalır. (Bütün arxaplan funksionlallığı işləməyəcək)"</string>
+    <string name="dialog_degreenified_title">Diqqət</string>
+    <string name="dialog_donation_corrupted_message">İanə paketi korlanıb. Google play-dən yenidən quraşdırılsın?</string>
+    <string name="dialog_greenify_confirmation_message">Greenify etmək istədyinizdən əminsinizmi %1$s</string>
+    <string name="dialog_greenifying_system_apps">Sistem tətbiqlərinin greenify olması təcrübi xüsusiyyətlərdəndir hansı ki ianə paketində mövcuddur.</string>
+    <string name="dialog_incompatible_rom_title">Dəstəklənməyən ROM</string>
+    <string name="dialog_ingreenfiable_message_for_system_app">Zəhmət olmasa, ümumiyyətlə sistem tətbiqlərini greenify etmək təhlükəsiz deyil.</string>
+    <string name="dialog_ingreenfiable_title">Greenify ola bilməyən %1$s</string>
+    <string name="dialog_labs_incompatible_rom_message">Bu xüsusiyyəti aktivləşdirmək mümkün olmadı. Ola bilsin ki sizin ROM-la uyğun deyil.</string>
+    <string name="dialog_labs_operation_failure_message">Əməliyyat baş tutmadı.</string>
+    <string name="dialog_labs_state_set_failure_message">Xüsusiyyət vəziyyətini quraşdırmaq mümkün olmadı!</string>
+    <string name="dialog_root_operation_failure_message">Bu əməliyyatı icra etmək mümkün olmadı. Zəhmət olmasa root ayarlarının icazə verildiyinə əmin olun.</string>
+    <string name="dialog_thank4donation_message">"İnkişafına ianə olaraq dəstək üçün təşəkkür edirik.
+
+Əsas menyudan əlavə təcrübi xüsusiyyətləri aktivləşdirə bilərsiniz."</string>
+    <string name="dialog_thank4donation_title">Təşəkkür edirik</string>
+    <string name="dialog_title_confirmation">Təsdiqlənmə</string>
+    <string name="dialog_title_error">Səhv</string>
+    <string name="dialog_verification_error_message">İanəni tətbiq edə bilmir. Zəhmət olmasa internet ayarlarını yoxlayın və təkrar cəhd edin.</string>
+    <string name="dialog_version_mismatch_message">Zəhmət olmasa tətbiqi son versiyaya yeniləyin.</string>
+    <string name="dialog_version_mismatch_title">Versiya uyğun deyil</string>
+    <string name="dialog_warning_for_greenifying_launcher">Siz default başlatma tətbiqini greenify etmək üçün cəhd edirsiniz. Tez-tez istifadə olunan tətbiqlərin greenify olunması məsləhət olunmur.</string>
+    <string name="dialog_warning_title">Diqqət</string>
+    <string name="dialog_xposed_module_inactive_message">Greenify-ın Xposed modulu aktiv deyil. Xposed yükləyicidə bunların işləməsi üçün modulu aktivləşdirməlisiniz.</string>
+    <string name="event_capture_video">video çəkildi</string>
+    <string name="event_connectivity_changes">şəbəkə keçidi dəyişiklikləri</string>
+    <string name="event_media_connect">Çıxarılabilən yaddaş qoşulmuşdur</string>
+    <string name="event_media_eject">Çıxarılabilən yaddaş çıxarılmışdır</string>
+    <string name="event_media_scan">Depolama skayner olunur</string>
+    <string name="event_postfix_volatile">(may vary with state)</string>
+    <string name="event_power_connected">güc qoşuldu</string>
+    <string name="event_power_disconnected">güc ayrıldı</string>
+    <string name="event_take_photo">şəkil çəkildi</string>
+    <string name="event_unlock_keyguard">blokirovka açıldı</string>
+    <string name="event_update_apps">tətbiq yeniləndi</string>
+    <string name="guide_btn_activate_module">Modulu aktivləşdirin &amp; Yenidən başladın</string>
+    <string name="guide_btn_install_xposed_installer">Xposed Yükləyicini quraşdırın</string>
+    <string name="guide_btn_setup_xposed_framework">Xposed frameworkünü ayarlayın</string>
+    <string name="guide_link_why_xposed">Xposed framework nə üçün lazımdır ?</string>
+    <string name="guide_sub_title">Quraşdırma Bələdçisi</string>
+    <string name="guide_title">Təcrübi Xüsusiyyətlər</string>
+    <string name="menu_about">Haqqında</string>
+    <string name="menu_action_accept">Qəbul edin</string>
+    <string name="menu_action_cutoff">Oyatma cığırını kəsin</string>
+    <string name="menu_action_cutoff_condensed">Kəsin</string>
+    <string name="menu_action_greenify">Greenify məsləhətçisi</string>
+    <string name="menu_action_greenify_condensed">Greenify...</string>
+    <string name="menu_action_hibernate">Hibernasiyaya əlavə edin</string>
+    <string name="menu_action_hibernate_condensed">Hibernasiya edin</string>
+    <string name="menu_action_hide">Gizlədin</string>
+    <string name="menu_action_pick">Greenify etmək üçün tətbiq yığın</string>
+    <string name="menu_action_pick_condensed">Tətbiqi yığın</string>
+    <string name="menu_action_reattach">Oyatma cığırı ilə yenidən əlavə edin</string>
+    <string name="menu_action_reattach_condensed">Yenidən əlavə edin</string>
+    <string name="menu_action_refresh">Yeniləyin</string>
+    <string name="menu_action_run">Başladın</string>
+    <string name="menu_action_ungreenify">Greenify-dan çıxarın</string>
+    <string name="menu_action_ungreenify_condensed">Degreenify</string>
+    <string name="menu_action_unhide_all">Hamısını göstərin</string>
+    <string name="menu_create_shortcut">Hibernasiya qısayolu yaradın</string>
+    <string name="menu_disable_service">Avto hibernasiyanı deaktiv edin</string>
+    <string name="menu_enable_service">Avto hibernasiyanı aktiv edin</string>
+    <string name="no_app_picked">Heç bir tətbiq seçilmədi</string>
+    <string name="notification_app_picker_text">Tətbiqinizi başladın, sonra yığmaq üçün buraya toxunun.</string>
+    <string name="notification_app_picker_ticker">"İlk olarak tətbiqinizi başladın.
+Sonra TƏTBİQ YIĞAN bildirişinə toxunun."</string>
+    <string name="notification_app_picker_title">Greenify üçün TƏTBİQ SEÇİCİ</string>
+    <string name="placeholder_show_all">Daha çox tətbiq göstərin</string>
+    <string name="prefs_cat_experimental_features">Təcrübi Xüsusiyyətlər</string>
+    <string name="prefs_labs_block_notification_abuse_summary">Bəzi tətbiqlər, aşağı yaddaş vəziyyətində yaddaşda tutmaq üçün haqsız prioritet qazanmaq üçün (4.3 əvvəli) Androidin təhlükəsizlik açığından istifadə edə bilərlər. Bu proqramlar Greenify in \"qəbul edilə bilən\" və hibernating olaraq tanınaraq səhv olacaq.</string>
+    <string name="prefs_labs_block_notification_abuse_title">Block App State Abuse</string>
+    <string name="prefs_labs_boost_mode_summary">Əgər hibernasiya vəya Rootla bağlı problemlər yaşayırsanızsa, daha yaxşı performans və uyğunluq verir.</string>
+    <string name="prefs_labs_boost_mode_title">Boost Rejimi</string>
+    <string name="prefs_labs_gcm_push_summary">GCM puş mesajına hibernasiya olunmuş tətbiqləri oyatmağa icazə verir,hansı ki puş mesajlarını itirmədən GCM tətbiqlərini greenify edə bilərsiniz.</string>
+    <string name="prefs_labs_gcm_push_title">Greenify tətbiqlər üçün GCM puşu</string>
+    <string name="prefs_labs_system_apps_summary">Toxunula bilməyən sistem tətbiqlərini,hansı ki greenify olmur, hibernasiyadan məhrum edin.</string>
+    <string name="prefs_labs_system_apps_title">Sistem tətbiqləri Greenify edilir</string>
+    <string name="prefs_labs_telephony_wakeup_summary">Telefon hadisələrinə (zəng, SMS kimi) hibernasiya olunmuş tətbiqləri oyatmağa icazə verin,hansı ki zəng vəya SMS üçün işləyə bilər.</string>
+    <string name="prefs_labs_telephony_wakeup_title">Telefoniya oyanması</string>
+    <string name="prefs_labs_timer_coalescing_summary">Dövri taymeri kolesans edən bütün tətbiqlər üçün aktivləşdirin (təkcə KitKat üçün nəzərdə tutulanlar yox).Ancaq Android 4.4+ üçün mövcuddur.</string>
+    <string name="prefs_labs_timer_coalescing_title">Vaxt kolesans edən (4.4+)</string>
+    <string name="prefs_labs_wakeup_tracker_summary">Greenify olunmuş oyanan tətbiqləri izləyin və onun cığırını gələcəkdə oyatmamaq üçün kəsin.</string>
+    <string name="prefs_labs_wakeup_tracker_title">Oyadıcı izləyici &amp;amp; Kəsim</string>
+    <string name="section_alarm">İşləməsi planlaşdırıldı (axırıncı qoşulmadan bəri)</string>
+    <string name="section_alarm_tips">"Bu tətbiqlər özlərini səssiz çalışan olaraq ayarlayıblar, beləliklə cihazı yavaşlada və batareyanl zəiflədə bilər.
+
+Cihazınızı oyadanları tez-tez yoxlayın."</string>
+    <string name="section_all_apps">Daha çox</string>
+    <string name="section_hibernated">Hibernasiya olunmuş</string>
+    <string name="section_pending">Gözləyir</string>
+    <string name="section_pending_tip_nonroot">Bu tətbiqlər oyanıblar və hal-hazırda gözləmə rejimindədir, onları əl ilə hibernasiya etməlisiniz</string>
+    <string name="section_postponed">Avtomatik hibernasiya yoxdur</string>
+    <string name="section_postponed_tip">Greenify göstərilən səbəblərə görə bu tətbiqləri avtomatik hibernasiyaya almayacaqdır, dəyişikliklər sonra olacaq</string>
+    <string name="section_receiver">Vaxtında cihazı yavaşlada bilər...</string>
+    <string name="section_receiver_tip">"İxtiyari dərəcədə bu tətbiqlər sizin cihazınızı müəyyən hadisələr baş verərkən yavaşlada bilər.
+
+More apps here, less responsive on the events."</string>
+    <string name="section_service">Arxa rejimdə işləyir</string>
+    <string name="section_service_tip">"Arxa rejimdə çalışan tətbiqlər lazım olan qədər yaddaş istifadə edəcək, və ixtiyari dərəcdə cihazı yavaşlada bilər.
+
+Mümkün olduğu qədər bu siyahını qısa saxlayın."</string>
+    <string name="service_cleaner">Təmizləyən</string>
+    <string name="showcase_accessibility_setting">Avtomatlaşdırmanı aktiv edin</string>
+    <string name="showcase_manual_hibernation_automation">Əl ilə proses Greenify tərəfindən verilmiş münasiblik servisində avtomatikləşdirilə bilər.</string>
+    <string name="showcase_manual_hibernation_desc">Android sistemi məhdudlarına görə,root-suz rejimdə çalışarkən,hibernasiyanı sona çatdırmaq üçün siz əl ilə \"Güclə durdur\" düyməsinə toxunun.</string>
+    <string name="showcase_manual_hibernation_title">Əl ilə hibernasiya</string>
+    <string name="toast_already_greenified">%1$s artıq greenify olunmuşdur.</string>
+    <string name="toast_apps_hibernated">%1$s hibernasiya olundu.</string>
+    <string name="toast_auto_hibernation_failure_tip">"Zəhmət olmasa əmin olun ki root icazəsi Greenify üçün aktivdir.(bəzi root proqramları hər yenilənmə üçün yenidən icazə istəyə bilər)
+
+Əgər hibernasiya ilə bağlı problem varsa, zəhmət olmasa təcrübi xüsusiyyətlərdə digər root idarəedən vasitədən və ya \"Boost Mode\"-dən istifadə edin."</string>
+    <string name="toast_cannot_switch_to_launcher">Sizin başlatmanızı dəyişə bilmir, zəhmət olmasa əl ilə ev düyməsini sıxın.</string>
+    <string name="toast_failed_to_greenify">Greenify etmək \"%1$s\" uğursuzluğa uğradı.</string>
+    <string name="toast_gcm_tip">"GCM (Google Bulud Mesajlaşması) bu tətbiqetməyə inteqrasiya edilmişdir, və bəlkə puş mesajları üçün istifadə oluna bilər.Əgər greenify olunubsa bir daha işləməyəcəkdir.
+
+Hədiyyə paketində olan təcrübi xüsusiyyəti greenify olunmuş tətbiqlərdə GCM puşunu aktivləşdirir."</string>
+    <string name="toast_hibernation_failure">\"%1$s\" Hibernasiyaya keçirmək mümkün olmadı</string>
+    <string name="toast_none_hibernated">Hibernasiya olunmağa tətbiq yoxdur.</string>
+    <string name="toast_opted_in">İştirakınız üçün təşəkkür edirik!</string>
+    <string name="toast_opted_out">Siz rədd etdiniz. Anonim statistikalar toplanmayacaq.</string>
+    <string name="toast_service_disabled">"Avto hibernasiya qapalıdır.
+Greenify olunmuş tətbiqlər artıq avtomatik olarak hibernasiya olunmayacaq."</string>
+    <string name="toast_service_enabled">Avto hibernasiya aktivdir.</string>
+    <string name="toast_shortcut_created">Dondurulma rejimi üçün sizin launcher-inizdə tək-klik qısayolu yaradıldı.</string>
+    <string name="wizard_step_enjoy">Həzz alın</string>
+    <string name="wizard_step_enjoy_desc">smooth and lasting experience just like on the first day.</string>
+    <string name="wizard_step_forget">Yaddan çıxarın</string>
+    <string name="wizard_step_forget_desc">Greenify-a evi təmiz saxlamağa icazə verin.</string>
+    <string name="wizard_step_greenify">Greenify</string>
+    <string name="wizard_step_greenify_desc">battery leeching, memory hogging and stealthily running apps.</string>
+    <string name="dialog_button_no">Xeyr</string>
+    <string name="dialog_button_yes">Bəli</string>
+    <string name="dialog_labs_not_owner_message">Yalnız əsas istifadəçi təcrübi xüsusiyyətləri idarə edə bilər.</string>
+    <string name="dialog_message_xposed_need_update">Xposed Yükləyicisinin bu versiyası Android 4.4 və yuxarısı üçün dəstəklənmir.Zəhmət olmasa Xposed Yükləyicisində onu yeniləyin.</string>
+    <string name="dialog_need_amazon_message">Zəhmət olmasa ilk olaraq Amazon marketini quraşdırın.</string>
+    <string name="dialog_need_amazon_title">Amazon marketi lazımdır</string>
+    <string name="dialog_need_reinstall_message">"İanəyə başlamazdan əvvəl,Greenify-ı Amazon marketindən yenidən quraşdırın.
+
+Konfiqurasiyasınızı saxlamaq üçün zəhmət olmasa silərkən YOX seçin."</string>
+    <string name="dialog_need_reinstall_title">Yenidən yükləmə lazımdır</string>
+    <string name="dialog_non_root_incompatible_rom_message">Üzr istəyirik, Greenify sizin ROM-da root-olunmamış reijmdə işləyə bilməz.</string>
+    <string name="dialog_warning_for_too_frequent_sync">Bu tətbiq avtomatik olaraq tez-tez sinxronlaşdırılır (hər %1$d dəqiqədən bir), beləliklə tez-tez oyadılacaqdır. Avtomatik sinxronlaşmanı söndürmək istəyirsinizmi?</string>
+    <string name="app_state_persistent">İsrarlı</string>
+    <string name="section_pending_tip">Bu tətbiqlər gözləmə rejimindədir, və ekran söndüktən qısa bir sonra avtomatik olaraq hibernasiya olacaq.</string>
+    <string name="app_state_perceptible">Həssas</string>
+    <string name="app_state_process_in_use">%1$s tərəfindən proses istifadədədir</string>
+    <string name="app_state_visible">Görünən</string>
+    <string name="menu_experimental_features">Təcrübi xüsusiyyətlər...</string>
+</resources>

@@ -1,0 +1,235 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_home_description">Naviger hjem</string>
+    <string name="abc_action_bar_home_description_format">%1$s, %2$s</string>
+    <string name="abc_action_bar_home_subtitle_description_format">%1$s, %2$s, %3$s</string>
+    <string name="abc_action_bar_up_description">Naviger op</string>
+    <string name="abc_action_menu_overflow_description">Flere muligheder</string>
+    <string name="abc_action_mode_done">Luk</string>
+    <string name="abc_activity_chooser_view_see_all">Se alle</string>
+    <string name="abc_activitychooserview_choose_application">Vælg en app</string>
+    <string name="abc_capital_off">FRA</string>
+    <string name="abc_capital_on">TIL</string>
+    <string name="abc_search_hint">Søg…</string>
+    <string name="abc_searchview_description_clear">Ryd forespørgslen</string>
+    <string name="abc_searchview_description_query">Søgeforespørgsel</string>
+    <string name="abc_searchview_description_search">Søg</string>
+    <string name="abc_searchview_description_submit">Indsend forespørgslen</string>
+    <string name="abc_searchview_description_voice">Talesøgning</string>
+    <string name="abc_shareactionprovider_share_with">Del med</string>
+    <string name="abc_shareactionprovider_share_with_application">Del med %s</string>
+    <string name="abc_toolbar_collapse_description">Skjul</string>
+    <string name="common_google_play_services_api_unavailable_text">%1$s skal bruge én eller flere Google Play-tjenester, der ikke er tilgængelige i øjeblikket. Kontakt udvikleren for at få hjælp.</string>
+    <string name="common_google_play_services_enable_button">Aktivér Google Play-tjenester</string>
+    <string name="common_google_play_services_enable_text">Du skal aktivere Google Play-tjenester, for at %1$s kan fungere.</string>
+    <string name="common_google_play_services_enable_title">Aktivér Google Play-tjenester</string>
+    <string name="common_google_play_services_install_button">Hent Google Play-tjenester</string>
+    <string name="common_google_play_services_install_text_phone">Du skal installere Google-tjenester, hvis %1$s skal kunne køre på din telefon.</string>
+    <string name="common_google_play_services_install_text_tablet">Du skal installere Google-tjenester, hvis %1$s skal kunne køre på din tablet.</string>
+    <string name="common_google_play_services_install_title">Hent Google Play-tjenester</string>
+    <string name="common_google_play_services_invalid_account_text">Den angivne konto findes ikke på denne enhed. Vælg en anden konto.</string>
+    <string name="common_google_play_services_invalid_account_title">Ugyldig konto</string>
+    <string name="common_google_play_services_network_error_text">Der kræves en dataforbindelse for at oprette forbindelse til Google Play-tjenester.</string>
+    <string name="common_google_play_services_network_error_title">Netværksfejl</string>
+    <string name="common_google_play_services_notification_ticker">Fejl i Google Play-tjenester</string>
+    <string name="common_google_play_services_restricted_profile_text">Du kan ikke få adgang til konti fra en begrænset profil.</string>
+    <string name="common_google_play_services_restricted_profile_title">Begrænset profil</string>
+    <string name="common_google_play_services_sign_in_failed_text">Der opstod en fejl under login på den angivne konto. Vælg en anden konto.</string>
+    <string name="common_google_play_services_sign_in_failed_title">Login mislykkedes</string>
+    <string name="common_google_play_services_unknown_issue">%1$s har problemer med Google Play-tjenester. Hvis problemet fortsætter, kan du kontakte udvikleren for at få hjælp.</string>
+    <string name="common_google_play_services_unsupported_text">%1$s er afhængig af Google Play-tjenester, som ikke understøttes af din enhed. Kontakt producenten for at få hjælp.</string>
+    <string name="common_google_play_services_unsupported_title">Google Play-tjenester</string>
+    <string name="common_google_play_services_update_button">Opdater</string>
+    <string name="common_google_play_services_update_text">%1$s kan ikke køre, medmindre du opdaterer Google Play-tjenester.</string>
+    <string name="common_google_play_services_update_title">Opdater Google Play-tjenester</string>
+    <string name="common_google_play_services_updating_text">%1$s kan ikke køre uden Google Play-tjenester, som i øjeblikket opdateres.</string>
+    <string name="common_google_play_services_updating_title">Google Play-tjenester opdateres</string>
+    <string name="common_google_play_services_wear_update_text">Du skal bruge en ny version af Google Play-tjenester. Opdateringen gennemføres automatisk om et øjeblik.</string>
+    <string name="common_open_on_phone">Åbn på telefonen</string>
+    <string name="common_signin_button_text">Log ind</string>
+    <string name="common_signin_button_text_long">Log ind med Google</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="about_donation_title">Doner</string>
+    <string name="about_licenses_title">Licenser</string>
+    <string name="about_raise_your_voice_program_summary">Gør din stemme hørt!</string>
+    <string name="about_raise_your_voice_program_title">\"Raise Your Voice!\" programmet</string>
+    <string name="about_translation_credit">Mads Boye</string>
+    <string name="about_translation_title">Oversættelse</string>
+    <string name="about_version_title">Version</string>
+    <string name="accessibility_service_description">"Denne hjælpetjeneste er nødvendig for at visse specialfunktioner kan fungere i Greenify.
+
+Du vil blive advaret om den potentielle risiko angående personlige oplysninger. Dette er blot en almindelig advarsel, der generelt er gældende for enhver hjælpetjeneste. Vi lover ALDRIG NOGENSINDE at indsamle dine private oplysninger i denne hjælpetjeneste. 
+
+Nogle Samsung-enheder har problemer med taleinput, hvis en hjælpetjeneste er slået til. Hvis du oplever dette, slå da løsningen herfor til i \"Indstillinger\" her."</string>
+    <string name="analysis_detail_alarm_with_wakeup">%1$d kører (inkl. %2$d vækninger)</string>
+    <string name="app_analyzer_name">App-analyse</string>
+    <string name="app_analyzer_subtitle">%1$d app(s) valgt</string>
+    <string name="app_shortcut_hibernate">Sæt i dvale nu</string>
+    <string name="app_shortcut_hibernate_lock">Dvale + skærmlås</string>
+    <string name="app_shortcut_nothing">Intet</string>
+    <string name="app_shortcut_wakeup">Væk</string>
+    <string name="app_state_hibernation_failed">%1$s siden kunne ikke sætte i dvale.</string>
+    <string name="app_state_provider_in_use">Udbyder i brug af %1$s</string>
+    <string name="app_state_service_in_use">Service i brug af %1$s</string>
+    <string name="app_state_unsaveable">Status ureddelig</string>
+    <string name="app_state_woken_by_activity">%1$s siden brugerflade åbnet</string>
+    <string name="app_state_woken_by_app">%1$s siden vækket af %2$s</string>
+    <string name="app_state_woken_by_authenticator">%1$s siden godkendt</string>
+    <string name="app_state_woken_by_backup">%1$s siden backup lavet</string>
+    <string name="app_state_woken_by_broadcast">%1$s siden udtrykkeligt meddelt</string>
+    <string name="app_state_woken_by_content_provider">%1$s siden indhold givet</string>
+    <string name="app_state_woken_by_push_msg">%1$s siden notifikation modtaget</string>
+    <string name="app_state_woken_by_search">%1$s siden indhold søgt</string>
+    <string name="app_state_woken_by_service">%1$s siden service startet</string>
+    <string name="app_state_woken_by_sync">%1$s siden synkroniseret</string>
+    <string name="app_state_woken_by_widget">%1$s siden widget opdateret</string>
+    <string name="app_title_service_disabled">Greenify (Ingen auto-dvale)</string>
+    <string name="app_waker_google">Google tjenester</string>
+    <string name="app_waker_system">Android system</string>
+    <string name="app_waker_unknown">ukendt kilde</string>
+    <string name="device_admin_for_automation">Greenify-automator</string>
+    <string name="device_admin_for_automation_description">Tillad Greenify at slukke for skærmen straks efter automatisk dvale.</string>
+    <string name="device_admin_warning_when_disabling">Hvis denne funktion er slået fra, vil Greenify ikke være i stand til gå i dvale automatisk, når skærmen er slukket.</string>
+    <string name="dialog_app_picker_guide_button">Gå til launcher</string>
+    <string name="dialog_app_picker_guide_message">"Du vil nu blive taget til launcheren. Åben app'en, og så klik på meddelelsen for at vælge app'en."</string>
+    <string name="dialog_app_picker_guide_title">Hvordan vælger jeg en app?</string>
+    <string name="dialog_button_cancel">Annullere</string>
+    <string name="dialog_button_continue">Forsæt</string>
+    <string name="dialog_button_insist">Insister</string>
+    <string name="dialog_button_later_by_oneself">Jeg gør det senere</string>
+    <string name="dialog_button_learn_more">Lære mere</string>
+    <string name="dialog_button_opt_in">Tilmeld</string>
+    <string name="dialog_button_opt_out">Frameld</string>
+    <string name="dialog_confirmation_unsafe_to_hibernate">App i denne tilstand er normalt ikke sikker at sætte i dvale. Tvungen dvale kan føre til funktionsproblemer og endda datatab.</string>
+    <string name="dialog_cutoff_title">Advarsel</string>
+    <string name="dialog_degreenified_message">"Selvom denne app er afgreenificeret, forbliver app'en i dvale (al dens baggrundsfunktionalitet vil ikke fungere) indtil den bliver åbnet direkte."</string>
+    <string name="dialog_degreenified_title">Advarsel</string>
+    <string name="dialog_donation_corrupted_message">Donationspakken er beskadiget. Skal den geninstalleres fra Google Play?</string>
+    <string name="dialog_greenify_confirmation_message">Er du sikker på du vil greenificere %1$s</string>
+    <string name="dialog_greenifying_system_apps">Greenificering af system-apps er på nuværende tidspunkt en eksperimenterende funktion, der kun er adgang til med en donationspakke.</string>
+    <string name="dialog_incompatible_rom_title">Inkompatibel ROM</string>
+    <string name="dialog_ingreenfiable_message_for_system_app">Beklager, men system app er generelt ikke sikre at slå fra.</string>
+    <string name="dialog_ingreenfiable_title">\"%1$s\" er u-greenificerbar.</string>
+    <string name="dialog_labs_incompatible_rom_message">Kunne ikke aktivere denne funktion. Det kan skyldes incompatibilitet med din ROM</string>
+    <string name="dialog_labs_state_set_failure_message">Kunne ikke indstille funktionstilstand!</string>
+    <string name="dialog_message_donation_package_exclusive">"Denne funktion er på nuværende tidspunkt kun tilgængelig i donationspakken.
+
+Køb donationspakken nu for at oplåse alle de eksperimenterende funktioner."</string>
+    <string name="dialog_root_operation_failure_message">Kunne ikke gennemføre handlingen. Vær opmærksom på om root adgang er slået til.</string>
+    <string name="dialog_thank4donation_message">"Tak for din donation til at støtte udviklingen.
+
+Du kan nu aktivere de yderligere eksperimentelle funktioner fra hovedmenuen."</string>
+    <string name="dialog_thank4donation_title">Tak</string>
+    <string name="dialog_title_confirmation">Bekræftelse</string>
+    <string name="dialog_title_error">Fejl</string>
+    <string name="dialog_verification_error_message">Kunne ikke kontrollere donationen. Tjek venligst din internetforbindelse og prøv igen senere.</string>
+    <string name="dialog_verification_fatal_error">Kan ikke kontrollere donationen. Rapporter venligst denne fejl.</string>
+    <string name="dialog_version_mismatch_message">Venligst opdater denne app til sneste version.</string>
+    <string name="dialog_version_mismatch_title">Versions konflikt</string>
+    <string name="dialog_warning_for_greenifying_launcher">"Du forsøger at greenificere app'en, der hører til standard-launcheren. Det anbefales ikke at benytte Greenify til ofte benyttede apps."</string>
+    <string name="dialog_warning_title">Advarsel</string>
+    <string name="dialog_xposed_module_inactive_message">Greenify-modulet til Xposed er ikke aktiveret endnu. Du skal aktivere det først i Xposed Installer for at benytte disse funktioner.</string>
+    <string name="event_capture_video">video er optaget</string>
+    <string name="event_connectivity_changes">ændringer i netværksforbindelsen</string>
+    <string name="event_media_connect">flytbart medie er forbundet</string>
+    <string name="event_media_eject">flyrbart medie er fjernet</string>
+    <string name="event_media_scan">lager scannes</string>
+    <string name="event_postfix_volatile">(kan afhænge af tilstand)</string>
+    <string name="event_power_connected">strømmen er slået til</string>
+    <string name="event_power_disconnected">strømmen er slået fra</string>
+    <string name="event_take_photo">foto er taget</string>
+    <string name="event_unlock_keyguard">tastaturlås er låst op</string>
+    <string name="event_update_apps">app er opdateret</string>
+    <string name="guide_btn_activate_module">Aktiver modul, Genstart</string>
+    <string name="guide_btn_install_xposed_installer">Installer Xposed Installer</string>
+    <string name="guide_btn_setup_xposed_framework">Opsætning af Xposed-framework</string>
+    <string name="guide_link_why_xposed">Hvorfor er Xposed-framework nødvendig?</string>
+    <string name="guide_title">Opsætningsvejledning til Xposed</string>
+    <string name="menu_about">Om</string>
+    <string name="menu_action_hibernate_condensed">Dvale</string>
+    <string name="menu_action_run">Kør</string>
+    <string name="menu_disable_service">deaktiver auto dvale</string>
+    <string name="menu_enable_service">Aktiver auto dvale</string>
+    <string name="no_app_picked">Ingen app valgt</string>
+    <string name="notification_app_picker_text">Start din app, og klik så her for at hente den.</string>
+    <string name="notification_app_picker_ticker">"Start først din app.
+Klik derefter på denne meddelelse fra APP PICKER"</string>
+    <string name="notification_app_picker_title">APP PICKER til Greenify</string>
+    <string name="notification_text_workaround_talking">Hvis du oplever tilfældigt tale-input</string>
+    <string name="notification_timer_coalesced_subtext">Automatisk optimiseret af Greenify</string>
+    <string name="notification_timer_coalesced_title">Samlet periodisk timer</string>
+    <string name="notification_title_workaround_talking">Løsning af tale-problem</string>
+    <string name="placeholder_show_all">Vis flere apps</string>
+    <string name="prefs_labs_automated_hibernation_title">Automatisk dvale (4.1+)</string>
+    <string name="progress_be_hibernating">Går i dvale...</string>
+    <string name="section_alarm">Planlagt kørsel (Siden sidste start)</string>
+    <string name="section_alarm_tips">"Disse apps har planlagt sig selv til at køre i baggrunden, og kan gøre maskinen langsommere og dræne batteriet.
+
+Vær opmærksom på de apps, som vækker din maskine tit."</string>
+    <string name="section_all_apps">Flere</string>
+    <string name="section_hibernated">I dvale</string>
+    <string name="section_pending">Afventer</string>
+    <string name="section_pending_auto">Vil gå i dvale få minutter efter skærmen slukkes</string>
+    <string name="section_pending_tip_nonroot">Disse apps er vågne og bliver inaktive nu, du skal manuelt sætte dem i dvale.</string>
+    <string name="section_postponed">Går ikke i dvale automatisk</string>
+    <string name="section_postponed_tip">Greenify kan ikke sætte disse apps i dvale automatisk på grund af de viste grunde med mindre status ændres senere.</string>
+    <string name="section_receiver">Gør måske maskinen langsommere når...</string>
+    <string name="section_receiver_tip">"Disse apps kan måske gøre maskinen langsommere når visse begivenheder sker, i en vilkårlig grad.
+
+Flere apps her, mindre respons på events."</string>
+    <string name="section_service">Kører i baggrunden</string>
+    <string name="section_service_tip">"Apps der kører i baggrunden vil bruge noget af hukommelsen og kan gøre maskinen langsommere i en vilkårlig grad.
+
+Gør denne liste så kort som muligt."</string>
+    <string name="service_cleaner">Rengør</string>
+    <string name="showcase_accessibility_setting">Slå automatisering til</string>
+    <string name="showcase_manual_hibernation_automation">Denne manuelle opsætningsproces kan automatiseres via en hjælpetjeneste, der følger med Greenify.</string>
+    <string name="showcase_manual_hibernation_desc">I ikke-rootet tilstand skal dvale udføres på denne måde pga. restriktioner i Android-systemet. Klik venligst på \"Gennemtving stop\"-knappen ovenfor for at afslutte dvale.</string>
+    <string name="showcase_manual_hibernation_title">Manuel dvale</string>
+    <string name="toast_accessibility_setting">Aktiver eller deaktiver hjælpetjenesten til Greenify her</string>
+    <string name="toast_already_greenified">\"%1$s\" er allerede greenificeret.</string>
+    <string name="toast_app_no_launcher_entry">Denne app findes ikke launcheren.</string>
+    <string name="toast_apps_hibernated">%1$s blev sat i dvale.</string>
+    <string name="toast_apps_hidden">Skjulte apps</string>
+    <string name="toast_auto_hibernation_failure_tip">"Sørg venligst for at Greenify får tilddelt root-adgang (nogle værktøjer til root-administrering kræver eksplicit gentilddeling af root-adgang hver gang app'en opdateres).
+
+Hvis du stadig oplever fejl med dvalefunktionen, prøv da venligst et andet værktøj til root-administrering, eller prøv \"Boot Mode\" under eksperimenterende funktioner."</string>
+    <string name="toast_cannot_switch_to_launcher">Kan ikke skifte over til launcheren. Prøv venligst manuelt at trykke på Hjem-knappen.</string>
+    <string name="toast_failed_to_greenify">Kunne ikke greenificere \"%1$s\".</string>
+    <string name="toast_gcm_tip">"GCM (Google Cloud Messaging) er integreret i denne app og kan benyttes til push-notifikationer. Dette vil ikke fungere mere, hvis app'en greenificeres.
+
+En eksperimenterende funktion i donationspakken kan akvitere GCM-push for greenificerede apps."</string>
+    <string name="toast_hibernation_failure">\"%1$s\" kunne ikke sættes i dvale.</string>
+    <string name="toast_need_reboot">Ikke tilgængelig før næste genstart</string>
+    <string name="toast_none_hibernated">Ingen apps skal skal i dvale</string>
+    <string name="toast_opted_in">Tak for din deltagelse!</string>
+    <string name="toast_opted_out">Du er nu frameldt. Ingen anonym data bliver samlet.</string>
+    <string name="toast_service_disabled">"Automatisk dvale er slået fra.
+Greenificerede apps vil ikke længere gå i dvale automatisk."</string>
+    <string name="toast_service_enabled">Auto dvale er aktivt</string>
+    <string name="toast_shortcut_created">En genvej oprettes i din launcher til dvale med et enkelt klik.</string>
+    <string name="toast_tasker_wakeup_unavail_in_nonroot">Beklager, kun tilgængelig i root-tilstand.</string>
+    <string name="wizard_step_enjoy">God fornøjelse</string>
+    <string name="wizard_step_forget">Glem</string>
+    <string name="wizard_step_greenify">Greenify</string>
+    <string name="app_waker_root">root</string>
+    <string name="app_waker_shell">shell</string>
+    <string name="prefs_labs_deep_hibernation_title">Dyb dvale (alpha)</string>
+    <string name="prefs_labs_root_mode_summary_off">Arbejder i ikke-rootet tilstand. Hvis din enhed i virkeligheden ER rootet, slå venligst denne funktion til for at udnytte Greenifys fulde potentiale.</string>
+    <string name="prefs_labs_root_mode_summary_on">Arbejder i rootet tilstand. Hvis din enhed i virkeligheden IKKE er rootet, slå venligst denne funktion fra for at sikre korrekt funktionalitet.</string>
+    <string name="service_wakeup_monitor">Vækningsovervågning</string>
+    <string name="toast_app_ingreenifiable">Beklager, \"%1$s\" kan ikke greenificeres.</string>
+    <string name="toast_apps_not_hibernating">Ikke i dvaletilstand: %1$s</string>
+    <string name="dialog_button_no">Nej</string>
+    <string name="dialog_button_yes">Ja</string>
+    <string name="dialog_labs_not_owner_message">Kun den primære bruger (ejeren) kan kontrollere de eksperimenterende funktioner.</string>
+    <string name="dialog_message_xposed_need_update">Denne version af Xposed framework understøtter ikke Android 4.4+. Opdater venligst denne i Xposed Installer.</string>
+    <string name="dialog_need_amazon_message">Venligst installer Amazon Appstore først.</string>
+    <string name="dialog_need_amazon_title">Skal have adgang til Amazon Appstore</string>
+    <string name="dialog_need_reinstall_message">"Før du gennemfører donationen, skal du geninstallere Greenify fra Amazon Appstore.
+
+For at beholde dine indstillinger, vælg venligst NEJ til at afinstallere."</string>
+    <string name="dialog_need_reinstall_title">Skal reinstalleres</string>
+    <string name="dialog_non_root_incompatible_rom_message">Beklager. Greenify kan ikke fungere ikke-rootet tilstand på din ROM.</string>
+    <string name="dialog_warning_for_too_frequent_sync">Denne app bliver automatisk sykroniseret for ofte (hver %1$d minutter), og bliver derfor ofte vækket. Skal denne automatiske synkronisering slås fra?</string>
+</resources>

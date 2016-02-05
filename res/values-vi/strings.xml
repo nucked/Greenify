@@ -1,0 +1,315 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_home_description">Điều hướng về trang chủ</string>
+    <string name="abc_action_bar_home_description_format">%1$s, %2$s</string>
+    <string name="abc_action_bar_home_subtitle_description_format">%1$s, %2$s, %3$s</string>
+    <string name="abc_action_bar_up_description">Điều hướng lên trên</string>
+    <string name="abc_action_menu_overflow_description">Thêm tùy chọn</string>
+    <string name="abc_action_mode_done">Xong</string>
+    <string name="abc_activity_chooser_view_see_all">Xem tất cả</string>
+    <string name="abc_activitychooserview_choose_application">Chọn một ứng dụng</string>
+    <string name="abc_capital_off">TẮT</string>
+    <string name="abc_capital_on">BẬT</string>
+    <string name="abc_search_hint">Tìm kiếm…</string>
+    <string name="abc_searchview_description_clear">Xóa truy vấn</string>
+    <string name="abc_searchview_description_query">Tìm kiếm truy vấn</string>
+    <string name="abc_searchview_description_search">Tìm kiếm</string>
+    <string name="abc_searchview_description_submit">Gửi truy vấn</string>
+    <string name="abc_searchview_description_voice">Tìm kiếm bằng giọng nói</string>
+    <string name="abc_shareactionprovider_share_with">Chia sẻ với</string>
+    <string name="abc_shareactionprovider_share_with_application">Chia sẻ với %s</string>
+    <string name="abc_toolbar_collapse_description">Thu gọn</string>
+    <string name="common_google_play_services_api_unavailable_text">%1$s yêu cầu một hoặc nhiều dịch vụ của Google Play hiện không có sẵn. Vui lòng liên hệ với nhà phát triển để được hỗ trợ.</string>
+    <string name="common_google_play_services_enable_button">Bật dịch vụ của Google Play</string>
+    <string name="common_google_play_services_enable_text">%1$s sẽ không hoạt động nếu bạn không bật dịch vụ của Google Play.</string>
+    <string name="common_google_play_services_enable_title">Bật dịch vụ của Google Play</string>
+    <string name="common_google_play_services_install_button">Cài đặt dịch vụ của Google Play</string>
+    <string name="common_google_play_services_install_text_phone">%1$s sẽ không chạy nếu không có dịch vụ của Google Play. Điện thoại của bạn bị thiếu dịch vụ này.</string>
+    <string name="common_google_play_services_install_text_tablet">%1$s sẽ không chạy nếu không có dịch vụ của Google Play. Máy tính bảng của bạn bị thiếu dịch vụ này.</string>
+    <string name="common_google_play_services_install_title">Cài đặt dịch vụ của Google Play</string>
+    <string name="common_google_play_services_invalid_account_text">Tài khoản đã chỉ định không tồn tại trên thiết bị này. Vui lòng chọn một tài khoản khác.</string>
+    <string name="common_google_play_services_invalid_account_title">Tài khoản không hợp lệ</string>
+    <string name="common_google_play_services_network_error_text">Cần có kết nối dữ liệu để kết nối với các dịch vụ của Google Play.</string>
+    <string name="common_google_play_services_network_error_title">Lỗi mạng</string>
+    <string name="common_google_play_services_notification_ticker">Lỗi dịch vụ của Google Play</string>
+    <string name="common_google_play_services_restricted_profile_text">Không hỗ trợ truy cập tài khoản từ hồ sơ bị hạn chế.</string>
+    <string name="common_google_play_services_restricted_profile_title">Hồ sơ bị hạn chế</string>
+    <string name="common_google_play_services_sign_in_failed_text">Lỗi khi đăng nhập vào tài khoản được chỉ định. Vui lòng chọn một tài khoản khác.</string>
+    <string name="common_google_play_services_sign_in_failed_title">Đăng nhập không thành công</string>
+    <string name="common_google_play_services_unknown_issue">%1$s đang gặp sự cố với các dịch vụ của Google Play. Nếu sự cố còn tiếp diễn, vui lòng liên hệ với nhà phát triển để được trợ giúp.</string>
+    <string name="common_google_play_services_unsupported_text">%1$s chạy trên dịch vụ của Google Play không được thiết bị của bạn hỗ trợ. Hãy liên hệ với nhà sản xuất để được hỗ trợ.</string>
+    <string name="common_google_play_services_unsupported_title">Dịch vụ của Google Play</string>
+    <string name="common_google_play_services_update_button">Cập nhật</string>
+    <string name="common_google_play_services_update_text">%1$s sẽ không chạy trừ khi bạn cập nhật dịch vụ của Google Play.</string>
+    <string name="common_google_play_services_update_title">Cập nhật dịch vụ của Google Play</string>
+    <string name="common_google_play_services_updating_text">%1$s sẽ không chạy nếu không có dịch vụ của Google Play. Dịch vụ này hiện đang cập nhật.</string>
+    <string name="common_google_play_services_updating_title">Dịch vụ của Google Play đang cập nhật</string>
+    <string name="common_google_play_services_wear_update_text">Cần phiên bản mới của dịch vụ Google Play. Dịch vụ sẽ sớm tự động cập nhật.</string>
+    <string name="common_open_on_phone">Mở trên điện thoại</string>
+    <string name="common_signin_button_text">Đăng nhập</string>
+    <string name="common_signin_button_text_long">Đăng nhập bằng Google</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="about_donation_summary">Tải gói tài trợ cho các tính năng thêm</string>
+    <string name="about_donation_summary_donated">Các tính năng thử nghiệm có thể kích hoạt trong menu chính.</string>
+    <string name="about_donation_title">Tài trợ</string>
+    <string name="about_donation_title_donated">Cảm ơn vì đã tài trợ</string>
+    <string name="about_licenses_title">Giấy phép</string>
+    <string name="about_raise_your_voice_program_detail">"Greenify sẽ mang tiếng nói của người dùng đến với nhà phát triển của những ứng dụng được kích hoạt chế độ greenify, để giúp họ có một cái nhìn tốt hơn với từng thiết bị. 
+
+Greenify thực hiện điều này bằng cách thu thập nhiều nguồn dữ liệu ngoại trừ những thông tin cá nhân. Bạn có thể tham gia bất cứ lúc nào."</string>
+    <string name="about_raise_your_voice_program_summary">Tiếng nói của bạn có thể tạo nên sự khác biệt!</string>
+    <string name="about_raise_your_voice_program_title">Chương trình \"Raise Your Voice!\"</string>
+    <string name="about_translation_credit">Thanh Tran</string>
+    <string name="about_translation_title">Dịch thuật</string>
+    <string name="about_uninstall">Gỡ cài đặt</string>
+    <string name="about_version_summary">Đánh giá ứng dụng này</string>
+    <string name="about_version_title">Phiên bản</string>
+    <string name="accessibility_service_description">"Quyền truy cập này là bắt buộc đối với những chức năng đặc biệt của Greenify.
+
+Bạn có thể sẽ bị cảnh bảo về một số rủi ro về an toàn cá nhân, đó chỉ là một cảnh báo thông thường đối với các ứng dụng đòi hỏi quyền truy cập. Chúng tôi hứa sẽ KHÔNG BAO GIỜ thu thập thông tin cá nhân trong các quyền truy cập này.
+
+Một vài thiết bị Samsung gặp phải vấn đề về đàm thoại nếu có kích hoạt quyền truy cập. Nếu bạn gặp vấn đề này, hãy kích hoạt Cách giải quyết khác trong mục \"Cài đặt\" ở đây."</string>
+    <string name="analysis_detail_alarm_with_wakeup">Chạy %1$d lần (có %2$d lần phục hồi trạng thái)</string>
+    <string name="app_analyzer_name">Phân tích ứng dụng</string>
+    <string name="app_analyzer_subtitle">Đã chọn %1$d ứng dụng</string>
+    <string name="app_shortcut_hibernate">Ngủ đông ngay</string>
+    <string name="app_shortcut_hibernate_lock">Ngủ đông + Khóa máy</string>
+    <string name="app_shortcut_nothing">Không có gì</string>
+    <string name="app_shortcut_wakeup">Thức dậy</string>
+    <string name="app_state_always_ignored">Luôn luôn bỏ qua cho ngủ đông</string>
+    <string name="app_state_hibernation_failed">Ngủ đông thất bại %1$s phút trước</string>
+    <string name="app_state_provider_in_use">Bộ cấp đang dùng bởi %1$s</string>
+    <string name="app_state_service_in_use">Dịch vụ đang dùng bởi %1$s</string>
+    <string name="app_state_unsaveable">Không thế phục hồi trạng thái</string>
+    <string name="app_state_woken_by_activity">Đã mở giao diện người dùng (UI) %1$s phút trước</string>
+    <string name="app_state_woken_by_app">Được đánh thức bởi %2$s %1$s phút trước</string>
+    <string name="app_state_woken_by_authenticator">Đã xác nhận %1$s phút trước</string>
+    <string name="app_state_woken_by_backup">Đã thực hiện sao lưu %1$s phút trước</string>
+    <string name="app_state_woken_by_broadcast">Đã hiển thị thông báo %1$s phút trước</string>
+    <string name="app_state_woken_by_content_provider">Đã cung cấp nội dung %1$s phút trước</string>
+    <string name="app_state_woken_by_push_msg">Đã nhận tin nhắn push %1$s phút trước</string>
+    <string name="app_state_woken_by_search">Đã tìm kiếm nội dung %1$s phút trước</string>
+    <string name="app_state_woken_by_service">Đã khởi động dịch vụ %1$s phút trước</string>
+    <string name="app_state_woken_by_sync">Đã đồng bộ hóa %1$s phút trước</string>
+    <string name="app_state_woken_by_widget">Đã cập nhật tiện ích %1$s phút trước</string>
+    <string name="app_state_woken_directly">%1$s trước bị đánh thức trực tiếp bởi %2$s</string>
+    <string name="app_title_service_disabled">Chế độ greenify (Không tự động ngủ đông)</string>
+    <string name="app_waker_google">Dịch vụ của Google</string>
+    <string name="app_waker_system">Hệ thống Android</string>
+    <string name="app_waker_unknown">không rõ nguồn gốc</string>
+    <string name="device_admin_for_automation">Chương trình tự động Greenify</string>
+    <string name="device_admin_for_automation_description">Cho phép Greenify khóa màn hình ngay sau khi tự động cho ngủ đông ở trạng thái nghỉ.</string>
+    <string name="device_admin_warning_when_disabling">Nếu vô hiệu hóa, Greenify sẽ không thể tự động ngủ đông khi màn hình tắt.</string>
+    <string name="dialog_app_picker_guide_button">Về màn hình chính</string>
+    <string name="dialog_app_picker_guide_message">Bạn sẽ trở về màn hình chính. Mở ứng dụng, sau đó chọn trình thêm ứng dụng trên thanh thông báo để thêm ứng dụng đó.</string>
+    <string name="dialog_app_picker_guide_title">Hướng dẫn thêm ứng dụng</string>
+    <string name="dialog_button_cancel">Huỷ bỏ</string>
+    <string name="dialog_button_continue">Tiếp tục</string>
+    <string name="dialog_button_insist">Nhấn mạnh</string>
+    <string name="dialog_button_later_by_oneself">Tôi sẽ làm sau</string>
+    <string name="dialog_button_learn_more">Tìm hiểu thêm</string>
+    <string name="dialog_button_opt_in">Tham gia</string>
+    <string name="dialog_button_opt_out">Không tham gia</string>
+    <string name="dialog_confirmation_unsafe_to_hibernate">Ứng dụng trong tình trạng này thường không an toàn khi cho ngủ đông. Ép buộc ngủ đông có thể làm gián đoạn chức năng hoặc mất dữ liệu.</string>
+    <string name="dialog_cutoff_message">"Cắt bỏ các đường dẫn làm thức ứng dụng có thể phá vỡ chức năng của ứng dụng đố hoặc các ứng dụng phụ thuộc khác.
+
+Nếu có điều gì không tốt xảy ra, hãy gẵn lại các đường dẫn đã bị cắt bỏ.
+
+Ảnh hưởng: [%s]"</string>
+    <string name="dialog_cutoff_title">Cảnh báo</string>
+    <string name="dialog_degreenified_message">Ứng dụng vẫn đang ngủ đông dù đã được ngừng kích hoạt chế độ greenify (tất cả chức năng trong quá trình chạy nền sẽ không hoạt động) cho đến được đánh thức bằng cách chạy ứng dụng trực tiếp.</string>
+    <string name="dialog_degreenified_title">Chú ý</string>
+    <string name="dialog_donation_corrupted_message">Gói tài trợ bị ngắt. Cài đặt lại nó từ Google Play không?</string>
+    <string name="dialog_greenify_confirmation_message">Bạn thực sự muốn greenify %1$s?</string>
+    <string name="dialog_greenifying_system_apps">Làm ngủ đông các ứng dụng hệ thống hiện đang là các chức năng thử nghiệm chỉ giới hạn trên phiên bản được ủng hộ.</string>
+    <string name="dialog_incompatible_rom_title">ROM không tương thích</string>
+    <string name="dialog_ingreenfiable_message_for_system_app">Xin lỗi, không an toàn khi kích hoạt greenify cho ứng dụng hệ thống.</string>
+    <string name="dialog_ingreenfiable_title">Kích hoạt greenify cho %1$s</string>
+    <string name="dialog_labs_incompatible_rom_message">Kích hoạt tính năng thất bại. Có thể do ROM của bạn không tương thích.</string>
+    <string name="dialog_labs_operation_failure_message">Không có hiệu lực.</string>
+    <string name="dialog_labs_state_set_failure_message">Thiết lập trạng thái cho tính năng thất bại!</string>
+    <string name="dialog_message_donation_package_exclusive">"Chức năng này tạm tời chỉ có mặt trên gói ủng hộ.
+
+Mua gói ủng hộ bây giờ để mở khóa tất cả các chức năng thử nghiệm."</string>
+    <string name="dialog_option_always_ignore_state">Luôn luôn bỏ qua tình trạng đang chạy của ứng dụng</string>
+    <string name="dialog_root_operation_failure_message">Thực hiện thất bại. Hãy chắc rằng quyền root đã được cấp cho ứng dụng.</string>
+    <string name="dialog_thank4donation_message">"Cám ơn bạn đã ủng hộ cho việc phát triển ứng dụng này
+
+Bây giờ bạn có thể kích hoạt các chức năng thử nghiệm từ menu chính."</string>
+    <string name="dialog_thank4donation_title">Cảm ơn</string>
+    <string name="dialog_title_confirmation">Xác nhận</string>
+    <string name="dialog_title_error">Lỗi</string>
+    <string name="dialog_verification_error_message">"Không thể xác nhận tài trợ. Hãy kiểm tra kết nối mạng và thử lại.
+"</string>
+    <string name="dialog_verification_fatal_error">Không thể xác minh sự đóng góp, xin vui lòng báo cáo lỗi này.</string>
+    <string name="dialog_version_mismatch_message">Hãy cập nhật ứng dụng lên phiên bản mới nhất.</string>
+    <string name="dialog_version_mismatch_title">Phiên bản không phù hợp</string>
+    <string name="dialog_warning_for_greenifying_launcher">Bạn vừa kích hoạt greenify cho ứng dụng trên màn hình chính. Không khuyến khích thực hiện việc này cho những ứng dụng thường xuyên được sử dụng.</string>
+    <string name="dialog_warning_title">Cảnh báo</string>
+    <string name="dialog_xposed_module_inactive_message">Xposed cho Greenify vẫn chưa được kích hoạt. Bạn cần kích hoạt trong trình cài đặt Xposed để tính năng hoạt động.</string>
+    <string name="event_capture_video">ghi hình</string>
+    <string name="event_connectivity_changes">thay đổi kết nối mạng</string>
+    <string name="event_media_connect">đã kết nối thiết bị lưu trữ</string>
+    <string name="event_media_eject">đã ngừng kết nối thiết bị lưu trữ</string>
+    <string name="event_media_scan">đã quét xong thiết bị lưu trữ</string>
+    <string name="event_postfix_volatile">(có thể thay đổi theo trạng thái)</string>
+    <string name="event_power_connected">cắm nguồn</string>
+    <string name="event_power_disconnected">rút nguồn</string>
+    <string name="event_take_photo">chụp hình</string>
+    <string name="event_unlock_keyguard">mở khóa bàn phím</string>
+    <string name="event_update_apps">cập nhật ứng dụng</string>
+    <string name="guide_btn_activate_module">Kích hoạt module &amp; Khởi động lại</string>
+    <string name="guide_btn_install_xposed_installer">Cài đặt Xposed Installer</string>
+    <string name="guide_btn_setup_xposed_framework">Cài đặt Xposed framework</string>
+    <string name="guide_link_why_xposed">Tại sao cần Xposed frameelwork?</string>
+    <string name="guide_sub_title">Hướng dẫn cài đặt</string>
+    <string name="guide_title">Tính năng thử nghiệm</string>
+    <string name="menu_about">Giới thiệu</string>
+    <string name="menu_action_accept">Chấp nhận</string>
+    <string name="menu_action_cutoff">Cắt đường dẫn làm thức ứng dụng</string>
+    <string name="menu_action_cutoff_condensed">Cắt</string>
+    <string name="menu_action_greenify">Quản lý Greenify</string>
+    <string name="menu_action_greenify_condensed">Greenify…</string>
+    <string name="menu_action_hibernate">Vào trạng thái ngủ đông ngay</string>
+    <string name="menu_action_hibernate_condensed">Ngủ đông</string>
+    <string name="menu_action_hide">Ẩn</string>
+    <string name="menu_action_pick">Chọn ứng dụng để kích hoạt greenify</string>
+    <string name="menu_action_pick_condensed">Chọn ứng dụng</string>
+    <string name="menu_action_reattach">Gắn lại đường dẫn làm thức ứng dụng</string>
+    <string name="menu_action_reattach_condensed">Gắn lại</string>
+    <string name="menu_action_reconsider_state">Xem xét lại tình trạng của ứng dụng</string>
+    <string name="menu_action_refresh">Làm mới</string>
+    <string name="menu_action_run">Chạy</string>
+    <string name="menu_action_ungreenify">Vô hiệu hóa greenify trên ứng dụng đã chọn</string>
+    <string name="menu_action_ungreenify_condensed">Vô hiệu hóa greenify</string>
+    <string name="menu_action_unhide_all">Hiển thị tất cả</string>
+    <string name="menu_create_shortcut">Tạo lối tắt ngủ đông</string>
+    <string name="menu_disable_service">"Tắt chế độ tự động ngủ đông
+"</string>
+    <string name="menu_enable_service">Bật chế đô tự động ngủ đông</string>
+    <string name="menu_reset_gesture">Thiết lập lại cử chỉ \"kéo lên\"</string>
+    <string name="no_app_picked">Chưa chọn ứng dụng nào</string>
+    <string name="notification_app_picker_text">Khởi chạy ứng dụng, sau đó chạm vào đây để chọn.</string>
+    <string name="notification_app_picker_ticker">"Đầu tiên khởi chạy ứng dụng.
+Sau đó chọn TRÌNH THÊM ỨNG DỤNG trên thanh thông báo.
+
+"</string>
+    <string name="notification_app_picker_title">TRÌNH THÊM ỨNG DỤNG cho Greenify</string>
+    <string name="notification_listener_title">Giữ thông báo</string>
+    <string name="notification_text_workaround_talking">Nếu bạn đang gặp ngẫu nhiên giọng nói</string>
+    <string name="notification_timer_coalesced_subtext">Tự động tối ưu bởi Greenify</string>
+    <string name="notification_timer_coalesced_title">Đã hợp nhất chu kỳ đếm thời gian</string>
+    <string name="notification_title_workaround_talking">Giải pháp cho vấn đề nói chuyện</string>
+    <string name="placeholder_show_all">Hiện thêm ứng dụng</string>
+    <string name="prefs_cat_donation_only_features">Phải có Gói Ủng hộ</string>
+    <string name="prefs_cat_experimental_features">Tính Năng Thử Nghiệm</string>
+    <string name="prefs_cat_xposed_donation_features">Phải có Gói Ủng hộ &amp;amp; Xposed</string>
+    <string name="prefs_cat_xposed_only_features">Phải có Xposed Framework</string>
+    <string name="prefs_labs_automated_hibernation_title">Tự động ngủ đông (4.1+)</string>
+    <string name="prefs_labs_block_notification_abuse_summary">Một vài ứng dụng lợi dụng lỗ hổng của Android (trước 4.3) để lợi dụng sự ưu tiên, qua đó giữ bộ nhớ trong tình trạng thấp một cách không công bằng. Những ứng dụng này sẽ bị đánh dấu dưới dòng chữ \"Nhận ra được\" trong Greenify và không cho ngủ đông được.</string>
+    <string name="prefs_labs_block_notification_abuse_title">Chặn Thông Báo</string>
+    <string name="prefs_labs_boost_mode_summary">Hoạt động và tương thích tốt hơn, đặc biệt nếu bạn đã gặp qua việc thất bại trong việc cho ứng dụng ngủ đông hay các vấn đề về ROOT.</string>
+    <string name="prefs_labs_boost_mode_title">Chế độ Boost</string>
+    <string name="prefs_labs_gcm_push_summary">"Cho phép GCM đẩy tin nhắn để làm thức các ứng dụng ngủ đông, ngoại trừ nếu các thông báo đã bị loại bỏ trong hệ thống (Cài đặt - Ứng dụng)
+Làm ơn kích hoạt \"Giữ thông báo\" để trách mất thông báo sau khi cho ngủ đông lại."</string>
+    <string name="prefs_labs_gcm_push_title">Tin nhắn GCM push cho các ứng dụng được kích hoạt greenify</string>
+    <string name="prefs_labs_reveal_hidden_sync_title">Hiện các đồng bộ hóa đang ẩn</string>
+    <string name="prefs_labs_root_mode_summary_boost">Hoạt động ở \"Chế độ Tăng cường\" (xem bên dưới) là điều được khuyên làm.</string>
+    <string name="prefs_labs_system_apps_limited_title">Cho ngủ đông các chương trình hệ thống (hạn chế)</string>
+    <string name="prefs_labs_system_apps_summary">Lấy đi sự miễn nhiễm, cho phép ngủ đông hầu hết các ứng dụng hệ thống.</string>
+    <string name="prefs_labs_system_apps_title">Đang kích hoạt greenify cho các ứng dụng hệ thống</string>
+    <string name="prefs_labs_telephony_wakeup_summary">Cho phép các sự kiện đối thoại (như gọi điện, tin nhắn) làm thức các ứng dụng đã ngủ đông, vì vậy các cuộc gọi đã ngủ đông hay các ứng dụng nhận biết tin nhắn làm việc bình thường.</string>
+    <string name="prefs_labs_telephony_wakeup_title">Đánh thức điện thoại</string>
+    <string name="prefs_labs_timer_coalescing_summary">Cho phép kết hợp bộ định giờ định kì (hàng loạt) cho tất cả ứng dụng (không chỉ các ứng dụng được thiết kế cho KitKat). Chỉ sẵn có trên Android 4.4+.</string>
+    <string name="prefs_labs_timer_coalescing_title">Kết hợp Thời gian (4.4+)</string>
+    <string name="prefs_labs_wakeup_tracker_summary">Theo dõi ứng dụng nào đã làm thức các ứng dụng đã ngủ đông của bạn, và có lựa chọn để cắt bỏ các đường dẫn làm thức này để loại trừ nó trong tương lai.</string>
+    <string name="prefs_labs_wakeup_tracker_title">Tác nhân làm thức &amp;amp; cắt bỏ</string>
+    <string name="prefs_labs_working_mode_title">Chế độ đang làm việc</string>
+    <string name="progress_be_hibernating">Đang cho ngủ đông...</string>
+    <string name="section_alarm">Đã lên lịch chạy (từ lần cuối khởi động)</string>
+    <string name="section_alarm_tips">"Các ứng dụng này được lên lịch chạy ngầm, điều đó có thể làm máy chạy chậm và tiêu tốn pin.
+
+Hãy cẩn thận nếu các ứng dụng đó thường xuyên đánh thức thiết bị của bạn."</string>
+    <string name="section_all_apps">Thêm</string>
+    <string name="section_hibernated">Đã ngủ đông</string>
+    <string name="section_pending">Đang chờ</string>
+    <string name="section_pending_auto">Sẽ ngủ đông trong vài phút sau khi màn hình tắt</string>
+    <string name="section_pending_tip_nonroot">Các ứng dụng này đã được đánh thức và trở nên nhàn rỗi vào hiện tại, bạn cần phải tự đặt chúng trở lại ngủ đông</string>
+    <string name="section_postponed">Không tự động ngủ đông</string>
+    <string name="section_postponed_tip">Greenify sẽ không tự động đưa ứng dụng vào trạng thái ngủ đông trong một số trường hợp, trừ khi trạng thái được thay đổi.</string>
+    <string name="section_receiver">Cở thể làm chậm thiết bị khi…</string>
+    <string name="section_receiver_tip">"Các ứng dụng này có thể làm chậm thiết bị khi thực hiện một số hoạt động.
+
+Càng có nhiều ứng dụng, các hoạt động càng bị hạn chế."</string>
+    <string name="section_service">Đang chạy nền</string>
+    <string name="section_service_tip">"Các ứng dụng đang chạy nền sẽ sử dụng một phần bộ nhớ, và có thể làm chậm thiết bị.
+
+Vậy nên hãy giữ cho danh sách này ít ứng dụng nhất có thể."</string>
+    <string name="service_cleaner">Dọn dẹp</string>
+    <string name="showcase_accessibility_setting">Kích hoạt tự động</string>
+    <string name="showcase_manual_hibernation_automation">Quy trình bằng tay này có thể được tự động hóa thông qua dịch vụ truy xuất cung cấp bởi Greenify.</string>
+    <string name="showcase_manual_hibernation_desc">Vì giới hạn hệ thống Android, khi làm việc trong chế độ không root, bạn cần kích thủ công nút \"Ép buộc ngừng\" để hoàn thành ngủ đông.</string>
+    <string name="showcase_manual_hibernation_title">Ngủ đông thủ công</string>
+    <string name="toast_accessibility_setting">Kích hoạt hoặc vô hiệu hóa dịch vụ tiếp cận của Greenify tại đây</string>
+    <string name="toast_action_undo">HOÀN TÁC</string>
+    <string name="toast_already_greenified">\"%1$s\" đã được kích hoạt greenify rồi.</string>
+    <string name="toast_app_no_launcher_entry">Ứng dụng này không có đường dẫn khởi chạy.</string>
+    <string name="toast_apps_hibernated">%1$s đã ngủ đông</string>
+    <string name="toast_apps_hidden">Các ứng dụng ẩn</string>
+    <string name="toast_auto_hibernation_failure_tip">"Hãy chắc rằng quyền root đã được cấp cho Greenify. (Một vài công cụ quản lý root đòi hỏi dứt khoát phải cấp quyền lại mỗi khi nâng cấp ứng dụng)
+
+Nếu bạn vẫn còn gặp thất bại trong việc cho ngủ đông, hãy thử công cụ quản lý root khác hay là \"Chế độ tăng cường\" trong các chế độ thử nghiệm."</string>
+    <string name="toast_cannot_switch_to_launcher">Không thể chuyển sang màn hình chính, hãy bấm phím Home để trở về.</string>
+    <string name="toast_failed_to_greenify">Kích hoạt greenify cho \"%1$s\" thất bại.</string>
+    <string name="toast_gcm_tip">"GCM (Google Cloud Messaging) đã được tích hợp vào ứng dụng này, và có thể được dùng để đẩy thông báo. Nó sẽ không hoạt động nữa nếu bị cho ngủ đông.
+
+Một chức năng thử nghiệm trong phiên bản ủng hộ cho phép hiện thông báo GCM của các ứng dụng đã được ngủ đông."</string>
+    <string name="toast_gesture_reset">Các hành vi mặc định của pull-up cử chỉ trên nút Home được thiết lập lại.</string>
+    <string name="toast_hibernation_failure">Thất bại khi đưa \"%1$s\" vào trạng thái ngủ đông.</string>
+    <string name="toast_need_reboot">Không dùng được nếu chưa khởi động lần tới</string>
+    <string name="toast_none_hibernated">Không có ứng dụng nào cần ngủ đông.</string>
+    <string name="toast_opted_in">Cảm ơn bạn đã tham gia!</string>
+    <string name="toast_opted_out">Bạn đã quyết định không tham gia. Sẽ không có thống kê nào được lưu lại.</string>
+    <string name="toast_service_disabled">"Đã vô hiệu hoá chế độ tự động ngủ đông
+Những ứng dụng đã kích hoạt greenify sẽ không tự động ngủ đông nữa."</string>
+    <string name="toast_service_enabled">Đã kích hoạt chế độ tự động ngủ đông.</string>
+    <string name="toast_shortcut_created">Một lối tắt được tạo trong Lancher cho 1-kích ngủ đông.</string>
+    <string name="toast_tasker_wakeup_unavail_in_nonroot">Xin lỗi, chỉ có sẵn trong chế độ root.</string>
+    <string name="wizard_step_enjoy">Tận hưởng</string>
+    <string name="wizard_step_enjoy_desc">sự mượt mà và trải nghiệm như ngày đầu sử dụng máy.</string>
+    <string name="wizard_step_forget">Hãy quên đi</string>
+    <string name="wizard_step_forget_desc">việc trông chừng nhàm chán, và để Greenify làm điều đó cho bạn.</string>
+    <string name="wizard_step_greenify">Kích hoạt chế độ Greenify</string>
+    <string name="wizard_step_greenify_desc">cho các ứng dụng làm hao pin, tốn bộ nhớ và chạy ẩn.</string>
+    <string name="app_state_wakeup_paths_cutoff">Cắt đường dẫn làm thức ứng dụng</string>
+    <string name="app_waker_root">root</string>
+    <string name="app_waker_shell">shell</string>
+    <string name="dialog_full_cutoff_message">"Cắt bỏ đường dẫn làm thức ứng dụng có thể phá vỡ chức năng của ứng dụng đó hoặc các ứng dụng liên quan.
+
+Nếu bất cứ điều gì xấu xảy ra, hãy nối lại đường dẫn."</string>
+    <string name="event_wifi_scan">Đã quét Wi-Fi</string>
+    <string name="prefs_labs_automated_hibernation_summary">Ở chế độ Hạn chê, tự động cho ngủ đông vài phút sau khi màn hình tắt. Chương trình sẽ tự bật màn hình, cho ngủ đông rồi sẽ tắt màn hình lại. (Chỉ ở Android 4.1+, Quyền Truy xuất, Quyền Quản trị và không mã hóa màn hình)</string>
+    <string name="prefs_labs_deep_hibernation_summary">"Bắt buộc các ứng dụng ngủ đông, ngăn không cho chúng bị đánh thức bởi ứng dụng khác.
+Chú ý: có thể phá vỡ chức năng cross-app của ứng dụng đang ngủ đông!"</string>
+    <string name="prefs_labs_deep_hibernation_title">Giữ ngủ đông (dùng thử)</string>
+    <string name="prefs_labs_no_remove_notifications_limited_summary">Không loại bỏ thông báo khi ứng dụng ngủ đông (chỉ khi tắt màn hình), do đó bạn có thể đọc được thông báo sau. Biểu tượng trên thanh thông báo của ứng dụng không thể giữ lại được, vì bị hạn chế quyền ưu tiên. Phiên bản dựa trên Xposed dưới đây không bị hạn chế như vậy.</string>
+    <string name="prefs_labs_no_remove_notifications_limited_title">Không loại bỏ thông báo (giới hạn)</string>
+    <string name="prefs_labs_no_remove_notifications_summary">Không loại bỏ thông báo khi ứng dụng ngủ đông, do đó bạn có thể đọc được thông báo sau.</string>
+    <string name="prefs_labs_no_remove_notifications_title">Không loại bỏ thông báo</string>
+    <string name="prefs_labs_reveal_hidden_sync_summary">Hiện các tài khoản đồng bộ hóa ẩn trong \"Cài đặt - Tài khoản\", bắt đầu với \"*\".</string>
+    <string name="prefs_labs_root_mode_summary_off">Làm việc trong chế độ hạn chế (chưa root)</string>
+    <string name="prefs_labs_root_mode_summary_on">Làm việc trong chế độ root</string>
+    <string name="prefs_labs_system_apps_limited_summary">Bãi bỏ sự miễn nhiễm khỏi bị ngủ đông của một số chương trình hệ thống, làm cho chúng có thể ngủ đông được. Vì hạn chế về công nghệ, các chương trình hệ thống đã bị ngủ đông có thể không hoàn toàn im lặng như chương trình không-phải-hệ thống, và những chương trình hệ thống khác chỉ có thể bị cho ngủ đông khi có cài phiên bản có Xposed có những tính năng như ở dưới.</string>
+    <string name="service_wakeup_monitor">giám sắt đánh thức</string>
+    <string name="toast_app_ingreenifiable">Rất tiếc, \"%1$s\" không thể ngủ đông được.</string>
+    <string name="toast_apps_not_hibernating">Đang không cho ngủ đông: %1$s</string>
+    <string name="toast_auto_hibernation_oos">Dịch vụ tự động ngủ đông dừng lại. Nếu thông báo này xuất hiện thường xuyên, dịch vụ nền có thể bị chặn bởi các công cụ hoặc thiết lập hệ thống bên thứ 3 (ví dụ như Stamina Mode trong thiết bị của Sony, AutoStart Manager trong MIUI), hãy kiểm tra các thiết lập tương ứng và danh sách trắng Greenify nếu có thể.</string>
+    <string name="toast_auto_hibernation_restarting">Dịch vụ tự động ngủ đông đang được khởi động lại ... (có thể là do bộ nhớ thấp)</string>
+    <string name="toast_no_auto_hibernation_for_secure_keyguard">Xin lỗi, ngủ đông tự động không thể làm việc nếu khóa bảo vệ an toàn được thiết lập. Bạn có thể sử dụng phím tắt \"Hibernate và Lock Screen\".</string>
+    <string name="toast_no_auto_hibernation_for_secure_keyguard_with_navbar">Xin lỗi, ngủ đông tự động không thể làm việc nếu an toàn khóa bảo vệ được thiết lập. \"Kéo\" cử chỉ trên \"Home\" mềm quan trọng được khuyến khích cho \"Hibernate và Lock Screen\" phím tắt.</string>
+    <string name="app_state_critical">Bình luận</string>
+    <string name="app_state_working">Đang hoạt động</string>
+    <string name="toast_action_setting">Cài đặt</string>
+    <string name="toast_usage_stats_permission">Bạn cần phải cấp quyền truy cập để phát hiện và tránh ngủ đông ứng dụng đang chạy</string>
+    <string name="section_pending_charging">Bỏ qua ngủ đông trong quá trình sạc</string>
+</resources>

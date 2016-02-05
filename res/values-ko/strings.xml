@@ -1,0 +1,310 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_home_description">홈 탐색</string>
+    <string name="abc_action_bar_home_description_format">%1$s, %2$s</string>
+    <string name="abc_action_bar_home_subtitle_description_format">%1$s, %2$s, %3$s</string>
+    <string name="abc_action_bar_up_description">위로 탐색</string>
+    <string name="abc_action_menu_overflow_description">옵션 더보기</string>
+    <string name="abc_action_mode_done">완료</string>
+    <string name="abc_activity_chooser_view_see_all">전체 보기</string>
+    <string name="abc_activitychooserview_choose_application">앱 선택</string>
+    <string name="abc_capital_off">사용 안함</string>
+    <string name="abc_capital_on">사용</string>
+    <string name="abc_search_hint">검색...</string>
+    <string name="abc_searchview_description_clear">검색어 삭제</string>
+    <string name="abc_searchview_description_query">검색어</string>
+    <string name="abc_searchview_description_search">검색</string>
+    <string name="abc_searchview_description_submit">검색어 보내기</string>
+    <string name="abc_searchview_description_voice">음성 검색</string>
+    <string name="abc_shareactionprovider_share_with">공유 대상</string>
+    <string name="abc_shareactionprovider_share_with_application">%s와(과) 공유</string>
+    <string name="abc_toolbar_collapse_description">접기</string>
+    <string name="common_google_play_services_api_unavailable_text">현재 %1$s에 필요한 하나 이상의 Google Play 서비스를 사용할 수 없습니다. 개발자에게 문의하여 도움을 받으시기 바랍니다.</string>
+    <string name="common_google_play_services_enable_button">Google Play 서비스 사용</string>
+    <string name="common_google_play_services_enable_text">Google Play 서비스를 사용하도록 설정해야 %1$s이(가) 작동합니다.</string>
+    <string name="common_google_play_services_enable_title">Google Play 서비스 사용</string>
+    <string name="common_google_play_services_install_button">Google Play 서비스 설치</string>
+    <string name="common_google_play_services_install_text_phone">스마트폰에 Google Play 서비스가 설치되어 있어야 %1$s이(가) 실행됩니다.</string>
+    <string name="common_google_play_services_install_text_tablet">태블릿에 Google Play 서비스가 설치되어 있어야 %1$s이(가) 실행됩니다.</string>
+    <string name="common_google_play_services_install_title">Google Play 서비스 설치</string>
+    <string name="common_google_play_services_invalid_account_text">지정한 계정이 이 기기에 존재하지 않습니다. 다른 계정을 선택하세요.</string>
+    <string name="common_google_play_services_invalid_account_title">계정 오류</string>
+    <string name="common_google_play_services_network_error_text">Google Play 서비스에 연결하려면 데이터 연결이 필요합니다.</string>
+    <string name="common_google_play_services_network_error_title">네트워크 오류</string>
+    <string name="common_google_play_services_notification_ticker">Google Play 서비스 오류</string>
+    <string name="common_google_play_services_restricted_profile_text">제한된 프로필에서 계정에 액세스할 수 없습니다.</string>
+    <string name="common_google_play_services_restricted_profile_title">제한된 프로필</string>
+    <string name="common_google_play_services_sign_in_failed_text">지정한 계정에 로그인하는 중에 오류가 발생했습니다. 다른 계정을 선택해 주세요.</string>
+    <string name="common_google_play_services_sign_in_failed_title">로그인 실패</string>
+    <string name="common_google_play_services_unknown_issue">%1$s에서 Google Play 서비스를 사용하는 데 문제가 있습니다. 문제가 계속되는 경우 개발자에게 지원을 요청하세요.</string>
+    <string name="common_google_play_services_unsupported_text">%1$s에 필요한 Google Play 서비스가 사용자 기기에서 지원되지 않습니다. 기기 제조업체에 문의하시기 바랍니다.</string>
+    <string name="common_google_play_services_unsupported_title">Google Play 서비스</string>
+    <string name="common_google_play_services_update_button">업데이트</string>
+    <string name="common_google_play_services_update_text">Google Play 서비스를 업데이트해야 %1$s이(가) 실행됩니다.</string>
+    <string name="common_google_play_services_update_title">Google Play 서비스 업데이트</string>
+    <string name="common_google_play_services_updating_text">현재 업데이트 중인 Google Play 서비스가 있어야 %1$s이(가) 실행됩니다.</string>
+    <string name="common_google_play_services_updating_title">Google Play 서비스 업데이트 중</string>
+    <string name="common_google_play_services_wear_update_text">새 버전의 Google Play 서비스가 필요합니다. 곧 자동으로 업데이트됩니다.</string>
+    <string name="common_open_on_phone">스마트폰에서 열기</string>
+    <string name="common_signin_button_text">로그인</string>
+    <string name="common_signin_button_text_long">Google 계정으로 로그인</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="about_donation_summary">추가적인 기능들을 사용하기 위해 기부 패키지를 구매하세요.</string>
+    <string name="about_donation_summary_donated">추가적인 실험적 기능들은 메인 메뉴에서 활성화가 가능합니다.</string>
+    <string name="about_donation_title">기부하기</string>
+    <string name="about_donation_title_donated">기부에 감사드립니다.</string>
+    <string name="about_licenses_title">라이선스</string>
+    <string name="about_raise_your_voice_program_detail">"Greenify는 다양한 기기를 지원하기 위한 노력의 일환으로, 개발자 커뮤니티를 통해 당신이 greenify를 통해 사용 중인 앱의 개발자들로부터의 의견을 청취하기 위해 노력하고 있습니다.
+
+또한 당신의 의견을 청취하기 위해, Greenify는 개인정보를 제외한 익명의 정보들을 수집하고 있습니다. 물론, 당신은 이것을 언제라도 거부할 수 있습니다."</string>
+    <string name="about_raise_your_voice_program_summary">여러분의 참여가 변화를 만듭니다!</string>
+    <string name="about_raise_your_voice_program_title">\"사용자 참여!\" 프로그램</string>
+    <string name="about_translation_credit">송태훈</string>
+    <string name="about_translation_title">번역</string>
+    <string name="about_uninstall">삭제</string>
+    <string name="about_version_summary">이 앱을 평가해 주세요.</string>
+    <string name="about_version_title">버전</string>
+    <string name="accessibility_service_description">"이 접근성 서비스는 Greenify에서 몇몇 특별한 기능들을 사용하는 데 필요합니다.
+
+활성화를 시도할 때, 잠재적인 권한 요구를 경고하는 메시지가 표시될 것입니다. 하지만 이것은 어떤 접근성 서비스를 활성화 하더라도 나타나는 일반적인 경고입니다. 저희는 이 접근성 서비스를 통해 당신의 개인적인 정보를 \"절대로(NEVER EVER)\" 수집하지 않습니다.
+
+접근성 서비스의 활성화 시, 몇몇 삼성 스마트폰에서는 보이스 토킹 문제가 발생할 수 있습니다. 해당 경우에는 하단의 \"설정\" 메뉴를 통해 문제를 해결할 수 있습니다."</string>
+    <string name="analysis_detail_alarm_with_wakeup">%1$d번 실행됨 (%2$d번의 wakeup 포함)</string>
+    <string name="app_analyzer_name">추가할 앱 선택하기</string>
+    <string name="app_analyzer_subtitle">%1$d 개의 앱이 선택되었습니다.</string>
+    <string name="app_shortcut_hibernate">자동실행 방지!</string>
+    <string name="app_shortcut_hibernate_lock">자동실행 방지 + 화면 잠금</string>
+    <string name="app_shortcut_nothing">아무것도 하지 않음</string>
+    <string name="app_shortcut_wakeup">Wake Up</string>
+    <string name="app_state_always_ignored">앱의 현재 상태에 상관없이 자동실행 방지작업을 강제수행합니다.</string>
+    <string name="app_state_hibernation_failed">%1$s 전, 자동실행 방지 작업에 실패하였습니다.</string>
+    <string name="app_state_provider_in_use">Provider로 %1$s에 의해 사용 중</string>
+    <string name="app_state_service_in_use">Service가 %1$s에 의해 사용 중</string>
+    <string name="app_state_unsaveable">상태 복구불능</string>
+    <string name="app_state_woken_by_activity">%1$s 전, UI 시작</string>
+    <string name="app_state_woken_by_app">%1$s 전, %2$s에 의해 깨어남</string>
+    <string name="app_state_woken_by_authenticator">%1$s 전, 인증됨 (authenticated)</string>
+    <string name="app_state_woken_by_backup">%1$s 전, 백업이 수행됨</string>
+    <string name="app_state_woken_by_broadcast">%1$s 전, 자바 클래스 식별자에 의해 통지됨 (explicitly notified)</string>
+    <string name="app_state_woken_by_content_provider">%1$s 전, 콘텐츠가 제공됨 (content provided)</string>
+    <string name="app_state_woken_by_push_msg">%1$s 전, 푸시알림을 받아 깨어남</string>
+    <string name="app_state_woken_by_search">%1$s 전, 검색을 통해 깨어남</string>
+    <string name="app_state_woken_by_service">%1$s 전, 서비스 시작됨</string>
+    <string name="app_state_woken_by_sync">%1$s 전, 동기화 작업을 통해 깨어남</string>
+    <string name="app_state_woken_by_widget">%1$s 전, 위젯 업데이트를 통해 깨어남</string>
+    <string name="app_state_woken_directly">%1$s 전, %2$s에 의해 깨어남</string>
+    <string name="app_title_service_disabled">Greenify (자동관리모드가 중지됨)</string>
+    <string name="app_waker_google">구글서비스에 의해 깨어남</string>
+    <string name="app_waker_system">안드로이드 시스템에 의해 깨어남</string>
+    <string name="app_waker_unknown">알 수 없는 원인</string>
+    <string name="device_admin_for_automation">Greenify 자동화</string>
+    <string name="device_admin_for_automation_description">Greenify가 자동실행 방지작업을 수행한 직후, 화면을 끄도록 허용합니다.</string>
+    <string name="device_admin_warning_when_disabling">이 항목이 활성화되어 있지 않으면, 화면 꺼짐 상태에서 자동실행 방지작업을 수행할 수 없습니다.</string>
+    <string name="dialog_app_picker_guide_button">홈 화면으로 이동</string>
+    <string name="dialog_app_picker_guide_message">이제 홈화면으로 나가게 될 것입니다. 먼저 추가하려는 앱을 실행하고, 상단의 알림을 터치하여 Greenify에 추가하세요.</string>
+    <string name="dialog_app_picker_guide_title">앱을 추가하는 방법</string>
+    <string name="dialog_button_cancel">취소</string>
+    <string name="dialog_button_continue">계속</string>
+    <string name="dialog_button_insist">계속하기</string>
+    <string name="dialog_button_later_by_oneself">나중에 실행</string>
+    <string name="dialog_button_learn_more">더 알아보기</string>
+    <string name="dialog_button_opt_in">사용자통계 허용(Opt-in)</string>
+    <string name="dialog_button_opt_out">사용자통계 거부(Opt-out)</string>
+    <string name="dialog_confirmation_unsafe_to_hibernate">이 상태에 있는 앱을 자동실행 방지화하는 것은 일반적으로 안전하지 않습니다. 강제로 자동실행 방지작업을 수행할 경우, 오작동이나 데이터 손실을 야기할 수 있습니다.</string>
+    <string name="dialog_cutoff_message">"앱이 깨어나는 경로를 삭제하는 것은 해당 앱이나 영향을 받는 다른 앱들의 올바른 작동을 방해할 수 있습니다.
+
+만약 문제가 발생한다면, 삭제한 경로를 복원해 주세요.
+
+영향을 받음: [%s]"</string>
+    <string name="dialog_cutoff_title">경고</string>
+    <string name="dialog_degreenified_message">Greenify의 관리목록에서 제거되었지만, 직접 실행을 통해 앞으로의 자동실행 기능을 회복시켜 주어야 합니다.</string>
+    <string name="dialog_degreenified_title">주의</string>
+    <string name="dialog_donation_corrupted_message">기부 패키지가 제대로 작동하지 않습니다. Google Play에서 다시 설치하시겠습니까?</string>
+    <string name="dialog_greenify_confirmation_message">정말로 %1$s을(를) Greenify에 추가하시겠습니까?</string>
+    <string name="dialog_greenifying_system_apps">시스템 앱을 Greenify에 추가하는 기능은, 현재는 기부 버전에서만 사용 가능합니다.</string>
+    <string name="dialog_incompatible_rom_title">롬이 호환되지 않습니다.</string>
+    <string name="dialog_ingreenfiable_message_for_system_app">죄송합니다, 시스템 앱을 Greenify에 추가하는 것은 일반적으로 안전하지 않습니다.</string>
+    <string name="dialog_ingreenfiable_title">%1$s을(를) Greenify에 추가할 수 없습니다.</string>
+    <string name="dialog_labs_incompatible_rom_message">해당 기능을 활성화하는 데 실패하였습니다. 현재 사용 중인 ROM과의 호환성 문제일 수 있습니다.</string>
+    <string name="dialog_labs_operation_failure_message">작업이 실패하였습니다.</string>
+    <string name="dialog_labs_state_set_failure_message">기능을 설정하는 데 실패하였습니다!</string>
+    <string name="dialog_message_donation_package_exclusive">"이 기능은 현재 기부 패키지를 설치한 상태에서만 사용이 가능합니다.
+
+모든 실험적인 기능들을 사용하기 위해서, 지금 기부 패키지를 구매해 주세요."</string>
+    <string name="dialog_option_always_ignore_state">실행상태를 언제나 무시함</string>
+    <string name="dialog_root_operation_failure_message">실행에 실패하였습니다. 루트 권한을 허용하였는지 확인해주세요.</string>
+    <string name="dialog_thank4donation_message">"Greenify의 개발을 위해 기부를 해 주셔서 감사합니다.
+
+이제 메인 메뉴에서 추가적인 시험적 기능들을 활성화할 수 있습니다."</string>
+    <string name="dialog_thank4donation_title">감사합니다.</string>
+    <string name="dialog_title_confirmation">확인</string>
+    <string name="dialog_title_error">오류</string>
+    <string name="dialog_verification_error_message">기부 여부 확인에 실패하였습니다. 네트워크 연결 상태를 확인하신 후에 다시 시도해 주세요.</string>
+    <string name="dialog_verification_fatal_error">기부 여부를 확인할 수 없습니다. 이 오류를 보고해 주세요.</string>
+    <string name="dialog_version_mismatch_message">이 앱을 최신 버전으로 업데이트해 주세요.</string>
+    <string name="dialog_version_mismatch_title">버전이 맞지 않습니다.</string>
+    <string name="dialog_warning_for_greenifying_launcher">기본 런처를 Greenify에 추가하려 하고 있습니다. 런처, 메신저, 위젯과 같이 활발히 사용하는 앱을 Greenify에 추가하는 것은 권장하지 않습니다.</string>
+    <string name="dialog_warning_title">경고</string>
+    <string name="dialog_xposed_module_inactive_message">Greenify의 Xposed module이 아직 활성화되지 않았습니다. 이 기능들을 작동시키기에 앞서 Xposed installer에서 Greenify를 활성화해 주세요.</string>
+    <string name="event_capture_video">동영상이 녹화될 때</string>
+    <string name="event_connectivity_changes">네트워크 연결에 변화가 있을 때</string>
+    <string name="event_media_connect">탈착 가능한 저장소가 연결될 때</string>
+    <string name="event_media_eject">탈착 가능한 저장소가 제거될 때</string>
+    <string name="event_media_scan">저장소가 스캔될 때</string>
+    <string name="event_postfix_volatile">(앱 상태에 따라)</string>
+    <string name="event_power_connected">전원이 켜질 때</string>
+    <string name="event_power_disconnected">전원이 꺼질 때</string>
+    <string name="event_take_photo">사진이 촬영될 때</string>
+    <string name="event_unlock_keyguard">암호(또는 패턴)가 해제될 때</string>
+    <string name="event_update_apps">앱이 업데이트 될 때</string>
+    <string name="guide_btn_activate_module">모듈을 활성화하고, 재시작</string>
+    <string name="guide_btn_install_xposed_installer">Xposed Installer 설치</string>
+    <string name="guide_btn_setup_xposed_framework">Xposed framework를 설정합니다.</string>
+    <string name="guide_link_why_xposed">왜 Xposed framework가 필요한가요?</string>
+    <string name="guide_sub_title">시스템 기능 추가와 변경을 위한 강력한 프레임워크</string>
+    <string name="guide_title">Xposed 설정 가이드</string>
+    <string name="menu_about">Greenify에 관하여</string>
+    <string name="menu_action_accept">승인</string>
+    <string name="menu_action_cutoff">해당 앱을 깨어나게 하는 외부 원인과의 연결고리를 삭제합니다.</string>
+    <string name="menu_action_cutoff_condensed">깨우는 경로 삭제</string>
+    <string name="menu_action_greenify">Greenify에 앱 추가하기</string>
+    <string name="menu_action_greenify_condensed">Greenify에 추가...</string>
+    <string name="menu_action_hibernate">지금 바로 백그라운드에서 종료하고, 자동실행을 방지합니다.</string>
+    <string name="menu_action_hibernate_condensed">자동실행 방지</string>
+    <string name="menu_action_hide">숨기기</string>
+    <string name="menu_action_pick">홈화면으로 나가서 Greenify에 추가할 앱을 직접 선택합니다.</string>
+    <string name="menu_action_pick_condensed">앱 선택</string>
+    <string name="menu_action_reattach">해당 앱을 깨어나게 하는 외부 원인과의 연결고리를 다시 연결합니다.</string>
+    <string name="menu_action_reattach_condensed">깨우는 경로 다시 연결</string>
+    <string name="menu_action_reconsider_state">상태 무시 여부를 다시 설정하기</string>
+    <string name="menu_action_refresh">새로 고침</string>
+    <string name="menu_action_run">실행</string>
+    <string name="menu_action_ungreenify">선택한 앱을 Greenify에서 제외합니다.</string>
+    <string name="menu_action_ungreenify_condensed">Greenify에서 제외</string>
+    <string name="menu_action_unhide_all">모두 보기</string>
+    <string name="menu_create_shortcut">기능실행 단축 아이콘 만들기</string>
+    <string name="menu_disable_service">자동관리모드 중지</string>
+    <string name="menu_enable_service">자동관리모드 재시작</string>
+    <string name="menu_reset_gesture">풀업 (pull-up) 동작의 기본 동작 리셋</string>
+    <string name="no_app_picked">앱이 선택되지 않았습니다.</string>
+    <string name="notification_app_picker_text">먼저 추가할 앱을 실행하고, 이 알림을 터치하세요.</string>
+    <string name="notification_app_picker_ticker">"먼저 Greenify에 추가할 앱을 실행하세요.
+그리고 이 알림을 터치하세요."</string>
+    <string name="notification_app_picker_title">Greenify에 추가할 앱을 선택하세요.</string>
+    <string name="notification_listener_title">알림 유지</string>
+    <string name="notification_text_workaround_talking">의도하지 않은 상황에서 기기가 특정 정보를 소리 내서 읽는 문제(random voice talking)가 발생한 경우에만 활성화해 주세요.</string>
+    <string name="notification_timer_coalesced_subtext">Greenify에 의해 자동으로 최적화됨.</string>
+    <string name="notification_timer_coalesced_title">주기적인 타이머 병합 기술이 적용됨</string>
+    <string name="notification_title_workaround_talking">보이스 토킹 문제 해결하기</string>
+    <string name="placeholder_show_all">터치하여, 추가할 수 있는 다른 앱들을 확인합니다.</string>
+    <string name="prefs_cat_donation_only_features">기부 패키지의 설치가 필요한 기능</string>
+    <string name="prefs_cat_experimental_features">실험적인 기능들</string>
+    <string name="prefs_cat_xposed_donation_features">Xposed와 기부 패키지의 설치가 필요한 기능</string>
+    <string name="prefs_cat_xposed_only_features">Xposed Framework가 필요한 기능</string>
+    <string name="prefs_labs_automated_hibernation_title">자동실행 방지 자동화 (4.1+)</string>
+    <string name="prefs_labs_block_notification_abuse_summary">어떤 앱들은 메모리가 부족한 상황에서 강제 종료를 피하기 위해 (4.3 이하 버전에서) 안드로이드의 취약점을 활용합니다. 이 앱들은 Greenify에서 허위로 \"Perceptible\" 상태로 표시되며 자동실행 방지화가 되지 않습니다.</string>
+    <string name="prefs_labs_block_notification_abuse_title">앱 상태 허위표시 방지</string>
+    <string name="prefs_labs_boost_mode_summary">더 나은 퍼포먼스와 호환성을 제공합니다. 특히 자동실행 방지작업이나 루트 권한 문제가 있었다면, 해결에 도움이 될 수 있습니다.</string>
+    <string name="prefs_labs_boost_mode_title">부스트 모드</string>
+    <string name="prefs_labs_gcm_push_summary">"자동실행이 방지된 상태에 있는 앱에 GCM 푸시를 허용합니다. 따라서 GCM 푸시가 있을 때에만 앱을 깨울 수 있습니다. 시스템에서 해당 앱에 대해 알림을 중지한 경우에는 해당하지 않습니다. (설정 - 애플리케이션)
+GCM 푸시를 통해 알림을 수신한 앱은 자동실행 방지작업을 통해 다시 종료됩니다. 해당 앱을 통해 수신된 알림들이 앱의 종료와 함께 사라지는 것을 방지하기 위해서는, 이 항목 상단의 \"알림 유지\" 항목을 함께 활성화해주시기 바랍니다."</string>
+    <string name="prefs_labs_gcm_push_title">자동실행이 방지된 앱에 GCM 푸시</string>
+    <string name="prefs_labs_reveal_hidden_sync_title">숨겨진 동기화 작업 표시</string>
+    <string name="prefs_labs_root_mode_summary_boost">\"부스트 모드\" (아래 참조)의 사용을 권장합니다.</string>
+    <string name="prefs_labs_system_apps_limited_title">시스템 앱을 Greenify에 추가 (제한적으로)</string>
+    <string name="prefs_labs_system_apps_summary">대부분의 시스템 앱을 Greenify에 추가하는 것을 가능하게 합니다.</string>
+    <string name="prefs_labs_system_apps_title">시스템 앱을 Greenify에 추가 허용</string>
+    <string name="prefs_labs_telephony_wakeup_summary">전화나 문자 수신과 같은 이벤트를 통해 Greenify에 추가된 앱을 깨울 수 있도록 허가합니다. 전화나 문자로 작동되는 앱들의 올바른 작동을 유지하면서 Greenify에 추가할 수 있습니다.</string>
+    <string name="prefs_labs_telephony_wakeup_title">Telephony Wakeup</string>
+    <string name="prefs_labs_timer_coalescing_summary">분산된 CPU wake-up에 의한 배터리 낭비를 막기 위해, 모든 앱에 대해 주기적인 타이머 병합 기술을 사용합니다. 이 기술을 적용받도록 특별히 설계된 앱이 따로 존재하지만, 그리니파이를 통해, 그렇게 설계되지 않은 앱에도 적용하게 합니다. 안드로이드 4.4 이상에서만 사용할 수 있습니다. (*타이머 병합 timer coalescing : 각각의 프로세스가 깨어나는 타이밍을 그룹화시켜 CPU의 전력사용량을 줄이는 기술)</string>
+    <string name="prefs_labs_timer_coalescing_title">Wakeup 타이머 병합 (4.4+)</string>
+    <string name="prefs_labs_wakeup_tracker_summary">Greenify에 추가된 앱들이 백그라운드에서 깨어나는 원인과 경로를 개별적으로 추적하여, 특정 wakeup 원인이 해당 앱을 깨우는 경로를 선택적으로 제거합니다. Greenify에 추가된 앱이 외부 자극에 의해 깨어나는 것을 막습니다.</string>
+    <string name="prefs_labs_wakeup_tracker_title">Wake-up 경로 분석과 제거</string>
+    <string name="prefs_labs_working_mode_title">작동 모드</string>
+    <string name="progress_be_hibernating">자동실행 방지 중...</string>
+    <string name="section_alarm">스케줄에 따라 실행됨 (마지막 부팅 이후)</string>
+    <string name="section_alarm_tips">"이 앱들은 사용자에게 통지 없이 실행되도록 스케쥴되어 있습니다. 이는 기기를 느리게 하거나 배터리 광탈의 원인이 될 수 있습니다.
+
+기기를 자주 깨우는 앱을 주의하시기 바랍니다."</string>
+    <string name="section_all_apps">그 외의 앱들</string>
+    <string name="section_hibernated">자동실행 방지됨</string>
+    <string name="section_pending">사용자의 자동실행 방지 작업을 대기 중</string>
+    <string name="section_pending_auto">화면이 꺼지고 몇 분 내에 자동실행 방지작업이 수행될 예정</string>
+    <string name="section_pending_tip_nonroot">이 앱들은 어떤 이유에 깨어나 현재 실행 중입니다. 수동으로 자동실행 방지를 실행하십시오.</string>
+    <string name="section_postponed">일시적으로 자동실행 방지 불가</string>
+    <string name="section_postponed_tip">해당 앱들이 각기 표시된 이유로 자동실행 방지 상태로 전환되지 않았습니다. 상태가 변경되면 자동으로 전환됩니다.</string>
+    <string name="section_receiver">이벤트 발생 시 기기를 느려지게 함</string>
+    <string name="section_receiver_tip">"이 목록의 앱들은 앱의 아래에 표시된 특정 이벤트의 발생시 자동으로 실행됩니다. 이는 폰을 현저하게 느리게 만들 수 있습니다.
+
+많은 앱들이 목록에 표시되어 있을 수록 각각의 이벤트에 대한 기기의 반응성이 떨어지게 됩니다."</string>
+    <string name="section_service">현재 백그라운드에서 실행 중</string>
+    <string name="section_service_tip">"백그라운드에서 실행 중인 앱들은 일정한 메모리를 사용합니다. 또한, 기기를 현저하게 느려지게 만들 수 있습니다.
+
+이 목록에 가능하면 많은 앱이 표시되지 않도록 관리하는 것이 좋습니다. (다만 카카오톡과 같이 항시 실행 중이어야 하는 앱을 선택하지는 마십시오.)"</string>
+    <string name="service_cleaner">자동실행 방지</string>
+    <string name="showcase_accessibility_setting">기능 자동화 활성</string>
+    <string name="showcase_manual_hibernation_automation">이 수동적인 과정은, 접근성 서비스에서 Greenify를 활성화 시킴으로써 자동화가 가능합니다.</string>
+    <string name="showcase_manual_hibernation_desc">"안드로이드 시스템의 제한으로 인해, 루팅이 안된 상태에서는 '자동실행 방지' 기능을 자동화할 수 없습니다. \"강제 종료\" 버튼을 눌러 앱을 종료해 주세요."</string>
+    <string name="showcase_manual_hibernation_title">수동으로 자동실행 방지</string>
+    <string name="toast_accessibility_setting">이곳에서 Greenify의 접근성 서비스 상태를 변경할 수 있습니다.</string>
+    <string name="toast_action_undo">되돌리기</string>
+    <string name="toast_already_greenified">\"%1$s\"은(는) 이미 Greenify에 추가되어 있습니다.</string>
+    <string name="toast_app_no_launcher_entry">이 앱은 런처에서 실행할 수 없습니다.</string>
+    <string name="toast_apps_hibernated">%1$s의 자동실행 방지작업이 수행되었습니다.</string>
+    <string name="toast_apps_hidden">숨겨진 앱</string>
+    <string name="toast_auto_hibernation_failure_tip">"Greenify에 루트 권한이 올바르게 할당되었는지 확인해 주세요. (SuperSU와 같은 몇몇 루트 관리도구들은, 이미 루트 권한을 허가받은 앱들이 업데이트될 때마다 새로 권한을 할당해 주어야 합니다.)
+
+이후에도 자동실행 방지작업이 실패한다면, 다른 루트 관리도구(루팅 앱)를 사용하거나, 실험적인 기능에서 \"부스트 모드\"를 선택해 주세요."</string>
+    <string name="toast_cannot_switch_to_launcher">홈 화면으로 나가는 데 실패했습니다. 홈 버튼을 눌러 수동으로 나가주세요.</string>
+    <string name="toast_failed_to_greenify">\"%1$s\"을(를) Greenify에 추가하는 데 실패하였습니다.</string>
+    <string name="toast_gcm_tip">"해당 앱은 메시지 수신을 위해 GCM (Google Cloud Messaging) 기능을 사용하고 있습니다. 이 앱을 Greenify에 추가하면 메시지 push가 더는 이루어지지 않습니다.
+
+"</string>
+    <string name="toast_gesture_reset">홈 버튼의 풀업 (pull-up) 동작의 기본 동작이 리셋됩니다.</string>
+    <string name="toast_hibernation_failure">\"%1$s\"을(를) 자동실행 방지 상태로 전환할 수 없습니다.</string>
+    <string name="toast_need_reboot">해당 변경사항은 재부팅 이후에 적용됩니다.</string>
+    <string name="toast_none_hibernated">자동실행 방지작업을 수행할 앱이 없습니다.</string>
+    <string name="toast_opted_in">참여에 감사드립니다!</string>
+    <string name="toast_opted_out">사용자통계 거부(Opt-out)를 선택하셨습니다. 익명을 통한 정보 수집이 더는 이루어지지 않습니다.</string>
+    <string name="toast_service_disabled">"자동관리모드를 중지하였습니다.
+Greenify에 추가된 앱들이 더는 자동으로 관리되지 않습니다. 수동으로 자동실행 방지화 작업을 수행할 수 있습니다."</string>
+    <string name="toast_service_enabled">자동관리모드를 시작하였습니다. 화면이 꺼지면, Greenify에 추가된 앱들이 종료되고 자동실행 방지 상태로 전환됩니다.</string>
+    <string name="toast_shortcut_created">런처의 앱 목록에 자동실행 방지화 작업을 위한 단축 아이콘이 생성되었습니다.</string>
+    <string name="toast_tasker_wakeup_unavail_in_nonroot">죄송합니다. 루팅 모드에서만 사용이 가능합니다.</string>
+    <string name="wizard_step_enjoy">즐기세요!</string>
+    <string name="wizard_step_enjoy_desc">마치 새 기기 같은 부드러움을 지켜드립니다.</string>
+    <string name="wizard_step_forget">잊으세요! (루팅이 필요합니다.)</string>
+    <string name="wizard_step_forget_desc">당신의 기기를 관리하는 것은 Greenify의 몫입니다.</string>
+    <string name="wizard_step_greenify">추가하세요!</string>
+    <string name="wizard_step_greenify_desc">스스로 실행되어 배터리와 메모리를 잡아먹는 앱들을</string>
+    <string name="app_state_wakeup_paths_cutoff">해당 앱을 깨우는 원인을 차단합니다.</string>
+    <string name="app_waker_root">루팅</string>
+    <string name="app_waker_shell">쉘</string>
+    <string name="dialog_full_cutoff_message">"모든 wake-up 경로를 차단하는 것은 해당 앱이나 이 앱의 영향을 받는 다른 앱들의 올바른 작동을 방해할 수 있습니다.
+
+만약 문제가 발생한다면, 차단한 경로를 복원해 주세요."</string>
+    <string name="event_wifi_scan">Wi-Fi가 스캔될 때</string>
+    <string name="prefs_labs_automated_hibernation_summary">\"루팅 없는 작동 모드\"에서 자동실행 방지 작업을 수행하기 위해, 화면이 꺼진 후 수 분 내에 화면이 자동으로 켜졌다 꺼지는 과정을 수행합니다. (안드로이드 4.1 이상, 접근성-서비스 및 보안-기기 관리자 항목의 활성화, 그리고 잠금 화면의 보안기능 해제가 필요합니다.)</string>
+    <string name="prefs_labs_deep_hibernation_summary">앱의 자동실행 방지 상태를 유지하기 위해, 보다 적극적인 정책을 취합니다. 자동실행 방지 상태의 앱들이 다른 앱에 의해 깨어나는 것을 차단합니다.</string>
+    <string name="prefs_labs_deep_hibernation_title">추가적인 자동실행 방지</string>
+    <string name="prefs_labs_no_remove_notifications_limited_summary">앱이 자동실행이 일어나지 않는 동안 알림을 지우지 않으며(화면이 꺼져있을 경우만), 나중에 알림을 읽을 수 있도록 합니다. 초기 상태바의 알림은 권한의 제한으로 유지되지 않습니다. 부스트 모드에서는 제한이 없습니다.</string>
+    <string name="prefs_labs_no_remove_notifications_limited_title">알림 유지하기 (제한적)</string>
+    <string name="prefs_labs_no_remove_notifications_summary">앱이 자동실행이 일어나지 않는 동안 알림을 지우지 않으며, 나중에 알림을 읽을 수 있도록 합니다.</string>
+    <string name="prefs_labs_no_remove_notifications_title">알림 유지하기</string>
+    <string name="prefs_labs_reveal_hidden_sync_summary">\"설정-계정\"에서 숨겨진 동기화 작업들을 표시합니다. 작업명 앞의 \"*\"를 통해 구분이 가능합니다.</string>
+    <string name="prefs_labs_root_mode_summary_off">\"루팅 없는 작동 모드\"에서 실행 중입니다. 만약 기기가 루팅되어 있는 상태라면, 루팅 모드로 전환하여 Greenify의 진정한 능력을 느껴보세요.</string>
+    <string name="prefs_labs_root_mode_summary_on">루팅 모드에서 작동 중입니다. 만약 기기가 실제로 루팅되어 있지 않다면, 본 기능을 해제하여 주십시오.</string>
+    <string name="prefs_labs_system_apps_limited_summary">시스템 앱을 Greenify에 추가하여, 자동실행 방지 작업을 수행하는 것을 가능하게 합니다. 하지만 기술적인 제약으로 인해, 비 시스템 앱들과 같이 적절하게 관리가 되지 않을 수도 있습니다. 또한, 특정 시스템 앱을 관리하기 위해 Xposed 프레임워크가 필요할 수도 있습니다.</string>
+    <string name="service_wakeup_monitor">Wake-up 모니터</string>
+    <string name="toast_app_ingreenifiable">죄송합니다, \"%1$s\"은(는) Greenify에 추가할 수 없습니다.</string>
+    <string name="toast_apps_not_hibernating">다음 앱이 자동실행 방지되지 않음: %1$s</string>
+    <string name="toast_auto_hibernation_oos">Greenify의 자동관리 서비스가 중지되었습니다. 만약 이 메시지가 자주 나타난다면, 아마도 다른 시스템 관리 도구 또는 시스템 설정(예- 소니 기기의 스태미나 모드, MIUI의 시작 프로그램 매니저)에 의해 중지되어 있을 가능성이 큽니다. 관련 설정을 확인하시고, 가능하다면 Greenify를 허용 목록에 추가해 주십시오.</string>
+    <string name="toast_auto_hibernation_restarting">자동관리모드 서비스가 재시작 중입니다... (여유 메모리의 부족 때문일 수 있습니다.)</string>
+    <string name="toast_no_auto_hibernation_for_secure_keyguard">죄송합니다. 잠금화면에 패턴이나 비번 등이 설정되어 있을 경우, 자동관리모드가 작동할 수 없습니다. 대신, \"자동실행 방지 + 화면 잠금\" 단축 아이콘 기능을 활용하여, 스크린을 끄기 전에 수동으로 자동실행 방지화 작업을 실행할 수 있습니다.</string>
+    <string name="toast_no_auto_hibernation_for_secure_keyguard_with_navbar">죄송합니다. 잠금화면에 패턴이나 비번 등이 설정되어 있을 경우, 자동관리 기능을 실행할 수 없습니다. \"자동실행 방지 + 화면 잠금\" 단축 아이콘을 활용하세요. 소프트키를 사용하는 기기에서는 홈키를 밀어 올리는 기능에 이 단축 아이콘을 할당할 수 있고, 갤럭시의 경우에는 메뉴 버튼을 꾹 눌러서 특정 기능을 수행하는 기능에 할당할 수 있습니다.</string>
+    <string name="app_state_critical">위험</string>
+    <string name="app_state_working">작동중</string>
+    <string name="toast_action_setting">설정</string>
+    <string name="toast_usage_stats_permission">실행중인 앱을 감지하고 자동실행을 방지가 일어나지 않도록 하려면 \"권한\"이 필요합니다.</string>
+    <string name="section_pending_charging">충전하는 동안 자동실행 방지를 무시합니다.</string>
+</resources>

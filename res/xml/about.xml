@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <PreferenceCategory android:title="@string/menu_about" android:key="about">
+        <PreferenceScreen android:title="@string/about_version_title" android:key="version" android:summary="@string/about_version_summary">
+            <intent android:action="android.intent.action.VIEW" android:data="https://play.google.com/store/apps/details?id=com.oasisfeng.greenify" />
+        </PreferenceScreen>
+        <PreferenceScreen android:title="@string/about_donation_title" android:key="donation" android:summary="@string/about_donation_summary">
+            <intent android:action="android.intent.action.VIEW" android:data="https://play.google.com/store/apps/details?id=com.oasisfeng.greenify.pro" />
+        </PreferenceScreen>
+        <Preference android:title="@string/about_raise_your_voice_program_title" android:key="analytics" android:summary="@string/about_raise_your_voice_program_summary" />
+        <Preference android:title="@string/about_translation_title" android:key="translation" android:summary="@string/about_translation_credit" />
+        <PreferenceScreen android:title="@string/about_licenses_title">
+            <PreferenceCategory android:title="@string/about_licenses_title">
+                <PreferenceScreen android:title="Android Open Source Project" android:summary="Apache License, Version 2.0">
+                    <intent android:action="android.intent.action.VIEW" android:data="https://source.android.com/" />
+                </PreferenceScreen>
+                <PreferenceScreen android:title="Deagle Library" android:summary="Apache License, Version 2.0">
+                    <intent android:action="android.intent.action.VIEW" android:data="https://github.com/oasisfeng/deagle" />
+                </PreferenceScreen>
+                <PreferenceScreen android:title="Nevolution SDK" android:summary="Apache License, Version 2.0">
+                    <intent android:action="android.intent.action.VIEW" android:data="https://github.com/oasisfeng/nevolution" />
+                </PreferenceScreen>
+                <PreferenceScreen android:title="Google Gson" android:summary="Apache License, Version 2.0">
+                    <intent android:action="android.intent.action.VIEW" android:data="https://github.com/google/gson" />
+                </PreferenceScreen>
+                <PreferenceScreen android:title="Guava" android:summary="Apache License, Version 2.0">
+                    <intent android:action="android.intent.action.VIEW" android:data="https://github.com/google/guava" />
+                </PreferenceScreen>
+                <PreferenceScreen android:title="libsuperuser" android:summary="Apache License, Version 2.0">
+                    <intent android:action="android.intent.action.VIEW" android:data="https://github.com/Chainfire/libsuperuser" />
+                </PreferenceScreen>
+                <PreferenceScreen android:title="StickyListHeaders" android:summary="Apache License, Version 2.0">
+                    <intent android:action="android.intent.action.VIEW" android:data="https://github.com/emilsjolander/StickyListHeaders" />
+                </PreferenceScreen>
+                <PreferenceScreen android:title="Token Bucket" android:summary="Apache License, Version 2.0">
+                    <intent android:action="android.intent.action.VIEW" android:data="https://github.com/bbeck/token-bucket" />
+                </PreferenceScreen>
+                <PreferenceScreen android:title="Xposed" android:summary="Apache License, Version 2.0">
+                    <intent android:action="android.intent.action.VIEW" android:data="http://repo.xposed.info/" />
+                </PreferenceScreen>
+            </PreferenceCategory>
+        </PreferenceScreen>
+        <Preference android:title="@string/about_uninstall" android:key="uninstall" />
+    </PreferenceCategory>
+</PreferenceScreen>

@@ -1,0 +1,352 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_home_description">瀏覽首頁</string>
+    <string name="abc_action_bar_home_description_format">%1$s：%2$s</string>
+    <string name="abc_action_bar_home_subtitle_description_format">%1$s - %2$s：%3$s</string>
+    <string name="abc_action_bar_up_description">向上瀏覽</string>
+    <string name="abc_action_menu_overflow_description">更多選項</string>
+    <string name="abc_action_mode_done">完成</string>
+    <string name="abc_activity_chooser_view_see_all">查看全部</string>
+    <string name="abc_activitychooserview_choose_application">選擇應用程式</string>
+    <string name="abc_capital_off">關閉</string>
+    <string name="abc_capital_on">開啟</string>
+    <string name="abc_search_hint">搜尋…</string>
+    <string name="abc_searchview_description_clear">清除查詢</string>
+    <string name="abc_searchview_description_query">搜尋查詢</string>
+    <string name="abc_searchview_description_search">搜尋</string>
+    <string name="abc_searchview_description_submit">提交查詢</string>
+    <string name="abc_searchview_description_voice">語音搜尋</string>
+    <string name="abc_shareactionprovider_share_with">選擇分享對象</string>
+    <string name="abc_shareactionprovider_share_with_application">與「%s」分享</string>
+    <string name="abc_toolbar_collapse_description">收合</string>
+    <string name="common_google_play_services_api_unavailable_text">「%1$s」需要用到一或多項 Google Play 服務，但目前無法存取相關服務。請與開發人員聯絡以尋求協助。</string>
+    <string name="common_google_play_services_enable_button">啟用 Google Play 服務</string>
+    <string name="common_google_play_services_enable_text">您必須啟用 Google Play 服務，才能執行「%1$s」。</string>
+    <string name="common_google_play_services_enable_title">啟用 Google Play 服務</string>
+    <string name="common_google_play_services_install_button">取得 Google Play 服務</string>
+    <string name="common_google_play_services_install_text_phone">您的手機並未安裝 Google Play 服務，因此無法執行「%1$s」。</string>
+    <string name="common_google_play_services_install_text_tablet">您的平板電腦並未安裝 Google Play 服務，因此無法執行「%1$s」。</string>
+    <string name="common_google_play_services_install_title">取得 Google Play 服務</string>
+    <string name="common_google_play_services_invalid_account_text">這個裝置上沒有您所指定的帳戶，請選擇其他帳戶。</string>
+    <string name="common_google_play_services_invalid_account_title">帳戶無效</string>
+    <string name="common_google_play_services_network_error_text">需要數據連線才能連上 Google Play 服務。</string>
+    <string name="common_google_play_services_network_error_title">網路錯誤</string>
+    <string name="common_google_play_services_notification_ticker">Google Play 服務錯誤</string>
+    <string name="common_google_play_services_restricted_profile_text">不支援透過設有限制的個人資料存取帳戶。</string>
+    <string name="common_google_play_services_restricted_profile_title">設有限制的個人資料</string>
+    <string name="common_google_play_services_sign_in_failed_text">登入指定帳戶時發生錯誤，請選擇其他帳戶。</string>
+    <string name="common_google_play_services_sign_in_failed_title">登入失敗</string>
+    <string name="common_google_play_services_unknown_issue">「%1$s」無法存取 Google Play 服務。如果問題無法解決，請與開發人員聯絡，向對方尋求協助。</string>
+    <string name="common_google_play_services_unsupported_text">「%1$s」需要搭配 Google Play 服務才能運作，但您的裝置並不支援相關服務。請與您的裝置製造商聯絡以尋求協助。</string>
+    <string name="common_google_play_services_unsupported_title">Google Play 服務</string>
+    <string name="common_google_play_services_update_button">更新</string>
+    <string name="common_google_play_services_update_text">您必須更新 Google Play 服務，才能執行「%1$s」。</string>
+    <string name="common_google_play_services_update_title">更新 Google Play 服務</string>
+    <string name="common_google_play_services_updating_text">執行「%1$s」所需的 Google Play 服務正在更新。</string>
+    <string name="common_google_play_services_updating_title">Google Play 服務更新中</string>
+    <string name="common_google_play_services_wear_update_text">必須使用新版 Google Play 服務。該服務稍後就會自動更新。</string>
+    <string name="common_open_on_phone">在手機上開啟</string>
+    <string name="common_signin_button_text">登入</string>
+    <string name="common_signin_button_text_long">使用 Google 帳戶登入</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="about_donation_summary">獲取捐贈版以取得額外的功能</string>
+    <string name="about_donation_summary_donated">額外的實驗性功能可以在主選單內啟用。</string>
+    <string name="about_donation_title">捐贈</string>
+    <string name="about_donation_title_donated">感謝您的捐贈</string>
+    <string name="about_licenses_title">授權條款</string>
+    <string name="about_raise_your_voice_program_detail">"綠色守護會蒐集社群的意見使開發者了解使用者將哪些應用程式排入休眠，使其在應用程式開發中重視裝置的體驗。
+
+為了蒐集您的發聲，綠色守護會蒐集無關個人隱私的匿名資料。您可以隨時選擇關閉此功能。"</string>
+    <string name="about_raise_your_voice_program_summary">您的發聲可以使它更不一樣！</string>
+    <string name="about_raise_your_voice_program_title">「蒐集您的發聲」計劃</string>
+    <string name="about_translation_credit">kamoko (鴨子)</string>
+    <string name="about_translation_title">翻譯</string>
+    <string name="about_uninstall">解除安裝</string>
+    <string name="about_version_summary">評論此應用程式。</string>
+    <string name="about_version_title">版本</string>
+    <string name="accessibility_service_description">"Greenify 的一些特別功能需要此協助工具服務。
+
+您有可能會收到關於潛在隱私風險的警告，這是一個正常的警告訊息。我們承諾絕不會在此協助工具服務中蒐集您的個人資料。
+
+在一些 Samsung 的裝置中，如果啟用了協助工具服務將造成語音對話問題。如果你遇到了這個問題，請在「設定」中啟用解決方法。"</string>
+    <string name="analysis_detail_alarm_with_wakeup">執行了 %1$d 次（含 %2$d 次喚醒）</string>
+    <string name="app_analyzer_name">應用程式分析</string>
+    <string name="app_analyzer_subtitle">已選擇 %1$d 應用程式</string>
+    <string name="app_shortcut_hibernate">立即休眠</string>
+    <string name="app_shortcut_hibernate_lock">休眠 + 鎖定螢幕</string>
+    <string name="app_shortcut_nothing">取消行為</string>
+    <string name="app_shortcut_wakeup">喚醒</string>
+    <string name="app_state_always_ignored">休眠時總是忽略程式狀態</string>
+    <string name="app_state_hibernation_failed">%1$s 前休眠失敗</string>
+    <string name="app_state_provider_in_use">提供者正被 %1$s 使用</string>
+    <string name="app_state_service_in_use">服務正被 %1$s 使用</string>
+    <string name="app_state_unsaveable">狀態無法回復</string>
+    <string name="app_state_woken_by_activity">使用者界面於 %1$s 前被開啟</string>
+    <string name="app_state_woken_by_app">%1$s 前被 %2$s 喚醒</string>
+    <string name="app_state_woken_by_authenticator">%1$s 前通過認證</string>
+    <string name="app_state_woken_by_backup">%1$s 前進行過備份</string>
+    <string name="app_state_woken_by_broadcast">%1$s 前被通知</string>
+    <string name="app_state_woken_by_content_provider">%1$s 前提供資料</string>
+    <string name="app_state_woken_by_push_msg">%1$s 前收到推送</string>
+    <string name="app_state_woken_by_search">資料內容於 %1$s 前被搜尋</string>
+    <string name="app_state_woken_by_service">%1$s 前服務啟動</string>
+    <string name="app_state_woken_by_sync">%1$s 前同步</string>
+    <string name="app_state_woken_by_widget">%1$s 前桌面小工具更新過</string>
+    <string name="app_state_woken_directly">%1$s 前被 %2$s 直接喚醒</string>
+    <string name="app_title_service_disabled">綠色化（不自動進入休眠）</string>
+    <string name="app_waker_google">Google 服務</string>
+    <string name="app_waker_system">Android 系統</string>
+    <string name="app_waker_unknown">不明來源</string>
+    <string name="device_admin_for_automation">Greenify 自動化處理</string>
+    <string name="device_admin_for_automation_description">允許 Greenify 於自動休眠後立即關閉螢幕。</string>
+    <string name="device_admin_warning_when_disabling">如果停用，螢幕關閉後綠色守護將無法自動執行休眠。</string>
+    <string name="dialog_app_picker_guide_button">回到桌面</string>
+    <string name="dialog_app_picker_guide_message">您將會回到桌面，請執行您希望綠色化的程式，然後點選選擇器的通知訊息以完成選擇。</string>
+    <string name="dialog_app_picker_guide_title">如何選取應用程式</string>
+    <string name="dialog_button_cancel">取消</string>
+    <string name="dialog_button_continue">繼續</string>
+    <string name="dialog_button_insist">堅持</string>
+    <string name="dialog_button_later_by_oneself">待稍後執行</string>
+    <string name="dialog_button_learn_more">了解更多</string>
+    <string name="dialog_button_opt_in">加入計劃</string>
+    <string name="dialog_button_opt_out">退出計劃</string>
+    <string name="dialog_confirmation_unsafe_to_hibernate">應用程式在現階段並不能安全地休眠，強制休眠可能導致其功能中斷甚至是資料遺失。</string>
+    <string name="dialog_cutoff_message">"切斷喚醒路徑可能破壞此 APP 的功能或相依賴的其他 APP。
+
+如果發生任何不良結果，請重新連接被切斷的喚醒路徑。
+
+影響：[ %s ]"</string>
+    <string name="dialog_cutoff_title">警告</string>
+    <string name="dialog_degreenified_message">雖然應用程式已經去綠色化，但仍然處於休眠中（所有背景功能都暫時不會運作）直到您啟動它。</string>
+    <string name="dialog_degreenified_title">注意</string>
+    <string name="dialog_donation_corrupted_message">捐贈版套件已經損壞，是否要於 Google Play 重新安裝？</string>
+    <string name="dialog_greenify_confirmation_message">您真的希望綠色化 %1$s ？</string>
+    <string name="dialog_greenifying_system_apps">｢綠色化系統應用程式」是捐贈版限定的實驗性功能。</string>
+    <string name="dialog_incompatible_rom_title">不相容的 ROM</string>
+    <string name="dialog_ingreenfiable_message_for_system_app">抱歉，一般來說綠色化系統應用程式是不安全的。</string>
+    <string name="dialog_ingreenfiable_title">%1$s 未能綠色化</string>
+    <string name="dialog_labs_incompatible_rom_message">啟用此功能失敗。它可能不相容於您的 ROM。</string>
+    <string name="dialog_labs_operation_failure_message">操作失敗。</string>
+    <string name="dialog_labs_state_set_failure_message">設定功能狀態失敗！</string>
+    <string name="dialog_message_donation_package_exclusive">"此功能目前只能在捐贈版套件中使用。
+
+立馬購買捐贈版套件以解鎖所有實驗性功能。"</string>
+    <string name="dialog_option_always_ignore_state">永遠忽略執行狀態</string>
+    <string name="dialog_root_operation_failure_message">操作失敗。請確認已給予 root 權限。</string>
+    <string name="dialog_thank4donation_message">"感謝您的捐贈以支持開發。
+
+現在您可以從主選單啟用額外的實驗性功能。"</string>
+    <string name="dialog_thank4donation_title">感謝</string>
+    <string name="dialog_title_confirmation">確認</string>
+    <string name="dialog_title_error">錯誤</string>
+    <string name="dialog_verification_error_message">無法認證捐贈資訊。請檢查您的網路狀態並且於稍後重試。</string>
+    <string name="dialog_verification_fatal_error">無法認證捐贈資訊，請回報這個錯誤。</string>
+    <string name="dialog_version_mismatch_message">請更新此應用程式至最新版本。</string>
+    <string name="dialog_version_mismatch_title">版本不合</string>
+    <string name="dialog_warning_for_greenifying_launcher">您欲把預設啟動器 (Launcher)排入休眠，啟動器為常用程式，我們不建議您這麼做。</string>
+    <string name="dialog_warning_title">警告</string>
+    <string name="dialog_xposed_module_inactive_message">綠色守護的 Xposed 框架尚未啟用。您需要先在 Xposed 安裝器裡啟用它才能使用。</string>
+    <string name="event_capture_video">影片錄製後</string>
+    <string name="event_connectivity_changes">網路狀態改變後</string>
+    <string name="event_media_connect">抽取式儲存裝置已連接</string>
+    <string name="event_media_eject">抽取式儲存裝置已退出</string>
+    <string name="event_media_scan">儲存裝置已掃描</string>
+    <string name="event_postfix_volatile">（可能隨狀態改變）</string>
+    <string name="event_power_connected">電源連接後</string>
+    <string name="event_power_disconnected">電源中斷後</string>
+    <string name="event_take_photo">照片拍攝後</string>
+    <string name="event_unlock_keyguard">鎖定解除後</string>
+    <string name="event_update_apps">應用程式更新後</string>
+    <string name="guide_btn_activate_module">啟用模組並重新啟動</string>
+    <string name="guide_btn_install_xposed_installer">安裝「Xposed 安裝器」</string>
+    <string name="guide_btn_setup_xposed_framework">設定 Xposed 框架</string>
+    <string name="guide_link_why_xposed">為什麼需要 xposed 框架？</string>
+    <string name="guide_sub_title">強大的修改用框架</string>
+    <string name="guide_title">Xposed 框架設定指南</string>
+    <string name="menu_about">關於</string>
+    <string name="menu_action_accept">接受</string>
+    <string name="menu_action_cutoff">切斷喚醒路徑</string>
+    <string name="menu_action_cutoff_condensed">切斷</string>
+    <string name="menu_action_greenify">綠色化精靈</string>
+    <string name="menu_action_greenify_condensed">綠色化…</string>
+    <string name="menu_action_hibernate">置於休眠狀態</string>
+    <string name="menu_action_hibernate_condensed">休眠</string>
+    <string name="menu_action_hide">隱藏</string>
+    <string name="menu_action_pick">選擇一個應用程式綠色化</string>
+    <string name="menu_action_pick_condensed">手動選擇應用程式</string>
+    <string name="menu_action_reattach">重新連接喚醒路徑</string>
+    <string name="menu_action_reattach_condensed">重新連接</string>
+    <string name="menu_action_reconsider_state">重新考慮程式狀態</string>
+    <string name="menu_action_refresh">重新整理</string>
+    <string name="menu_action_run">執行</string>
+    <string name="menu_action_ungreenify">去綠色化所選的應用程式</string>
+    <string name="menu_action_ungreenify_condensed">去綠色化</string>
+    <string name="menu_action_unhide_all">顯示全部</string>
+    <string name="menu_create_shortcut">建立休眠捷徑</string>
+    <string name="menu_disable_service">停用自動休眠</string>
+    <string name="menu_enable_service">啟用自動休眠.</string>
+    <string name="menu_reset_gesture">重置「上滑」手勢</string>
+    <string name="no_app_picked">尚未選擇應用程式</string>
+    <string name="notification_app_picker_text">執行欲排入休眠的程式，然後點選此處以完成選取</string>
+    <string name="notification_app_picker_ticker">"首先執行欲排入休眠的程式。
+然後點選此「程式選擇器」的通知訊息以完成選取。"</string>
+    <string name="notification_app_picker_title">綠色守護「程式選擇器」</string>
+    <string name="notification_listener_title">通知訊息保留管理</string>
+    <string name="notification_text_workaround_talking">如果您遇到不定時的語音對話問題</string>
+    <string name="notification_timer_coalesced_subtext">由 Greenify 自動調整</string>
+    <string name="notification_timer_coalesced_title">週期性計時器聚合</string>
+    <string name="notification_title_workaround_talking">語音對話問題的解決方法</string>
+    <string name="placeholder_show_all">顯示更多應用程式</string>
+    <string name="prefs_cat_donation_only_features">需要使用捐贈版套件</string>
+    <string name="prefs_cat_experimental_features">實驗性功能</string>
+    <string name="prefs_cat_xposed_donation_features">需要使用 Xposed 框架與捐贈版套件</string>
+    <string name="prefs_cat_xposed_only_features">需要使用 xposed 框架</string>
+    <string name="prefs_labs_automated_hibernation_title">自動休眠</string>
+    <string name="prefs_labs_block_notification_abuse_summary">某些應用程式利用 Android(4.3以前) 的一個漏洞來取得不對等的優先權，於低記憶體狀態下常駐於記憶體內。這些應用程式會被綠色守護誤認為「可察覺的」而無法自動休眠。</string>
+    <string name="prefs_labs_block_notification_abuse_title">阻擋應用程式狀態漏洞的濫用</string>
+    <string name="prefs_labs_boost_mode_summary">提升效能表現與相容性。尤其當您遇到休眠失敗或 root 權限問題。</string>
+    <string name="prefs_labs_boost_mode_title">高效模式</string>
+    <string name="prefs_labs_gcm_push_summary">"允許 GCM 推送訊息喚醒休眠的應用程式，除了該程式的通知訊息已在系統內禁用（設定內的通知管理）。
+請同時啟用「不要移除通知訊息」以避免再次休眠之後丟失通知訊息。"</string>
+    <string name="prefs_labs_gcm_push_title">開啟綠色化應用程式的 GCM 推送</string>
+    <string name="prefs_labs_reveal_hidden_sync_title">顯示隱藏的同步化</string>
+    <string name="prefs_labs_root_mode_summary_boost">建議在「高效模式」下工作（詳見下方）。</string>
+    <string name="prefs_labs_system_apps_limited_title">綠色化系統應用程式</string>
+    <string name="prefs_labs_system_apps_summary">奪取系統應用程式對休眠的免疫，使大部分都可以被正常綠色化。</string>
+    <string name="prefs_labs_system_apps_title">綠色化系統應用程式</string>
+    <string name="prefs_labs_telephony_wakeup_summary">允許通訊相關的事件（如通話、簡訊等）可以喚醒休眠的應用程式，如此可以避免已綠色化的通訊相關應用程式無法正常運作。</string>
+    <string name="prefs_labs_telephony_wakeup_title">通訊喚醒</string>
+    <string name="prefs_labs_timer_coalescing_summary">聚合所有應用程式的週期性喚醒計時器（並非只有為 KitKat 而設計的應用程式），以降低分散的 CPU 喚醒所造成的電池電力浪費，只適用於 Android 4.4 以上。（Wakeup Timer Coalescing，喚醒計時器聚合是將前景與背景應用程式聚合並間隔的執行處理，以維持較長的休眠時間。）</string>
+    <string name="prefs_labs_timer_coalescing_title">喚醒計時器聚合 (4.4+)</string>
+    <string name="prefs_labs_wakeup_tracker_summary">追蹤哪一個應用程式喚醒了已休眠的綠色化應用程式，並可選擇性的切斷喚醒路徑以消除之後的喚醒。</string>
+    <string name="prefs_labs_wakeup_tracker_title">喚醒的追蹤器</string>
+    <string name="prefs_labs_working_mode_title">工作模式</string>
+    <string name="progress_be_hibernating">休眠中…</string>
+    <string name="section_alarm">排程執行（自上次啟動）</string>
+    <string name="section_alarm_tips">"這些應用程式排程讓它們自己悄悄執行，因此可能減慢裝置的反應速度並耗電。
+
+留意那些頻繁喚醒裝置的應用程式。"</string>
+    <string name="section_all_apps">更多應用程式</string>
+    <string name="section_hibernated">已進入休眠</string>
+    <string name="section_pending">等待手動休眠</string>
+    <string name="section_pending_auto">將會於螢幕暗掉後幾分鐘內休眠</string>
+    <string name="section_pending_tip_nonroot">這些應用程式曾被喚醒，現在已閒置，您需要手動將它們重新休眠。</string>
+    <string name="section_postponed">未自動進入休眠</string>
+    <string name="section_postponed_tip">Greenify 因為下列因素無法讓應用程式自動進入休眠，除非程式狀態改變。</string>
+    <string name="section_receiver">可能導致裝置龜速，當…</string>
+    <string name="section_receiver_tip">"當特定事件發生時，這些應用程式將會導致裝置某些程度的變慢。
+
+這裡的應用程式越多，事件發生時，系統的反應就越慢。"</string>
+    <string name="section_service">於背景執行</string>
+    <string name="section_service_tip">"讓應用程式於背景執行會耗費一定的記憶體並可能導致裝置某些程度上的龜速。
+
+儘量減少這些應用程式。"</string>
+    <string name="service_cleaner">自動休眠</string>
+    <string name="showcase_accessibility_setting">開啟自動化</string>
+    <string name="showcase_manual_hibernation_automation">這一手動過程可以透過啟用 Greenify 的協助工具服務來自動完成。</string>
+    <string name="showcase_manual_hibernation_desc">基於 Android 系統限制，在使用 non-root 模式時必須如此運作休眠功能。請按上面的「強制停止」鍵來完成休眠。</string>
+    <string name="showcase_manual_hibernation_title">手動休眠</string>
+    <string name="toast_accessibility_setting">在這裡啟用或停用 Greenify 的協助工具服務</string>
+    <string name="toast_action_undo">回復上個步驟</string>
+    <string name="toast_already_greenified">%1$s 已綠色化。</string>
+    <string name="toast_app_no_launcher_entry">此應用程式未提供桌面捷徑。</string>
+    <string name="toast_apps_hibernated">%1$s 已休眠</string>
+    <string name="toast_apps_hidden">應用程式已被隱藏</string>
+    <string name="toast_auto_hibernation_failure_tip">"請確認綠色守護已取得 root 權限。（某些 root 管理工具在每次更新後都需要重新給予權限）
+
+假如仍然遇到休眠失敗，請嘗試其他 root 管理工具或是啟用實驗性功能裡的「高效模式」。"</string>
+    <string name="toast_cannot_switch_to_launcher">無法切換回到您的桌面，請手動按下 Home 鍵。</string>
+    <string name="toast_failed_to_greenify">綠色化「%1$s」失敗。</string>
+    <string name="toast_gcm_tip">"此應用程式由 Google 雲端通訊 (GCM) 整合，如果將其綠色化，它可能將不再推送任何通知。
+
+捐贈版的其中一項實驗性功能可以讓已綠色化的應用程式也能接收來自 GCM 的推送通知。"</string>
+    <string name="toast_gesture_reset">於「首頁」虛擬鍵上以手勢上滑的預設行為已經重置。</string>
+    <string name="toast_hibernation_failure">無法使 \"%1$s\" 進入休眠模式。</string>
+    <string name="toast_need_reboot">在重新啟動前將不能使用</string>
+    <string name="toast_none_hibernated">無應用程式需要進入休眠</string>
+    <string name="toast_opted_in">感謝您的參與！</string>
+    <string name="toast_opted_out">您已退出計劃。不再蒐集任何匿名統計資料。</string>
+    <string name="toast_service_disabled">"自動休眠已停用。
+綠色守護不再自動將程式排入休眠。"</string>
+    <string name="toast_service_enabled">自動休眠已啟用.</string>
+    <string name="toast_shortcut_created">「立即休眠」的捷徑已新增至您的桌面。</string>
+    <string name="toast_tasker_wakeup_unavail_in_nonroot">抱歉，只能在 root 模式使用。</string>
+    <string name="wizard_step_enjoy">開始享受</string>
+    <string name="wizard_step_enjoy_desc">如同第一天擁有手機般的滑順與持久感。</string>
+    <string name="wizard_step_forget">忘卻（需要 Root 權限）</string>
+    <string name="wizard_step_forget_desc">關於繁瑣的雜事，就讓綠色守護默默地為您完成吧。</string>
+    <string name="wizard_step_greenify">綠色守護</string>
+    <string name="wizard_step_greenify_desc">消耗電力、佔用記憶體及偷偷在背景執行的應用程式。</string>
+    <string name="app_state_wakeup_paths_cutoff">喚醒路徑切斷</string>
+    <string name="app_waker_root">root</string>
+    <string name="app_waker_shell">shell</string>
+    <string name="dialog_full_cutoff_message">"切斷所有的喚醒路徑可能破壞此 APP 的功能或相依賴的其他 APP。
+
+如果發生任何不良結果，請重新連接被切斷的喚醒路徑。"</string>
+    <string name="event_wifi_scan">Wi-Fi 已經掃描</string>
+    <string name="prefs_labs_automated_hibernation_summary">在 non-root 模式下，在螢幕暗掉後幾分鐘內會自動休眠。它會點亮螢幕進行休眠，並且再關閉螢幕。（需要 Android 4.1 以上、協助工具、裝置管理員與非有安全鎖之螢幕解鎖畫面）</string>
+    <string name="prefs_labs_deep_hibernation_summary">"強迫執行激進的應用程式休眠政策，阻止它們被其他應用程式喚醒。
+警告：可能會破壞已綠色化之應用程式的跨應用程式功能！"</string>
+    <string name="prefs_labs_deep_hibernation_title">深沉休眠（內部測試）</string>
+    <string name="prefs_labs_no_remove_notifications_limited_summary">當應用程式休眠時不要移除通知訊息（僅在螢幕關閉時），如此您可以在稍後閱讀該訊息。因為特殊權限的限制，原始訊息通知的狀態欄圖示無法被保存。基於 Xposed 框架的版本之下並沒有此限制。</string>
+    <string name="prefs_labs_no_remove_notifications_limited_title">不要移除通知訊息（有限制的）</string>
+    <string name="prefs_labs_no_remove_notifications_summary">當應用程式休眠時不要移除通知訊息，如此您可以在稍後閱讀該訊息。</string>
+    <string name="prefs_labs_no_remove_notifications_title">不要移除通知訊息</string>
+    <string name="prefs_labs_reveal_hidden_sync_summary">顯示在「設定 > 帳號」隱藏的帳號同步化任務，以「*」標示在前。</string>
+    <string name="prefs_labs_root_mode_summary_off">在 non-root 模式下運作。如果您的裝置實際上已經 root，請啟用此選項以解放 Greenify 的完整威力。</string>
+    <string name="prefs_labs_root_mode_summary_on">在 root 模式下運作。如果您的裝置實際上未 root，請取消啟用此選項以確保正確的功能運作。</string>
+    <string name="prefs_labs_system_apps_limited_summary">奪取系統應用程式對休眠的免疫，使其可以被正常綠色化。因為技術上的限制，休眠系統應用程式可能不像休眠非系統應用程式般，總是處於休眠狀態。</string>
+    <string name="service_wakeup_monitor">喚醒監測器</string>
+    <string name="toast_app_ingreenifiable">抱歉， %1$s 無法被綠色化。</string>
+    <string name="toast_apps_not_hibernating">未休眠：%1$s</string>
+    <string name="toast_auto_hibernation_oos">自動休眠服務已經停止。如果此訊息頻繁顯示，Greenify 可能已經被第三方工具或系統設定阻擋。</string>
+    <string name="toast_auto_hibernation_restarting">自動休眠服務正在重新啟動…（可能因為可用記憶體過低）</string>
+    <string name="toast_no_auto_hibernation_for_secure_keyguard">抱歉，如果設定了螢幕安全鎖，自動休眠將無法運作。您可以使用「休眠 + 鎖定螢幕」的捷徑來替代。</string>
+    <string name="toast_no_auto_hibernation_for_secure_keyguard_with_navbar">抱歉，如果設定了螢幕安全鎖，自動休眠將無法運作。建議採用在「首頁」虛擬鍵上手勢上滑以使用「休眠 + 鎖定螢幕」捷徑。</string>
+    <string name="app_state_critical">嚴正事項</string>
+    <string name="app_state_working">運作中</string>
+    <string name="dialog_button_activate">啟用</string>
+    <string name="dialog_google_sign_in">登入您的 Google 帳號以啟用捐贈版套件。</string>
+    <string name="dialog_non_root_auto_hibernation_incompatible_rom_message">抱歉，未 root 模式的自動休眠尚未支援您的裝置（或 ROM ）。</string>
+    <string name="dialog_verifying_donation_package">正在驗證您的捐贈版套件…</string>
+    <string name="service_accessibility">Greenify - 自動休眠</string>
+    <string name="service_accessibility_description">使應用程式自動休眠（於未 root 的裝置）。停用此服務將會破壞自動休眠。</string>
+    <string name="state_disabled">已停用</string>
+    <string name="state_enabled">已啟用</string>
+    <string name="toast_action_setting">設定</string>
+    <string name="toast_draw_on_top_revoked">未獲取「在最上層繪圖」權限，請於 AppOps 或裝置的權限設定裡取得 Greenify 的該權限。</string>
+    <string name="toast_usage_stats_permission">需要權限以偵測及避免休眠前景應用程式</string>
+    <string name="menu_settings">設定</string>
+    <string name="prefs_cat_about">關於</string>
+    <string name="prefs_labs_automated_hibernation_summary_incompatible">抱歉，尚未相容此 ROM。</string>
+    <string name="prefs_labs_doze_title">激進的 Doze 功能（實驗性）</string>
+    <string name="prefs_labs_navbar_gesture_title">導航列上的長按動作。</string>
+    <string name="prefs_learn_more">了解更多（線上）</string>
+    <string name="prefs_shallow_hibernation_description">"淺層休眠是一個只建立在 Android 6.0 以上的全新休眠機制，擁有更好的相容性與效率。
+
+於淺層休眠，應用程式將不再被殺掉，藉由保留整體互動以獲得更迅速的任務切換，然而當休眠時，所有的背景行為仍然被嚴格禁止。
+
+淺層休眠的應用程式將以每小時為單位的短暫定期喚醒，並且在之後立即執行高優先的 GCM 推送（僅在 GCM 的優先權被應用程式開發者實作時）。充電時，應用程式當然也會保持喚醒。
+
+假如啟用，淺層休眠將取代整個 Greenify 的傳統休眠機制。
+
+此功能並不建議於低記憶體的裝置使用。"</string>
+    <string name="prefs_shallow_hibernation_title">淺層休眠（實驗性）</string>
+    <string name="prefs_xposed_features_summary">需要使用 xposed 框架以運作</string>
+    <string name="prefs_xposed_features_title">基於 Xposed 框架的功能</string>
+    <string name="toast_action_guide">指南</string>
+    <string name="toast_action_troubleshoot">故障排除</string>
+    <string name="toast_assist_app_setting_guide">請在「Assist app」裡選取 Greenify。</string>
+    <string name="toast_donation_package_not_found">"抱歉，在您的 Google 帳戶裡未找到捐贈版套件。
+"</string>
+    <string name="toast_need_accessibility_service">Greenify 的協助工具服務需要被啟用以自動休眠。</string>
+    <string name="toast_need_device_admin">裝置管理員內的 Greenify 選項需要被啟用以使用自動休眠於螢幕暗掉後。</string>
+    <string name="toast_need_overlay">需要「在最上層繪圖」權限以悄悄使用自動休眠於螢幕關閉時。</string>
+    <string name="prefs_labs_doze_description">"非充電狀態下，在螢幕暗掉後幾分鐘（取代平常的數小時靜止後）進入 doze 模式，以增加省電能力。
+
+Doze 模式是 Android 6.0 帶來的全新省電機制。在此模式，所有應用程式的背景行為（除了白名單所列）將嚴格禁止，直到下一個使用者互動或裝置充電。裝置也會定時（以小時為單位）地短暫離開 doze 模式。"</string>
+    <string name="prefs_labs_navbar_gesture_summary">"長按底部導航列的中間按鈕以休眠應用程式與鎖定螢幕，或僅鎖定螢幕。
+請留意，此功能可能會不相容於 Smart Lock 與指紋解鎖。"</string>
+    <string name="app_name">綠色守護</string>
+    <string name="section_pending_charging">充電時忽略休眠狀態</string>
+</resources>

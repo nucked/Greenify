@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="prefs_labs_working_mode_options">
+        <item>&lt;b>Nem Rootolt&lt;/b>"
+"&lt;small>Ha az eszköz nincs rootolva&lt;/small></item>
+        <item>&lt;b>Root&lt;/b>"
+"&lt;small>Ha az eszköz rootolva van&lt;/small></item>
+        <item>&lt;b>Gyorsítás&lt;/b>"
+"&lt;small>A legjobb teljesítmény és kompatibilitás (Xposed szükséges)&lt;/small></item>
+    </string-array>
+</resources>
